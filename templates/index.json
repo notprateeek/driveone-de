@@ -13,7 +13,7 @@
         "1651697609a1146a81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Traffic without dangers and speeding fines.<\/p>",
             "text_style": "body"
           }
         },
@@ -27,9 +27,9 @@
         "1d480aaf-b53f-4313-ab47-fb7f469f7af3": {
           "type": "caption",
           "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "caption": "One for all. All for one.",
+            "text_style": "subtitle",
+            "text_size": "large"
           }
         }
       },
