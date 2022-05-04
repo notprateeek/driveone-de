@@ -23,12 +23,21 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "9aecf003-921f-4747-9287-5a2f3cbf9af4": {
+          "type": "caption",
+          "settings": {
+            "caption": "One for all. All for one.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "1651697609a1146a81-0",
         "1651697609a1146a81-1",
-        "1651697609a1146a81-2"
+        "1651697609a1146a81-2",
+        "9aecf003-921f-4747-9287-5a2f3cbf9af4"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
