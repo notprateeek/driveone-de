@@ -13,7 +13,7 @@
         "1651697609a1146a81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Traffic without dangers and speeding fines.</p>",
+            "text": "<p>Traffic without dangers and speeding fines.<\/p>",
             "text_style": "body"
           }
         },
@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy on amazon",
-            "button_link": "shopify://products/drive-one"
+            "button_link": "shopify:\/\/products\/drive-one"
           }
         },
         "3f29cf58-20b8-4618-b119-5c1b37075a7b": {
@@ -48,7 +48,7 @@
         "1d480aaf-b53f-4313-ab47-fb7f469f7af3"
       ],
       "settings": {
-        "image": "shopify://shop_images/drive_one_front-BLUE-dot.png",
+        "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -87,7 +87,32 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "165170315350084f93": {
+      "type": "heading",
+      "blocks": {
+        "1651703153561b2217-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "World class notification",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "1651703153561b2217-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
-  "order": ["1651697609746cc0ca", "featured_collection"]
+  "order": [
+    "1651697609746cc0ca",
+    "featured_collection",
+    "165170315350084f93"
+  ]
 }
