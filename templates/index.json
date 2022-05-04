@@ -92,25 +92,33 @@
             "heading_size": "h1"
           }
         },
+        "b49b79df-0875-4bfe-8c79-3b025e252ad9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Drive One warns you when there are speed controls in the water - whether it is mobile, fixed or the new route controls. You set yourself how much time you want to be notified so that you can become aware of your speed.<\/p><p>Accidents, queues and other incidents.<\/p><p>Get an alert when there is danger in traffic and incidents in traffic that require your attention. Then any hard braking will not come behind you.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "7b037e2e-fa39-4436-8312-e2e022677471": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
         "16517037696351f89a-1": {
           "type": "text",
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
-        },
-        "16517037696351f89a-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "16517037696351f89a-0",
-        "16517037696351f89a-1",
-        "16517037696351f89a-2"
+        "b49b79df-0875-4bfe-8c79-3b025e252ad9",
+        "7b037e2e-fa39-4436-8312-e2e022677471",
+        "16517037696351f89a-1"
       ],
       "settings": {
         "height": "adapt",
