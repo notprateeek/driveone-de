@@ -6,8 +6,8 @@
         "1651697609a1146a81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Drive one",
+            "heading_size": "h0"
           }
         },
         "1651697609a1146a81-1": {
@@ -23,12 +23,21 @@
             "button_label": "Buy on amazon",
             "button_link": "shopify:\/\/products\/drive-one"
           }
+        },
+        "1d480aaf-b53f-4313-ab47-fb7f469f7af3": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "1651697609a1146a81-0",
         "1651697609a1146a81-1",
-        "1651697609a1146a81-2"
+        "1651697609a1146a81-2",
+        "1d480aaf-b53f-4313-ab47-fb7f469f7af3"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
