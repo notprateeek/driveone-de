@@ -89,7 +89,7 @@
           "type": "heading",
           "settings": {
             "heading": "Speed check",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "b49b79df-0875-4bfe-8c79-3b025e252ad9": {
@@ -103,7 +103,7 @@
           "type": "heading",
           "settings": {
             "heading": "Responds only to relevant alerts",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "16517037696351f89a-1": {
