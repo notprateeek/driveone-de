@@ -82,6 +82,27 @@
         "padding_bottom": 52
       }
     },
+    "165170353504cb7d61": {
+      "type": "heading",
+      "blocks": {
+        "1651703535bf736dff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A strong community throughout Europe",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1651703535bf736dff-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -113,6 +134,7 @@
   "order": [
     "1651697609746cc0ca",
     "165170315350084f93",
+    "165170353504cb7d61",
     "featured_collection"
   ]
 }
