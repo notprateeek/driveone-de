@@ -122,29 +122,37 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Drive one",
               "menu": "footer"
             }
           },
-          "footer-1": {
+          "d00c0b63-bfe4-469a-b964-232edfe5fc0a": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Support",
+              "menu": "footer-menu"
             }
           },
-          "footer-2": {
-            "type": "text",
+          "015b93fb-a38e-43a9-b5ea-93d05b32df86": {
+            "type": "link_list",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Databeskyttelse",
+              "menu": "databeskyttelse-footer-menu"
+            }
+          },
+          "a2bfb04e-3ff3-4c9f-a28d-72b5faa66961": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Download",
+              "menu": "download-footer-menu"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "d00c0b63-bfe4-469a-b964-232edfe5fc0a",
+          "015b93fb-a38e-43a9-b5ea-93d05b32df86",
+          "a2bfb04e-3ff3-4c9f-a28d-72b5faa66961"
         ],
         "settings": {
           "color_scheme": "background-1",
