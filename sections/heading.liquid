@@ -33,7 +33,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.rich-text.name",
+  "name": "t:sections.heading.name",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -69,7 +69,7 @@
       "type": "checkbox",
       "id": "full_width",
       "default": true,
-      "label": "t:sections.rich-text.settings.full_width.label"
+      "label": "t:sections.heading.settings.full_width.label"
     },
     {
       "type": "header",
@@ -99,14 +99,14 @@
   "blocks": [
     {
       "type": "heading",
-      "name": "t:sections.rich-text.blocks.heading.name",
+      "name": "t:sections.heading.blocks.heading.name",
       "limit": 1,
       "settings": [
         {
           "type": "text",
           "id": "heading",
           "default": "Talk about your brand",
-          "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+          "label": "t:sections.heading.blocks.heading.settings.heading.label"
         },
         {
           "type": "select",
@@ -133,7 +133,7 @@
   ],
   "presets": [
     {
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.heading.presets.name",
       "blocks": [
         {
           "type": "heading"
