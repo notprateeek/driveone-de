@@ -122,7 +122,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_2038.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
