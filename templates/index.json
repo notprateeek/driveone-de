@@ -61,9 +61,6 @@
         "padding_bottom": 36
       }
     },
-    "heading": {
-      "type": "heading"
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
