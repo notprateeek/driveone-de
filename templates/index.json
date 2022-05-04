@@ -6,38 +6,29 @@
         "1651697609a1146a81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Drive one",
-            "heading_size": "h0"
+            "heading": "Image with text",
+            "heading_size": "h1"
           }
         },
         "1651697609a1146a81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Traffic without dangers and speeding fines.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         },
         "1651697609a1146a81-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy on amazon",
-            "button_link": "shopify:\/\/products\/drive-one"
-          }
-        },
-        "9aecf003-921f-4747-9287-5a2f3cbf9af4": {
-          "type": "caption",
-          "settings": {
-            "caption": "One for all. All for one.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
         "1651697609a1146a81-0",
         "1651697609a1146a81-1",
-        "1651697609a1146a81-2",
-        "9aecf003-921f-4747-9287-5a2f3cbf9af4"
+        "1651697609a1146a81-2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
