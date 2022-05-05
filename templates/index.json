@@ -285,8 +285,9 @@
         "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -338,7 +339,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Unsplash-Avatars_0005s_0007_emile-guillemot-vfijBqzoQE0-unsplash.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
