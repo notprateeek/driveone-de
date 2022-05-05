@@ -25,6 +25,6 @@
 }
 
 /* footer */
-footer a {
+.footer-block__details-content a {
   text-decoration: none;
 }
