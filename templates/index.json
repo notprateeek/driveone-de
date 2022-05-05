@@ -308,7 +308,7 @@
             "heading_size": "h1"
           }
         },
-        "165178439021d9cce0-1": {
+        "2bf6c809-df45-4cf4-8863-c038126b4b57": {
           "type": "text",
           "settings": {
             "text": "<p>Based on 267 reviews<\/p>",
@@ -323,19 +323,19 @@
             "text_size": "medium"
           }
         },
-        "2bf6c809-df45-4cf4-8863-c038126b4b57": {
+        "f54a9492-7ec9-4a12-9c4a-df8a062c516d": {
           "type": "text",
           "settings": {
-            "text": "<p>Based on 267 reviews<\/p>",
+            "text": "<p>Trustpilot<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
         "165178439021d9cce0-0",
-        "165178439021d9cce0-1",
+        "2bf6c809-df45-4cf4-8863-c038126b4b57",
         "65c6226c-47f5-42bb-b3bd-c78a40cae5fb",
-        "2bf6c809-df45-4cf4-8863-c038126b4b57"
+        "f54a9492-7ec9-4a12-9c4a-df8a062c516d"
       ],
       "settings": {
         "height": "adapt",
