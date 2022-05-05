@@ -8,6 +8,9 @@
 /* heading */
 .heading-bg {
   position: relative;
+}
+
+.heading-bg > .rich-text > .rich-text__blocks > h2 {
   color: #fff;
 }
 
