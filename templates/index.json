@@ -315,27 +315,27 @@
             "text_style": "body"
           }
         },
-        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
         "f54a9492-7ec9-4a12-9c4a-df8a062c516d": {
           "type": "text",
           "settings": {
             "text": "<p>Trustpilot<\/p>",
             "text_style": "body"
           }
+        },
+        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Some quote by some guy",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
         }
       },
       "block_order": [
         "165178439021d9cce0-0",
         "2bf6c809-df45-4cf4-8863-c038126b4b57",
-        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb",
-        "f54a9492-7ec9-4a12-9c4a-df8a062c516d"
+        "f54a9492-7ec9-4a12-9c4a-df8a062c516d",
+        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb"
       ],
       "settings": {
         "height": "adapt",
