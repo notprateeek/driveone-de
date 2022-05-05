@@ -261,6 +261,27 @@
         "padding_bottom": 36
       }
     },
+    "1651740309597ac91b": {
+      "type": "heading",
+      "blocks": {
+        "1651740309a8fd3851-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Real time data input",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651740309a8fd3851-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16517385784e6dd610": {
       "type": "text-image-button",
       "blocks": {
@@ -392,6 +413,7 @@
     "featured_collection",
     "1651703613b9dbd68a",
     "16517046877f442e75",
+    "1651740309597ac91b",
     "16517385784e6dd610",
     "1651737851940cb15f"
   ]
