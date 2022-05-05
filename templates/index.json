@@ -270,10 +270,50 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
+        },
+        "e35dbb4d-2e34-4f86-b315-322a71518eeb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "32688fc9-2df0-48f8-b926-9189c17ae9fd": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "200c87a3-6f9a-4699-8f24-485d2d4c9845": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "63effb09-f807-46a9-9cd3-0a4748e45dfb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "16517385787608503f-1"
+        "16517385787608503f-1",
+        "e35dbb4d-2e34-4f86-b315-322a71518eeb",
+        "32688fc9-2df0-48f8-b926-9189c17ae9fd",
+        "200c87a3-6f9a-4699-8f24-485d2d4c9845",
+        "63effb09-f807-46a9-9cd3-0a4748e45dfb",
+        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_2038.png",
