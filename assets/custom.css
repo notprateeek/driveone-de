@@ -8,6 +8,7 @@
 /* heading */
 .heading-bg {
   position: relative;
+  color: #fff;
 }
 
 .heading-bg ::after {
