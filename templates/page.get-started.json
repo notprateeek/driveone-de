@@ -225,6 +225,27 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "1651783170516caea2": {
+      "type": "heading",
+      "blocks": {
+        "165178317032499bef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQs",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165178317032499bef-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
@@ -234,6 +255,7 @@
     "1651782997726ce620",
     "16517830469b5197dd",
     "16517830766a072107",
-    "1651783136b9622a9c"
+    "1651783136b9622a9c",
+    "1651783170516caea2"
   ]
 }
