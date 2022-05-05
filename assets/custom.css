@@ -6,10 +6,6 @@
 }
 
 /* heading */
-.isolate {
-  position: relative;
-}
-
 .isolate ::after {
   content: '';
   position: absolute;
