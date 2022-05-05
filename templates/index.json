@@ -84,58 +84,6 @@
         "padding_bottom": 32
       }
     },
-    "1651703769454af763": {
-      "type": "image-with-text",
-      "blocks": {
-        "16517037696351f89a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speed check",
-            "heading_size": "h2"
-          }
-        },
-        "b49b79df-0875-4bfe-8c79-3b025e252ad9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Drive One warns you when there are speed controls in the water - whether it is mobile, fixed or the new route controls. You set yourself how much time you want to be notified so that you can become aware of your speed.<\/p><p>Accidents, queues and other incidents.<\/p><p>Get an alert when there is danger in traffic and incidents in traffic that require your attention. Then any hard braking will not come behind you.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "7b037e2e-fa39-4436-8312-e2e022677471": {
-          "type": "heading",
-          "settings": {
-            "heading": "Responds only to relevant alerts",
-            "heading_size": "h2"
-          }
-        },
-        "16517037696351f89a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p><p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p><p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "16517037696351f89a-0",
-        "b49b79df-0875-4bfe-8c79-3b025e252ad9",
-        "7b037e2e-fa39-4436-8312-e2e022677471",
-        "16517037696351f89a-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Group_2038.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "165170353504cb7d61": {
       "type": "heading",
       "blocks": {
@@ -407,7 +355,6 @@
   "order": [
     "1651697609746cc0ca",
     "165170315350084f93",
-    "1651703769454af763",
     "165170353504cb7d61",
     "1651704599c3fd45dd",
     "featured_collection",
