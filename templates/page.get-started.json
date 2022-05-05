@@ -246,6 +246,27 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "1651783197046dfb44": {
+      "type": "heading",
+      "blocks": {
+        "16517831974c019c6c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16517831974c019c6c-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
@@ -256,6 +277,7 @@
     "16517830469b5197dd",
     "16517830766a072107",
     "1651783136b9622a9c",
-    "1651783170516caea2"
+    "1651783170516caea2",
+    "1651783197046dfb44"
   ]
 }
