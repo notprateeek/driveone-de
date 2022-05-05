@@ -1,4 +1,11 @@
 /* hero section */
 .hero-buttons {
   display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr 1fr;
+}
+
+/* footer */
+.footer-block__details-content > li > a {
+  text-decoration: none;
 }
