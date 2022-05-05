@@ -18,11 +18,11 @@
 }
 
 .image-with-text__media--small {
-  height: 19.4rem;
+  height: 10.4rem;
 }
 
 .image-with-text__media--large {
-  height: 43.5rem;
+  height: 30.5rem;
 }
 
 @media screen and (min-width: 750px) {
@@ -49,7 +49,7 @@
 }
 
 .image-with-text__media--placeholder.image-with-text__media--adapt {
-  height: 20rem;
+  height: 2rem;
 }
 
 @media screen and (min-width: 750px) {
