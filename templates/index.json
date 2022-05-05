@@ -29,7 +29,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy in shop",
-            "button_link": "",
+            "button_link": "shopify:\/\/products\/drive-one",
             "button_style_secondary": true
           }
         },
