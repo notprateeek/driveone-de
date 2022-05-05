@@ -19,8 +19,8 @@
   position: absolute;
   left: 0;
   top: 0;
-  width: inherit;
-  height: inherit;
+  width: 85%;
+  height: auto;
   background-color: #4b5161;
 }
 
