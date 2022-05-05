@@ -297,6 +297,58 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1651784390e765d05d": {
+      "type": "testimonial",
+      "blocks": {
+        "165178439021d9cce0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Excellent",
+            "heading_size": "h1"
+          }
+        },
+        "165178439021d9cce0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Based on 267 reviews<\/p>",
+            "text_style": "body"
+          }
+        },
+        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "2bf6c809-df45-4cf4-8863-c038126b4b57": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Based on 267 reviews<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165178439021d9cce0-0",
+        "165178439021d9cce0-1",
+        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb",
+        "2bf6c809-df45-4cf4-8863-c038126b4b57"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -308,6 +360,7 @@
     "1651703613b9dbd68a",
     "16517046877f442e75",
     "1651740309597ac91b",
-    "16517385784e6dd610"
+    "16517385784e6dd610",
+    "1651784390e765d05d"
   ]
 }
