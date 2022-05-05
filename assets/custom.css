@@ -1,3 +1,4 @@
-.test {
-  display: none;
+/* hero section */
+.hero-buttons {
+  display: grid;
 }
