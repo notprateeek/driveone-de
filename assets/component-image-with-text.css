@@ -18,11 +18,11 @@
 }
 
 .image-with-text__media--small {
-  height: 19.4rem;
+  height: 15.4rem;
 }
 
 .image-with-text__media--large {
-  height: 43.5rem;
+  height: 40.5rem;
 }
 
 @media screen and (min-width: 750px) {
