@@ -297,59 +297,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1651737851940cb15f": {
-      "type": "testimonial",
-      "blocks": {
-        "1651737851a30096fe-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Excellent",
-            "heading_size": "h1"
-          }
-        },
-        "5b958b01-13c6-44e0-8706-3ccd33493920": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Based on 267 reviews<\/p>",
-            "text_style": "body"
-          }
-        },
-        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Trustpilot<\/p>",
-            "text_style": "body"
-          }
-        },
-        "2873dd4e-8ddf-4fd3-b463-11ef28af7575": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "1651737851a30096fe-0",
-        "5b958b01-13c6-44e0-8706-3ccd33493920",
-        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc",
-        "2873dd4e-8ddf-4fd3-b463-11ef28af7575"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/image_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -361,7 +308,6 @@
     "1651703613b9dbd68a",
     "16517046877f442e75",
     "1651740309597ac91b",
-    "16517385784e6dd610",
-    "1651737851940cb15f"
+    "16517385784e6dd610"
   ]
 }
