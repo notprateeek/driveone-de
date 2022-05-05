@@ -10,7 +10,7 @@
   position: relative;
 }
 
-.heading-bg > .rich-text > .rich-text__blocks > h2 {
+.heading-bg h2 {
   color: #fff;
 }
 
