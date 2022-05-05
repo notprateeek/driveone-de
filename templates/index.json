@@ -278,18 +278,19 @@
             "text_style": "body"
           }
         },
-        "1651737851a30096fe-2": {
-          "type": "button",
+        "2873dd4e-8ddf-4fd3-b463-11ef28af7575": {
+          "type": "caption",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "caption": "Add a tagline",
+            "text_style": "subtitle",
+            "text_size": "large"
           }
         }
       },
       "block_order": [
         "1651737851a30096fe-0",
         "1651737851a30096fe-1",
-        "1651737851a30096fe-2"
+        "2873dd4e-8ddf-4fd3-b463-11ef28af7575"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/image_1.png",
