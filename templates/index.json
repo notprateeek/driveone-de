@@ -271,10 +271,17 @@
             "heading_size": "h1"
           }
         },
-        "1651737851a30096fe-1": {
+        "5b958b01-13c6-44e0-8706-3ccd33493920": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Based on 267 reviews<\/p>",
+            "text_style": "body"
+          }
+        },
+        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Trustpilot<\/p>",
             "text_style": "body"
           }
         },
@@ -285,20 +292,13 @@
             "text_style": "subtitle",
             "text_size": "large"
           }
-        },
-        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Trustpilot<\/p>",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "1651737851a30096fe-0",
-        "1651737851a30096fe-1",
-        "2873dd4e-8ddf-4fd3-b463-11ef28af7575",
-        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc"
+        "5b958b01-13c6-44e0-8706-3ccd33493920",
+        "a76d2ce2-43fa-49c1-91fb-49c667ac21fc",
+        "2873dd4e-8ddf-4fd3-b463-11ef28af7575"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/image_1.png",
