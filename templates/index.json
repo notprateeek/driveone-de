@@ -337,8 +337,9 @@
         "65c6226c-47f5-42bb-b3bd-c78a40cae5fb"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Unsplash-Avatars_0005s_0007_emile-guillemot-vfijBqzoQE0-unsplash.png",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
