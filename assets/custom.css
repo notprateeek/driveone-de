@@ -5,6 +5,21 @@
   grid-template-columns: 1fr 1fr;
 }
 
+/* heading */
+.heading-bg {
+  position: relative;
+}
+
+.heading-bg ::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: inherit;
+  height: inherit;
+  background-color: yellow;
+}
+
 /* footer */
 .footer-block__details-content > li > a {
   text-decoration: none;
