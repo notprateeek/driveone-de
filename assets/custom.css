@@ -42,7 +42,7 @@
 
 .star {
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   gap: 0.25em;
 }
 
