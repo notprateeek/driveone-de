@@ -234,10 +234,31 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
+        },
+        "68115a65-488f-4be9-bd0e-879fe6ba9d18": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "9bdeba39-3d68-4169-a5ff-291ed1e3d76c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "60255ec6-c659-4b60-b77f-50fb03437e55": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
         }
       },
       "block_order": [
-        "165181803139d950a2-1"
+        "165181803139d950a2-1",
+        "68115a65-488f-4be9-bd0e-879fe6ba9d18",
+        "9bdeba39-3d68-4169-a5ff-291ed1e3d76c",
+        "60255ec6-c659-4b60-b77f-50fb03437e55"
       ],
       "settings": {
         "color_scheme": "background-1",
