@@ -34,7 +34,8 @@
 }
 
 .align-left {
-  align-items: left;
+  align-items: flex-start;
+  text-align: left;
 }
 
 /* custom section */
