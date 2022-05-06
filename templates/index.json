@@ -84,6 +84,58 @@
         "padding_bottom": 32
       }
     },
+    "1651813135895f3bdc": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651813135094762da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1651813135094762da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "6fed67c5-fc52-4342-9ca0-1a43eb9adaf8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "63ebce8d-1cdb-4db6-866b-d7cf1c353c1c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1651813135094762da-0",
+        "1651813135094762da-1",
+        "6fed67c5-fc52-4342-9ca0-1a43eb9adaf8",
+        "63ebce8d-1cdb-4db6-866b-d7cf1c353c1c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165170353504cb7d61": {
       "type": "heading",
       "blocks": {
@@ -355,6 +407,7 @@
   "order": [
     "1651697609746cc0ca",
     "165170315350084f93",
+    "1651813135895f3bdc",
     "165170353504cb7d61",
     "1651704599c3fd45dd",
     "featured_collection",
