@@ -31,6 +31,10 @@
   gap: 1em;
 }
 
+.testimonial-media {
+  min-height: auto;
+}
+
 .star {
   display: flex;
   align-items: center;
