@@ -220,13 +220,29 @@
         "1651704599b046b2e1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our strength is each other. The information that our users constantly share from Europe's roads is what enables us to deliver world-class alerts.<\/p><p>That is why we are not just manufacturers and customers, respectively. We are a community that - at the touch of a button - helps each other and makes the roads safer.<\/p><p>As the only ones on the market, we monitor, sort and evaluate users' reports - so that a fumble finger does not suddenly turn into a photo trap.<\/p>",
+            "text": "<p>Our strength is each other. The information that our users constantly share from Europe's roads is what enables us to deliver world-class alerts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ddb1c0e1-933b-4d90-9656-e30bbeb797e8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "75fa84a9-ea66-4d71-b533-6c2d67f214de": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "1651704599b046b2e1-1"
+        "1651704599b046b2e1-1",
+        "ddb1c0e1-933b-4d90-9656-e30bbeb797e8",
+        "75fa84a9-ea66-4d71-b533-6c2d67f214de"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
