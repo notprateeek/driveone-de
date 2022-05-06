@@ -422,11 +422,11 @@
             "heading_size": "h1"
           }
         },
-        "2bf6c809-df45-4cf4-8863-c038126b4b57": {
-          "type": "text",
+        "336367f7-9741-49b2-97a0-a4a12e08ec3c": {
+          "type": "heading",
           "settings": {
-            "text": "<p>Based on 267 reviews<\/p>",
-            "text_style": "body"
+            "heading": "Based on 267 reviews",
+            "heading_size": "h2"
           }
         },
         "f54a9492-7ec9-4a12-9c4a-df8a062c516d": {
@@ -447,7 +447,7 @@
       },
       "block_order": [
         "165178439021d9cce0-0",
-        "2bf6c809-df45-4cf4-8863-c038126b4b57",
+        "336367f7-9741-49b2-97a0-a4a12e08ec3c",
         "f54a9492-7ec9-4a12-9c4a-df8a062c516d",
         "65c6226c-47f5-42bb-b3bd-c78a40cae5fb"
       ],
