@@ -40,15 +40,10 @@
   min-height: auto;
 }
 
-.stars {
-  width: 80px;
-  height: auto;
-}
-
 .star {
   display: flex;
   align-items: center;
-  gap: 1em;
+  gap: 0.5em;
 }
 
 /* footer */
