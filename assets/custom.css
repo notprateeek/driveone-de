@@ -24,6 +24,11 @@
   background-color: #4b5161;
 }
 
+/* rich text */
+.rich-text__text {
+  text-align: left;
+}
+
 /* custom section */
 .section-buttons {
   display: flex;
