@@ -30,6 +30,11 @@
 }
 
 /* custom section */
+.tib {
+  margin-bottom: 3em;
+}
+
+
 .section-buttons {
   display: flex;
   flex-direction: column;
