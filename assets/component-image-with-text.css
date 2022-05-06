@@ -12,10 +12,10 @@
   }
 }
 
-/* .image-with-text__media {
+.image-with-text__media {
   min-height: 100%;
   overflow: visible;
-} */
+}
 
 .image-with-text__media--small {
   height: 19.4rem;
