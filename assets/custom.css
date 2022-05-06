@@ -40,6 +40,11 @@
   min-height: auto;
 }
 
+.stars {
+  width: 3em;
+  height: auto;
+}
+
 .star {
   display: flex;
   align-items: center;
