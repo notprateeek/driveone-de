@@ -414,12 +414,6 @@
     "165181864698e69f46": {
       "type": "rich-text",
       "blocks": {
-        "16518186460dd060a4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "16518186460dd060a4-2": {
           "type": "button",
           "settings": {
@@ -434,12 +428,6 @@
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
-          }
-        },
-        "154ffc50-cfb7-4ade-b340-5aa787482fd8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "35db4d60-008b-483d-a2e3-08527ed9ab7c": {
@@ -466,24 +454,6 @@
             "button_style_secondary": false
           }
         },
-        "e3ee7c85-2616-4f2c-9244-62b6ecb292ce": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "e61a7fbd-f9f8-4d41-8eed-95b65f2dc284": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "e4bf7748-b5b8-4921-b6fc-2db540ba658b": {
-          "type": "text",
-          "settings": {
-            "text": "<p>01. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "29d40bf5-8e48-401e-b893-6f5d14b055e8": {
           "type": "heading",
           "settings": {
@@ -493,16 +463,11 @@
         }
       },
       "block_order": [
-        "16518186460dd060a4-1",
         "16518186460dd060a4-2",
         "4be52d0a-52a0-496e-8680-855dad52b5c1",
-        "154ffc50-cfb7-4ade-b340-5aa787482fd8",
         "35db4d60-008b-483d-a2e3-08527ed9ab7c",
         "7c6e12b6-7940-466a-9e78-d8a939564dd6",
         "f052c7c0-4a82-4fd8-9a89-9a061f2a434b",
-        "e3ee7c85-2616-4f2c-9244-62b6ecb292ce",
-        "e61a7fbd-f9f8-4d41-8eed-95b65f2dc284",
-        "e4bf7748-b5b8-4921-b6fc-2db540ba658b",
         "29d40bf5-8e48-401e-b893-6f5d14b055e8"
       ],
       "settings": {
