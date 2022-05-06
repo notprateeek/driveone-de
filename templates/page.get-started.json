@@ -227,7 +227,7 @@
       }
     },
     "1651818032581093e4": {
-      "type": "rich-text",
+      "type": "custom-rich-text",
       "blocks": {
         "165181803139d950a2-1": {
           "type": "text",
