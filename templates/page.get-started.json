@@ -226,6 +226,26 @@
         "padding_bottom": 32
       }
     },
+    "1651818032581093e4": {
+      "type": "rich-text",
+      "blocks": {
+        "165181803139d950a2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165181803139d950a2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
     "1651783170516caea2": {
       "type": "heading",
       "blocks": {
@@ -379,6 +399,7 @@
     "16517830469b5197dd",
     "16517830766a072107",
     "1651783136b9622a9c",
+    "1651818032581093e4",
     "1651783170516caea2",
     "1651783199637ac51b",
     "1651783197046dfb44",
