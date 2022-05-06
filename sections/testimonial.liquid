@@ -57,6 +57,7 @@
                 {{ block.settings.heading | escape }}
               </h2>
             {%- when 'text' -%}
+              {% render 'star' %}
               <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
