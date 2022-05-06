@@ -422,6 +422,13 @@
             "heading_size": "h1"
           }
         },
+        "a601e8fc-f24c-4395-bd34-365018418edf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
         "336367f7-9741-49b2-97a0-a4a12e08ec3c": {
           "type": "heading",
           "settings": {
@@ -447,6 +454,7 @@
       },
       "block_order": [
         "165178439021d9cce0-0",
+        "a601e8fc-f24c-4395-bd34-365018418edf",
         "336367f7-9741-49b2-97a0-a4a12e08ec3c",
         "f54a9492-7ec9-4a12-9c4a-df8a062c516d",
         "65c6226c-47f5-42bb-b3bd-c78a40cae5fb"
