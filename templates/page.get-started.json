@@ -483,6 +483,13 @@
           "settings": {
             "text": "<p>01. Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
+        },
+        "29d40bf5-8e48-401e-b893-6f5d14b055e8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -495,7 +502,8 @@
         "f052c7c0-4a82-4fd8-9a89-9a061f2a434b",
         "e3ee7c85-2616-4f2c-9244-62b6ecb292ce",
         "e61a7fbd-f9f8-4d41-8eed-95b65f2dc284",
-        "e4bf7748-b5b8-4921-b6fc-2db540ba658b"
+        "e4bf7748-b5b8-4921-b6fc-2db540ba658b",
+        "29d40bf5-8e48-401e-b893-6f5d14b055e8"
       ],
       "settings": {
         "color_scheme": "background-1",
