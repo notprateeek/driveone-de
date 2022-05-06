@@ -169,7 +169,14 @@
         "165178299690ec3908-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you. The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
+            "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "bc753a4d-4ef6-4265-86c0-1b9f6b3b9c9f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
             "text_style": "body"
           }
         },
@@ -183,6 +190,7 @@
       },
       "block_order": [
         "165178299690ec3908-1",
+        "bc753a4d-4ef6-4265-86c0-1b9f6b3b9c9f",
         "04d4faa7-ff76-4487-adde-b086510df02c"
       ],
       "settings": {
