@@ -29,6 +29,10 @@
   text-align: left;
 }
 
+.button-margin {
+  margin-left: 0.5em;
+}
+
 /* custom section */
 .tib {
   margin-bottom: 3em;
