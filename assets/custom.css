@@ -38,7 +38,7 @@
 
 .testimonial-media {
   min-height: auto;
-  height: 75%;
+  max-height: 75%;
 }
 
 .star {
