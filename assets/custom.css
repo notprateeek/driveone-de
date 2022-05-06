@@ -29,6 +29,10 @@
   text-align: left;
 }
 
+.image-with-text__text {
+  display: none;
+}
+
 /* custom section */
 .section-buttons {
   display: flex;
