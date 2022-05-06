@@ -32,7 +32,8 @@
 }
 
 .testimonial-media {
-  height: 100%;
+  width: 50%;
+  height: auto;
 }
 
 /* footer */
