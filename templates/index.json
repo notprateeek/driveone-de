@@ -322,11 +322,19 @@
             "text": "<p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p>",
             "text_style": "body"
           }
+        },
+        "21882417-ad19-4ca8-a59c-06a07b4316d2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With input from more than five million users, we get plenty of data to cover Europe's road network.<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "1651704687d1fa0b91-1",
-        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0"
+        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0",
+        "21882417-ad19-4ca8-a59c-06a07b4316d2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/unsplash_Xbh_OGLRfUM.png",
