@@ -21,7 +21,7 @@
         "1651783375e9b2e79b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>We are the car owners' friend. We are a Danish company, and we specialize in shielding drivers from fines. In addition to Drive One, we are behind Park One, which covers both electronic parking discs and a popular Danish parking app. We also own the Traffic Alarm app, which alerts users to speed checks and incidents.<\/p>",
             "text_style": "body"
           }
         }
@@ -161,7 +161,7 @@
         "1651783552a8193fa7-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Traffic alarm",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
