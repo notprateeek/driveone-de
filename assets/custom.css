@@ -31,6 +31,10 @@
   gap: 1em;
 }
 
+.testimonial-media {
+  overflow: hidden;
+}
+
 /* footer */
 .footer-block__details-content a {
   text-decoration: none;
