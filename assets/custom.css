@@ -31,6 +31,11 @@
   gap: 1em;
 }
 
+.star {
+  display: flex;
+  gap: 0.5em;
+}
+
 /* footer */
 .footer-block__details-content a {
   text-decoration: none;
