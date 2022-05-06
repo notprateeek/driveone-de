@@ -312,13 +312,21 @@
         "1651704687d1fa0b91-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We get our data from our users and partners, just as we always keep up to date with authorities such as the Danish Road Directorate.<\/p><p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p><p>With input from more than five million users, we get plenty of data to cover Europe's road network.<\/p>",
+            "text": "<p>We get our data from our users and partners, just as we always keep up to date with authorities such as the Danish Road Directorate.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "1651704687d1fa0b91-1"
+        "1651704687d1fa0b91-1",
+        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/unsplash_Xbh_OGLRfUM.png",
