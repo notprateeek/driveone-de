@@ -104,14 +104,14 @@
         "6fed67c5-fc52-4342-9ca0-1a43eb9adaf8": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Responds only to relevant alerts",
+            "heading_size": "h2"
           }
         },
         "63ebce8d-1cdb-4db6-866b-d7cf1c353c1c": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p><p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p><p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
             "text_style": "body"
           }
         }
