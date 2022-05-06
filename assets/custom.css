@@ -33,6 +33,10 @@
   margin-right: 1em;
 }
 
+.align-left {
+  align-items: left;
+}
+
 /* custom section */
 .tib {
   margin-bottom: 3em;
