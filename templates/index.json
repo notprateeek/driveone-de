@@ -440,7 +440,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Trustpilot<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "65c6226c-47f5-42bb-b3bd-c78a40cae5fb": {
