@@ -32,7 +32,7 @@
 }
 
 .testimonial-media {
-  overflow: hidden;
+  min-height: 100%;
 }
 
 /* footer */
