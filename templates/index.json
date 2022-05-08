@@ -17,20 +17,12 @@
             "text_style": "body"
           }
         },
-        "1651697609a1146a81-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Buy on amazon",
-            "button_link": "shopify:\/\/products\/drive-one",
-            "button_style_secondary": false
-          }
-        },
         "3f29cf58-20b8-4618-b119-5c1b37075a7b": {
           "type": "button",
           "settings": {
             "button_label": "Buy in shop",
             "button_link": "shopify:\/\/products\/drive-one",
-            "button_style_secondary": true
+            "button_style_secondary": false
           }
         },
         "1d480aaf-b53f-4313-ab47-fb7f469f7af3": {
@@ -45,7 +37,6 @@
       "block_order": [
         "1651697609a1146a81-0",
         "1651697609a1146a81-1",
-        "1651697609a1146a81-2",
         "3f29cf58-20b8-4618-b119-5c1b37075a7b",
         "1d480aaf-b53f-4313-ab47-fb7f469f7af3"
       ],
