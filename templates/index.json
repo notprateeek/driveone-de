@@ -338,6 +338,13 @@
             "text_style": "body"
           }
         },
+        "b8f67e63-f027-41f5-a3e1-57b8828f07f8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p>",
+            "text_style": "body"
+          }
+        },
         "e35dbb4d-2e34-4f86-b315-322a71518eeb": {
           "type": "button",
           "settings": {
@@ -381,6 +388,7 @@
       },
       "block_order": [
         "16517385787608503f-1",
+        "b8f67e63-f027-41f5-a3e1-57b8828f07f8",
         "e35dbb4d-2e34-4f86-b315-322a71518eeb",
         "32688fc9-2df0-48f8-b926-9189c17ae9fd",
         "200c87a3-6f9a-4699-8f24-485d2d4c9845",
