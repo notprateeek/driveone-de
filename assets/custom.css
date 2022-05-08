@@ -1,14 +1,3 @@
-.media > *:not(.zoom):not(.deferred-media__poster-button),
-.media model-viewer {
-  display: block;
-  max-width: 100%;
-  position: absolute;
-  top: 0;
-  left: 5%;
-  height: 90%;
-  width: 90%;
-}
-
 /* hero section */
 .hero-buttons {
   display: grid;
