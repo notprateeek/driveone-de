@@ -20,7 +20,7 @@
         "3f29cf58-20b8-4618-b119-5c1b37075a7b": {
           "type": "button",
           "settings": {
-            "button_label": "Buy in shop",
+            "button_label": "Buy in store",
             "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false
           }
