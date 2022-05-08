@@ -116,7 +116,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -204,7 +204,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
@@ -295,12 +295,12 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/unsplash_Xbh_OGLRfUM.png",
-        "height": "small",
-        "desktop_image_width": "medium",
+        "height": "adapt",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
