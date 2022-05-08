@@ -398,7 +398,7 @@
         "1651783199b013f595-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "General questions",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -407,7 +407,7 @@
         "1651783199b013f595-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Questions about your DriveOne",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -416,7 +416,7 @@
         "1651783199b013f595-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Important settings",
             "icon": "none",
             "row_content": "",
             "page": ""
