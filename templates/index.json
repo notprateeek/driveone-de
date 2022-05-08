@@ -115,8 +115,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
-        "height": "small",
-        "desktop_image_width": "small",
+        "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
