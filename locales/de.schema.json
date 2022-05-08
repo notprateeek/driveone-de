@@ -357,6 +357,186 @@
         }
       }
     },
+    "heading": {
+      "name": "Overskrift",
+      "settings": {
+        "full_width": {
+          "label": "Gør sektionen i fuld bredde"
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Overskrift",
+          "settings": {
+            "heading": {
+              "label": "Overskrift"
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Overskrift"
+      }
+    },
+    "hero": {
+      "name": "Helt",
+      "settings": {
+        "image": {
+          "label": "Bild"
+        },
+        "height": {
+          "options__1": {
+            "label": "An Bild anpassen"
+          },
+          "options__2": {
+            "label": "Klein"
+          },
+          "options__3": {
+            "label": "Groß"
+          },
+          "label": "Bildhöhe"
+        },
+        "layout": {
+          "options__1": {
+            "label": "Bild zuerst"
+          },
+          "options__2": {
+            "label": "Zweites Bild"
+          },
+          "label": "Desktop-Bildplatzierung",
+          "info": "Das Standardlayout für Mobilgeräte ist \"Bild zuerst\"."
+        },
+        "desktop_image_width": {
+          "options__1": {
+            "label": "Klein"
+          },
+          "options__2": {
+            "label": "Mittel"
+          },
+          "options__3": {
+            "label": "Groß"
+          },
+          "label": "Desktop-Bildbreite",
+          "info": "Bild wird automatisch für die mobile Nutzung optimiert."
+        },
+        "desktop_content_alignment": {
+          "options__1": {
+            "label": "Links"
+          },
+          "options__2": {
+            "label": "Zentriert"
+          },
+          "options__3": {
+            "label": "Rechts"
+          },
+          "label": "Desktop-Inhaltsausrichtung"
+        },
+        "desktop_content_position": {
+          "options__1": {
+            "label": "Oben"
+          },
+          "options__2": {
+            "label": "Mitte"
+          },
+          "options__3": {
+            "label": "Unten"
+          },
+          "label": "Desktop-Inhaltsposition"
+        },
+        "content_layout": {
+          "options__1": {
+            "label": "Keine Überlappung"
+          },
+          "options__2": {
+            "label": "Überlappung"
+          },
+          "label": "Layout des Inhalts"
+        },
+        "mobile_content_alignment": {
+          "options__1": {
+            "label": "Links"
+          },
+          "options__2": {
+            "label": "Zentriert"
+          },
+          "options__3": {
+            "label": "Rechts"
+          },
+          "label": "Mobile Inhaltsausrichtung"
+        }
+      },
+      "blocks": {
+        "heading": {
+          "name": "Titel",
+          "settings": {
+            "heading": {
+              "label": "Überschrift"
+            }
+          }
+        },
+        "text": {
+          "name": "Text",
+          "settings": {
+            "text": {
+              "label": "Inhalt"
+            },
+            "text_style": {
+              "label": "Textstil",
+              "options__1": {
+                "label": "Nachricht"
+              },
+              "options__2": {
+                "label": "Untertitel"
+              }
+            }
+          }
+        },
+        "button": {
+          "name": "Schaltfläche",
+          "settings": {
+            "button_label": {
+              "label": "Schaltflächenbeschriftung",
+              "info": "Lasse die Beschriftung leer, um die Schaltfläche auszublenden."
+            },
+            "button_link": {
+              "label": "Schaltflächenlink"
+            }
+          }
+        },
+        "caption": {
+          "name": "Bildtext",
+          "settings": {
+            "text": {
+              "label": "Text"
+            },
+            "text_style": {
+              "label": "Textstil",
+              "options__1": {
+                "label": "Untertitel"
+              },
+              "options__2": {
+                "label": "Großbuchstaben"
+              }
+            },
+            "caption_size": {
+              "label": "Textgröße",
+              "options__1": {
+                "label": "Klein"
+              },
+              "options__2": {
+                "label": "Mittel"
+              },
+              "options__3": {
+                "label": "Groß"
+              }
+            }
+          }
+        }
+      },
+      "presets": {
+        "name": "Helt"
+      }
+    },
     "collage": {
       "name": "Collage",
       "settings": {
