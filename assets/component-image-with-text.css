@@ -178,6 +178,19 @@
   }
 }
 
+@media screen and (max-width: 375px) {
+  .media > *:not(.zoom):not(.deferred-media__poster-button),
+  .media model-viewer {
+    display: block;
+    max-width: 100%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 80%;
+    width: 80%;
+  }
+}
+
 .image-with-text__content--mobile-right > * {
   align-self: flex-end;
   text-align: right;
