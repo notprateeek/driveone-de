@@ -165,6 +165,19 @@
   }
 }
 
+@media screen and (min-width: 749px) {
+  .media > *:not(.zoom):not(.deferred-media__poster-button),
+  .media model-viewer {
+    display: block;
+    max-width: 100%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
+  }
+}
+
 .image-with-text__content--mobile-right > * {
   align-self: flex-end;
   text-align: right;
