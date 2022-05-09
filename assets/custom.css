@@ -112,6 +112,17 @@
     column-gap: 0;
     row-gap: 2em;
   }
+
+  .media > *:not(.zoom):not(.deferred-media__poster-button),
+  .media model-viewer {
+    display: block;
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    height: 80%;
+    width: 80%;
+  }
 }
 
 /* 480px */
