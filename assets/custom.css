@@ -5,17 +5,6 @@
   grid-template-columns: 1fr 1fr;
 }
 
-.custom-media > *:not(.zoom):not(.deferred-media__poster-button),
-.custom-media model-viewer {
-  display: block;
-  max-width: 100%;
-  position: absolute;
-  top: 5%;
-  left: 5%;
-  height: 90%;
-  width: 90%;
-}
-
 /* heading */
 .heading-bg {
   position: relative;
@@ -122,6 +111,17 @@
   .text-flex-gap {
     column-gap: 0;
     row-gap: 2em;
+  }
+  
+  .custom-media > *:not(.zoom):not(.deferred-media__poster-button),
+  .custom-media model-viewer {
+    display: block;
+    max-width: 100%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
   }
 }
 
