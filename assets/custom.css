@@ -94,6 +94,11 @@
   .heading-bg ::after {
     width: 92.5%;
   }
+
+  .btn-flex-gap {
+    column-gap: 2em;
+    row-gap: 0;
+  }
 }
 
 /* 749px */
@@ -101,5 +106,26 @@
   .tib-button-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .text-flex-gap {
+    column-gap: 0;
+    row-gap: 2em;
+  }
+}
+
+/* 480px */
+@media screen and (max-width: 480px) {
+  .tib-button-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* 375px */
+@media screen and (max-width: 375px) {
+  .tib-button-container {
+    display: grid;
+    grid-template-columns: 1fr;
   }
 }
