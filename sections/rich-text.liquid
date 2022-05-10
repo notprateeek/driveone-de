@@ -28,9 +28,9 @@
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
-          {%- when 'text' -%}
-            <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
-          {% when 'icon' %}
+          {% comment %} {%- when 'text' -%}
+            <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div> {% endcomment %}
+          {% when 'text' %}
             <div class="icons">
               {% render 'google-play' %}
               {% render 'app-store' %}
@@ -153,18 +153,6 @@
           "id": "text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "t:sections.rich-text.blocks.text.settings.text.label"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "name": "icon",
-      "settings": [
-        {
-          "type": "richtext",
-          "id": "icon",
-          "default": "Icon",
-          "label": "Icon"
         }
       ]
     },
