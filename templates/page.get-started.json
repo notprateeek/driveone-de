@@ -69,28 +69,10 @@
             "heading_size": "h2"
           }
         },
-        "35db4d60-008b-483d-a2e3-08527ed9ab7c": {
-          "type": "button",
+        "156f0cd9-a9cf-43a8-8650-4ecdabfcbaf9": {
+          "type": "text",
           "settings": {
-            "button_label": "App Store",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "7c6e12b6-7940-466a-9e78-d8a939564dd6": {
-          "type": "button",
-          "settings": {
-            "button_label": "Google play",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "f052c7c0-4a82-4fd8-9a89-9a061f2a434b": {
-          "type": "button",
-          "settings": {
-            "button_label": "App gallery",
-            "button_link": "",
-            "button_style_secondary": false
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
         "5deb331e-a384-4ec6-a1f7-b0ed01e02a08": {
@@ -119,9 +101,7 @@
         "29d40bf5-8e48-401e-b893-6f5d14b055e8",
         "4be52d0a-52a0-496e-8680-855dad52b5c1",
         "60c02889-a594-4c9f-b7d2-49e2c8ffa317",
-        "35db4d60-008b-483d-a2e3-08527ed9ab7c",
-        "7c6e12b6-7940-466a-9e78-d8a939564dd6",
-        "f052c7c0-4a82-4fd8-9a89-9a061f2a434b",
+        "156f0cd9-a9cf-43a8-8650-4ecdabfcbaf9",
         "5deb331e-a384-4ec6-a1f7-b0ed01e02a08",
         "9ea9cb74-0e4a-4565-a6e8-ba49613364f3",
         "7de038f4-73a8-4300-a5be-aed4b1cab3ff"
