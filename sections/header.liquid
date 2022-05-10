@@ -458,6 +458,9 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
+                    <a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
+         Buy
+       </a>
           </ul>
         </nav>
       {%- endif -%}
@@ -536,10 +539,6 @@
           </div>
         </details>
       </details-modal>
-              
-              <a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
-         Buy
-       </a>
 
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
