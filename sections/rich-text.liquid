@@ -30,6 +30,12 @@
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+          {% when 'icon' %}
+            <div class="icons">
+              {% render 'google-play' %}
+              {% render 'app-store' %}
+              {% render 'app-gallery' %}
+            </div>
           {%- when 'button' -%}
             <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %} class="button-margin button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
               {{ block.settings.button_label | escape }}
@@ -147,6 +153,18 @@
           "id": "text",
           "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
           "label": "t:sections.rich-text.blocks.text.settings.text.label"
+        }
+      ]
+    },
+    {
+      "type": "icon",
+      "name": "icon",
+      "settings": [
+        {
+          "type": "image",
+          "id": "icon",
+          "default": "Icon",
+          "label": "Icon"
         }
       ]
     },
