@@ -10,6 +10,10 @@
 	cursor: default !important;
   }
 
+  .rings-top-margin {
+	margin-top: 1em;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -66,7 +70,7 @@
                 {%- endif -%}
             {%- endcase -%}
           {%- endfor -%}
-          {% render 'rings' %}
+          <div class="rings-top-margin">{% render 'rings' %}</div>
         </div>
       </div>
     </div>
