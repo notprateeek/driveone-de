@@ -413,6 +413,9 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
+			<a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
+              Buy
+            </a>
           </ul>
         </nav>
       {%- else -%}
@@ -458,9 +461,6 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
-                    <a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
-         Buy
-       </a>
           </ul>
         </nav>
       {%- endif -%}
