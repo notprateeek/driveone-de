@@ -416,13 +416,14 @@
                     <span {%- if link.current %} class="header__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
                   </a>
                 {%- endif -%}
+                <div class="header-buy-button">
+                  <a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
+                    Buy
+                  </a>
+				</div>
               </li>
             {%- endfor -%}
-			<div class="header-buy-button">
-              <a href="{{ block.settings.button_link }}" class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
-                Buy
-              </a>
-			</div>
+			
           </ul>
         </nav>
       {%- else -%}
