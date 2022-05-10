@@ -54,6 +54,30 @@
         "padding_bottom": 36
       }
     },
+    "165181324774f9da08": {
+      "type": "collage",
+      "blocks": {
+        "a24f0bec-5e23-4adb-abfa-082b11b7cd38": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "a24f0bec-5e23-4adb-abfa-082b11b7cd38"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "165170315350084f93": {
       "type": "heading",
       "blocks": {
@@ -123,30 +147,6 @@
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "165181324774f9da08": {
-      "type": "collage",
-      "blocks": {
-        "a24f0bec-5e23-4adb-abfa-082b11b7cd38": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "a24f0bec-5e23-4adb-abfa-082b11b7cd38"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -466,9 +466,9 @@
   },
   "order": [
     "1651697609746cc0ca",
+    "165181324774f9da08",
     "165170315350084f93",
     "1651813135895f3bdc",
-    "165181324774f9da08",
     "165170353504cb7d61",
     "1651704599c3fd45dd",
     "featured_collection",
