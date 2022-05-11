@@ -60,8 +60,8 @@
         "3f4725da-3201-49fe-a182-3aa22a039991": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+            "image_padding": true
           }
         }
       },
