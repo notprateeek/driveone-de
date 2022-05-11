@@ -483,7 +483,7 @@
 
                   <localization-form>
                     {%- form 'localization', id: 'FooterLanguageForm', class: 'localization-form' -%}
-                      <div class="no-js-hidden">
+<!--                       <div class="no-js-hidden"> -->
                         <h2 class="caption-large text-body" id="FooterLanguageLabel">{{ 'localization.language_label' | t }}</h2>
                         <div class="disclosure">
                           <button type="button" class="disclosure__button localization-form__select localization-selector link link--text caption-large" aria-expanded="false" aria-controls="FooterLanguageList" aria-describedby="FooterLanguageLabel">
@@ -503,7 +503,7 @@
                           </div>
                         </div>
                         <input type="hidden" name="locale_code" value="{{ localization.language.iso_code }}">
-                      </div>
+<!--                       </div> -->
                     {%- endform -%}
                   </localization-form>
                 </div>
