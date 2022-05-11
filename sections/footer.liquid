@@ -93,9 +93,10 @@
                     {%- endif -%}
                   </div>
                 {%- endcase -%}
-            </div>
-          {%- endfor -%}
-          <ul class="footer-block__details-content list-unstyled">
+                <div class="footer-block__details-content rte">
+                    download
+                  </div>
+                <ul class="footer-block__details-content list-unstyled">
             <li>
               <a class="link link--text list-menu__item list-menu__item--link list-menu__item--active">
                 {% render 'google-play' %}
@@ -104,6 +105,8 @@
               </a>
             </li>
           </ul>
+            </div>
+          {%- endfor -%}
         </div>
       {%- endif -%}
 
