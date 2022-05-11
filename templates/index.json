@@ -54,28 +54,39 @@
         "padding_bottom": 36
       }
     },
-    "165181324774f9da08": {
-      "type": "collage",
+    "1652251831ee1c5f29": {
+      "type": "slideshow",
       "blocks": {
-        "a24f0bec-5e23-4adb-abfa-082b11b7cd38": {
-          "type": "image",
+        "1652251830823d3c46-0": {
+          "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
-            "image_padding": false
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "a24f0bec-5e23-4adb-abfa-082b11b7cd38"
+        "1652251830823d3c46-0"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "165170315350084f93": {
@@ -466,7 +477,7 @@
   },
   "order": [
     "1651697609746cc0ca",
-    "165181324774f9da08",
+    "1652251831ee1c5f29",
     "165170315350084f93",
     "1651813135895f3bdc",
     "165170353504cb7d61",
