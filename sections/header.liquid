@@ -458,9 +458,10 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
-                    
-                    
-                    {% if localization.available_countries.size > 1 %}
+          </ul>
+                
+                
+                {% if localization.available_countries.size > 1 %}
   <localization-form>
     {% form 'localization' %}
       <div class="disclosure">
@@ -488,8 +489,9 @@
   </localization-form>
 {% endif %}
 
-                    
-          </ul>
+                
+                
+                
         </nav>
       {%- endif -%}
     {%- endif -%}
