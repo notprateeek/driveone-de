@@ -113,6 +113,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "button_label": "Buy",
+          "button_link": "shopify:\/\/collections\/all",
           "button_style_secondary": false,
           "logo_width": 90,
           "logo_position": "middle-left",
