@@ -21,17 +21,14 @@
         "165178276424c37e95-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Installing your Drive One is almost as simple as daily use. Follow these few steps - and look forward to traffic without dangers and speeding tickets.<\/p>",
+            "text": "<p>Installing your Drive One is almost as simple as daily use. Follow these few steps - and look forward to traffic without dangers and speeding tickets.</p>",
             "text_style": "body"
           }
         }
       },
-      "block_order": [
-        "165178276424c37e95-0",
-        "165178276424c37e95-1"
-      ],
+      "block_order": ["165178276424c37e95-0", "165178276424c37e95-1"],
       "settings": {
-        "image": "shopify:\/\/shop_images\/undraw_scrum_board_re_wk7v_1.png",
+        "image": "shopify://shop_images/undraw_scrum_board_re_wk7v_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -45,7 +42,7 @@
       }
     },
     "165181864698e69f46": {
-      "type": "rich-text",
+      "type": "richtext",
       "blocks": {
         "29d40bf5-8e48-401e-b893-6f5d14b055e8": {
           "type": "heading",
@@ -58,7 +55,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy in store",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": false
           }
         },
@@ -72,7 +69,7 @@
         "156f0cd9-a9cf-43a8-8650-4ecdabfcbaf9": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "5deb331e-a384-4ec6-a1f7-b0ed01e02a08": {
@@ -124,9 +121,7 @@
           }
         }
       },
-      "block_order": [
-        "1651782814d438de73-0"
-      ],
+      "block_order": ["1651782814d438de73-0"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -140,21 +135,21 @@
         "165178299690ec3908-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.<\/p>",
+            "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.</p>",
             "text_style": "body"
           }
         },
         "bc753a4d-4ef6-4265-86c0-1b9f6b3b9c9f": {
           "type": "text",
           "settings": {
-            "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
+            "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.</p>",
             "text_style": "body"
           }
         },
         "04d4faa7-ff76-4487-adde-b086510df02c": {
           "type": "text",
           "settings": {
-            "text": "<p>Then it will not be much easier.<\/p>",
+            "text": "<p>Then it will not be much easier.</p>",
             "text_style": "body"
           }
         }
@@ -165,7 +160,7 @@
         "04d4faa7-ff76-4487-adde-b086510df02c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/undraw_city_driver_re_0x5e_1.png",
+        "image": "shopify://shop_images/undraw_city_driver_re_0x5e_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -189,9 +184,7 @@
           }
         }
       },
-      "block_order": [
-        "1651783046f182c6ee-0"
-      ],
+      "block_order": ["1651783046f182c6ee-0"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -206,7 +199,7 @@
           "type": "column",
           "settings": {
             "title": "Always up to date",
-            "text": "<p>Be notified of incidents, queues and checks - and always in real time.<\/p>",
+            "text": "<p>Be notified of incidents, queues and checks - and always in real time.</p>",
             "link_label": "",
             "link": ""
           }
@@ -215,7 +208,7 @@
           "type": "column",
           "settings": {
             "title": "Free subscription",
-            "text": "<p>The price of Drive One is the price of the device - and nothing else.<\/p>",
+            "text": "<p>The price of Drive One is the price of the device - and nothing else.</p>",
             "link_label": "",
             "link": ""
           }
@@ -224,7 +217,7 @@
           "type": "column",
           "settings": {
             "title": "User-friendly",
-            "text": "<p>Easy to install, easy to use - and easy to care for.<\/p>",
+            "text": "<p>Easy to install, easy to use - and easy to care for.</p>",
             "link_label": "",
             "link": ""
           }
@@ -233,7 +226,7 @@
           "type": "column",
           "settings": {
             "title": "Checked and double-checked",
-            "text": "<p>Our data is confirmed by algorithms, employees - and you on the road.<\/p>",
+            "text": "<p>Our data is confirmed by algorithms, employees - and you on the road.</p>",
             "link_label": "",
             "link": ""
           }
@@ -242,7 +235,7 @@
           "type": "column",
           "settings": {
             "title": "Part of a community",
-            "text": "<p>The service is powered by Drive One, the strongest data partners - and you.<\/p>",
+            "text": "<p>The service is powered by Drive One, the strongest data partners - and you.</p>",
             "link_label": "",
             "link": ""
           }
@@ -251,7 +244,7 @@
           "type": "column",
           "settings": {
             "title": "Uncompromising in design",
-            "text": "<p>The Danish designer John Sebastian has created a beautiful device that is easy to operate on the go - and does not spoil the cabin.<\/p>",
+            "text": "<p>The Danish designer John Sebastian has created a beautiful device that is easy to operate on the go - and does not spoil the cabin.</p>",
             "link_label": "",
             "link": ""
           }
@@ -293,9 +286,7 @@
           }
         }
       },
-      "block_order": [
-        "1651783136e844e80d-0"
-      ],
+      "block_order": ["1651783136e844e80d-0"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -309,31 +300,31 @@
         "165181803139d950a2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One can be the difference that makes you avoid serious accidents.<\/p>"
+            "text": "<p>Drive One can be the difference that makes you avoid serious accidents.</p>"
           }
         },
         "68115a65-488f-4be9-bd0e-879fe6ba9d18": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One has earned itself a home many times already at the first avoided fine.<\/p>"
+            "text": "<p>Drive One has earned itself a home many times already at the first avoided fine.</p>"
           }
         },
         "9bdeba39-3d68-4169-a5ff-291ed1e3d76c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One alerts you in a way that you can easily decode on the go.<\/p>"
+            "text": "<p>Drive One alerts you in a way that you can easily decode on the go.</p>"
           }
         },
         "60255ec6-c659-4b60-b77f-50fb03437e55": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One can be set to ignore the starch boxes you pass daily.<\/p>"
+            "text": "<p>Drive One can be set to ignore the starch boxes you pass daily.</p>"
           }
         },
         "9b90f1e3-fd47-4be6-8aa4-70170b6d1160": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One can save you heavy traffic and long queues at road works.<\/p>"
+            "text": "<p>Drive One can save you heavy traffic and long queues at road works.</p>"
           }
         }
       },
@@ -362,9 +353,7 @@
           }
         }
       },
-      "block_order": [
-        "165178317032499bef-0"
-      ],
+      "block_order": ["165178317032499bef-0"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -434,9 +423,7 @@
           }
         }
       },
-      "block_order": [
-        "16517831974c019c6c-0"
-      ],
+      "block_order": ["16517831974c019c6c-0"],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
