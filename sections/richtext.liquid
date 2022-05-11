@@ -10,10 +10,6 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
-  .crt {
-	margin-left: 1em;
-  }
-
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -114,7 +110,6 @@
     {
       "type": "heading",
       "name": "t:sections.rich-text.blocks.heading.name",
-      "limit": 1,
       "settings": [
         {
           "type": "text",
@@ -158,7 +153,6 @@
     {
       "type": "button",
       "name": "t:sections.rich-text.blocks.button.name",
-      "limit": 1,
       "settings": [
         {
           "type": "text",
