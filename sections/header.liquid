@@ -3,6 +3,9 @@
 <link rel="stylesheet" href="{{ 'component-menu-drawer.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'component-cart-notification.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'component-cart-items.css' | asset_url }}" media="print" onload="this.media='all'">
+
+<link rel="stylesheet" href="{{ 'disclosure.css' | asset_url }}" media="print" onload="this.media='all'">
+
 {%- if settings.predictive_search_enabled -%}
   <link rel="stylesheet" href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
   <link rel="stylesheet" href="{{ 'component-loading-overlay.css' | asset_url }}" media="print" onload="this.media='all'">
@@ -19,22 +22,6 @@
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
 
 <style>
-  .disclosure__list-wrapper {
-    border-width: var(--popup-border-width);
-    border-style: solid;
-    border-color: rgba(var(--color-foreground), var(--popup-border-opacity));
-    overflow: hidden;
-    position: absolute;
-    top: 100%;
-    transform: translateY(-1rem);
-    z-index: 2;
-    background-color: rgb(var(--color-background));
-    border-radius: var(--popup-corner-radius);
-    box-shadow: var(--popup-shadow-horizontal-offset)
-      var(--popup-shadow-vertical-offset) var(--popup-shadow-blur-radius)
-      rgba(var(--color-shadow), var(--popup-shadow-opacity));
-  }
-
   header-drawer {
     justify-self: start;
     margin-left: -1.2rem;
