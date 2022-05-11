@@ -177,7 +177,7 @@
                       </li>
                     {%- endfor -%}
                     <div class="header-buy-button">
-              <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
+              <a role="link" aria-disabled="false" href="{{ section.settings.button_link }}" class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
                   Buy
                 </a>
 			</div>
