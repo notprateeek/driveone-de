@@ -21,12 +21,6 @@
 <noscript>{{ 'disclosure.css' | asset_url | stylesheet_tag }}</noscript>
 
 <style>
-  
-  .header-footer{
-    display: flex;
-    align-items: flex-start;
-  }
-  
   header-drawer {
     justify-self: start;
     margin-left: -1.2rem;
@@ -187,7 +181,7 @@
                       {%- endif -%}
                     </div>
                     <div class="language-selector">
-                        <div class="footer__column footer__localization isolate header-footer">
+                        <div class="footer__column footer__localization isolate">
                             <noscript>
                               {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
                                 <div class="localization-form__select">
