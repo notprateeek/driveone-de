@@ -284,6 +284,9 @@
                     min="1"
                     value="1"
                     form="{{ product_form_id }}"
+                    {% if product.variant.inventory_management == 'shopify' and product.variant.inventory_policy == 'deny' %} max="{{- product.variant.inventory_quantity -}}"
+                    max="{{- product.variant.inventory_quantity -}}"
+                    {% endif %}
                   >
                 <button class="quantity__button no-js-hidden" name="plus" type="button">
                   <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
