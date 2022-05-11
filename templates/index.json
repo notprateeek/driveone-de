@@ -54,27 +54,18 @@
         "padding_bottom": 36
       }
     },
-    "1652304426067c108c": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "3f4725da-3201-49fe-a182-3aa22a039991": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
-            "image_padding": true
-          }
-        }
-      },
-      "block_order": [
-        "3f4725da-3201-49fe-a182-3aa22a039991"
-      ],
+    "1652306079940c08c5": {
+      "type": "image",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
+        "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -463,27 +454,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1652306079940c08c5": {
-      "type": "image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "1651697609746cc0ca",
-    "1652304426067c108c",
+    "1652306079940c08c5",
     "165170315350084f93",
     "1651813135895f3bdc",
     "165170353504cb7d61",
@@ -493,7 +468,6 @@
     "16517046877f442e75",
     "1651740309597ac91b",
     "16517385784e6dd610",
-    "1651784390e765d05d",
-    "1652306079940c08c5"
+    "1651784390e765d05d"
   ]
 }
