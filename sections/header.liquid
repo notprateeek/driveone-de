@@ -413,6 +413,13 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
+            <div class="header-button">
+              {%- if section.settings.button_label != blank -%}
+                <a{% if section.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %} class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ section.shopify_attributes }}>
+                  {{ section.settings.button_label | escape }}
+                </a>
+              {%- endif -%}
+            </div>
           </ul>
         </nav>
       {%- else -%}
@@ -458,13 +465,6 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
-            <div class="header-button">
-              {%- if section.settings.button_label != blank -%}
-                <a{% if section.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %} class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ section.shopify_attributes }}>
-                  {{ section.settings.button_label | escape }}
-                </a>
-              {%- endif -%}
-            </div>
           </ul> 
         </nav>
       {%- endif -%}
