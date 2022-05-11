@@ -461,9 +461,9 @@
               </li>
             {%- endfor -%}
 
-            {% comment %} <div class="footer__content-bottom">
+            <div class="footer__content-bottom">
               <div class="footer__content-bottom-wrapper page-width">
-                <div class="footer__column footer__localization isolate"> {% endcomment %}
+                <div class="footer__column footer__localization isolate">
                   <noscript>
                     {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
                       <div class="localization-form__select">
@@ -506,9 +506,9 @@
                       </div>
                     {%- endform -%}
                   </localization-form>
-                {% comment %} </div>
+                </div>
               </div>
-            </div> {% endcomment %}
+            </div>
           </ul>
         </nav>
       {%- endif -%}
