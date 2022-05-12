@@ -342,7 +342,7 @@
         "32688fc9-2df0-48f8-b926-9189c17ae9fd": {
           "type": "button",
           "settings": {
-            "button_label": "Trafikalarm",
+            "button_label": "Traffic alarm",
             "button_link": "",
             "button_style_secondary": true
           }
