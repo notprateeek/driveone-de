@@ -29,7 +29,6 @@
             <div class="icons">
               {% render 'google-play' %}
               {% render 'app-store' %}
-              {% render 'app-gallery' %}
             </div>
           {%- when 'button' -%}
             <a{% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %} class="button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
