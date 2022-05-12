@@ -358,7 +358,7 @@
         "63effb09-f807-46a9-9cd3-0a4748e45dfb": {
           "type": "button",
           "settings": {
-            "button_label": "Blitzer",
+            "button_label": "Flash",
             "button_link": "",
             "button_style_secondary": true
           }
