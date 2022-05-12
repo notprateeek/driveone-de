@@ -57,7 +57,7 @@
     "1652306079940c08c5": {
       "type": "image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.46.53_AM.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -381,9 +381,9 @@
         "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.39.19_AM.png",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
