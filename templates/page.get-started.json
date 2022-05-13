@@ -464,21 +464,11 @@
             "row_content": "",
             "page": ""
           }
-        },
-        "1651783227fa6a7225-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "App gallery",
-            "icon": "none",
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "1651783227fa6a7225-1",
-        "1651783227fa6a7225-2",
-        "1651783227fa6a7225-3"
+        "1651783227fa6a7225-2"
       ],
       "settings": {
         "caption": "",
