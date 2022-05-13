@@ -56,6 +56,7 @@
     },
     "1652306079940c08c5": {
       "type": "image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.46.53_AM.png",
         "height": "adapt",
