@@ -457,6 +457,7 @@
     },
     "1652651235b3506094": {
       "type": "image-2",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
         "image_3": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.46.53_AM.png",
