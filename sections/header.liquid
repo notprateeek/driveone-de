@@ -473,14 +473,14 @@
                 {%- endif -%}
               </li>
             {%- endfor -%}
-            <div class="header-button" style="margin-left: 1em">
+            <div class="header-button">
               {%- if section.settings.button_label != blank -%}
                 <a{% if section.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %} class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ section.shopify_attributes }}>
                   {{ section.settings.button_label | escape }}
                 </a>
               {%- endif -%}
             </div>
-            <div class="language-selector" style="margin-left: 1em">
+            <div class="language-selector">
                 <div class="footer__column footer__localization isolate">
                     <noscript>
                       {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
