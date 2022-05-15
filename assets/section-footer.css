@@ -73,11 +73,11 @@
   align-items: center;
 }
 
-/* @media screen and (max-width: 749px) {
+@media screen and (max-width: 749px) {
   .footer__localization:empty + .footer__column {
     padding-top: 1.5rem;
   }
-} */
+}
 .footer__column {
   width: 100%;
   align-items: flex-end;
