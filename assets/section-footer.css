@@ -245,9 +245,9 @@
   color: rgba(var(--color-foreground), 0.75);
 }
 
-@media screen and (min-width: 750px) {
+/* @media screen and (min-width: 750px) {
   .footer__localization {
-/*     padding: 0.4rem 0; */
+    padding: 0.4rem 0;
     justify-content: flex-start;
   }
 
@@ -273,7 +273,7 @@
   .footer__localization h2 {
     margin: 1rem 0 0;
   }
-}
+} */
 
 @media screen and (max-width: 989px) {
   noscript .localization-form:only-child,
