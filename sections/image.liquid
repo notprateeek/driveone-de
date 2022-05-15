@@ -10,6 +10,12 @@
 	display: none;
   }
 
+  @media screen and (max-width: 768px) {
+	.image-display{
+	  display: block;
+	}
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
