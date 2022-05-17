@@ -257,7 +257,8 @@
       }
     },
     "footer": {
-      "payment": "Betalingsmetoder"
+      "payment": "Betalingsmetoder",
+      "information": "CVR: 31756820"
     },
     "featured_blog": {
       "view_all": "Se alle",

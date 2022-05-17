@@ -257,7 +257,8 @@
       }
     },
     "footer": {
-      "payment": "Payment methods"
+      "payment": "Payment methods",
+      "information": "VAT: DK 31756820"
     },
     "featured_blog": {
       "view_all": "View all",
