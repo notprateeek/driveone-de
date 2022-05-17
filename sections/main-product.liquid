@@ -284,9 +284,9 @@
                     min="1"
                     value="1"
                     form="{{ product_form_id }}"
-                    {% if product.selected_or_first_available_variant.inventory_quantity < 20 %}
+<!--                     {% if product.selected_or_first_available_variant.inventory_quantity < 20 %}
                     max="{{ product.selected_or_first_available_variant.inventory_quantity }}"
-                    {% endif %}
+                    {% endif %} -->
                     max="20"
                   >
                 <button class="quantity__button no-js-hidden" name="plus" type="button">
