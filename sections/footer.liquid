@@ -51,7 +51,22 @@
             assign footer_grid_class = 'grid--3-col-tablet'
           endif
         -%}
+
         <div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet {{ footer_grid_class }}">
+
+          <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
+            <h2 class="footer-block__heading">Information</h2>
+            <div class="footer-block__details-content rte">
+              henlo
+            </div>
+            <ul class="footer-block__details-content list-unstyled">
+              <li>
+                {% comment %} <a class="link link--text list-menu__item list-menu__item--link"></a> {% endcomment %}
+                <div>address</div>
+              </li>
+            </ul>
+          </div>
+
           {%- for block in section.blocks -%}
             <div class="footer-block grid__item{% if block.type == 'link_list' and block.settings.heading != blank %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}
@@ -95,6 +110,20 @@
                 {%- endcase -%}
             </div>
           {%- endfor -%}
+
+          <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
+            <h2 class="footer-block__heading">Download</h2>
+            <div class="footer-block__details-content rte">
+              hello
+            </div>
+            <ul class="footer-block__details-content list-unstyled">
+              <li>
+                <a class="link link--text list-menu__item list-menu__item--link">{% render 'google-play'%}</a>
+                <a class="link link--text list-menu__item list-menu__item--link">{% render 'app-store' %}</a>
+              </li>
+            </ul>
+          </div>
+
       {%- endif -%}
 
       <div class="footer-block--newsletter">
@@ -227,7 +256,7 @@
 
   <div class="footer__content-bottom">
     <div class="footer__content-bottom-wrapper page-width">
-<!--       <div class="footer__column footer__localization isolate">
+      <div class="footer__column footer__localization isolate">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}
           <noscript>
             {%- form 'localization', id: 'FooterCountryFormNoScript', class: 'localization-form' -%}
@@ -316,7 +345,7 @@
             {%- endform -%}
           </localization-form>
         {%- endif -%}
-      </div> -->
+      </div>
       <div class="footer__column footer__column--info">
         {%- if section.settings.payment_enable -%}
           <div class="footer__payment">
