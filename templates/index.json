@@ -518,8 +518,8 @@
         "165279162725500fb1-1"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "layout": "grid",
+        "slide_height": "small",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
