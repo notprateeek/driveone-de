@@ -134,10 +134,18 @@
               "heading": "Support",
               "menu": "footer"
             }
+          },
+          "5ea8aee4-22ee-4a41-ad8c-8e748000c77a": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Data protection",
+              "menu": "data-protection"
+            }
           }
         },
         "block_order": [
-          "dea30301-763f-4958-a8f4-fe2190b8f039"
+          "dea30301-763f-4958-a8f4-fe2190b8f039",
+          "5ea8aee4-22ee-4a41-ad8c-8e748000c77a"
         ],
         "settings": {
           "color_scheme": "background-1",
