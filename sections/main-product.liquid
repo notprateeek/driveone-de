@@ -277,6 +277,7 @@
                   <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
                   {% render 'icon-minus' %}
                 </button>
+                {% if product.selected_or_first_available_variant.inventory_quantity < 20 %}
                 <input class="quantity__input"
                     type="number"
                     name="quantity"
@@ -284,7 +285,16 @@
                     min="1"
                     value="1"
                     form="{{ product_form_id }}"
-                    
+                    max="{{ product.selected_or_first_available_variant.inventory_quantity }}"
+                  >
+                {% endif %}
+                <input class="quantity__input"
+                    type="number"
+                    name="quantity"
+                    id="Quantity-{{ section.id }}"
+                    min="1"
+                    value="1"
+                    form="{{ product_form_id }}"
                     max="20"
                   >
                 <button class="quantity__button no-js-hidden" name="plus" type="button">
