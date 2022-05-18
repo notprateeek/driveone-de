@@ -342,7 +342,7 @@
         "32688fc9-2df0-48f8-b926-9189c17ae9fd": {
           "type": "button",
           "settings": {
-            "button_label": "Traffic alarm",
+            "button_label": "Free subscription",
             "button_link": "",
             "button_style_secondary": true
           }
@@ -350,7 +350,7 @@
         "200c87a3-6f9a-4699-8f24-485d2d4c9845": {
           "type": "button",
           "settings": {
-            "button_label": "The Danish Road Directorate",
+            "button_label": "User-friendly",
             "button_link": "",
             "button_style_secondary": true
           }
@@ -358,7 +358,7 @@
         "63effb09-f807-46a9-9cd3-0a4748e45dfb": {
           "type": "button",
           "settings": {
-            "button_label": "Flash",
+            "button_label": "Checked and double checked",
             "button_link": "",
             "button_style_secondary": true
           }
@@ -366,7 +366,7 @@
         "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9": {
           "type": "button",
           "settings": {
-            "button_label": "Flash Master",
+            "button_label": "Part of a community",
             "button_link": "",
             "button_style_secondary": true
           }
@@ -374,7 +374,7 @@
         "cf548181-f5f6-491f-afb6-31d13bda201d": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Uncompromising in design",
             "button_link": "",
             "button_style_secondary": true
           }
