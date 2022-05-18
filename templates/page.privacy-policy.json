@@ -21,11 +21,19 @@
           "settings": {
             "text": "<p>Our contact information is:<\/p>"
           }
+        },
+        "e553db18-a44d-4beb-a2d9-393988be0294": {
+          "type": "heading",
+          "settings": {
+            "heading": "Needit ApS",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
         "16528792997ef0cb68-1",
-        "aaf3b451-4ad2-4845-9b72-f478b2de8bb7"
+        "aaf3b451-4ad2-4845-9b72-f478b2de8bb7",
+        "e553db18-a44d-4beb-a2d9-393988be0294"
       ],
       "settings": {
         "color_scheme": "background-1",
