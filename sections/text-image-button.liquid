@@ -69,17 +69,26 @@
               {% render 'up-to-date' %}
               <span>Always up to date</span>
             </a>
-          
-<!--           {%- for block in section.blocks -%}
-            {% case block.type %}
-              {%- when 'button' -%}
-                {%- if block.settings.button_label != blank -%}
-                  <a class="cursor button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
-                    {{ block.settings.button_label | escape }}
-                  </a>
-                {%- endif -%}
-            {%- endcase -%}
-          {%- endfor -%} -->
+            <a class="cursor button button--secondary icon-button">
+              {% render 'up-to-date' %}
+              <span>Always up to date</span>
+            </a>
+            <a class="cursor button button--secondary icon-button">
+              {% render 'up-to-date' %}
+              <span>Always up to date</span>
+            </a>
+            <a class="cursor button button--secondary icon-button">
+              {% render 'up-to-date' %}
+              <span>Always up to date</span>
+            </a>
+            <a class="cursor button button--secondary icon-button">
+              {% render 'up-to-date' %}
+              <span>Always up to date</span>
+            </a>
+            <a class="cursor button button--secondary icon-button">
+              {% render 'up-to-date' %}
+              <span>Always up to date</span>
+            </a>
         </div>
         <div class="rings-top-margin">{% render 'rings' %}</div>
       </div>
