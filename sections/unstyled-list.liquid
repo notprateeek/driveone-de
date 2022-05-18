@@ -31,7 +31,9 @@
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
           {%- when 'button' -%}
-      		<div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.button_label }}</div>
+      		<li>
+      		 <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.button_label }}</div>
+      		</li>
         {%- endcase -%}
       {%- endfor -%}
     </div>
