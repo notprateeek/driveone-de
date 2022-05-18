@@ -249,13 +249,20 @@
           "settings": {
             "text": "<p>If you agree, Needit may share part of your personal data with our partner companies so that they may offer you their products and services.<\/p>"
           }
+        },
+        "2f7d5915-b76e-4fc7-8ded-649325dd7751": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Any sharing with those partner companies will require your specific consent for each company. Your consent to the Privacy Policy does not constitute such consent.<\/p>"
+          }
         }
       },
       "block_order": [
         "1652880051e827242e-1",
         "22bb5ccd-b10c-4b14-b573-d3081b4d5f8d",
         "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a",
-        "8dbab592-fc57-4fe1-9f9d-1836f7b579a9"
+        "8dbab592-fc57-4fe1-9f9d-1836f7b579a9",
+        "2f7d5915-b76e-4fc7-8ded-649325dd7751"
       ],
       "settings": {
         "color_scheme": "background-1",
