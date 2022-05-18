@@ -464,10 +464,40 @@
           "settings": {
             "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
           }
+        },
+        "9732d273-4246-4263-8f1d-2b33fc6bc9a8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Privacy policies of other websites",
+            "heading_size": "h2"
+          }
+        },
+        "9e9fc8ae-c0f7-4f50-a9e9-8c3a65b5d471": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Website may contain links to other websites. Our App may include links to other Apps. Our Privacy Policy applies only to our Website and our App and Device, so if you click on a link to another website or app, you should read their privacy policy.<\/p>"
+          }
+        },
+        "2c681cfc-9b3a-4034-90fd-09ed8ab62e82": {
+          "type": "heading",
+          "settings": {
+            "heading": "Changes to our privacy policy",
+            "heading_size": "h2"
+          }
+        },
+        "4f514464-537d-4c70-a5a5-1ef82e57a719": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We keep our privacy policy under regular review and places any updates on the Website and in the App. This privacy policy was last updated on April 30, 2022.<\/p>"
+          }
         }
       },
       "block_order": [
-        "1652903052f6184fff-1"
+        "1652903052f6184fff-1",
+        "9732d273-4246-4263-8f1d-2b33fc6bc9a8",
+        "9e9fc8ae-c0f7-4f50-a9e9-8c3a65b5d471",
+        "2c681cfc-9b3a-4034-90fd-09ed8ab62e82",
+        "4f514464-537d-4c70-a5a5-1ef82e57a719"
       ],
       "settings": {
         "color_scheme": "background-1",
