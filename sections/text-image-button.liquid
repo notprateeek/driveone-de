@@ -64,9 +64,11 @@
             {% case block.type %}
               {%- when 'button' -%}
                 {%- if block.settings.button_label != blank -%}
-                  <a class="cursor button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
-                    {{ block.settings.button_label | escape }}
-                  </a>
+          		  <div class=icon-button>
+                    <a class="cursor button{% if block.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ block.shopify_attributes }}>
+                      {{ block.settings.button_label | escape }}
+                    </a>
+          		  </div>
                 {%- endif -%}
             {%- endcase -%}
           {%- endfor -%}
