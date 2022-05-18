@@ -28,12 +28,19 @@
             "heading": "Needit ApS",
             "heading_size": "h2"
           }
+        },
+        "0c0a5971-083b-4fb2-a863-8c1569031da6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Danish registration number: 31756820<br\/>Address: Hammerholmen 18, 2650 Hvidovre, Denmark<br\/>Email: support@driveone.eu<br\/>Phone (Monday to Friday between 10 AM and 2 PM CET): +45 70 22 15 35<\/p>"
+          }
         }
       },
       "block_order": [
         "16528792997ef0cb68-1",
         "aaf3b451-4ad2-4845-9b72-f478b2de8bb7",
-        "e553db18-a44d-4beb-a2d9-393988be0294"
+        "e553db18-a44d-4beb-a2d9-393988be0294",
+        "0c0a5971-083b-4fb2-a863-8c1569031da6"
       ],
       "settings": {
         "color_scheme": "background-1",
