@@ -86,12 +86,19 @@
             "heading": "What personal data do we collect?",
             "heading_size": "h2"
           }
+        },
+        "28d25a86-99f1-4d2c-8545-36f1306545a8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The App collects the following personal data:<\/p>"
+          }
         }
       },
       "block_order": [
         "1652879765f1f1a31b-0",
         "1652879765f1f1a31b-1",
-        "4b340965-f193-45a7-b510-348caaed2922"
+        "4b340965-f193-45a7-b510-348caaed2922",
+        "28d25a86-99f1-4d2c-8545-36f1306545a8"
       ],
       "settings": {
         "color_scheme": "background-1",
