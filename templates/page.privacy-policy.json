@@ -243,12 +243,19 @@
           "settings": {
             "text": "<p>We also share your device ID and your geolocation paired with a certain time with Trafik Alarm, a database run by Geo24 ApS, a company with the same ultimate main shareholder as Needit. Like us, Trafik Alarm will then share the information of geolocation and time with other drivers, so that they receive the Speed Warning or Traffic Warning. Your device ID, however, will not be shared with other drivers.<\/p>"
           }
+        },
+        "8dbab592-fc57-4fe1-9f9d-1836f7b579a9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you agree, Needit may share part of your personal data with our partner companies so that they may offer you their products and services.<\/p>"
+          }
         }
       },
       "block_order": [
         "1652880051e827242e-1",
         "22bb5ccd-b10c-4b14-b573-d3081b4d5f8d",
-        "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a"
+        "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a",
+        "8dbab592-fc57-4fe1-9f9d-1836f7b579a9"
       ],
       "settings": {
         "color_scheme": "background-1",
