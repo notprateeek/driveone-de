@@ -399,6 +399,34 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16529029058473159c": {
+      "type": "rich-text",
+      "blocks": {
+        "16529029052d3ced55-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What types of cookies do we use?",
+            "heading_size": "h2"
+          }
+        },
+        "16529029052d3ced55-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There are a number of different types of cookies, however, our Website uses:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16529029052d3ced55-0",
+        "16529029052d3ced55-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -412,6 +440,7 @@
     "16528800124fea2c84",
     "1652880051cdc43b41",
     "16529026917879e63f",
-    "1652902788848513d1"
+    "1652902788848513d1",
+    "16529029058473159c"
   ]
 }
