@@ -125,6 +125,16 @@
   }
 }
 
+/* 550px */
+@media screen and (max-width: 550px) {
+  .tib-button-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
 /* 480px */
 @media screen and (max-width: 480px) {
   .tib-button-container {
