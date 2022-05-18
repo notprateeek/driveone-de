@@ -126,12 +126,33 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1652879892b14c0231": {
+      "type": "rich-text",
+      "blocks": {
+        "1652879892f1a2f508-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Device collects the following personal data:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652879892f1a2f508-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1652879299d9b8f53c",
     "1652879765bdc66028",
-    "1652879845ca6d2193"
+    "1652879845ca6d2193",
+    "1652879892b14c0231"
   ]
 }
