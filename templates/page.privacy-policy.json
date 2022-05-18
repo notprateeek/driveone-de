@@ -74,24 +74,10 @@
             "heading": "Topics:",
             "heading_size": "h2"
           }
-        },
-        "16529070173bd390b0-0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>How you agree to the Privacy Policy<\/p>"
-          }
-        },
-        "85a0cfa2-6496-4211-a2d9-b0befd9d04a4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>What personal data do we collect?<\/p>"
-          }
         }
       },
       "block_order": [
-        "09a075e0-6482-433e-8809-fbb33fffcfc5",
-        "16529070173bd390b0-0",
-        "85a0cfa2-6496-4211-a2d9-b0befd9d04a4"
+        "09a075e0-6482-433e-8809-fbb33fffcfc5"
       ],
       "settings": {
         "color_scheme": "background-1",
