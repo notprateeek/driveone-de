@@ -281,6 +281,12 @@
             "heading": "Legal grounds for collection, storage and processing of the information",
             "heading_size": "h2"
           }
+        },
+        "04b3123f-30c3-4056-9126-14abd29c4e09": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Needit collects, stores and processes your information on one or more of the following legal grounds:<\/p>"
+          }
         }
       },
       "block_order": [
@@ -292,7 +298,8 @@
         "973dfa1c-b89f-4a27-86d9-2dfe3018f24a",
         "eb85a58b-e5dd-4e94-95ea-95c90fedc861",
         "e7f12375-2ad0-431d-8734-d19c409511f4",
-        "07548799-7857-4fe7-b33b-6403ccd322e0"
+        "07548799-7857-4fe7-b33b-6403ccd322e0",
+        "04b3123f-30c3-4056-9126-14abd29c4e09"
       ],
       "settings": {
         "color_scheme": "background-1",
