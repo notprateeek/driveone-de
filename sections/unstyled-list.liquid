@@ -106,6 +106,38 @@
     }
   ],
   "blocks": [
+	{
+      "type": "heading",
+      "name": "t:sections.rich-text.blocks.heading.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "heading",
+          "default": "Talk about your brand",
+          "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+        },
+        {
+          "type": "select",
+          "id": "heading_size",
+          "options": [
+            {
+              "value": "h2",
+              "label": "t:sections.all.heading_size.options__1.label"
+            },
+            {
+              "value": "h1",
+              "label": "t:sections.all.heading_size.options__2.label"
+            },
+            {
+              "value": "h0",
+              "label": "t:sections.all.heading_size.options__3.label"
+            }
+          ],
+          "default": "h1",
+          "label": "t:sections.all.heading_size.label"
+        }
+      ]
+    },
     {
       "type": "text",
       "name": "t:sections.rich-text.blocks.text.name",
@@ -123,7 +155,9 @@
     {
       "name": "t:sections.rich-text.presets.name",
       "blocks": [
-        
+		{
+          "type": "heading"
+        },
         {
           "type": "text"
         }
