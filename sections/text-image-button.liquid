@@ -10,6 +10,10 @@
 	cursor: default !important;
   }
 
+  .icon-button {
+	display: flex;
+  }
+
   .rings-top-margin {
 	margin-top: 1em;
   }
@@ -60,7 +64,10 @@
     <div class="image-with-text__text-item grid__item">
       <div id="ImageWithText--{{ section.id }}" class="image-with-text__content image-with-text__content--{{ section.settings.desktop_content_position }} image-with-text__content--desktop-{{ section.settings.desktop_content_alignment }} image-with-text__content--mobile-{{ section.settings.mobile_content_alignment }} image-with-text__content--{{ section.settings.height }} gradient color-{{ section.settings.color_scheme }} content-container">
         <div class="tib-button-container">
-          {%- for block in section.blocks -%}
+          
+          <div class="icons-button"></div>
+          
+<!--           {%- for block in section.blocks -%}
             {% case block.type %}
               {%- when 'button' -%}
                 {%- if block.settings.button_label != blank -%}
@@ -69,7 +76,7 @@
                   </a>
                 {%- endif -%}
             {%- endcase -%}
-          {%- endfor -%}
+          {%- endfor -%} -->
         </div>
         <div class="rings-top-margin">{% render 'rings' %}</div>
       </div>
