@@ -28,12 +28,10 @@
         {%- case block.type -%}
       	  {%- when 'heading' -%}
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
-          <ul>
             {%- when 'text' -%}
             <li>
               <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             </li>
-      	  </ul>
         {%- endcase -%}
       {%- endfor -%}
     </div>
