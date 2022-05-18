@@ -334,7 +334,7 @@
         "e35dbb4d-2e34-4f86-b315-322a71518eeb": {
           "type": "button",
           "settings": {
-            "button_label": "+ 5 mil. users",
+            "button_label": "Always up to date",
             "button_link": "",
             "button_style_secondary": true
           }
@@ -370,6 +370,14 @@
             "button_link": "",
             "button_style_secondary": true
           }
+        },
+        "cf548181-f5f6-491f-afb6-31d13bda201d": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
@@ -378,7 +386,8 @@
         "32688fc9-2df0-48f8-b926-9189c17ae9fd",
         "200c87a3-6f9a-4699-8f24-485d2d4c9845",
         "63effb09-f807-46a9-9cd3-0a4748e45dfb",
-        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9"
+        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9",
+        "cf548181-f5f6-491f-afb6-31d13bda201d"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.42.14_AM.png",
