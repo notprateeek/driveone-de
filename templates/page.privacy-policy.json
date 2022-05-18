@@ -146,6 +146,34 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16528799253345a284": {
+      "type": "rich-text",
+      "blocks": {
+        "1652879925ae7db285-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How do we collect your personal data?",
+            "heading_size": "h2"
+          }
+        },
+        "1652879925ae7db285-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You directly provide Needit with most of the personal data we collect. We collect personal data and process and store personal data when you:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652879925ae7db285-0",
+        "1652879925ae7db285-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -153,6 +181,7 @@
     "1652879299d9b8f53c",
     "1652879765bdc66028",
     "1652879845ca6d2193",
-    "1652879892b14c0231"
+    "1652879892b14c0231",
+    "16528799253345a284"
   ]
 }
