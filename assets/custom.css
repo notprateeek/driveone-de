@@ -137,11 +137,6 @@
 
 /* 480px */
 @media screen and (max-width: 480px) {
-  .tib-button-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
-  
   .custom-media > *:not(.zoom):not(.deferred-media__poster-button),
   .custom-media model-viewer {
     display: block;
@@ -151,13 +146,5 @@
     left: 10%;
     height: 80%;
     width: 80%;
-  }
-}
-
-/* 375px */
-@media screen and (max-width: 375px) {
-  .tib-button-container {
-    display: grid;
-    grid-template-columns: 1fr;
   }
 }
