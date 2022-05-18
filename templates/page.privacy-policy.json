@@ -74,10 +74,52 @@
             "heading": "Topics:",
             "heading_size": "h2"
           }
+        },
+        "9065f579-5707-45e4-b48f-9e1aa5864802": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How you agree to the Privacy Policy<\/p>"
+          }
+        },
+        "aa3888a0-5d79-433b-80e5-f379219e7fc5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What personal data do we collect?<\/p>"
+          }
+        },
+        "b9892bcc-2796-4f2f-b3bd-7694df245797": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How do we collect your personal data?<\/p>"
+          }
+        },
+        "d80adb52-c105-4194-ae29-841c2d73a704": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How will we use your personal data?<\/p>"
+          }
+        },
+        "97055408-bddb-4fc9-8e93-6e780769ff02": {
+          "type": "text",
+          "settings": {
+            "text": "<p>How do we store your personal data?<\/p>"
+          }
+        },
+        "5d4c2dd7-779d-4765-b06f-27f162d3507a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Legal grounds for collection, storage and processing of the information<\/p>"
+          }
         }
       },
       "block_order": [
-        "09a075e0-6482-433e-8809-fbb33fffcfc5"
+        "09a075e0-6482-433e-8809-fbb33fffcfc5",
+        "9065f579-5707-45e4-b48f-9e1aa5864802",
+        "aa3888a0-5d79-433b-80e5-f379219e7fc5",
+        "b9892bcc-2796-4f2f-b3bd-7694df245797",
+        "d80adb52-c105-4194-ae29-841c2d73a704",
+        "97055408-bddb-4fc9-8e93-6e780769ff02",
+        "5d4c2dd7-779d-4765-b06f-27f162d3507a"
       ],
       "settings": {
         "color_scheme": "background-1",
