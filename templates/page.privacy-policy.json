@@ -210,20 +210,45 @@
           "settings": {
             "text": "<p>Needit collects your personal data so that we can:<\/p>"
           }
-        },
-        "1652880012cda550b6-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "1652880012cda550b6-0",
-        "1652880012cda550b6-1",
-        "1652880012cda550b6-2"
+        "1652880012cda550b6-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1652880051cdc43b41": {
+      "type": "rich-text",
+      "blocks": {
+        "1652880051e827242e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We will only e-mail you special offers if you have explicitly and separately agreed to it. Your consent to the Privacy Policy does not constitute such consent.<\/p>"
+          }
+        },
+        "22bb5ccd-b10c-4b14-b573-d3081b4d5f8d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you provide Traffic Warnings and Speed Warnings, we store and process your device ID and your geolocation paired with a certain time. Your device ID, however, will not be shared with other drivers.<\/p>"
+          }
+        },
+        "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We also share your device ID and your geolocation paired with a certain time with Trafik Alarm, a database run by Geo24 ApS, a company with the same ultimate main shareholder as Needit. Like us, Trafik Alarm will then share the information of geolocation and time with other drivers, so that they receive the Speed Warning or Traffic Warning. Your device ID, however, will not be shared with other drivers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652880051e827242e-1",
+        "22bb5ccd-b10c-4b14-b573-d3081b4d5f8d",
+        "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -241,6 +266,7 @@
     "1652879892b14c0231",
     "16528799253345a284",
     "1652879973e1e34000",
-    "16528800124fea2c84"
+    "16528800124fea2c84",
+    "1652880051cdc43b41"
   ]
 }
