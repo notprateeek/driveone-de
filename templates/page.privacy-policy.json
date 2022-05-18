@@ -342,6 +342,48 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1652902788848513d1": {
+      "type": "rich-text",
+      "blocks": {
+        "1652902788b0c48be2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the above contact information.<\/p>"
+          }
+        },
+        "1652902788b0c48be2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cookies",
+            "heading_size": "h2"
+          }
+        },
+        "32dd7eec-1ae6-4772-b6d3-b45dc70f6994": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our Websites, we may collect information from you automatically through cookies or similar technology.<\/p>"
+          }
+        },
+        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For further information, visit allaboutcookies.org.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652902788b0c48be2-1",
+        "1652902788b0c48be2-0",
+        "32dd7eec-1ae6-4772-b6d3-b45dc70f6994",
+        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -354,6 +396,7 @@
     "1652879973e1e34000",
     "16528800124fea2c84",
     "1652880051cdc43b41",
-    "16529026917879e63f"
+    "16529026917879e63f",
+    "1652902788848513d1"
   ]
 }
