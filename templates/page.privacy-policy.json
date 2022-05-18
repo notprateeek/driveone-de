@@ -370,13 +370,28 @@
           "settings": {
             "text": "<p>For further information, visit allaboutcookies.org.<\/p>"
           }
+        },
+        "d5dcf296-b22a-4cf4-9976-34b27721003e": {
+          "type": "heading",
+          "settings": {
+            "heading": "How do we use cookies?",
+            "heading_size": "h2"
+          }
+        },
+        "3e9137b0-addf-435f-9fa7-770cb7c3cb52": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We use cookies in a range of ways to improve your experience on our Website, including:<\/p>"
+          }
         }
       },
       "block_order": [
         "1652902788b0c48be2-1",
         "1652902788b0c48be2-0",
         "32dd7eec-1ae6-4772-b6d3-b45dc70f6994",
-        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f"
+        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f",
+        "d5dcf296-b22a-4cf4-9976-34b27721003e",
+        "3e9137b0-addf-435f-9fa7-770cb7c3cb52"
       ],
       "settings": {
         "color_scheme": "background-1",
