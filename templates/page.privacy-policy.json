@@ -48,13 +48,6 @@
           "settings": {
             "text": "<p>This privacy policy will explain how our organisation uses the personal data we collect from you when you use the App, Website and Device.<\/p>"
           }
-        },
-        "4f0f0968-cf75-45dc-ba79-c42dc423deec": {
-          "type": "heading",
-          "settings": {
-            "heading": "Topics:",
-            "heading_size": "h2"
-          }
         }
       },
       "block_order": [
@@ -63,8 +56,7 @@
         "aaf3b451-4ad2-4845-9b72-f478b2de8bb7",
         "e553db18-a44d-4beb-a2d9-393988be0294",
         "0c0a5971-083b-4fb2-a863-8c1569031da6",
-        "5780950c-b180-468f-8073-6150c2ccfaa9",
-        "4f0f0968-cf75-45dc-ba79-c42dc423deec"
+        "5780950c-b180-468f-8073-6150c2ccfaa9"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -86,7 +78,7 @@
         "16529070173bd390b0-0": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>How you agree to the Privacy Policy<\/p>"
           }
         }
       },
