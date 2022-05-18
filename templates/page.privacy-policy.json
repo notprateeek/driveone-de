@@ -63,10 +63,39 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1652879765bdc66028": {
+      "type": "rich-text",
+      "blocks": {
+        "1652879765f1f1a31b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How you agree to the Privacy Policy",
+            "heading_size": "h2"
+          }
+        },
+        "1652879765f1f1a31b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By accessing and using the Website you consent to this Privacy Policy. If you do not agree with this Privacy Policy, you must immediately leave the Website and cease using it and delete your account if you have registered such. When downloading and installing the App, or at any point later when the Privacy Policy has been updated, you have checked a box agreeing to the Privacy Policy. For further information on the terms on which you may use the Website, the App and the Device, please also see Needit’s Terms of Use.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652879765f1f1a31b-0",
+        "1652879765f1f1a31b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "1652879299d9b8f53c"
+    "1652879299d9b8f53c",
+    "1652879765bdc66028"
   ]
 }
