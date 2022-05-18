@@ -40,6 +40,13 @@
           "settings": {
             "text": "<p>This privacy policy will explain how our organisation uses the personal data we collect from you when you use the App, Website and Device.<\/p>"
           }
+        },
+        "4f0f0968-cf75-45dc-ba79-c42dc423deec": {
+          "type": "heading",
+          "settings": {
+            "heading": "Topics:",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -47,7 +54,8 @@
         "aaf3b451-4ad2-4845-9b72-f478b2de8bb7",
         "e553db18-a44d-4beb-a2d9-393988be0294",
         "0c0a5971-083b-4fb2-a863-8c1569031da6",
-        "5780950c-b180-468f-8073-6150c2ccfaa9"
+        "5780950c-b180-468f-8073-6150c2ccfaa9",
+        "4f0f0968-cf75-45dc-ba79-c42dc423deec"
       ],
       "settings": {
         "color_scheme": "background-1",
