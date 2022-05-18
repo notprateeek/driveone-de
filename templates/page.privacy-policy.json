@@ -261,6 +261,13 @@
           "settings": {
             "text": "<p>When Needit processes your order, we may send your personal data to, and also use the resulting information from, the app store and\/or payment pro<\/p>"
           }
+        },
+        "eb85a58b-e5dd-4e94-95ea-95c90fedc861": {
+          "type": "heading",
+          "settings": {
+            "heading": "How do we store your personal data?",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -269,7 +276,8 @@
         "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a",
         "8dbab592-fc57-4fe1-9f9d-1836f7b579a9",
         "2f7d5915-b76e-4fc7-8ded-649325dd7751",
-        "973dfa1c-b89f-4a27-86d9-2dfe3018f24a"
+        "973dfa1c-b89f-4a27-86d9-2dfe3018f24a",
+        "eb85a58b-e5dd-4e94-95ea-95c90fedc861"
       ],
       "settings": {
         "color_scheme": "background-1",
