@@ -194,6 +194,43 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16528800124fea2c84": {
+      "type": "rich-text",
+      "blocks": {
+        "1652880012cda550b6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How will we use your personal data?",
+            "heading_size": "h2"
+          }
+        },
+        "1652880012cda550b6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Needit collects your personal data so that we can:<\/p>"
+          }
+        },
+        "1652880012cda550b6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1652880012cda550b6-0",
+        "1652880012cda550b6-1",
+        "1652880012cda550b6-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -203,6 +240,7 @@
     "1652879845ca6d2193",
     "1652879892b14c0231",
     "16528799253345a284",
-    "1652879973e1e34000"
+    "1652879973e1e34000",
+    "16528800124fea2c84"
   ]
 }
