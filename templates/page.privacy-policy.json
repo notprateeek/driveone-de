@@ -490,6 +490,19 @@
           "settings": {
             "text": "<p>We keep our privacy policy under regular review and places any updates on the Website and in the App. This privacy policy was last updated on April 30, 2022.<\/p>"
           }
+        },
+        "776f0dee-0b96-483c-b10b-bcea688c7b6d": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to contact us",
+            "heading_size": "h2"
+          }
+        },
+        "19965598-1695-46fa-9f79-8ecdda266b6d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have any questions about Needit’s privacy policy, the personal data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us using the above contact information.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -497,7 +510,9 @@
         "9732d273-4246-4263-8f1d-2b33fc6bc9a8",
         "9e9fc8ae-c0f7-4f50-a9e9-8c3a65b5d471",
         "2c681cfc-9b3a-4034-90fd-09ed8ab62e82",
-        "4f514464-537d-4c70-a5a5-1ef82e57a719"
+        "4f514464-537d-4c70-a5a5-1ef82e57a719",
+        "776f0dee-0b96-483c-b10b-bcea688c7b6d",
+        "19965598-1695-46fa-9f79-8ecdda266b6d"
       ],
       "settings": {
         "color_scheme": "background-1",
