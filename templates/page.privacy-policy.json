@@ -316,10 +316,25 @@
           "settings": {
             "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
           }
+        },
+        "ad219627-1948-4034-83c8-dd7e2200c782": {
+          "type": "heading",
+          "settings": {
+            "heading": "What are your data protection rights?",
+            "heading_size": "h2"
+          }
+        },
+        "13765152-f982-4db1-b71f-e8a6efb13b8e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We would like to make sure you are fully aware of all of your data protection rights pursuant to Regulation (EU) 2016\/679 (GDPR). Every user is entitled to the following:<\/p>"
+          }
         }
       },
       "block_order": [
-        "1652902691889551d2-1"
+        "1652902691889551d2-1",
+        "ad219627-1948-4034-83c8-dd7e2200c782",
+        "13765152-f982-4db1-b71f-e8a6efb13b8e"
       ],
       "settings": {
         "color_scheme": "background-1",
