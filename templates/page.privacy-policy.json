@@ -307,6 +307,26 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16529026917879e63f": {
+      "type": "rich-text",
+      "blocks": {
+        "1652902691889551d2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1652902691889551d2-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -318,6 +338,7 @@
     "16528799253345a284",
     "1652879973e1e34000",
     "16528800124fea2c84",
-    "1652880051cdc43b41"
+    "1652880051cdc43b41",
+    "16529026917879e63f"
   ]
 }
