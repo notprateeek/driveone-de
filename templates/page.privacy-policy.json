@@ -153,10 +153,26 @@
             "text": "<p>The Website collects the following personal data:<\/p>"
           }
         },
+        "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
           "type": "text",
           "settings": {
             "text": "<p>The Device collects the following personal data:<\/p>"
+          }
+        },
+        "004ceae5-88d5-453c-aedc-e5b962f7f927": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
@@ -165,7 +181,9 @@
         "1652937294cdb99af0-1",
         "1652937294cdb99af0-2",
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
-        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730"
+        "ce1e703c-6dbb-4d8f-a983-a07a24485499",
+        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
+        "004ceae5-88d5-453c-aedc-e5b962f7f927"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -174,38 +192,31 @@
         "padding_bottom": 52
       }
     },
-    "16528799253345a284": {
-      "type": "rich-text",
+    "16529374677211fcb9": {
+      "type": "unstyled-list",
       "blocks": {
-        "1652879925ae7db285-0": {
+        "165293746700f955f6-0": {
           "type": "heading",
           "settings": {
             "heading": "How do we collect your personal data?",
             "heading_size": "h2"
           }
         },
-        "1652879925ae7db285-1": {
+        "165293746700f955f6-1": {
           "type": "text",
           "settings": {
             "text": "<p>You directly provide Needit with most of the personal data we collect. We collect personal data and process and store personal data when you:<\/p>"
           }
-        }
-      },
-      "block_order": [
-        "1652879925ae7db285-0",
-        "1652879925ae7db285-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1652879973e1e34000": {
-      "type": "rich-text",
-      "blocks": {
-        "16528799720e349cd6-1": {
+        },
+        "165293746700f955f6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920": {
           "type": "text",
           "settings": {
             "text": "<p>Our app collects data about your location to provide Real time traffic information. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
@@ -213,7 +224,47 @@
         }
       },
       "block_order": [
-        "16528799720e349cd6-1"
+        "165293746700f955f6-0",
+        "165293746700f955f6-1",
+        "165293746700f955f6-2",
+        "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1652937594571fccd2": {
+      "type": "unstyled-list",
+      "blocks": {
+        "165293759480091f67-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How will we use your personal data?",
+            "heading_size": "h2"
+          }
+        },
+        "165293759480091f67-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Needit collects your personal data so that we can:<\/p>"
+          }
+        },
+        "165293759480091f67-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165293759480091f67-0",
+        "165293759480091f67-1",
+        "165293759480091f67-2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -570,8 +621,8 @@
     "1652937235838d516a",
     "1652879765bdc66028",
     "16529372941c6c27e8",
-    "16528799253345a284",
-    "1652879973e1e34000",
+    "16529374677211fcb9",
+    "1652937594571fccd2",
     "16528800124fea2c84",
     "1652880051cdc43b41",
     "16529026917879e63f",
