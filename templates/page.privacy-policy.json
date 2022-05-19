@@ -1119,6 +1119,12 @@
           "settings": {
             "text": "<p>Should you wish to report a complaint or if you feel that Needit has not addressed your concern in a satisfactory manner, you may contact the Datatilsynet:<\/p>"
           }
+        },
+        "f189a401-efe8-463e-9007-03599f9866f4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email: <a href=\"mailto:dt@datatilsynet.dk\">dt@datatilsynet.dk<\/a><\/p>"
+          }
         }
       },
       "block_order": [
@@ -1129,7 +1135,8 @@
         "776f0dee-0b96-483c-b10b-bcea688c7b6d",
         "19965598-1695-46fa-9f79-8ecdda266b6d",
         "2ab4c433-db79-49ec-be70-ab7eb783a516",
-        "63c0829a-0a8d-4d59-a384-55d73092c311"
+        "63c0829a-0a8d-4d59-a384-55d73092c311",
+        "f189a401-efe8-463e-9007-03599f9866f4"
       ],
       "settings": {
         "color_scheme": "background-1",
