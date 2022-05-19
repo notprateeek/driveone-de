@@ -753,11 +753,18 @@
           "settings": {
             "text": "<p>We would like to make sure you are fully aware of all of your data protection rights pursuant to Regulation (EU) 2016\/679 (GDPR). Every user is entitled to the following:<\/p>"
           }
+        },
+        "1c9353a5-675a-4d58-a188-6d4d7622b122": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The right to access<\/strong> – You have the right to request Needit for copies of your personal data.<\/p>"
+          }
         }
       },
       "block_order": [
         "ad219627-1948-4034-83c8-dd7e2200c782",
-        "13765152-f982-4db1-b71f-e8a6efb13b8e"
+        "13765152-f982-4db1-b71f-e8a6efb13b8e",
+        "1c9353a5-675a-4d58-a188-6d4d7622b122"
       ],
       "settings": {
         "color_scheme": "background-1",
