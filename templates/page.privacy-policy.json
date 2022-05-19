@@ -914,8 +914,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1652937905b2bb366d": {
@@ -937,7 +937,7 @@
         "16529379050a02754e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Google Chrome",
             "button_link": "",
             "button_style_secondary": false
           }
