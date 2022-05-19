@@ -1010,7 +1010,7 @@
         "a245ffa6-0727-4068-bcce-c5eaa24e7e4f": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/support.mozilla.org\/en-US\/kb\/enable-and-disable-cookies-website-preferences\">Firefox<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1018,7 +1018,7 @@
         "58c1e69b-9478-4659-b85c-ee543d927d47": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/blogs.opera.com\/news\/2015\/08\/how-to-manage-cookies-in-opera\/\">Opera<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1026,7 +1026,7 @@
         "539f38d4-536c-47d6-9780-14da94e2e77e": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/help.apple.com\/safari\/mac\/8.0\/#\/sfri11471\">Safari<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1034,7 +1034,7 @@
         "ff4ac62a-3b57-4565-a515-f006b1d4cd29": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/support.apple.com\/en-us\/HT201265\">Safari (IOS)<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
