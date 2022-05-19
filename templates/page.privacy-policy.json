@@ -281,6 +281,46 @@
             "button_style_secondary": false
           }
         },
+        "94265911-ff81-485f-bb6b-df948416b98a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Phone model, make and OS version",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "11d37e4b-3cf5-4a6a-b5e4-527334805769": {
+          "type": "button",
+          "settings": {
+            "button_label": "Battery consumption Statistics",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "9216bfc3-94d9-4bde-bef4-987a21885264": {
+          "type": "button",
+          "settings": {
+            "button_label": "Device ID number",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "18947c4c-3cec-4765-9d6b-f0920ea60af9": {
+          "type": "button",
+          "settings": {
+            "button_label": "E-mail",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8aa0dcc8-906e-44a9-b780-e17ed981ea54": {
+          "type": "button",
+          "settings": {
+            "button_label": "Password",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
           "type": "text",
           "settings": {
@@ -315,6 +355,11 @@
         "1652937294cdb99af0-1",
         "1652937294cdb99af0-2",
         "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87",
+        "94265911-ff81-485f-bb6b-df948416b98a",
+        "11d37e4b-3cf5-4a6a-b5e4-527334805769",
+        "9216bfc3-94d9-4bde-bef4-987a21885264",
+        "18947c4c-3cec-4765-9d6b-f0920ea60af9",
+        "8aa0dcc8-906e-44a9-b780-e17ed981ea54",
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
         "ce1e703c-6dbb-4d8f-a983-a07a24485499",
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
