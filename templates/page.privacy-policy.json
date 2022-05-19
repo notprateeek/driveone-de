@@ -672,8 +672,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529376702ac69110": {
@@ -695,7 +695,23 @@
         "165293767040b33b0e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "your consent;",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "53ff520f-465d-403b-8cb3-f50141246730": {
+          "type": "button",
+          "settings": {
+            "button_label": "it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "21b5ef2a-5a56-49d4-98a1-b77ea362d717": {
+          "type": "button",
+          "settings": {
+            "button_label": "it is necessary for compliance with a legal obligation to which we are subject.",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -711,13 +727,15 @@
         "165293767040b33b0e-0",
         "165293767040b33b0e-1",
         "165293767040b33b0e-2",
+        "53ff520f-465d-403b-8cb3-f50141246730",
+        "21b5ef2a-5a56-49d4-98a1-b77ea362d717",
         "3943abd1-f3c1-4d0c-b59e-09f8c19309f3"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529026917879e63f": {
@@ -744,8 +762,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1652902788848513d1": {
