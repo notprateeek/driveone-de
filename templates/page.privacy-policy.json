@@ -262,7 +262,7 @@
         "1652937294cdb99af0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The App collects the following personal data:<\/p>"
+            "text": "<p><strong>The App collects the following personal data:<\/strong><\/p>"
           }
         },
         "1652937294cdb99af0-2": {
@@ -324,7 +324,7 @@
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
           "type": "text",
           "settings": {
-            "text": "<p>The Website collects the following personal data:<\/p>"
+            "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
           }
         },
         "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
@@ -386,7 +386,7 @@
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
           "type": "text",
           "settings": {
-            "text": "<p>The Device collects the following personal data:<\/p>"
+            "text": "<p><strong>The Device collects the following personal data:<\/strong><\/p>"
           }
         },
         "004ceae5-88d5-453c-aedc-e5b962f7f927": {
