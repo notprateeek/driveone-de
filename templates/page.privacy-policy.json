@@ -777,6 +777,12 @@
           "settings": {
             "text": "<p><strong>The right to restrict processing<\/strong> – You have the right to request that Needit restricts the processing of your personal data, under certain conditions, such as if you have doubts about the accuracy of your personal data or have objected to Needit’s legitimate purpose for processing your personal data,<\/p>"
           }
+        },
+        "9ae9e0bb-c213-4610-b10a-5226a43d996b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The right to object to processing<\/strong> – You have the right to object to Needit’s processing of your personal data, under certain conditions such as if you have doubts about Needit’s legitimate interest in processing of your personal data,<\/p>"
+          }
         }
       },
       "block_order": [
@@ -785,7 +791,8 @@
         "1c9353a5-675a-4d58-a188-6d4d7622b122",
         "aaf5870a-3a45-45c3-96e9-21c326e5593f",
         "3e0a16e3-f268-44af-8ec1-51cae75fcf56",
-        "47781179-d7a8-4538-bfbd-75d15a560407"
+        "47781179-d7a8-4538-bfbd-75d15a560407",
+        "9ae9e0bb-c213-4610-b10a-5226a43d996b"
       ],
       "settings": {
         "color_scheme": "background-1",
