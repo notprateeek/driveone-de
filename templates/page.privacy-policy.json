@@ -273,34 +273,6 @@
         "padding_bottom": 52
       }
     },
-    "16528800124fea2c84": {
-      "type": "rich-text",
-      "blocks": {
-        "1652880012cda550b6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "How will we use your personal data?",
-            "heading_size": "h2"
-          }
-        },
-        "1652880012cda550b6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Needit collects your personal data so that we can:<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1652880012cda550b6-0",
-        "1652880012cda550b6-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1652880051cdc43b41": {
       "type": "rich-text",
       "blocks": {
@@ -352,19 +324,6 @@
           "settings": {
             "text": "<p>Needit securely stores your data at EU-central-1 Europe (Frankfurt).Needit will only keep your old pins data without your personal data associated with it. Once we receive a request from you  to delete your personal data we will delete it.<\/p>"
           }
-        },
-        "07548799-7857-4fe7-b33b-6403ccd322e0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Legal grounds for collection, storage and processing of the information",
-            "heading_size": "h2"
-          }
-        },
-        "04b3123f-30c3-4056-9126-14abd29c4e09": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Needit collects, stores and processes your information on one or more of the following legal grounds:<\/p>"
-          }
         }
       },
       "block_order": [
@@ -375,9 +334,51 @@
         "2f7d5915-b76e-4fc7-8ded-649325dd7751",
         "973dfa1c-b89f-4a27-86d9-2dfe3018f24a",
         "eb85a58b-e5dd-4e94-95ea-95c90fedc861",
-        "e7f12375-2ad0-431d-8734-d19c409511f4",
-        "07548799-7857-4fe7-b33b-6403ccd322e0",
-        "04b3123f-30c3-4056-9126-14abd29c4e09"
+        "e7f12375-2ad0-431d-8734-d19c409511f4"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16529376702ac69110": {
+      "type": "unstyled-list",
+      "blocks": {
+        "165293767040b33b0e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Legal grounds for collection, storage and processing of the information",
+            "heading_size": "h2"
+          }
+        },
+        "165293767040b33b0e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Needit collects, stores and processes your information on one or more of the following legal grounds:<\/p>"
+          }
+        },
+        "165293767040b33b0e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "3943abd1-f3c1-4d0c-b59e-09f8c19309f3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165293767040b33b0e-0",
+        "165293767040b33b0e-1",
+        "165293767040b33b0e-2",
+        "3943abd1-f3c1-4d0c-b59e-09f8c19309f3"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -389,12 +390,6 @@
     "16529026917879e63f": {
       "type": "rich-text",
       "blocks": {
-        "1652902691889551d2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
-          }
-        },
         "ad219627-1948-4034-83c8-dd7e2200c782": {
           "type": "heading",
           "settings": {
@@ -410,7 +405,6 @@
         }
       },
       "block_order": [
-        "1652902691889551d2-1",
         "ad219627-1948-4034-83c8-dd7e2200c782",
         "13765152-f982-4db1-b71f-e8a6efb13b8e"
       ],
@@ -448,28 +442,50 @@
           "settings": {
             "text": "<p>For further information, visit allaboutcookies.org.<\/p>"
           }
-        },
-        "d5dcf296-b22a-4cf4-9976-34b27721003e": {
-          "type": "heading",
-          "settings": {
-            "heading": "How do we use cookies?",
-            "heading_size": "h2"
-          }
-        },
-        "3e9137b0-addf-435f-9fa7-770cb7c3cb52": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We use cookies in a range of ways to improve your experience on our Website, including:<\/p>"
-          }
         }
       },
       "block_order": [
         "1652902788b0c48be2-1",
         "1652902788b0c48be2-0",
         "32dd7eec-1ae6-4772-b6d3-b45dc70f6994",
-        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f",
-        "d5dcf296-b22a-4cf4-9976-34b27721003e",
-        "3e9137b0-addf-435f-9fa7-770cb7c3cb52"
+        "15b8c4f3-1c0f-48a9-b987-daa6dce1005f"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16529377952e3facf1": {
+      "type": "unstyled-list",
+      "blocks": {
+        "165293779580778360-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How do we use cookies?",
+            "heading_size": "h2"
+          }
+        },
+        "165293779580778360-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We use cookies in a range of ways to improve your experience on our Website, including:<\/p>"
+          }
+        },
+        "165293779580778360-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165293779580778360-0",
+        "165293779580778360-1",
+        "165293779580778360-2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -623,10 +639,11 @@
     "16529372941c6c27e8",
     "16529374677211fcb9",
     "1652937594571fccd2",
-    "16528800124fea2c84",
     "1652880051cdc43b41",
+    "16529376702ac69110",
     "16529026917879e63f",
     "1652902788848513d1",
+    "16529377952e3facf1",
     "16529029058473159c",
     "165290299732951cdf",
     "165290305244c0d831"
