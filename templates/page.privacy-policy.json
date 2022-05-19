@@ -351,6 +351,38 @@
             "button_style_secondary": false
           }
         },
+        "03b94288-86d8-4056-a78f-6a1d8c60c7f5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Credit card data",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "98ea6e8d-2d31-4b79-baaf-a7eb400c2762": {
+          "type": "button",
+          "settings": {
+            "button_label": "Passord",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "64345c1f-26fb-413f-aad6-12ae535aedc8": {
+          "type": "button",
+          "settings": {
+            "button_label": "User Address",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "88f4c7e6-f8da-4ce7-8180-813effc6e265": {
+          "type": "button",
+          "settings": {
+            "button_label": "Operating System, browser version, user time zone and region",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
           "type": "text",
           "settings": {
@@ -380,6 +412,10 @@
         "ce1e703c-6dbb-4d8f-a983-a07a24485499",
         "1f57e680-448d-4a2f-8c18-4a55ef745443",
         "053afe02-76d9-4e7e-8c0e-0041aa27b4bb",
+        "03b94288-86d8-4056-a78f-6a1d8c60c7f5",
+        "98ea6e8d-2d31-4b79-baaf-a7eb400c2762",
+        "64345c1f-26fb-413f-aad6-12ae535aedc8",
+        "88f4c7e6-f8da-4ce7-8180-813effc6e265",
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
         "004ceae5-88d5-453c-aedc-e5b962f7f927"
       ],
