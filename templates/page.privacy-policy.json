@@ -82,11 +82,137 @@
             "button_link": "",
             "button_style_secondary": false
           }
+        },
+        "c9182351-ab02-463c-92d1-af63233d0657": {
+          "type": "button",
+          "settings": {
+            "button_label": "What personal data do we collect?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "88656fb9-d817-4857-9235-19f2fe98876f": {
+          "type": "button",
+          "settings": {
+            "button_label": "How do we collect your personal data?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "5aa8ad4a-4693-47a9-a432-627a5d34cd3e": {
+          "type": "button",
+          "settings": {
+            "button_label": "How will we use your personal data?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a1e7beb2-4db7-405c-a18c-5d54800f2fae": {
+          "type": "button",
+          "settings": {
+            "button_label": "How do we store your personal data?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "6977eb32-c4bb-43af-af54-98980f476d96": {
+          "type": "button",
+          "settings": {
+            "button_label": "Legal grounds for collection, storage and processing of the information",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "bc27c0cf-6d20-4b71-a2be-c2d8ceca4887": {
+          "type": "button",
+          "settings": {
+            "button_label": "What are your data protection rights?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "4f42d035-09ef-406b-a5b5-2a624acce52c": {
+          "type": "button",
+          "settings": {
+            "button_label": "What are cookies?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "458da05b-9cb7-4956-9c74-e8c1e23ebc3b": {
+          "type": "button",
+          "settings": {
+            "button_label": "How do we use cookies?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "683fb518-a166-4ac8-acf8-ad3814e93983": {
+          "type": "button",
+          "settings": {
+            "button_label": "What types of cookies do we use?",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "c41d54ed-c0aa-4727-a63d-1f16196030da": {
+          "type": "button",
+          "settings": {
+            "button_label": "How to manage your cookies",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "f7117ed8-6690-465f-8c34-e4f45e26af17": {
+          "type": "button",
+          "settings": {
+            "button_label": "Privacy policies of other websites",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "c25b5e5a-d519-4fd1-8564-bdf5e519a1d1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Changes to our privacy policy",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "588a9aae-b62d-44ad-8e9f-fa13391a4743": {
+          "type": "button",
+          "settings": {
+            "button_label": "How to contact us",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "7a8898d1-8326-4e47-a12f-e80092a37108": {
+          "type": "button",
+          "settings": {
+            "button_label": "How to contact the appropriate authorities",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "1652937235a1cb533f-0",
-        "1652937235a1cb533f-2"
+        "1652937235a1cb533f-2",
+        "c9182351-ab02-463c-92d1-af63233d0657",
+        "88656fb9-d817-4857-9235-19f2fe98876f",
+        "5aa8ad4a-4693-47a9-a432-627a5d34cd3e",
+        "a1e7beb2-4db7-405c-a18c-5d54800f2fae",
+        "6977eb32-c4bb-43af-af54-98980f476d96",
+        "bc27c0cf-6d20-4b71-a2be-c2d8ceca4887",
+        "4f42d035-09ef-406b-a5b5-2a624acce52c",
+        "458da05b-9cb7-4956-9c74-e8c1e23ebc3b",
+        "683fb518-a166-4ac8-acf8-ad3814e93983",
+        "c41d54ed-c0aa-4727-a63d-1f16196030da",
+        "f7117ed8-6690-465f-8c34-e4f45e26af17",
+        "c25b5e5a-d519-4fd1-8564-bdf5e519a1d1",
+        "588a9aae-b62d-44ad-8e9f-fa13391a4743",
+        "7a8898d1-8326-4e47-a12f-e80092a37108"
       ],
       "settings": {
         "color_scheme": "background-1",
