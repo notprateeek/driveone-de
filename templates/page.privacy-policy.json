@@ -789,6 +789,12 @@
           "settings": {
             "text": "<p><strong>The right to data portability<\/strong> – You have the right to request that Needit transfers the personal data that we have collected to another organization, or directly to you, under certain conditions.<\/p>"
           }
+        },
+        "c90d832a-8057-49fe-bd2c-e28c969a4fef": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Right to complain<\/strong> – You are entitled to file a complaint regarding Needit’s processing of your personal data at the relevant supervisory authority, cf. below.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -799,7 +805,8 @@
         "3e0a16e3-f268-44af-8ec1-51cae75fcf56",
         "47781179-d7a8-4538-bfbd-75d15a560407",
         "9ae9e0bb-c213-4610-b10a-5226a43d996b",
-        "7e8d80b4-3c36-487b-91ab-5a3ea125335e"
+        "7e8d80b4-3c36-487b-91ab-5a3ea125335e",
+        "c90d832a-8057-49fe-bd2c-e28c969a4fef"
       ],
       "settings": {
         "color_scheme": "background-1",
