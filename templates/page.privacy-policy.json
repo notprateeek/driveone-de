@@ -876,7 +876,7 @@
         "165293779580778360-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Keeping you signed in<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -884,7 +884,7 @@
         "f8654435-7730-4986-b65b-41425be758a7": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Understanding how you use our Website<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -892,7 +892,7 @@
         "45fde22b-20e1-4f77-8688-3fc23160012d": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Analytics<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -900,7 +900,7 @@
         "4b55d999-8c8d-42d4-88ab-ddc37b98aaf6": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Crash reporting<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -940,7 +940,7 @@
         "1652937850a8dca6e5-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Functionality – These cookies are used so that we recognize you on our Website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -948,7 +948,7 @@
         "4be2f2b2-0f27-4a29-9964-3c892005ca64": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Advertising – These cookies are used to collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device, and your IP address. We sometimes share some limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -986,7 +986,7 @@
         "16529379050a02754e-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/support.google.com\/chrome\/answer\/95647?hl=en\" title=\"https:\/\/support.google.com\/chrome\/answer\/95647?hl=en\">Google Chrome<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -994,7 +994,7 @@
         "cd7b221d-c63b-4522-b1f5-5586a6f876b1": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/support.microsoft.com\/en-us\/help\/17442\/windows-internet-explorer-delete-manage-cookies\">Internet Explorer<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1002,7 +1002,7 @@
         "58dd56e6-b9e1-4e15-ad7f-c7bb5bc9121d": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p><a href=\"https:\/\/privacy.microsoft.com\/en-us\/windows-10-microsoft-edge-and-privacy\">Microsoft Edge<\/a><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
