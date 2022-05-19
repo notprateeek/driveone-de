@@ -65,6 +65,36 @@
         "padding_bottom": 0
       }
     },
+    "1652937235838d516a": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1652937235a1cb533f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Topics:",
+            "heading_size": "h2"
+          }
+        },
+        "1652937235a1cb533f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1652937235a1cb533f-0",
+        "1652937235a1cb533f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1652879765bdc66028": {
       "type": "rich-text",
       "blocks": {
@@ -80,58 +110,50 @@
           "settings": {
             "text": "<p>By accessing and using the Website you consent to this Privacy Policy. If you do not agree with this Privacy Policy, you must immediately leave the Website and cease using it and delete your account if you have registered such. When downloading and installing the App, or at any point later when the Privacy Policy has been updated, you have checked a box agreeing to the Privacy Policy. For further information on the terms on which you may use the Website, the App and the Device, please also see Needit’s Terms of Use.<\/p>"
           }
-        },
-        "4b340965-f193-45a7-b510-348caaed2922": {
+        }
+      },
+      "block_order": [
+        "1652879765f1f1a31b-0",
+        "1652879765f1f1a31b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16529372941c6c27e8": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1652937294cdb99af0-0": {
           "type": "heading",
           "settings": {
             "heading": "What personal data do we collect?",
             "heading_size": "h2"
           }
         },
-        "28d25a86-99f1-4d2c-8545-36f1306545a8": {
+        "1652937294cdb99af0-1": {
           "type": "text",
           "settings": {
             "text": "<p>The App collects the following personal data:<\/p>"
           }
-        }
-      },
-      "block_order": [
-        "1652879765f1f1a31b-0",
-        "1652879765f1f1a31b-1",
-        "4b340965-f193-45a7-b510-348caaed2922",
-        "28d25a86-99f1-4d2c-8545-36f1306545a8"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1652879845ca6d2193": {
-      "type": "rich-text",
-      "blocks": {
-        "165287984545462ed1-1": {
+        },
+        "1652937294cdb99af0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
           "type": "text",
           "settings": {
             "text": "<p>The Website collects the following personal data:<\/p>"
           }
-        }
-      },
-      "block_order": [
-        "165287984545462ed1-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1652879892b14c0231": {
-      "type": "rich-text",
-      "blocks": {
-        "1652879892f1a2f508-1": {
+        },
+        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
           "type": "text",
           "settings": {
             "text": "<p>The Device collects the following personal data:<\/p>"
@@ -139,7 +161,11 @@
         }
       },
       "block_order": [
-        "1652879892f1a2f508-1"
+        "1652937294cdb99af0-0",
+        "1652937294cdb99af0-1",
+        "1652937294cdb99af0-2",
+        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
+        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -541,9 +567,9 @@
   "order": [
     "main",
     "1652879299d9b8f53c",
+    "1652937235838d516a",
     "1652879765bdc66028",
-    "1652879845ca6d2193",
-    "1652879892b14c0231",
+    "16529372941c6c27e8",
     "16528799253345a284",
     "1652879973e1e34000",
     "16528800124fea2c84",
