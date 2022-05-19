@@ -759,12 +759,19 @@
           "settings": {
             "text": "<p><strong>The right to access<\/strong> – You have the right to request Needit for copies of your personal data.<\/p>"
           }
+        },
+        "aaf5870a-3a45-45c3-96e9-21c326e5593f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The right to rectification<\/strong> – You have the right to request that Needit corrects any information you believe is inaccurate. You also have the right to request that Needit completes the information you believe is incomplete.<\/p>"
+          }
         }
       },
       "block_order": [
         "ad219627-1948-4034-83c8-dd7e2200c782",
         "13765152-f982-4db1-b71f-e8a6efb13b8e",
-        "1c9353a5-675a-4d58-a188-6d4d7622b122"
+        "1c9353a5-675a-4d58-a188-6d4d7622b122",
+        "aaf5870a-3a45-45c3-96e9-21c326e5593f"
       ],
       "settings": {
         "color_scheme": "background-1",
