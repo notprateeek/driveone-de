@@ -891,7 +891,15 @@
         "1652937850a8dca6e5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Functionality – These cookies are used so that we recognize you on our Website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "4be2f2b2-0f27-4a29-9964-3c892005ca64": {
+          "type": "button",
+          "settings": {
+            "button_label": "Advertising – These cookies are used to collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device, and your IP address. We sometimes share some limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -900,7 +908,8 @@
       "block_order": [
         "1652937850a8dca6e5-0",
         "1652937850a8dca6e5-1",
-        "1652937850a8dca6e5-2"
+        "1652937850a8dca6e5-2",
+        "4be2f2b2-0f27-4a29-9964-3c892005ca64"
       ],
       "settings": {
         "color_scheme": "background-1",
