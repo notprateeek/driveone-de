@@ -947,13 +947,40 @@
           "settings": {
             "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
           }
+        },
+        "cd7b221d-c63b-4522-b1f5-5586a6f876b1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Internet Explorer",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "58dd56e6-b9e1-4e15-ad7f-c7bb5bc9121d": {
+          "type": "button",
+          "settings": {
+            "button_label": "Microsoft Edge",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a245ffa6-0727-4068-bcce-c5eaa24e7e4f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Firefox",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "16529379050a02754e-0",
         "16529379050a02754e-1",
         "16529379050a02754e-2",
-        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1"
+        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1",
+        "cd7b221d-c63b-4522-b1f5-5586a6f876b1",
+        "58dd56e6-b9e1-4e15-ad7f-c7bb5bc9121d",
+        "a245ffa6-0727-4068-bcce-c5eaa24e7e4f"
       ],
       "settings": {
         "color_scheme": "background-1",
