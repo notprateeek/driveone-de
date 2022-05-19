@@ -552,7 +552,7 @@
         "165293759480091f67-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Warn other users of speed control (“Speed Warning”)<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -560,7 +560,7 @@
         "44581c1d-c76f-4741-a0ee-7150aceb9eee": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Warn other users of traffic incidents (“Traffic Warning”)<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -568,7 +568,7 @@
         "42177416-c39c-4434-8650-9c0d8d242870": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Process your order and manage your account<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -576,7 +576,7 @@
         "c3e53279-ffdc-42e1-a5f1-04df7f1a7109": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>E-mail you with special offers on other products and services we think you might like<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -584,7 +584,7 @@
         "57455448-4a87-40df-8068-0ed743d6b2b8": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>E-mail you to verify your account.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
