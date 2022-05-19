@@ -795,6 +795,12 @@
           "settings": {
             "text": "<p><strong>Right to complain<\/strong> – You are entitled to file a complaint regarding Needit’s processing of your personal data at the relevant supervisory authority, cf. below.<\/p>"
           }
+        },
+        "5acd9fb6-faeb-48ec-85d1-9ea4fab84530": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the above contact information.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -806,7 +812,8 @@
         "47781179-d7a8-4538-bfbd-75d15a560407",
         "9ae9e0bb-c213-4610-b10a-5226a43d996b",
         "7e8d80b4-3c36-487b-91ab-5a3ea125335e",
-        "c90d832a-8057-49fe-bd2c-e28c969a4fef"
+        "c90d832a-8057-49fe-bd2c-e28c969a4fef",
+        "5acd9fb6-faeb-48ec-85d1-9ea4fab84530"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -818,12 +825,6 @@
     "1652902788848513d1": {
       "type": "rich-text",
       "blocks": {
-        "1652902788b0c48be2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the above contact information.<\/p>"
-          }
-        },
         "1652902788b0c48be2-0": {
           "type": "heading",
           "settings": {
@@ -845,7 +846,6 @@
         }
       },
       "block_order": [
-        "1652902788b0c48be2-1",
         "1652902788b0c48be2-0",
         "32dd7eec-1ae6-4772-b6d3-b45dc70f6994",
         "15b8c4f3-1c0f-48a9-b987-daa6dce1005f"
@@ -853,8 +853,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529377952e3facf1": {
