@@ -245,8 +245,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529372941c6c27e8": {
@@ -431,8 +431,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529374677211fcb9": {
@@ -454,7 +454,55 @@
         "165293746700f955f6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Register online through the Website or App",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a442e20b-0658-498f-90ae-a2cc5da08bdf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Purchase items on the Website or through another distributor",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a2dc45ca-231f-471e-aca6-029ad1ec6413": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download and install the App through an app store and sign up through the App",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "0985a3a0-66b1-417a-93e3-c63ec502b54f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Use the Device by pressing a button",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "fc9d1d33-43a4-4261-aef8-1a82305687bc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email.",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "0fbbca88-8443-4ec7-a169-4dbf9d5355e6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Use our Website via your browser’s cookies.",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "9ab1d879-e979-42ec-8de9-288b3c12b3b7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Use the App",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -470,13 +518,19 @@
         "165293746700f955f6-0",
         "165293746700f955f6-1",
         "165293746700f955f6-2",
+        "a442e20b-0658-498f-90ae-a2cc5da08bdf",
+        "a2dc45ca-231f-471e-aca6-029ad1ec6413",
+        "0985a3a0-66b1-417a-93e3-c63ec502b54f",
+        "fc9d1d33-43a4-4261-aef8-1a82305687bc",
+        "0fbbca88-8443-4ec7-a169-4dbf9d5355e6",
+        "9ab1d879-e979-42ec-8de9-288b3c12b3b7",
         "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1652937594571fccd2": {
