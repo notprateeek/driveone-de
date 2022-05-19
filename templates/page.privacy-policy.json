@@ -1123,7 +1123,7 @@
         "f189a401-efe8-463e-9007-03599f9866f4": {
           "type": "text",
           "settings": {
-            "text": "<p>Email: <a href=\"mailto:dt@datatilsynet.dk\">dt@datatilsynet.dk<\/a><\/p>"
+            "text": "<p>Email: <a href=\"mailto:dt@datatilsynet.dk\">dt@datatilsynet.dk<\/a><\/p><p>Address: Carl Jacobsens Vej 35, 2500 Valby<\/p><p>Phone: +45 33 19 32 00<\/p>"
           }
         }
       },
