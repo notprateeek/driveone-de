@@ -78,7 +78,7 @@
         "1652937235a1cb533f-2": {
           "type": "button",
           "settings": {
-            "button_label": "How you agree to the Privacy Policy",
+            "text": "<p>How you agree to the Privacy Policy<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -86,7 +86,7 @@
         "c9182351-ab02-463c-92d1-af63233d0657": {
           "type": "button",
           "settings": {
-            "button_label": "What personal data do we collect?",
+            "text": "<p>What personal data do we collect?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -94,7 +94,7 @@
         "88656fb9-d817-4857-9235-19f2fe98876f": {
           "type": "button",
           "settings": {
-            "button_label": "How do we collect your personal data?",
+            "text": "<p>How do we collect your personal data?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -102,7 +102,7 @@
         "5aa8ad4a-4693-47a9-a432-627a5d34cd3e": {
           "type": "button",
           "settings": {
-            "button_label": "How will we use your personal data?",
+            "text": "<p>How will we use your personal data?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -110,7 +110,7 @@
         "a1e7beb2-4db7-405c-a18c-5d54800f2fae": {
           "type": "button",
           "settings": {
-            "button_label": "How do we store your personal data?",
+            "text": "<p>How do we store your personal data?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -118,7 +118,7 @@
         "6977eb32-c4bb-43af-af54-98980f476d96": {
           "type": "button",
           "settings": {
-            "button_label": "Legal grounds for collection, storage and processing of the information",
+            "text": "<p>Legal grounds for collection, storage and processing of the information<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -126,7 +126,7 @@
         "bc27c0cf-6d20-4b71-a2be-c2d8ceca4887": {
           "type": "button",
           "settings": {
-            "button_label": "What are your data protection rights?",
+            "text": "<p>What are your data protection rights?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -134,7 +134,7 @@
         "4f42d035-09ef-406b-a5b5-2a624acce52c": {
           "type": "button",
           "settings": {
-            "button_label": "What are cookies?",
+            "text": "<p>What are cookies?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -142,7 +142,7 @@
         "458da05b-9cb7-4956-9c74-e8c1e23ebc3b": {
           "type": "button",
           "settings": {
-            "button_label": "How do we use cookies?",
+            "text": "<p>How do we use cookies?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -150,7 +150,7 @@
         "683fb518-a166-4ac8-acf8-ad3814e93983": {
           "type": "button",
           "settings": {
-            "button_label": "What types of cookies do we use?",
+            "text": "<p>What types of cookies do we use?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -158,7 +158,7 @@
         "c41d54ed-c0aa-4727-a63d-1f16196030da": {
           "type": "button",
           "settings": {
-            "button_label": "How to manage your cookies",
+            "text": "<p>How to manage your cookies<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -166,7 +166,7 @@
         "f7117ed8-6690-465f-8c34-e4f45e26af17": {
           "type": "button",
           "settings": {
-            "button_label": "Privacy policies of other websites",
+            "text": "<p>Privacy policies of other websites<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -174,7 +174,7 @@
         "c25b5e5a-d519-4fd1-8564-bdf5e519a1d1": {
           "type": "button",
           "settings": {
-            "button_label": "Changes to our privacy policy",
+            "text": "<p>Changes to our privacy policy<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -182,7 +182,7 @@
         "588a9aae-b62d-44ad-8e9f-fa13391a4743": {
           "type": "button",
           "settings": {
-            "button_label": "How to contact us",
+            "text": "<p>How to contact us<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -190,7 +190,7 @@
         "7a8898d1-8326-4e47-a12f-e80092a37108": {
           "type": "button",
           "settings": {
-            "button_label": "How to contact the appropriate authorities",
+            "text": "<p>How to contact the appropriate authorities<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -268,7 +268,7 @@
         "1652937294cdb99af0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Name",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -276,7 +276,7 @@
         "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87": {
           "type": "button",
           "settings": {
-            "button_label": "Location",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -284,7 +284,7 @@
         "94265911-ff81-485f-bb6b-df948416b98a": {
           "type": "button",
           "settings": {
-            "button_label": "Phone model, make and OS version",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -292,7 +292,7 @@
         "11d37e4b-3cf5-4a6a-b5e4-527334805769": {
           "type": "button",
           "settings": {
-            "button_label": "Battery consumption Statistics",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -300,7 +300,7 @@
         "9216bfc3-94d9-4bde-bef4-987a21885264": {
           "type": "button",
           "settings": {
-            "button_label": "Device ID number",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -308,7 +308,7 @@
         "18947c4c-3cec-4765-9d6b-f0920ea60af9": {
           "type": "button",
           "settings": {
-            "button_label": "E-mail",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -316,7 +316,7 @@
         "8aa0dcc8-906e-44a9-b780-e17ed981ea54": {
           "type": "button",
           "settings": {
-            "button_label": "Password",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -330,7 +330,7 @@
         "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
           "type": "button",
           "settings": {
-            "button_label": "Name",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -338,7 +338,7 @@
         "1f57e680-448d-4a2f-8c18-4a55ef745443": {
           "type": "button",
           "settings": {
-            "button_label": "E-mail",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -346,7 +346,7 @@
         "053afe02-76d9-4e7e-8c0e-0041aa27b4bb": {
           "type": "button",
           "settings": {
-            "button_label": "Telephone number",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -354,7 +354,7 @@
         "03b94288-86d8-4056-a78f-6a1d8c60c7f5": {
           "type": "button",
           "settings": {
-            "button_label": "Credit card data",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -362,7 +362,7 @@
         "98ea6e8d-2d31-4b79-baaf-a7eb400c2762": {
           "type": "button",
           "settings": {
-            "button_label": "Passord",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -370,7 +370,7 @@
         "64345c1f-26fb-413f-aad6-12ae535aedc8": {
           "type": "button",
           "settings": {
-            "button_label": "User Address",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -378,7 +378,7 @@
         "88f4c7e6-f8da-4ce7-8180-813effc6e265": {
           "type": "button",
           "settings": {
-            "button_label": "Operating System, browser version, user time zone and region",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -392,7 +392,7 @@
         "004ceae5-88d5-453c-aedc-e5b962f7f927": {
           "type": "button",
           "settings": {
-            "button_label": "Your geo location when you press one of the two buttons",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -400,7 +400,7 @@
         "3675e046-b4bc-4903-a4d1-0352569288df": {
           "type": "button",
           "settings": {
-            "button_label": "Information on which button you pressed",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -454,7 +454,7 @@
         "165293746700f955f6-2": {
           "type": "button",
           "settings": {
-            "button_label": "Register online through the Website or App",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -462,7 +462,7 @@
         "a442e20b-0658-498f-90ae-a2cc5da08bdf": {
           "type": "button",
           "settings": {
-            "button_label": "Purchase items on the Website or through another distributor",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -470,7 +470,7 @@
         "a2dc45ca-231f-471e-aca6-029ad1ec6413": {
           "type": "button",
           "settings": {
-            "button_label": "Download and install the App through an app store and sign up through the App",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -478,7 +478,7 @@
         "0985a3a0-66b1-417a-93e3-c63ec502b54f": {
           "type": "button",
           "settings": {
-            "button_label": "Use the Device by pressing a button",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -486,7 +486,7 @@
         "fc9d1d33-43a4-4261-aef8-1a82305687bc": {
           "type": "button",
           "settings": {
-            "button_label": "Voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -494,7 +494,7 @@
         "0fbbca88-8443-4ec7-a169-4dbf9d5355e6": {
           "type": "button",
           "settings": {
-            "button_label": "Use our Website via your browser’s cookies.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -502,7 +502,7 @@
         "9ab1d879-e979-42ec-8de9-288b3c12b3b7": {
           "type": "button",
           "settings": {
-            "button_label": "Use the App",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -552,7 +552,7 @@
         "165293759480091f67-2": {
           "type": "button",
           "settings": {
-            "button_label": "Warn other users of speed control (“Speed Warning”)",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -560,7 +560,7 @@
         "44581c1d-c76f-4741-a0ee-7150aceb9eee": {
           "type": "button",
           "settings": {
-            "button_label": "Warn other users of traffic incidents (“Traffic Warning”)",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -568,7 +568,7 @@
         "42177416-c39c-4434-8650-9c0d8d242870": {
           "type": "button",
           "settings": {
-            "button_label": "Process your order and manage your account",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -576,7 +576,7 @@
         "c3e53279-ffdc-42e1-a5f1-04df7f1a7109": {
           "type": "button",
           "settings": {
-            "button_label": "E-mail you with special offers on other products and services we think you might like",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -584,7 +584,7 @@
         "57455448-4a87-40df-8068-0ed743d6b2b8": {
           "type": "button",
           "settings": {
-            "button_label": "E-mail you to verify your account.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -695,7 +695,7 @@
         "165293767040b33b0e-2": {
           "type": "button",
           "settings": {
-            "button_label": "your consent;",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -703,7 +703,7 @@
         "53ff520f-465d-403b-8cb3-f50141246730": {
           "type": "button",
           "settings": {
-            "button_label": "it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -711,7 +711,7 @@
         "21b5ef2a-5a56-49d4-98a1-b77ea362d717": {
           "type": "button",
           "settings": {
-            "button_label": "it is necessary for compliance with a legal obligation to which we are subject.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -876,7 +876,7 @@
         "165293779580778360-2": {
           "type": "button",
           "settings": {
-            "button_label": "Keeping you signed in",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -884,7 +884,7 @@
         "f8654435-7730-4986-b65b-41425be758a7": {
           "type": "button",
           "settings": {
-            "button_label": "Understanding how you use our Website",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -892,7 +892,7 @@
         "45fde22b-20e1-4f77-8688-3fc23160012d": {
           "type": "button",
           "settings": {
-            "button_label": "Analytics",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -900,7 +900,7 @@
         "4b55d999-8c8d-42d4-88ab-ddc37b98aaf6": {
           "type": "button",
           "settings": {
-            "button_label": "Crash reporting",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -940,7 +940,7 @@
         "1652937850a8dca6e5-2": {
           "type": "button",
           "settings": {
-            "button_label": "Functionality – These cookies are used so that we recognize you on our Website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -948,7 +948,7 @@
         "4be2f2b2-0f27-4a29-9964-3c892005ca64": {
           "type": "button",
           "settings": {
-            "button_label": "Advertising – These cookies are used to collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device, and your IP address. We sometimes share some limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -986,7 +986,7 @@
         "16529379050a02754e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Google Chrome",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -994,7 +994,7 @@
         "cd7b221d-c63b-4522-b1f5-5586a6f876b1": {
           "type": "button",
           "settings": {
-            "button_label": "Internet Explorer",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1002,7 +1002,7 @@
         "58dd56e6-b9e1-4e15-ad7f-c7bb5bc9121d": {
           "type": "button",
           "settings": {
-            "button_label": "Microsoft Edge",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1010,7 +1010,7 @@
         "a245ffa6-0727-4068-bcce-c5eaa24e7e4f": {
           "type": "button",
           "settings": {
-            "button_label": "Firefox",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1018,7 +1018,7 @@
         "58c1e69b-9478-4659-b85c-ee543d927d47": {
           "type": "button",
           "settings": {
-            "button_label": "Opera",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1026,7 +1026,7 @@
         "539f38d4-536c-47d6-9780-14da94e2e77e": {
           "type": "button",
           "settings": {
-            "button_label": "Safari",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1034,7 +1034,7 @@
         "ff4ac62a-3b57-4565-a515-f006b1d4cd29": {
           "type": "button",
           "settings": {
-            "button_label": "Safari (iOS)",
+            "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
