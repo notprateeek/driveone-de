@@ -330,7 +330,23 @@
         "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Name",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "1f57e680-448d-4a2f-8c18-4a55ef745443": {
+          "type": "button",
+          "settings": {
+            "button_label": "E-mail",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "053afe02-76d9-4e7e-8c0e-0041aa27b4bb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Telephone number",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -362,6 +378,8 @@
         "8aa0dcc8-906e-44a9-b780-e17ed981ea54",
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
         "ce1e703c-6dbb-4d8f-a983-a07a24485499",
+        "1f57e680-448d-4a2f-8c18-4a55ef745443",
+        "053afe02-76d9-4e7e-8c0e-0041aa27b4bb",
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
         "004ceae5-88d5-453c-aedc-e5b962f7f927"
       ],
