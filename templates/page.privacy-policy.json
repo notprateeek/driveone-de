@@ -765,13 +765,27 @@
           "settings": {
             "text": "<p><strong>The right to rectification<\/strong> – You have the right to request that Needit corrects any information you believe is inaccurate. You also have the right to request that Needit completes the information you believe is incomplete.<\/p>"
           }
+        },
+        "3e0a16e3-f268-44af-8ec1-51cae75fcf56": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The right to erasure<\/strong> – You have the right to request that Needit erases your personal data, under certain conditions, such as the case that your personal data has been processed unlawfully or you have withdrawn your consent (if the processing of personal data is based on consent).<\/p>"
+          }
+        },
+        "47781179-d7a8-4538-bfbd-75d15a560407": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The right to restrict processing<\/strong> – You have the right to request that Needit restricts the processing of your personal data, under certain conditions, such as if you have doubts about the accuracy of your personal data or have objected to Needit’s legitimate purpose for processing your personal data,<\/p>"
+          }
         }
       },
       "block_order": [
         "ad219627-1948-4034-83c8-dd7e2200c782",
         "13765152-f982-4db1-b71f-e8a6efb13b8e",
         "1c9353a5-675a-4d58-a188-6d4d7622b122",
-        "aaf5870a-3a45-45c3-96e9-21c326e5593f"
+        "aaf5870a-3a45-45c3-96e9-21c326e5593f",
+        "3e0a16e3-f268-44af-8ec1-51cae75fcf56",
+        "47781179-d7a8-4538-bfbd-75d15a560407"
       ],
       "settings": {
         "color_scheme": "background-1",
