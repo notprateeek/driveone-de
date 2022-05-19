@@ -695,7 +695,7 @@
         "165293767040b33b0e-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>your consent;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -703,7 +703,7 @@
         "53ff520f-465d-403b-8cb3-f50141246730": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>t is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -711,7 +711,7 @@
         "21b5ef2a-5a56-49d4-98a1-b77ea362d717": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>it is necessary for compliance with a legal obligation to which we are subject.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
