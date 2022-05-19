@@ -392,7 +392,15 @@
         "004ceae5-88d5-453c-aedc-e5b962f7f927": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Your geo location when you press one of the two buttons",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "3675e046-b4bc-4903-a4d1-0352569288df": {
+          "type": "button",
+          "settings": {
+            "button_label": "Information on which button you pressed",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -417,7 +425,8 @@
         "64345c1f-26fb-413f-aad6-12ae535aedc8",
         "88f4c7e6-f8da-4ce7-8180-813effc6e265",
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
-        "004ceae5-88d5-453c-aedc-e5b962f7f927"
+        "004ceae5-88d5-453c-aedc-e5b962f7f927",
+        "3675e046-b4bc-4903-a4d1-0352569288df"
       ],
       "settings": {
         "color_scheme": "background-1",
