@@ -942,12 +942,6 @@
             "button_style_secondary": false
           }
         },
-        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
-          }
-        },
         "cd7b221d-c63b-4522-b1f5-5586a6f876b1": {
           "type": "button",
           "settings": {
@@ -995,25 +989,31 @@
             "button_link": "",
             "button_style_secondary": false
           }
+        },
+        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
+          }
         }
       },
       "block_order": [
         "16529379050a02754e-0",
         "16529379050a02754e-1",
         "16529379050a02754e-2",
-        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1",
         "cd7b221d-c63b-4522-b1f5-5586a6f876b1",
         "58dd56e6-b9e1-4e15-ad7f-c7bb5bc9121d",
         "a245ffa6-0727-4068-bcce-c5eaa24e7e4f",
         "58c1e69b-9478-4659-b85c-ee543d927d47",
         "539f38d4-536c-47d6-9780-14da94e2e77e",
-        "ff4ac62a-3b57-4565-a515-f006b1d4cd29"
+        "ff4ac62a-3b57-4565-a515-f006b1d4cd29",
+        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "165290305244c0d831": {
@@ -1085,8 +1085,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 60
       }
     }
   },
