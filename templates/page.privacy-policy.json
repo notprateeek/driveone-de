@@ -268,7 +268,15 @@
         "1652937294cdb99af0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Name",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87": {
+          "type": "button",
+          "settings": {
+            "button_label": "Location",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -306,6 +314,7 @@
         "1652937294cdb99af0-0",
         "1652937294cdb99af0-1",
         "1652937294cdb99af0-2",
+        "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87",
         "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
         "ce1e703c-6dbb-4d8f-a983-a07a24485499",
         "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
