@@ -494,26 +494,35 @@
         "padding_bottom": 52
       }
     },
-    "16529029058473159c": {
-      "type": "rich-text",
+    "16529378503ca3f3f7": {
+      "type": "unstyled-list",
       "blocks": {
-        "16529029052d3ced55-0": {
+        "1652937850a8dca6e5-0": {
           "type": "heading",
           "settings": {
             "heading": "What types of cookies do we use?",
             "heading_size": "h2"
           }
         },
-        "16529029052d3ced55-1": {
+        "1652937850a8dca6e5-1": {
           "type": "text",
           "settings": {
             "text": "<p>There are a number of different types of cookies, however, our Website uses:<\/p>"
           }
+        },
+        "1652937850a8dca6e5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "16529029052d3ced55-0",
-        "16529029052d3ced55-1"
+        "1652937850a8dca6e5-0",
+        "1652937850a8dca6e5-1",
+        "1652937850a8dca6e5-2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -522,26 +531,42 @@
         "padding_bottom": 52
       }
     },
-    "165290299732951cdf": {
-      "type": "rich-text",
+    "1652937905b2bb366d": {
+      "type": "unstyled-list",
       "blocks": {
-        "1652902997af24819d-0": {
+        "16529379050a02754e-0": {
           "type": "heading",
           "settings": {
             "heading": "How to manage cookies",
             "heading_size": "h2"
           }
         },
-        "1652902997af24819d-1": {
+        "16529379050a02754e-1": {
           "type": "text",
           "settings": {
             "text": "<p>You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. If you do not want cookies to be stored on your device, please check the settings of your browser. Each browser might have different kind of settings:<\/p>"
           }
+        },
+        "16529379050a02754e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
+          }
         }
       },
       "block_order": [
-        "1652902997af24819d-0",
-        "1652902997af24819d-1"
+        "16529379050a02754e-0",
+        "16529379050a02754e-1",
+        "16529379050a02754e-2",
+        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -553,12 +578,6 @@
     "165290305244c0d831": {
       "type": "rich-text",
       "blocks": {
-        "1652903052f6184fff-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
-          }
-        },
         "9732d273-4246-4263-8f1d-2b33fc6bc9a8": {
           "type": "heading",
           "settings": {
@@ -613,7 +632,6 @@
         }
       },
       "block_order": [
-        "1652903052f6184fff-1",
         "9732d273-4246-4263-8f1d-2b33fc6bc9a8",
         "9e9fc8ae-c0f7-4f50-a9e9-8c3a65b5d471",
         "2c681cfc-9b3a-4034-90fd-09ed8ab62e82",
@@ -644,8 +662,8 @@
     "16529026917879e63f",
     "1652902788848513d1",
     "16529377952e3facf1",
-    "16529029058473159c",
-    "165290299732951cdf",
+    "16529378503ca3f3f7",
+    "1652937905b2bb366d",
     "165290305244c0d831"
   ]
 }
