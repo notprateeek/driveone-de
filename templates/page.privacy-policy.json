@@ -330,7 +330,7 @@
         "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Name<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -338,7 +338,7 @@
         "1f57e680-448d-4a2f-8c18-4a55ef745443": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>E-mail<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -346,7 +346,7 @@
         "053afe02-76d9-4e7e-8c0e-0041aa27b4bb": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Telephone number<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -354,7 +354,7 @@
         "03b94288-86d8-4056-a78f-6a1d8c60c7f5": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Credit card data<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -362,7 +362,7 @@
         "98ea6e8d-2d31-4b79-baaf-a7eb400c2762": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Password<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -370,7 +370,7 @@
         "64345c1f-26fb-413f-aad6-12ae535aedc8": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>User Address<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -378,7 +378,7 @@
         "88f4c7e6-f8da-4ce7-8180-813effc6e265": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Operating System, browser version, user time zone and region<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -392,7 +392,7 @@
         "004ceae5-88d5-453c-aedc-e5b962f7f927": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Your geo location when you press one of the two buttons<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -400,7 +400,7 @@
         "3675e046-b4bc-4903-a4d1-0352569288df": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Information on which button you pressed<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
