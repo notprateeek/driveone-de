@@ -827,7 +827,31 @@
         "165293779580778360-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Keeping you signed in",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "f8654435-7730-4986-b65b-41425be758a7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Understanding how you use our Website",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "45fde22b-20e1-4f77-8688-3fc23160012d": {
+          "type": "button",
+          "settings": {
+            "button_label": "Analytics",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "4b55d999-8c8d-42d4-88ab-ddc37b98aaf6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Crash reporting",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -836,13 +860,16 @@
       "block_order": [
         "165293779580778360-0",
         "165293779580778360-1",
-        "165293779580778360-2"
+        "165293779580778360-2",
+        "f8654435-7730-4986-b65b-41425be758a7",
+        "45fde22b-20e1-4f77-8688-3fc23160012d",
+        "4b55d999-8c8d-42d4-88ab-ddc37b98aaf6"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529378503ca3f3f7": {
