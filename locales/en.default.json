@@ -229,6 +229,14 @@
         "other": "{{ count }} items"
       }
     },
+    "feature-list": {
+      "always_up_to_date": "Always up to date",
+      "free_subscription": "Free subscription",
+      "user-friendly": "User-friendly",
+      "checked_and_double-checked": "Checked and double-checked",
+      "part_of_a_community": "Part of a community",
+      "uncompromising_in_design": "Uncompromising in design"
+    },
     "cart": {
       "title": "Your cart",
       "caption": "Cart items",
