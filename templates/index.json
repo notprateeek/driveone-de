@@ -330,64 +330,10 @@
             "text": "<p>We get our data from our users and partners, just as we always keep up to date with authorities such as the Danish Road Directorate.<\/p><p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p><p>With input from more than five million users, we get plenty of data to cover Europe's road network.<\/p>",
             "text_style": "body"
           }
-        },
-        "e35dbb4d-2e34-4f86-b315-322a71518eeb": {
-          "type": "button",
-          "settings": {
-            "button_label": "Always up to date",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        },
-        "32688fc9-2df0-48f8-b926-9189c17ae9fd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Free subscription",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        },
-        "200c87a3-6f9a-4699-8f24-485d2d4c9845": {
-          "type": "button",
-          "settings": {
-            "button_label": "User-friendly",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        },
-        "63effb09-f807-46a9-9cd3-0a4748e45dfb": {
-          "type": "button",
-          "settings": {
-            "button_label": "Checked and double checked",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        },
-        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9": {
-          "type": "button",
-          "settings": {
-            "button_label": "Part of a community",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        },
-        "cf548181-f5f6-491f-afb6-31d13bda201d": {
-          "type": "button",
-          "settings": {
-            "button_label": "Uncompromising in design",
-            "button_link": "",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
-        "16517385787608503f-1",
-        "e35dbb4d-2e34-4f86-b315-322a71518eeb",
-        "32688fc9-2df0-48f8-b926-9189c17ae9fd",
-        "200c87a3-6f9a-4699-8f24-485d2d4c9845",
-        "63effb09-f807-46a9-9cd3-0a4748e45dfb",
-        "d5ec5710-e344-4304-ba7a-ee4ee9cf51e9",
-        "cf548181-f5f6-491f-afb6-31d13bda201d"
+        "16517385787608503f-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.42.14_AM.png",
