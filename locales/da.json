@@ -229,6 +229,14 @@
         "other": "{{ count }} varer"
       }
     },
+    "feature-list": {
+      "always_up_to_date": "Altid opdateret",
+      "free_subscription": "Fri for abonnement",
+      "user-friendly": "Brugervenlig",
+      "checked_and_double-checked": "Tjekket og dobbelttjekket",
+      "part_of_a_community": "En del af et fællesskab",
+      "uncompromising_in_design": "Kompromisløs i designet"
+    },
     "cart": {
       "title": "Din indkøbskurv",
       "caption": "Varer i indkøbskurv",
