@@ -6,19 +6,14 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
-  .cursor {
-	cursor: default !important;
-  }
-
-  .icon-button {
-	display: flex;
-	align-items: center;
-	justify-content: flex-start;
-	gap: 1em;
+  .flex-list {
+    display: flex;
+    gap: 1em;
+    align-items: center;
   }
 
   .rings-top-margin {
-	margin-top: 1em;
+	margin-top: 3em;
   }
 
   @media screen and (min-width: 750px) {
@@ -67,30 +62,30 @@
     <div class="image-with-text__text-item grid__item">
       <div id="ImageWithText--{{ section.id }}" class="image-with-text__content image-with-text__content--{{ section.settings.desktop_content_position }} image-with-text__content--desktop-{{ section.settings.desktop_content_alignment }} image-with-text__content--mobile-{{ section.settings.mobile_content_alignment }} image-with-text__content--{{ section.settings.height }} gradient color-{{ section.settings.color_scheme }} content-container">
         <div class="tib-button-container">
-            <a class="cursor button button--secondary icon-button">
+            <div class="flex-list">
               <span>{% render 'up-to-date' %}</span>
               <span>{{ 'sections.feature-list.always_up_to_date' | t }}</span>
-            </a>
-            <a class="cursor button button--secondary icon-button">
+            </div>
+            <div class="flex-list">
               <span>{% render 'subscription' %}</span>
               <span>{{ 'sections.feature-list.free_subscription' | t}}</span>
-            </a>
-            <a class="cursor button button--secondary icon-button">
+            </div>
+            <div class="flex-list">
               <span>{% render 'friendly' %}</span>
               <span>{{ 'sections.feature-list.user-friendly' | t}}</span>
-            </a>
-            <a class="cursor button button--secondary icon-button">
+            </div>
+            <div class="flex-list">
               <span>{% render 'double-check' %}</span>
               <span>{{ 'sections.feature-list.checked_and_double-checked' | t}}</span>
-            </a>
-            <a class="cursor button button--secondary icon-button">
+            </div>
+            <div class="flex-list">
               <span>{% render 'community' %}</span>
               <span>{{ 'sections.feature-list.part_of_a_community' | t}}</span>
-            </a>
-            <a class="cursor button button--secondary icon-button">
+            </div>
+            <div class="flex-list">
               <span>{% render 'design' %}</span>
               <span>{{ 'sections.feature-list.uncompromising_in_design' | t}}</span>
-            </a>
+            </div>
         </div>
         <div class="rings-top-margin">{% render 'rings' %}</div>
       </div>

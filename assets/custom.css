@@ -61,10 +61,10 @@
 .tib-button-container {
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  gap: 2em;
 }
 
-.tib-button-container a {
+.tib-button-container div {
   text-align: center;
 }
 
@@ -112,7 +112,7 @@
     column-gap: 0;
     row-gap: 2em;
   }
-  
+
   .custom-media > *:not(.zoom):not(.deferred-media__poster-button),
   .custom-media model-viewer {
     display: block;
@@ -132,8 +132,6 @@
     grid-template-columns: 1fr;
   }
 }
-
-
 
 /* 480px */
 @media screen and (max-width: 480px) {
