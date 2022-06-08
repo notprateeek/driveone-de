@@ -363,6 +363,19 @@
             "heading": "Disclaimer",
             "heading_size": "h2"
           }
+        },
+        "ede8136b-4b2e-4b8f-ad6c-3887f8c4be90": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "57f450c0-6191-4860-bf07-209911136451": {
+          "type": "heading",
+          "settings": {
+            "heading": "Assignment",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -386,7 +399,9 @@
         "5e10017d-bbeb-4413-b455-3bf6850a7c37",
         "88fe3b92-eac9-41d0-8c2f-e1ccb91dcf4e",
         "4a54635f-58a4-414e-9e52-6ffe42529ec1",
-        "679a6d9f-39e6-4c7c-b3b7-ef7ab6cc2f6b"
+        "679a6d9f-39e6-4c7c-b3b7-ef7ab6cc2f6b",
+        "ede8136b-4b2e-4b8f-ad6c-3887f8c4be90",
+        "57f450c0-6191-4860-bf07-209911136451"
       ],
       "settings": {
         "color_scheme": "background-1",
