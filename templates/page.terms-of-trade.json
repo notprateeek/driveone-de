@@ -298,6 +298,32 @@
             "heading": "Use of Website, App and Device",
             "heading_size": "h2"
           }
+        },
+        "14ec0d7a-9fed-4403-b4a4-35551d55fe36": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "addbf98a-24a2-47dc-a4f4-2604a9707168": {
+          "type": "heading",
+          "settings": {
+            "heading": "Payment",
+            "heading_size": "h2"
+          }
+        },
+        "4995e9e3-8138-494e-aae1-ffc8411ad826": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "85c469b6-245a-4e70-a7b9-c713c637a6cd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Right of withdrawal from online purchases",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -311,7 +337,11 @@
         "bf87473f-08e2-4bd9-a2c9-ff9a25756e74",
         "be487db0-9783-4358-82a1-917baf6fd7c8",
         "6130b07d-6c23-4501-8356-778166fe4229",
-        "93193c45-a897-43ae-9f86-aba330891fc8"
+        "93193c45-a897-43ae-9f86-aba330891fc8",
+        "14ec0d7a-9fed-4403-b4a4-35551d55fe36",
+        "addbf98a-24a2-47dc-a4f4-2604a9707168",
+        "4995e9e3-8138-494e-aae1-ffc8411ad826",
+        "85c469b6-245a-4e70-a7b9-c713c637a6cd"
       ],
       "settings": {
         "color_scheme": "background-1",
