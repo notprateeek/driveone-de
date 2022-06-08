@@ -278,6 +278,13 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
+        },
+        "be487db0-9783-4358-82a1-917baf6fd7c8": {
+          "type": "heading",
+          "settings": {
+            "heading": "User account",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -288,7 +295,8 @@
         "c233f155-9b87-4202-a8b8-712a12a5cbb4",
         "3672c8e6-bd63-463e-a6d6-af5d0aa518dc",
         "857679c7-b4dc-4378-853a-26cd3a19d01a",
-        "bf87473f-08e2-4bd9-a2c9-ff9a25756e74"
+        "bf87473f-08e2-4bd9-a2c9-ff9a25756e74",
+        "be487db0-9783-4358-82a1-917baf6fd7c8"
       ],
       "settings": {
         "color_scheme": "background-1",
