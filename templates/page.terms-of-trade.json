@@ -324,6 +324,19 @@
             "heading": "Right of withdrawal from online purchases",
             "heading_size": "h2"
           }
+        },
+        "1d3ce280-3ee1-49bf-8480-9dc34a65b554": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "fd711242-e971-47c1-9d6c-70fe417add92": {
+          "type": "heading",
+          "settings": {
+            "heading": "Defects",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -341,7 +354,9 @@
         "14ec0d7a-9fed-4403-b4a4-35551d55fe36",
         "addbf98a-24a2-47dc-a4f4-2604a9707168",
         "4995e9e3-8138-494e-aae1-ffc8411ad826",
-        "85c469b6-245a-4e70-a7b9-c713c637a6cd"
+        "85c469b6-245a-4e70-a7b9-c713c637a6cd",
+        "1d3ce280-3ee1-49bf-8480-9dc34a65b554",
+        "fd711242-e971-47c1-9d6c-70fe417add92"
       ],
       "settings": {
         "color_scheme": "background-1",
