@@ -376,6 +376,19 @@
             "heading": "Assignment",
             "heading_size": "h2"
           }
+        },
+        "5bde0c3a-70b7-413e-ab0a-0e169eb1b52f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Choice of law and venue",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -401,7 +414,9 @@
         "4a54635f-58a4-414e-9e52-6ffe42529ec1",
         "679a6d9f-39e6-4c7c-b3b7-ef7ab6cc2f6b",
         "ede8136b-4b2e-4b8f-ad6c-3887f8c4be90",
-        "57f450c0-6191-4860-bf07-209911136451"
+        "57f450c0-6191-4860-bf07-209911136451",
+        "5bde0c3a-70b7-413e-ab0a-0e169eb1b52f",
+        "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5"
       ],
       "settings": {
         "color_scheme": "background-1",
