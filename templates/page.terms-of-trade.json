@@ -90,6 +90,110 @@
         "165466310122e618a7-2": {
           "type": "button",
           "settings": {
+            "text": "<p>How you agree to the Terms of Use<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "307d0a74-d93c-4187-a53d-44a8f273aced": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "ae3088ba-dbf0-4a9b-af8e-8d3b48ffcdbe": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "4bc9be50-4131-434f-8291-bdc16796f8a7": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "be9fbf5d-7940-46cf-94bd-a55e13965feb": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "3eb6ca09-5af1-4a92-85b0-3644e90207d6": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "514dbce6-cd31-4edb-b7ae-cafe8561f5f2": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "4847e811-4811-48c9-b031-78d5e7cc5cf3": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "f56fa984-4f12-498b-9471-7a82c5e7e795": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8a576e87-c882-4b95-b72f-67b89b5fdd10": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "b280179e-cf6c-49bf-af7d-be14faf41737": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "54dbc720-c66f-4fc0-b91b-c288f2e2e867": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a8831c4a-d0b7-4b7f-a6f7-ee2037d6701e": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "914c3c64-c546-463b-97ad-70ce7b53fc5b": {
+          "type": "button",
+          "settings": {
             "text": "<p>Placeholder<\/p>",
             "button_link": "",
             "button_style_secondary": false
@@ -98,7 +202,20 @@
       },
       "block_order": [
         "165466310122e618a7-0",
-        "165466310122e618a7-2"
+        "165466310122e618a7-2",
+        "307d0a74-d93c-4187-a53d-44a8f273aced",
+        "ae3088ba-dbf0-4a9b-af8e-8d3b48ffcdbe",
+        "4bc9be50-4131-434f-8291-bdc16796f8a7",
+        "be9fbf5d-7940-46cf-94bd-a55e13965feb",
+        "3eb6ca09-5af1-4a92-85b0-3644e90207d6",
+        "514dbce6-cd31-4edb-b7ae-cafe8561f5f2",
+        "4847e811-4811-48c9-b031-78d5e7cc5cf3",
+        "f56fa984-4f12-498b-9471-7a82c5e7e795",
+        "8a576e87-c882-4b95-b72f-67b89b5fdd10",
+        "b280179e-cf6c-49bf-af7d-be14faf41737",
+        "54dbc720-c66f-4fc0-b91b-c288f2e2e867",
+        "a8831c4a-d0b7-4b7f-a6f7-ee2037d6701e",
+        "914c3c64-c546-463b-97ad-70ce7b53fc5b"
       ],
       "settings": {
         "color_scheme": "background-1",
