@@ -252,13 +252,43 @@
           "settings": {
             "text": "<p>The Website, App and Device may only be used by individuals who can form legally binding contracts under applicable law. They are not intended for minors. By using our Website, App or Device, you indicate to us that you have the right, authority, and capacity to enter into and abide by these Terms of Use.<\/p>"
           }
+        },
+        "c233f155-9b87-4202-a8b8-712a12a5cbb4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Compliance",
+            "heading_size": "h2"
+          }
+        },
+        "3672c8e6-bd63-463e-a6d6-af5d0aa518dc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "857679c7-b4dc-4378-853a-26cd3a19d01a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "bf87473f-08e2-4bd9-a2c9-ff9a25756e74": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
         }
       },
       "block_order": [
         "1654663428d54fad76-0",
         "1654663428d54fad76-1",
         "2db4b38b-fe48-45f6-b3a0-7e3aeb6200b6",
-        "d638d3c6-915a-479f-bbbb-cd6e181be068"
+        "d638d3c6-915a-479f-bbbb-cd6e181be068",
+        "c233f155-9b87-4202-a8b8-712a12a5cbb4",
+        "3672c8e6-bd63-463e-a6d6-af5d0aa518dc",
+        "857679c7-b4dc-4378-853a-26cd3a19d01a",
+        "bf87473f-08e2-4bd9-a2c9-ff9a25756e74"
       ],
       "settings": {
         "color_scheme": "background-1",
