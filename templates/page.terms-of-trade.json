@@ -285,6 +285,19 @@
             "heading": "User account",
             "heading_size": "h2"
           }
+        },
+        "6130b07d-6c23-4501-8356-778166fe4229": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "93193c45-a897-43ae-9f86-aba330891fc8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Use of Website, App and Device",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -296,7 +309,9 @@
         "3672c8e6-bd63-463e-a6d6-af5d0aa518dc",
         "857679c7-b4dc-4378-853a-26cd3a19d01a",
         "bf87473f-08e2-4bd9-a2c9-ff9a25756e74",
-        "be487db0-9783-4358-82a1-917baf6fd7c8"
+        "be487db0-9783-4358-82a1-917baf6fd7c8",
+        "6130b07d-6c23-4501-8356-778166fe4229",
+        "93193c45-a897-43ae-9f86-aba330891fc8"
       ],
       "settings": {
         "color_scheme": "background-1",
