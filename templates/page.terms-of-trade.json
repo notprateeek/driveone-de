@@ -2,9 +2,31 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
+      }
+    },
+    "1654663143b7343c77": {
+      "type": "rich-text",
+      "blocks": {
+        "165466314328ac6843-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Terms of trade",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165466314328ac6843-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1654662730b6945692": {
@@ -88,6 +110,7 @@
   },
   "order": [
     "main",
+    "1654663143b7343c77",
     "1654662730b6945692",
     "16546631012d6e3ecf"
   ]
