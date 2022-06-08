@@ -389,6 +389,19 @@
             "heading": "Choice of law and venue",
             "heading_size": "h2"
           }
+        },
+        "720642ef-5d5d-4948-8a39-80db9b08b549": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "e1d0d521-1359-411a-a774-2ccbe9f3d9db": {
+          "type": "heading",
+          "settings": {
+            "heading": "Changes to the Terms of Use",
+            "heading_size": "h2"
+          }
         }
       },
       "block_order": [
@@ -416,7 +429,9 @@
         "ede8136b-4b2e-4b8f-ad6c-3887f8c4be90",
         "57f450c0-6191-4860-bf07-209911136451",
         "5bde0c3a-70b7-413e-ab0a-0e169eb1b52f",
-        "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5"
+        "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5",
+        "720642ef-5d5d-4948-8a39-80db9b08b549",
+        "e1d0d521-1359-411a-a774-2ccbe9f3d9db"
       ],
       "settings": {
         "color_scheme": "background-1",
