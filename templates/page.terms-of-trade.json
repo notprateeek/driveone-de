@@ -2,14 +2,41 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 0
+      }
+    },
+    "1654662730b6945692": {
+      "type": "rich-text",
+      "blocks": {
+        "1654662730b9fbab96-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Updated on May 31, 2022<\/em><\/p>"
+          }
+        },
+        "df81ae12-638d-4101-9d3d-783d76e7f441": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Drive One app (“App”) and the website <span style=\"text-decoration:underline\">www.driveone.eu<\/span> (“Website”) are owned and operated by Needit ApS (“Needit”). The Drive One electronic device (the “Device”) is also developed and marketed by Needit.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1654662730b9fbab96-1",
+        "df81ae12-638d-4101-9d3d-783d76e7f441"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1654662730b6945692"
   ]
 }
