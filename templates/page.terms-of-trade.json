@@ -393,7 +393,7 @@
         "720642ef-5d5d-4948-8a39-80db9b08b549": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>The Terms of Use are governed by the laws of Denmark without any regard to its conflicts of law’s provisions.<\/p><p>Any dispute may be brough before Danish courts as chosen venue in first instance. If you are a consumer domiciled in another EU country, you may also bring a dispute before the ordinary courts in the country in which you are domiciled.<\/p>"
           }
         },
         "e1d0d521-1359-411a-a774-2ccbe9f3d9db": {
@@ -401,6 +401,12 @@
           "settings": {
             "heading": "Changes to the Terms of Use",
             "heading_size": "h2"
+          }
+        },
+        "2666590b-95c2-4ed7-b92a-bdc8274f2e99": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Needit may change the Terms of Use at any time and without a notice.<\/p>"
           }
         }
       },
@@ -431,7 +437,8 @@
         "5bde0c3a-70b7-413e-ab0a-0e169eb1b52f",
         "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5",
         "720642ef-5d5d-4948-8a39-80db9b08b549",
-        "e1d0d521-1359-411a-a774-2ccbe9f3d9db"
+        "e1d0d521-1359-411a-a774-2ccbe9f3d9db",
+        "2666590b-95c2-4ed7-b92a-bdc8274f2e99"
       ],
       "settings": {
         "color_scheme": "background-1",
