@@ -528,6 +528,43 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165474952671a61e69": {
+      "type": "unstyled-list",
+      "blocks": {
+        "16547495261cd9fd52-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Standardfortrydelsesformular",
+            "heading_size": "h2"
+          }
+        },
+        "16547495261cd9fd52-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(denne formular udfyldes og returneres kun, hvis fortrydelsesretten gøres gældende)<\/p>"
+          }
+        },
+        "16547495261cd9fd52-2": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16547495261cd9fd52-0",
+        "16547495261cd9fd52-1",
+        "16547495261cd9fd52-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     }
@@ -538,6 +575,7 @@
     "1654662730b6945692",
     "16546631012d6e3ecf",
     "16546634280768ea8d",
-    "16547491206f824a06"
+    "16547491206f824a06",
+    "165474952671a61e69"
   ]
 }
