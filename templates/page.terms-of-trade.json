@@ -408,13 +408,6 @@
           "settings": {
             "text": "<p>Needit may change the Terms of Use at any time and without a notice.<\/p>"
           }
-        },
-        "aa011f6f-2fed-4225-8504-e0b3fc27abc6": {
-          "type": "heading",
-          "settings": {
-            "heading": "Model withdrawal form",
-            "heading_size": "h2"
-          }
         }
       },
       "block_order": [
@@ -445,14 +438,50 @@
         "5463ce5c-1848-4c58-a32d-1fdd9d2bb0f5",
         "720642ef-5d5d-4948-8a39-80db9b08b549",
         "e1d0d521-1359-411a-a774-2ccbe9f3d9db",
-        "2666590b-95c2-4ed7-b92a-bdc8274f2e99",
-        "aa011f6f-2fed-4225-8504-e0b3fc27abc6"
+        "2666590b-95c2-4ed7-b92a-bdc8274f2e99"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "16547491206f824a06": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1654749120670fcccd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Model withdrawal form",
+            "heading_size": "h2"
+          }
+        },
+        "1654749120670fcccd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To [here the trader’s name, geographical address and, where available, his fax number and e-mail address are to be inserted by the trader]:<\/p>"
+          }
+        },
+        "1654749120670fcccd-2": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Placeholder<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1654749120670fcccd-0",
+        "1654749120670fcccd-1",
+        "1654749120670fcccd-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -461,6 +490,7 @@
     "1654663143b7343c77",
     "1654662730b6945692",
     "16546631012d6e3ecf",
-    "16546634280768ea8d"
+    "16546634280768ea8d",
+    "16547491206f824a06"
   ]
 }
