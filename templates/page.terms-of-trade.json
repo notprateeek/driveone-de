@@ -554,12 +554,21 @@
             "button_link": "",
             "button_style_secondary": false
           }
+        },
+        "7ee919b2-9ce5-4e72-bce0-6f4785d0deef": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Jeg\/vi meddeler herved, at jeg\/vi ønsker at gøre fortrydelsesretten gældende i forbindelse med min\/vores købsaftale om følgende varer\/levering af følgende tjenesteydelser<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
         "16547495261cd9fd52-0",
         "16547495261cd9fd52-1",
-        "16547495261cd9fd52-2"
+        "16547495261cd9fd52-2",
+        "7ee919b2-9ce5-4e72-bce0-6f4785d0deef"
       ],
       "settings": {
         "color_scheme": "background-1",
