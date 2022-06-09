@@ -457,16 +457,18 @@
             "heading_size": "h2"
           }
         },
-        "1654749120670fcccd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>To [here the trader’s name, geographical address and, where available, his fax number and e-mail address are to be inserted by the trader]:<\/p>"
-          }
-        },
         "1654749120670fcccd-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>To [here the trader’s name, geographical address and, where available, his fax number and e-mail address are to be inserted by the trader]:<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "76869f8e-c280-43f1-a28a-0ea764d5ef99": {
+          "type": "button",
+          "settings": {
+            "text": "<p>I\/We hereby give notice that I\/We withdraw from my\/our contract of sale of the following goods\/for the provision of the following service,<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -474,8 +476,8 @@
       },
       "block_order": [
         "1654749120670fcccd-0",
-        "1654749120670fcccd-1",
-        "1654749120670fcccd-2"
+        "1654749120670fcccd-2",
+        "76869f8e-c280-43f1-a28a-0ea764d5ef99"
       ],
       "settings": {
         "color_scheme": "background-1",
