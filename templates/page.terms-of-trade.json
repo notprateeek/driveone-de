@@ -550,7 +550,7 @@
         "16547495261cd9fd52-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Placeholder<\/p>",
+            "text": "<p>Til [her indsættes den erhvervsdrivendes navn, fysiske adresse og i givet fald faxnummer og e-mail-adresse af den erhvervsdrivende selv]:<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
