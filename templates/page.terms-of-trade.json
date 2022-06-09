@@ -496,6 +496,22 @@
             "button_link": "",
             "button_style_secondary": false
           }
+        },
+        "a19ea593-1e92-4b1b-8332-be3a1c14244f": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Signature of consumer(s) (only if this form is notified on paper),<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "7d9c5ee1-c96c-49fa-8800-e0b72017b1f3": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Date<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
@@ -504,7 +520,9 @@
         "76869f8e-c280-43f1-a28a-0ea764d5ef99",
         "0ddc0c4e-aec6-4e07-9848-127720462557",
         "379e3fb3-6f93-411d-8a55-61b5c9234c6c",
-        "c2daea7b-aaab-4e93-b26c-5ad3cbed052f"
+        "c2daea7b-aaab-4e93-b26c-5ad3cbed052f",
+        "a19ea593-1e92-4b1b-8332-be3a1c14244f",
+        "7d9c5ee1-c96c-49fa-8800-e0b72017b1f3"
       ],
       "settings": {
         "color_scheme": "background-1",
