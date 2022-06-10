@@ -195,7 +195,6 @@
         "75fa84a9-ea66-4d71-b533-6c2d67f214de"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/unsplash_Xbh_OGLRfUM.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -287,7 +286,6 @@
         "21882417-ad19-4ca8-a59c-06a07b4316d2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/unsplash_Xbh_OGLRfUM.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -336,9 +334,9 @@
         "16517385787608503f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.42.14_AM.png",
+        "image": "shopify:\/\/shop_images\/miljo-001_Large_9805c956-4a70-47be-84c8-41e330c75d0c.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
