@@ -54,22 +54,6 @@
         "padding_bottom": 36
       }
     },
-    "1652306079940c08c5": {
-      "type": "image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.46.53_AM.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "165170315350084f93": {
       "type": "heading",
       "blocks": {
@@ -346,86 +330,6 @@
         "padding_bottom": 36
       }
     },
-    "1651784390e765d05d": {
-      "type": "testimonial",
-      "disabled": true,
-      "blocks": {
-        "165178439021d9cce0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Excellent",
-            "heading_size": "h1"
-          }
-        },
-        "a601e8fc-f24c-4395-bd34-365018418edf": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "336367f7-9741-49b2-97a0-a4a12e08ec3c": {
-          "type": "heading",
-          "settings": {
-            "heading": "Based on 267 reviews",
-            "heading_size": "h2"
-          }
-        },
-        "f54a9492-7ec9-4a12-9c4a-df8a062c516d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Trustpilot<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb": {
-          "type": "caption",
-          "settings": {
-            "caption": "\"High quality timeless product.\"",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "165178439021d9cce0-0",
-        "a601e8fc-f24c-4395-bd34-365018418edf",
-        "336367f7-9741-49b2-97a0-a4a12e08ec3c",
-        "f54a9492-7ec9-4a12-9c4a-df8a062c516d",
-        "65c6226c-47f5-42bb-b3bd-c78a40cae5fb"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/403019_avatar_male_man_person_user_icon_a2271452-36df-40d8-8330-0dbfceb3e4b3.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1652651235b3506094": {
-      "type": "image-2",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/speed-traffic-on-highway-at-night-HX5678F.jpg",
-        "image_3": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.46.53_AM.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "165279162758370066": {
       "type": "review",
       "blocks": {
@@ -483,7 +387,6 @@
   },
   "order": [
     "1651697609746cc0ca",
-    "1652306079940c08c5",
     "165170315350084f93",
     "1651813135895f3bdc",
     "165170353504cb7d61",
@@ -493,8 +396,6 @@
     "16517046877f442e75",
     "1651740309597ac91b",
     "16517385784e6dd610",
-    "1651784390e765d05d",
-    "1652651235b3506094",
     "165279162758370066"
   ]
 }
