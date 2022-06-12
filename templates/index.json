@@ -60,8 +60,8 @@
         "165505532836c1cfed-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "Drive One",
+            "heading_size": "h0"
           }
         },
         "165505532836c1cfed-1": {
@@ -93,7 +93,7 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
