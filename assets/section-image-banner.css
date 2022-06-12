@@ -436,3 +436,7 @@
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
 }
+
+.media.video-background>*:not(.zoom):not(.deferred-media__poster-button) {
+  height: auto;
+}
