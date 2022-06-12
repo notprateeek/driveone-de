@@ -436,6 +436,50 @@
         "padding_bottom": 32
       }
     },
+    "165506350123b40e78": {
+      "type": "image-with-text",
+      "blocks": {
+        "16550635019d37ca94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "16550635019d37ca94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We get our data from our users and partners, just as we always keep up to date with authorities such as the Danish Road Directorate.<\/p><p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p><p>With input from more than five million users, we get plenty of data to cover Europe's road network.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16550635019d37ca94-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16550635019d37ca94-0",
+        "16550635019d37ca94-1",
+        "16550635019d37ca94-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/miljo-001_Large_9805c956-4a70-47be-84c8-41e330c75d0c.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16517385784e6dd610": {
       "type": "text-image-button",
       "blocks": {
@@ -532,6 +576,7 @@
     "16517046877f442e75",
     "1655054024d4dadd34",
     "1651740309597ac91b",
+    "165506350123b40e78",
     "16517385784e6dd610",
     "165279162758370066"
   ]
