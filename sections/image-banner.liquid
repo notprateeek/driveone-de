@@ -107,8 +107,24 @@
         {%- endcase -%}
       {%- endfor -%}
     </div>
-    <div>
-      {{ 'lifestyle-2' | placeholder_svg_tag: 'placeholder-svg' }}
+    <div class="banner__media media">
+      <img
+        srcset="{%- if section.settings.logo.width >= 375 -%}{{ section.settings.logo | image_url: width: 375 }} 375w,{%- endif -%}
+          {%- if section.settings.logo.width >= 750 -%}{{ section.settings.logo | image_url: width: 750 }} 750w,{%- endif -%}
+          {%- if section.settings.logo.width >= 1100 -%}{{ section.settings.logo | image_url: width: 1100 }} 1100w,{%- endif -%}
+          {%- if section.settings.logo.width >= 1500 -%}{{ section.settings.logo | image_url: width: 1500 }} 1500w,{%- endif -%}
+          {%- if section.settings.logo.width >= 1780 -%}{{ section.settings.logo | image_url: width: 1780 }} 1780w,{%- endif -%}
+          {%- if section.settings.logo.width >= 2000 -%}{{ section.settings.logo | image_url: width: 2000 }} 2000w,{%- endif -%}
+          {%- if section.settings.logo.width >= 3000 -%}{{ section.settings.logo | image_url: width: 3000 }} 3000w,{%- endif -%}
+          {%- if section.settings.logo.width >= 3840 -%}{{ section.settings.logo | image_url: width: 3840 }} 3840w,{%- endif -%}
+          {{ section.settings.logo | image_url }} {{ section.settings.logo.width }}w"
+        sizes="{% if section.settings.logo != blank and section.settings.stack_images_on_mobile %}(min-width: 750px) 50vw, 100vw{% elsif section.settings.logo != blank %}50vw{% else %}100vw{% endif %}"
+        src="{{ section.settings.logo | image_url: width: 1500 }}"
+        loading="lazy"
+        alt="{{ section.settings.logo.alt | escape }}"
+        width="{{ section.settings.logo.width }}"
+        height="{{ section.settings.logo.width | divided_by: section.settings.logo.aspect_ratio }}"
+      >
     </div>
   </div>
 </div>
@@ -134,6 +150,11 @@
       "type": "image_picker",
       "id": "image_2",
       "label": "t:sections.image-banner.settings.image_2.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "logo",
+      "label": "t:sections.image-banner.settings.image.label"
     },
     {
       "type": "range",
