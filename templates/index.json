@@ -191,6 +191,49 @@
         "padding_bottom": 36
       }
     },
+    "16550277969dce7f14": {
+      "type": "image-with-video",
+      "blocks": {
+        "16550277964643fc83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16550277964643fc83-1",
+        "2a4085da-4bbb-464e-b0a0-99eca6917e54",
+        "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -383,41 +426,6 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "16550277969dce7f14": {
-      "type": "image-with-video",
-      "blocks": {
-        "16550277964643fc83-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "16550277964643fc83-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "16550277964643fc83-0",
-        "16550277964643fc83-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -426,12 +434,12 @@
     "1651813135895f3bdc",
     "165170353504cb7d61",
     "1651704599c3fd45dd",
+    "16550277969dce7f14",
     "featured_collection",
     "1651703613b9dbd68a",
     "16517046877f442e75",
     "1651740309597ac91b",
     "16517385784e6dd610",
-    "165279162758370066",
-    "16550277969dce7f14"
+    "165279162758370066"
   ]
 }
