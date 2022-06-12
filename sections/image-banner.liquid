@@ -107,7 +107,7 @@
         {%- endcase -%}
       {%- endfor -%}
     </div>
-    <div class="banner__media media">
+    <div class="">
       <img
         srcset="{%- if section.settings.logo.width >= 375 -%}{{ section.settings.logo | image_url: width: 375 }} 375w,{%- endif -%}
           {%- if section.settings.logo.width >= 750 -%}{{ section.settings.logo | image_url: width: 750 }} 750w,{%- endif -%}
