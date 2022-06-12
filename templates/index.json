@@ -90,7 +90,6 @@
       ],
       "settings": {
         "video_background": true,
-        "logo": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
