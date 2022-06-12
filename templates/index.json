@@ -161,11 +161,11 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/packshots-006_Large_b4573cfc-e4e4-4066-b982-b9eb66a4696e.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
