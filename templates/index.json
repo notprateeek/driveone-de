@@ -325,6 +325,49 @@
         "padding_bottom": 36
       }
     },
+    "1655054024d4dadd34": {
+      "type": "image-with-video-2",
+      "blocks": {
+        "1655054023db901353-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our strength is each other. The information that our users constantly share from Europe's roads is what enables us to deliver world-class alerts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "7db1b405-2298-4304-8ea8-335b3e5f4d18": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That is why we are not just manufacturers and customers, respectively. We are a community that - at the touch of a button - helps each other and makes the roads safer.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ab140764-c459-4a91-9d73-b6fa05580522": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As the only ones on the market, we monitor, sort and evaluate users' reports - so that a fumble finger does not suddenly turn into a photo trap.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1655054023db901353-1",
+        "7db1b405-2298-4304-8ea8-335b3e5f4d18",
+        "ab140764-c459-4a91-9d73-b6fa05580522"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1651740309597ac91b": {
       "type": "heading",
       "blocks": {
@@ -438,6 +481,7 @@
     "featured_collection",
     "1651703613b9dbd68a",
     "16517046877f442e75",
+    "1655054024d4dadd34",
     "1651740309597ac91b",
     "16517385784e6dd610",
     "165279162758370066"
