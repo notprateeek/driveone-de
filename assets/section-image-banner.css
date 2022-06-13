@@ -447,9 +447,6 @@
   height: auto;
 }
 
-/* .banner {
-  display: block;
-} */
 
 @media screen and (min-width: 649px) and (max-width: 749px) {
   .banner {
