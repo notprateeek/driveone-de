@@ -147,50 +147,6 @@
         "padding_bottom": 32
       }
     },
-    "1651704599c3fd45dd": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1651704599b046b2e1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "ddb1c0e1-933b-4d90-9656-e30bbeb797e8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "75fa84a9-ea66-4d71-b533-6c2d67f214de": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1651704599b046b2e1-1",
-        "ddb1c0e1-933b-4d90-9656-e30bbeb797e8",
-        "75fa84a9-ea66-4d71-b533-6c2d67f214de"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16550277969dce7f14": {
       "type": "image-with-video",
       "blocks": {
@@ -280,50 +236,6 @@
         "full_width": true,
         "padding_top": 32,
         "padding_bottom": 32
-      }
-    },
-    "16517046877f442e75": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1651704687d1fa0b91-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our strength is each other. The information that our users constantly share from Europe's roads is what enables us to deliver world-class alerts.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>That is why we are not just manufacturers and customers, respectively. We are a community that - at the touch of a button - helps each other and makes the roads safer.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "21882417-ad19-4ca8-a59c-06a07b4316d2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As the only ones on the market, we monitor, sort and evaluate users' reports - so that a fumble finger does not suddenly turn into a photo trap.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1651704687d1fa0b91-1",
-        "b9aa6a89-40ec-45fc-ab4f-2ae3530d1bb0",
-        "21882417-ad19-4ca8-a59c-06a07b4316d2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "1655054024d4dadd34": {
@@ -478,11 +390,9 @@
     "165170315350084f93",
     "1651813135895f3bdc",
     "165170353504cb7d61",
-    "1651704599c3fd45dd",
     "16550277969dce7f14",
     "featured_collection",
     "1651703613b9dbd68a",
-    "16517046877f442e75",
     "1655054024d4dadd34",
     "1651740309597ac91b",
     "16550639291c5c90af",
