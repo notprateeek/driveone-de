@@ -447,8 +447,14 @@
   height: auto;
 }
 
-.banner {
+/* .banner {
   display: block;
+}
+
+@media screen and (min-width: 649px) and (max-width: 749px) {
+  .banner {
+    margin-bottom: 3em;
+  }
 }
 
 @media screen and (max-width: 649px) {
@@ -467,7 +473,7 @@
   .banner--large.video-background:not(.banner--adapt) {
     max-height: 27em;
   }
-}
+} */
 
 @media screen and (min-width: 750px) {
   .banner--large.video-background:not(.banner--adapt) {
