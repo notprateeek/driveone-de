@@ -447,6 +447,42 @@
   height: auto;
 }
 
+.banner {
+  display: block;
+}
+
+@media screen and (min-width: 649px) and (max-width: 749px) {
+  .banner {
+    margin-bottom: 3em;
+  }
+}
+
+@media screen and (max-width: 649px) {
+  .banner {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 650px) {
+  .banner--large.video-background:not(.banner--mobile-bottom):not(.banner--adapt) {
+    max-height: 24em;
+  }
+}
+
+@media screen and (max-width: 749px) {
+  .banner--large.video-background:not(.banner--adapt) {
+    max-height: 27em;
+  }
+
+  .banner__box {
+    padding: none !important;
+  }
+
+  .banner__content {
+    min-height: 27rem;
+  }
+}
+
 @media screen and (min-width: 750px) {
   .banner--large.video-background:not(.banner--adapt) {
     min-width: 112%;
