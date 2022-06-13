@@ -464,7 +464,7 @@
 }
 
 @media screen and (min-width: 650px) {
-  .banner--large.video-background:not(.banner--mobile-bottom):not(.banner--adapt) {
+  .banner--large.video-background:not(.banner--adapt) {
     max-height: 24em;
   }
 }
