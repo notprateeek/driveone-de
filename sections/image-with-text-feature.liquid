@@ -16,7 +16,7 @@
   .feature {
 	display: flex;
 	align-items: center;
-    gap: 1em;
+  gap: 1em;
   }
 
   .feature-icon {
@@ -25,6 +25,20 @@
 
   .feature-rings {
 	margin: 6em 0 0 5em;
+  }
+
+  @media screen and (max-width: 940px) {
+    .feature-grid {
+	    grid-template-columns: 1fr 1fr;
+      gap: 2.25em;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .feature-grid {
+	    grid-template-columns: 1fr;
+      gap: 2.5em;
+    }
   }
 
   @media screen and (min-width: 750px) {
