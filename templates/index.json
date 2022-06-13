@@ -24,12 +24,20 @@
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false
           }
+        },
+        "2d2f4de8-4286-41eb-8d5c-38867f45c584": {
+          "type": "text",
+          "settings": {
+            "text": "One for all. All for one.",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "165505532836c1cfed-0",
         "165505532836c1cfed-1",
-        "165505532836c1cfed-2"
+        "165505532836c1cfed-2",
+        "2d2f4de8-4286-41eb-8d5c-38867f45c584"
       ],
       "settings": {
         "video_background": true,
