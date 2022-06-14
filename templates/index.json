@@ -6,14 +6,14 @@
         "1655151519a91f966b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Drive One",
+            "heading_size": "h0"
           }
         },
         "1655151519a91f966b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Traffic without dangers and speeding fines.<\/p>",
             "text_style": "body"
           }
         },
