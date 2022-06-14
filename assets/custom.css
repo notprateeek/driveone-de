@@ -114,7 +114,7 @@
   }
   
   .test {
-    display: none;
+    margin-top: 3em;
   }
 
   .custom-media > *:not(.zoom):not(.deferred-media__poster-button),
