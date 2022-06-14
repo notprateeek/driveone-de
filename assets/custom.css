@@ -112,10 +112,6 @@
     column-gap: 0;
     row-gap: 2em;
   }
-  
-  .test {
-    margin-top: 3em !important;
-  }
 
   .custom-media > *:not(.zoom):not(.deferred-media__poster-button),
   .custom-media model-viewer {
