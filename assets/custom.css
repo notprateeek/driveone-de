@@ -109,7 +109,7 @@
   }
 
   .text-flex-gap {
-    column-gap: 2em;
+    column-gap: 0;
     row-gap: 2em;
   }
   
