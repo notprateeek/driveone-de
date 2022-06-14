@@ -1,16 +1,18 @@
 {% style %}
 
 @media screen and (min-width: 650px) {
-  video {
+  .only-video {
     display: none;
   }
 }
 
 {% endstyle %}
 
-<video autoplay muted loop id="myVideo">
-  <source src="https://cdn.shopify.com/videos/c/o/v/17e2fddb2f9c4a18a58fa2bdb84cc40d.mp4" type="video/mp4">
-</video>
+<div class=only-video>
+  <video autoplay muted loop>
+    <source src="https://cdn.shopify.com/videos/c/o/v/17e2fddb2f9c4a18a58fa2bdb84cc40d.mp4" type="video/mp4">
+  </video>
+</div>
 
 {% schema %}
 {
