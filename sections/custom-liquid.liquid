@@ -4,6 +4,16 @@
   padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
 }
 
+.only-video {
+  display: none;
+}
+
+@media screen and (max-width: 650px){
+  .only-video {
+    display: block;
+  }
+}
+
 @media screen and (min-width: 750px) {
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top }}px;
@@ -11,7 +21,7 @@
   }
 }
 {%- endstyle -%}
-<div class="color-{{ section.settings.color_scheme }} gradient">
+<div class="only-video color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
     {{ section.settings.custom_liquid }}
   </div>
