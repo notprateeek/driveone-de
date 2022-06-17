@@ -128,6 +128,57 @@
         "padding_bottom": 32
       }
     },
+    "165545703025e8cb5d": {
+      "type": "image-with-video-3",
+      "blocks": {
+        "1655457030819d2f98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Speed check",
+            "heading_size": "h2"
+          }
+        },
+        "1655457030819d2f98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Drive One warns you when there are speed controls in the water - whether it is mobile, fixed or the new route controls. You set yourself how much time you want to be notified so that you can become aware of your speed.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ae4d4f77-77d3-48ee-b8d8-29c774da15a5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Accidents, queues and other incidents",
+            "heading_size": "h2"
+          }
+        },
+        "982eecad-4959-4f60-bebe-23e8d2d17972": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get an alert when there is danger in traffic and incidents in traffic that require your attention. Then any hard braking will not come behind you.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1655457030819d2f98-0",
+        "1655457030819d2f98-1",
+        "ae4d4f77-77d3-48ee-b8d8-29c774da15a5",
+        "982eecad-4959-4f60-bebe-23e8d2d17972"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1651813135895f3bdc": {
       "type": "image-with-text",
       "blocks": {
@@ -444,6 +495,7 @@
     "16551830039454893a",
     "1655055328568e4bbc",
     "165170315350084f93",
+    "165545703025e8cb5d",
     "1651813135895f3bdc",
     "165170353504cb7d61",
     "16550277969dce7f14",
