@@ -293,7 +293,8 @@
       "title": "Seitentitel"
     },
     "feature-list": {
-      "always_up_to_date": "Immer auf dem Laufenden"
+      "always_up_to_date": "Immer auf dem Laufenden",
+      "free_subscription": "Kostenloses Abonnement"
     }
   },
   "localization": {
