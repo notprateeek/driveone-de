@@ -295,7 +295,8 @@
     "feature-list": {
       "always_up_to_date": "Immer auf dem Laufenden",
       "free_subscription": "Kostenloses Abonnement",
-      "user-friendly": "Benutzerfreundlich"
+      "user-friendly": "Benutzerfreundlich",
+      "checked_and_double-checked": "Geprüft und doppelt geprüft"
     }
   },
   "localization": {
