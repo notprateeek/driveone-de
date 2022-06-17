@@ -179,58 +179,6 @@
         "padding_bottom": 36
       }
     },
-    "1651813135895f3bdc": {
-      "type": "image-with-text",
-      "blocks": {
-        "1651813135094762da-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speed check",
-            "heading_size": "h2"
-          }
-        },
-        "1651813135094762da-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Drive One warns you when there are speed controls in the water - whether it is mobile, fixed or the new route controls. You set yourself how much time you want to be notified so that you can become aware of your speed.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "6fed67c5-fc52-4342-9ca0-1a43eb9adaf8": {
-          "type": "heading",
-          "settings": {
-            "heading": "Accidents, queues and other incidents",
-            "heading_size": "h2"
-          }
-        },
-        "63ebce8d-1cdb-4db6-866b-d7cf1c353c1c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Get an alert when there is danger in traffic and incidents in traffic that require your attention. Then any hard braking will not come behind you.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1651813135094762da-0",
-        "1651813135094762da-1",
-        "6fed67c5-fc52-4342-9ca0-1a43eb9adaf8",
-        "63ebce8d-1cdb-4db6-866b-d7cf1c353c1c"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/packshots-006_Large_b4573cfc-e4e4-4066-b982-b9eb66a4696e.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "165170353504cb7d61": {
       "type": "heading",
       "blocks": {
@@ -496,7 +444,6 @@
     "1655055328568e4bbc",
     "165170315350084f93",
     "165545703025e8cb5d",
-    "1651813135895f3bdc",
     "165170353504cb7d61",
     "16550277969dce7f14",
     "featured_collection",
