@@ -220,7 +220,7 @@
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
           "type": "text",
           "settings": {
-            "text": "<p>This means that we can deliver alerts with very high precision.<\/p>",
+            "text": "<p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
             "text_style": "body"
           }
         }
