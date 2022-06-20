@@ -1,4 +1,5 @@
 <!-- Start Advanced Store Localization Code: https://apps.shopify.com/advanced-geo-functions --> 
+<script rel="asl_jquery" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 {%- capture contentForQuerystring -%}{{ content_for_header }}{%- endcapture -%}
 {%- assign page_url = contentForQuerystring | split:'"pageurl":"' | last | split:'"' | first | split:'?' | first | replace: '\/', '/' | replace:'\u0026','&' -%}    
 <script type="text/javascript">
