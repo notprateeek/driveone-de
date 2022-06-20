@@ -67,14 +67,14 @@
         "165505532836c1cfed-1": {
           "type": "text",
           "settings": {
-            "text": "Færdsel uden farer og fartbøder",
+            "text": "Traffic without dangers and speeding fines",
             "text_style": "body"
           }
         },
         "165505532836c1cfed-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Køb i butik",
+            "button_label_1": "Buy in store",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false
           }
