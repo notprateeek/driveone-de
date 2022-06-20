@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Køb i butik",
-            "button_link": "shopify:\/\/collections\/drive-one",
+            "button_link": "shopify:\/\/collections",
             "button_style_secondary": false
           }
         }
