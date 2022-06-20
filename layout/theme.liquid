@@ -1,11 +1,6 @@
-{%- comment %}<locksmith:030e>{% endcomment -%}
-  {%- include 'locksmith' -%}
-{%- comment %}</locksmith:030e>{% endcomment -%}
-
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
-    {{ locksmith_initializations }}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -31,10 +26,7 @@
     </title>
 
     {% if page_description %}
-      {%- comment %}<locksmith:52f4>{% endcomment -%}
-        {%- capture var %}{% render 'locksmith-variables', variable: 'transparent', hiding_scope: 'resource' %}{% endcapture %}{% if var == 'true' %}<meta name="description" content="{{ page_description | escape }}">{% endif -%}
-        {%- comment %}original: <meta name="description" content="{{ page_description | escape }}">{%- endcomment %}
-      {%- comment %}</locksmith:52f4>{% endcomment -%}
+      <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
 
     {% render 'meta-tags' %}
@@ -233,7 +225,7 @@
     {% section 'announcement-bar' %}
     {% section 'header' %}
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-      {{ content_for_layout }}{{ locksmith_content_for_layout_addenda }}
+      {{ content_for_layout }}
     </main>
 
     {% section 'footer' %}
