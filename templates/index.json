@@ -13,15 +13,15 @@
         "1655151519a91f966b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Traffic without dangers and speeding fines.<\/p>",
+            "text": "<p>Færdsel uden farer og fartbøder<\/p>",
             "text_style": "body"
           }
         },
         "1655151519a91f966b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy in store",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_label": "Køb i butik",
+            "button_link": "shopify:\/\/collections\/drive-one",
             "button_style_secondary": false
           }
         }
@@ -67,14 +67,14 @@
         "165505532836c1cfed-1": {
           "type": "text",
           "settings": {
-            "text": "Traffic without dangers and speeding fines.",
+            "text": "Færdsel uden farer og fartbøder",
             "text_style": "body"
           }
         },
         "165505532836c1cfed-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy in store",
+            "button_label_1": "Køb i butik",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false
           }
@@ -113,7 +113,7 @@
         "1651703153561b2217-0": {
           "type": "heading",
           "settings": {
-            "heading": "World class notification",
+            "heading": "Varsling i verdensklasse",
             "heading_size": "h1"
           }
         }
@@ -185,7 +185,7 @@
         "1651703535bf736dff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Responds only to relevant alerts",
+            "heading": "Reagerer kun på relevante varsler",
             "heading_size": "h1"
           }
         }
@@ -206,21 +206,21 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p>",
+            "text": "<p>Drive One advarer dig kun, når der er kontroller og hændelser, som har betydning for dig. Det skyldes, at vi baserer tjenesten på vores mange brugeres realtidsdata, som vi overvåger og behandler.<\/p>",
             "text_style": "body"
           }
         },
         "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
           "type": "text",
           "settings": {
-            "text": "<p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p>",
+            "text": "<p>Vi har et system af medlemmer, medarbejdere og algoritmer, der leverer og sorterer vores trafikdata, og ret hurtigt får vi omsat en brugers tryk på knappen til en troværdig varsling på Drive One.<\/p>",
             "text_style": "body"
           }
         },
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
           "type": "text",
           "settings": {
-            "text": "<p>This means that we can deliver alerts with very high precision - and you therefore do not receive alerts about checks and accidents in the opposite direction.<\/p>",
+            "text": "<p>Det betyder, at vi kan levere varslinger med meget høj præcision.<\/p>",
             "text_style": "body"
           }
         }
@@ -246,7 +246,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Fremhævede produkter",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -276,7 +276,7 @@
         "165170361388832187-0": {
           "type": "heading",
           "settings": {
-            "heading": "A strong community throughout Europe",
+            "heading": "Et stærkt fællesskab i hele Europa",
             "heading_size": "h1"
           }
         }
@@ -297,21 +297,21 @@
         "1655054023db901353-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our strength is each other. The information that our users constantly share from Europe's roads is what enables us to deliver world-class alerts.<\/p>",
+            "text": "<p>Vores styrke er hinanden. De oplysninger, vores brugere hele tiden deler fra Europas veje, er dét, der gør, at vi kan levere varslinger i verdensklasse.<\/p>",
             "text_style": "body"
           }
         },
         "7db1b405-2298-4304-8ea8-335b3e5f4d18": {
           "type": "text",
           "settings": {
-            "text": "<p>That is why we are not just manufacturers and customers, respectively. We are a community that - at the touch of a button - helps each other and makes the roads safer.<\/p>",
+            "text": "<p>Derfor er vi ikke bare henholdsvis producenter og kunder. Vi er et fællesskab, der — med et tryk på knap — hjælper hinanden og gør vejene mere sikre.<\/p>",
             "text_style": "body"
           }
         },
         "ab140764-c459-4a91-9d73-b6fa05580522": {
           "type": "text",
           "settings": {
-            "text": "<p>As the only ones on the market, we monitor, sort and evaluate users' reports - so that a fumble finger does not suddenly turn into a photo trap.<\/p>",
+            "text": "<p>Som de eneste på markedet overvåger, sorterer og vurderer vi brugernes indberetninger — så en fummelfinger ikke pludselig bliver til en fotofælde.<\/p>",
             "text_style": "body"
           }
         }
@@ -340,7 +340,7 @@
         "1651740309a8fd3851-0": {
           "type": "heading",
           "settings": {
-            "heading": "Always updated",
+            "heading": "Altid opdateret",
             "heading_size": "h1"
           }
         }
@@ -361,7 +361,7 @@
         "16550639297b3135bb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We get our data from our users and partners, just as we always keep up to date with authorities such as the Danish Road Directorate.<\/p><p>However, it is the real-time data from the community that provides the best and most accurate alerts.<\/p><p>With input from more than five million users, we get plenty of data to cover Europe's road network.<\/p>",
+            "text": "<p>Vi får vores data fra vores brugere og samarbejdspartnere, ligesom vi altid holder os ajour med myndigheder som Vejdirektoratet.<\/p><p>Det er dog realtidsdataen fra fællesskabet, som giver de bedste og mest præcise varslinger.<\/p><p>Med input fra mere end fem millioner brugere får vi rigeligt med data til at kunne dække Europas vejnet.<\/p>",
             "text_style": "body"
           }
         }
