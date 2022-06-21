@@ -6,8 +6,18 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
+  .logo-grid span {
+    display: grid;
+    place-items: center;
+    font-size: 1rem;
+  }
+
+  .svg svg {
+    width: 70%;
+  }
+
   .trafikalarm-image {
-    width: 20%;
+    width: 30%;
     height: auto;
   }
 
@@ -126,25 +136,26 @@
               {%- endif -%}
           {%- endcase -%}
         {%- endfor -%}
+
+        <div class="logos-grid">
+          <div class="logo-grid">
+            <span class="svg">{% render 'blitzer' %}</span>
+            <span>Blitzer.de</span>
+          </div>
+          <div class="logo-grid">
+            <span class="svg">{% render 'vejdirektoratet' %}</span>
+            <span>Vejdirektoratet</span>
+          </div>
+          <div class="logo-grid">
+            <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/TALogo.png?v=1655807177" loading="lazy" width="" height="" class="trafikalarm-image" />
+            <span>Trafikalarm</span>
+          </div>
+          <div class="logo-grid">
+            <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/en.png?v=1655701957" loading="lazy" width="" height="" class="scdb-image" />
+            <span>SCDB.info</span>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-  <div class="logos-grid">
-    <div class="logo-grid">
-      <span class="svg">{% render 'blitzer' %}</span>
-      <span>Blitzer.de</span>
-    </div>
-    <div class="logo-grid">
-      <span class="svg">{% render 'vejdirektoratet' %}</span>
-      <span>Vejdirektoratet</span>
-    </div>
-    <div class="logo-grid">
-      <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/TALogo.png?v=1655807177" loading="lazy" width="" height="" class="trafikalarm-image" />
-      <span>Trafikalarm</span>
-    </div>
-    <div class="logo-grid">
-      <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/en.png?v=1655701957" loading="lazy" width="" height="" class="scdb-image" />
-      <span>SCDB.info</span>
     </div>
   </div>
   <div class=feature-grid>
