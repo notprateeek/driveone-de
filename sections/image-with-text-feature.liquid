@@ -6,17 +6,25 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
+  .trafikalarm-image {
+    width: 20%;
+    height: auto;
+  }
+
+  .scdb-image {
+    width: 40%;
+  }
+
   .logos-grid {
     display: grid;
-    place-items: center;
-	grid-template-columns: 1fr 1fr 1fr;
-  	margin: 5em 4em 0 4em;
+	  grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
   .logo-grid {
     display: flex;
     flex-direction: column;
-	align-items: center;
+	  align-items: center;
+    justify-content: space-evenly;
     gap: 1em;
   }
 
@@ -53,16 +61,13 @@
 	    grid-template-columns: 1fr;
       gap: 2.5em;
     }
-
-    .logos-grid {
-  	margin: 5em 0 0 0;
-    }
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 500px) {
+
     .logos-grid {
-      grid-template-columns: 1fr;
-      gap: 2em;
+      grid-template-columns: 1fr 1fr;
+      gap: 1em;
     }
   }
 
@@ -121,26 +126,25 @@
               {%- endif -%}
           {%- endcase -%}
         {%- endfor -%}
-      
-        <div class="logos-grid">
-          <div class="logo-grid">
-            <span>{% render 'blitzer' %}</span>
-            <span>Blitzer.de</span>
-          </div>
-          <div class="logo-grid">
-            <span>{% render 'vejdirektoratet' %}</span>
-            <span>Vejdirektoratet</span>
-          </div>
-          <div class="logo-grid">
-            <span>{% render 'trafikalarm' %}</span>
-            <span>Trafikalarm</span>
-          </div>
-          <div class="logo-grid">
-            <span>{% render 'scdb' %}</span>
-            <span>SCDB.info</span>
-          </div>
-        </div>
-       </div>
+      </div>
+    </div>
+  </div>
+  <div class="logos-grid">
+    <div class="logo-grid">
+      <span class="svg">{% render 'blitzer' %}</span>
+      <span>Blitzer.de</span>
+    </div>
+    <div class="logo-grid">
+      <span class="svg">{% render 'vejdirektoratet' %}</span>
+      <span>Vejdirektoratet</span>
+    </div>
+    <div class="logo-grid">
+      <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/TALogo.png?v=1655807177" loading="lazy" width="" height="" class="trafikalarm-image" />
+      <span>Trafikalarm</span>
+    </div>
+    <div class="logo-grid">
+      <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/en.png?v=1655701957" loading="lazy" width="" height="" class="scdb-image" />
+      <span>SCDB.info</span>
     </div>
   </div>
   <div class=feature-grid>
