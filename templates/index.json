@@ -246,7 +246,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Fremhævede produkter",
+        "title": "Featured products",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
