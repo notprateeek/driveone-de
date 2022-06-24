@@ -142,18 +142,20 @@
             <span class="svg">{% render 'blitzer' %}</span>
             <span>Blitzer.de</span>
           </div>
-          <div class="logo-grid only-denmark">
-            <span class="svg">{% render 'vejdirektoratet' %}</span>
-            <span>Vejdirektoratet</span>
-          </div>
-          <div class="logo-grid">
-            <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/TALogo.png?v=1655807177" loading="lazy" width="" height="" class="trafikalarm-image" />
-            <span>Trafikalarm</span>
-          </div>
           <div class="logo-grid">
             <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/en.png?v=1655701957" loading="lazy" width="" height="" class="scdb-image" />
             <span>SCDB.info</span>
           </div>
+          <div class="logo-grid">
+            <img src="https://cdn.shopify.com/s/files/1/0637/0328/5977/files/TALogo.png?v=1655807177" loading="lazy" width="" height="" class="trafikalarm-image" />
+            <span>Trafik Alarm</span>
+          </div>
+          {% if shop.locale == 'da' %}
+            <div class="logo-grid only-denmark">
+              <span class="svg">{% render 'vejdirektoratet' %}</span>
+              <span>Vejdirektoratet</span>
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>
