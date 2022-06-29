@@ -206,7 +206,7 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process.<\/p>",
+            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process. That's why you can count on our alerts<\/p>",
             "text_style": "body"
           }
         },
