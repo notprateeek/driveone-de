@@ -8,6 +8,42 @@
         "padding_bottom": 28
       }
     },
+    "1656563785f87aeede": {
+      "type": "hero-2",
+      "blocks": {
+        "1656563785fe9bb16c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get started",
+            "heading_size": "h1"
+          }
+        },
+        "1656563785fe9bb16c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Installing your Drive One is almost as simple as daily use. Follow these few steps - and look forward to traffic without dangers and speeding tickets.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1656563785fe9bb16c-0",
+        "1656563785fe9bb16c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/undraw_Scrum_board_re_wk7v.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1651782764c1e853e6": {
       "type": "hero",
       "blocks": {
@@ -488,6 +524,7 @@
   },
   "order": [
     "main",
+    "1656563785f87aeede",
     "1651782764c1e853e6",
     "1652250126bb7cb381",
     "1651782814b7feef7d",
