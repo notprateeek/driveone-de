@@ -37,42 +37,6 @@
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1651782764c1e853e6": {
-      "type": "hero",
-      "blocks": {
-        "165178276424c37e95-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get started",
-            "heading_size": "h1"
-          }
-        },
-        "165178276424c37e95-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Installing your Drive One is almost as simple as daily use. Follow these few steps - and look forward to traffic without dangers and speeding tickets.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "165178276424c37e95-0",
-        "165178276424c37e95-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/undraw_Scrum_board_re_wk7v.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -525,7 +489,6 @@
   "order": [
     "main",
     "1656563785f87aeede",
-    "1651782764c1e853e6",
     "1652250126bb7cb381",
     "1651782814b7feef7d",
     "1651782997726ce620",
