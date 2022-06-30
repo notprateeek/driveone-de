@@ -270,6 +270,70 @@
         "padding_bottom": 32
       }
     },
+    "16566153035c05c806": {
+      "type": "heading",
+      "blocks": {
+        "165661530340caea40-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Make Drive One your very own",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165661530340caea40-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16566153590fa0c5b3": {
+      "type": "image-with-text",
+      "blocks": {
+        "165661535926379d6e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The options are many when it comes to setting up your Drive One. Via the app, you can set which types of warnings you want. This means that you can opt out of, for example, road work or animals on the road - if you so wish.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "17f0e00b-dcff-4172-94df-ed699a0626cd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You can also choose how you want to be notified. Whether the sound should come from Drive One, the app or over your car's system via Bluetooth. You can also set the amount of time you want your notification. Drive One is your friend in traffic - so be sure to tailor it to your needs.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "8a389f5d-3066-4c7a-b99e-73015be93423": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Via the app, you can also see alerts and speed controls in the area before turning the key. Maybe another route is obvious that day. The app also makes sure to tell you when the battery needs to be replaced.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165661535926379d6e-1",
+        "17f0e00b-dcff-4172-94df-ed699a0626cd",
+        "8a389f5d-3066-4c7a-b99e-73015be93423"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1651703613b9dbd68a": {
       "type": "heading",
       "blocks": {
@@ -436,6 +500,49 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "16566153250d20a91b": {
+      "type": "image-with-text-feature",
+      "blocks": {
+        "1656615325edd3bcc0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1656615325edd3bcc0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1656615325edd3bcc0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656615325edd3bcc0-0",
+        "1656615325edd3bcc0-1",
+        "1656615325edd3bcc0-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -447,10 +554,13 @@
     "165170353504cb7d61",
     "16550277969dce7f14",
     "featured_collection",
+    "16566153035c05c806",
+    "16566153590fa0c5b3",
     "1651703613b9dbd68a",
     "1655054024d4dadd34",
     "1651740309597ac91b",
     "16550639291c5c90af",
-    "165279162758370066"
+    "165279162758370066",
+    "16566153250d20a91b"
   ]
 }
