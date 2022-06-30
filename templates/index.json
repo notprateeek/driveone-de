@@ -322,10 +322,11 @@
         "8a389f5d-3066-4c7a-b99e-73015be93423"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-05-12_at_10.42.14_AM.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
