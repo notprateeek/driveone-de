@@ -12,19 +12,6 @@
     font-size: 1rem;
   }
 
-<!--   .svg svg {
-    width: 70%;
-  }
-
-  .trafikalarm-image {
-    width: 30%;
-    height: auto;
-  }
-
-  .scdb-image {
-    width: 40%;
-  } -->
-
   .logos-grid {
     display: grid;
 	  grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -151,7 +138,7 @@
             <span>Trafik Alarm</span>
           </div>
           {% if shop.locale == 'da' %}
-            <div class="logo-grid only-denmark">
+            <div class="logo-grid">
               <span>{% render 'vejdirektoratet' %}</span>
               <span>Vejdirektoratet</span>
             </div>
