@@ -12,8 +12,9 @@
     font-size: 1rem;
   }
 
-  .logo-grid img {
-	width: 100%;
+  .logo-grid svg, .logo-grid img {
+    min-height: 40px;
+    max-height: 40px;
   }
 
   .logos-grid {
@@ -48,6 +49,12 @@
 
   .feature-rings {
 	margin: 6em 0 0 5em;
+  }
+
+  @media screen and (max-width: 990px) {
+    .logo-grid img {
+      width: auto;
+    }
   }
 
   @media screen and (max-width: 940px) {
