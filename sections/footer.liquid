@@ -421,7 +421,8 @@
       if (form) form.submit();
     }
 
-    openWidget() {
+    openWidget(event) {
+      event.preventDefault();
       FreshworksWidget('open');
     }
     
