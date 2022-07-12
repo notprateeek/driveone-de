@@ -8,6 +8,11 @@
 
 
 {%- style -%}
+
+  .li p {
+	display: inline-block;
+  }
+
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
@@ -31,7 +36,7 @@
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
           {%- when 'button' -%}
-      		 <li class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</li>
+      		 <li class="rich-text__text rte li" {{ block.shopify_attributes }}>{{ block.settings.text }}</li>
         {%- endcase -%}
       {%- endfor -%}
     </div>
