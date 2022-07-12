@@ -31,7 +31,7 @@
         "1656563785fe9bb16c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/undraw_Scrum_board_re_wk7v.png",
+        "image": "shopify:\/\/shop_images\/miljo-lys-003_Large_193d99cc-39ea-4d1a-b6f1-4c138865e3d7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -165,13 +165,13 @@
         "04d4faa7-ff76-4487-adde-b086510df02c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/undraw_city_driver_re_0x5e_1.png",
+        "image": "shopify:\/\/shop_images\/miljo-005_Large_24b6aa22-c08e-4f48-b4e2-44496b91157c.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
