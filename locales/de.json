@@ -537,6 +537,65 @@
         "handle_email_invalid": "Gib eine gültige E-Mail-Adresse ein",
         "email_invalid": "Gib eine gültige E-Mail-Adresse ein",
         "email_or_phone_blank": "Gib eine E-Mail-Adresse oder Handynummer ein"
+      },
+      "tips": {
+        "custom_label": "Benutzerdefiniertes Trinkgeld",
+        "add_tip": "Trinkgeld hinzufügen",
+        "update_tip": "Trinkgeld aktualisieren",
+        "message": "Vielen Dank! Wir wissen dies zu schätzen.",
+        "preset_label": "%{tip_percent} %",
+        "no_tip_label": "Keine"
+      },
+      "open_graph_meta_tag": {
+        "title_with_products": {
+          "zero": "%{product_name} kaufen",
+          "one": "%{product_name} und %{count} weiteren Artikel kaufen",
+          "other": "%{product_name} und %{count} weitere Artikel kaufen"
+        }
+      },
+      "subscriptions": {
+        "recurring_total_intervals": {
+          "day": {
+            "one": "Tag",
+            "other": "%{count} Tage"
+          },
+          "week": {
+            "one": "Woche",
+            "other": "%{count} Wochen"
+          },
+          "month": {
+            "one": "Monat",
+            "other": "%{count} Monate"
+          },
+          "year": {
+            "one": "Jahr",
+            "other": "%{count} Jahre"
+          }
+        },
+        "recurring_totals": "%{total_price} jede\/n\/s %{interval}",
+        "recurring_totals_with_initial_order_shipping_discount": "Erste Zahlung %{total_price_with_discount}, anschließend %{recurring_total}",
+        "recurring_totals_with_policies": {
+          "first_cycles": {
+            "one": "Erste Zahlung %{total_price}",
+            "other": "Erste %{count} Zahlungen von je %{total_price}"
+          },
+          "following_cycles": ", anschließend %{total_price} alle bzw. jede\/n %{interval}"
+        },
+        "recurring_totals_with_initial_order_shipping_discount_with_policies": {
+          "first_cycles": {
+            "one": ", anschließend %{count} Zahlung über %{total_price}",
+            "other": ", anschließend %{count} Zahlungen über je %{total_price}"
+          }
+        }
+      },
+      "customer_payment_methods": {
+        "page_title": "Zahlungsmethoden",
+        "title": "Zahlungsmethoden",
+        "update_card_button_label": "Karte aktualisieren",
+        "delete_customer_mandate": {
+          "generic_error": "Bei der Verarbeitung deiner Anfrage ist ein Problem aufgetreten.",
+          "success_message": "Deine Zahlungsmethode wurde erfolgreich gelöscht"
+        }
       }
     },
     "store_availability": {
@@ -550,6 +609,106 @@
         "immediately": "Jetzt zur Abholung bereit",
         "next_day": "Abholbereit am nächsten Tag"
       }
+    },
+    "notices": {
+      "order": {
+        "financial_status": {
+          "paid": "Bezahlt",
+          "unpaid": "Unbezahlt",
+          "voided": "Storniert",
+          "partially_paid": "Teilweise bezahlt",
+          "partially_refunded": "Teilweise erstattet",
+          "refunded": "Zurückerstattet",
+          "expired": "Abgelaufen"
+        },
+        "fulfillment_status": {
+          "fulfilled": "Erfüllt",
+          "complete": "Vollständig",
+          "partial": "Teilweise",
+          "unfulfilled": "Nicht ausgeführt",
+          "restocked": "Wieder verfügbar"
+        },
+        "transaction_status": {
+          "success": "Erfolg",
+          "pending": "Ausstehend",
+          "failure": "Störungsmeldung",
+          "error": "Fehler"
+        },
+        "cancel_reason": {
+          "declined": "Bezahlung abgelehnt",
+          "inventory": "Artikel nicht verfügbar",
+          "fraud": "Falsche Bestellung",
+          "customer": "Bestellung vom Kunden geändert\/storniert",
+          "other": "Sonstiges"
+        },
+        "cash_on_delivery": "Nachnahme (COD)"
+      },
+      "cart": {
+        "only_n_items_available": "Du kannst dem Warenkorb nur %{count} %{name} hinzufügen.",
+        "too_many_items_in_cart": "Du kannst keine weiteren %{name}-Produkte in den Warenkorb legen.",
+        "all_items_in_cart": "Alle %{count} %{name} befinden sich in deinem Warenkorb.",
+        "empty_update": "kann leeren Warenkorb nicht aktualisieren",
+        "missing_parameters": "keine gültigen ID- oder Zeilenparameter",
+        "generic_error": "Warenkorb-Fehler",
+        "too_many_line_items_error": "Dein Warenkorb darf nicht mehr als %{max} artikel.",
+        "link_expired": "Link abgelaufen"
+      }
+    },
+    "pagination": {
+      "previous": "Vorherige",
+      "next": "Nächste"
+    },
+    "links": {
+      "powered_by_shopify": "Powered by Shopify",
+      "learn_more": "Mehr erfahren"
+    },
+    "feed": {
+      "more": "Mehr"
+    },
+    "attributes": {
+      "email": "E-Mail",
+      "password": "Passwort",
+      "password_confirmation": "die Passwortbestätigung",
+      "first_name": "Vorname",
+      "last_name": "Nachname",
+      "body": "Nachricht",
+      "signature": "Adresse"
+    },
+    "addresses": {
+      "zip_code": "Postleitzahl",
+      "postal_code": "Postleitzahl",
+      "postcode": "Postleitzahl",
+      "pincode": "Postleitzahl",
+      "region": "Region",
+      "prefecture": "Präfektur",
+      "province": "Provinz",
+      "state": "Bundesland",
+      "state_and_territory": "Staat\/Territorium",
+      "county": "Provinz",
+      "emirate": "Emirate",
+      "governorate": "Governorate",
+      "confirm": "Bist du sicher, dass du diese Adresse löschen möchtest?"
+    },
+    "collections": {
+      "sorting": {
+        "manual": "Ausgewählt",
+        "best_selling": "meistverkauft",
+        "az": "Alphabetisch, A-Z",
+        "za": "Alphabetisch, Z-A",
+        "price_ascending": "Preis, niedrig nach hoch",
+        "price_descending": "Preis, hoch nach niedrig",
+        "date_ascending": "Datum, alt zu neu",
+        "date_descending": "Datum, neu zu alt"
+      }
+    },
+    "errors": {
+      "blank": "darf nicht leer sein",
+      "blocked_address": "Dieser Standort wird nicht unterstützt.",
+      "credit_card_session_expired": "Die Kreditkartenautorisierung ist abgelaufen, bitte gib deine Zahlungsinformationen erneut ein. deine Karte wurde nicht belastet.",
+      "empty": "darf nicht leer sein",
+      "invalid_email": "muss gültige E-Mail-Adresse sein",
+      "discount_disabled": "Dieser Rabatt wurde deaktiviert",
+      "discount_expired": "Dieser Rabatt ist nicht mehr gültig"
     }
   },
   "customer_accounts": {
