@@ -320,68 +320,6 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
-          }
-        },
-        "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Name<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "1f57e680-448d-4a2f-8c18-4a55ef745443": {
-          "type": "button",
-          "settings": {
-            "text": "<p>E-mail<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "053afe02-76d9-4e7e-8c0e-0041aa27b4bb": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Telephone number<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "03b94288-86d8-4056-a78f-6a1d8c60c7f5": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Credit card data<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "98ea6e8d-2d31-4b79-baaf-a7eb400c2762": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Password<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "64345c1f-26fb-413f-aad6-12ae535aedc8": {
-          "type": "button",
-          "settings": {
-            "text": "<p>User Address<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "88f4c7e6-f8da-4ce7-8180-813effc6e265": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Operating System, browser version, user time zone and region<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
@@ -393,15 +331,7 @@
         "11d37e4b-3cf5-4a6a-b5e4-527334805769",
         "9216bfc3-94d9-4bde-bef4-987a21885264",
         "18947c4c-3cec-4765-9d6b-f0920ea60af9",
-        "8aa0dcc8-906e-44a9-b780-e17ed981ea54",
-        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
-        "ce1e703c-6dbb-4d8f-a983-a07a24485499",
-        "1f57e680-448d-4a2f-8c18-4a55ef745443",
-        "053afe02-76d9-4e7e-8c0e-0041aa27b4bb",
-        "03b94288-86d8-4056-a78f-6a1d8c60c7f5",
-        "98ea6e8d-2d31-4b79-baaf-a7eb400c2762",
-        "64345c1f-26fb-413f-aad6-12ae535aedc8",
-        "88f4c7e6-f8da-4ce7-8180-813effc6e265"
+        "8aa0dcc8-906e-44a9-b780-e17ed981ea54"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -489,8 +419,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1657616902e7d60888": {
@@ -527,8 +457,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16529374677211fcb9": {
@@ -621,6 +551,26 @@
         "0fbbca88-8443-4ec7-a169-4dbf9d5355e6",
         "9ab1d879-e979-42ec-8de9-288b3c12b3b7",
         "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16576171810ff1800c": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1657617181b958efb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our app collects data about your location to provide Real time traffic information. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1657617181b958efb7-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -1251,6 +1201,7 @@
     "165761680614c40c34",
     "1657616902e7d60888",
     "16529374677211fcb9",
+    "16576171810ff1800c",
     "1652937594571fccd2",
     "1652880051cdc43b41",
     "16529376702ac69110",
