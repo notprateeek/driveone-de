@@ -83,19 +83,19 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https://twitter.com",
-    "social_facebook_link": "https://facebook.com",
+    "social_twitter_link": "https:\/\/twitter.com",
+    "social_facebook_link": "https:\/\/facebook.com",
     "social_pinterest_link": "",
-    "social_instagram_link": "http://instagram.com/",
+    "social_instagram_link": "http:\/\/instagram.com\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https://www.youtube.com",
+    "social_youtube_link": "https:\/\/www.youtube.com",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
-    "favicon": "https://cdn.shopify.com/s/files/1/0637/0328/5977/files/1024x1024_DriveOne_rings_app_icon_9224026a-bddd-4b9b-affa-36a52b8c6bae.png?v=1650534099",
+    "favicon": "{{ shop.brand.logo }}",
     "currency_code_enabled": true,
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
@@ -106,14 +106,15 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {}
+        "settings": {
+        }
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
           "button_label": "Buy",
-          "button_link": "shopify://collections/all",
+          "button_link": "shopify:\/\/collections\/all",
           "button_style_secondary": false,
           "logo_width": 90,
           "logo_position": "middle-left",
@@ -173,7 +174,9 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
@@ -286,8 +289,11 @@
               }
             }
           },
-          "block_order": ["announcement-bar-0"],
-          "settings": {}
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",
@@ -322,11 +328,15 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
               }
             }
           },
-          "block_order": ["footer-0", "footer-1", "footer-2"],
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
           "settings": {
             "color_scheme": "background-1",
             "newsletter_enable": true,
