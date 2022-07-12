@@ -761,12 +761,6 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "3943abd1-f3c1-4d0c-b59e-09f8c19309f3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -774,8 +768,27 @@
         "165293767040b33b0e-1",
         "165293767040b33b0e-2",
         "53ff520f-465d-403b-8cb3-f50141246730",
-        "21b5ef2a-5a56-49d4-98a1-b77ea362d717",
-        "3943abd1-f3c1-4d0c-b59e-09f8c19309f3"
+        "21b5ef2a-5a56-49d4-98a1-b77ea362d717"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1657617541aa247266": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1657617541eb795d1b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1657617541eb795d1b-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -1218,6 +1231,7 @@
     "1652937594571fccd2",
     "1652880051cdc43b41",
     "16529376702ac69110",
+    "1657617541aa247266",
     "16529026917879e63f",
     "1652902788848513d1",
     "16529377952e3facf1",
