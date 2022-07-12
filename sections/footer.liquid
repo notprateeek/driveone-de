@@ -407,6 +407,8 @@
       this.elements.panel.setAttribute('hidden', true);
     }
 
+    document.querySelector('.freshdesk-widget').addEventListner('click', FreshworksWidget('open'));
+
     onContainerKeyUp(event) {
       if (event.code.toUpperCase() !== 'ESCAPE') return;
 
