@@ -278,7 +278,10 @@
 	</script>
 	<script type='text/javascript' src='https://euc-widget.freshworks.com/widgets/101000005390.js' async defer></script>
     <script type='text/javascript'>
-      document.querySelector('.freshWidget').addEventListener("click", function openWidget(e) {console.log(e);e.preventDefault();FreshworksWidget('open');});
+      document.querySelector('.freshWidget').addEventListener("click", openWidget);
+      function openWidget(e) {
+        console.log('event', e);
+      }
     </script>
     
   </body>
