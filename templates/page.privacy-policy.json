@@ -435,6 +435,26 @@
         "padding_bottom": 0
       }
     },
+    "165761680614c40c34": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1657616806b6a48221-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1657616806b6a48221-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16529374677211fcb9": {
       "type": "unstyled-list",
       "blocks": {
@@ -1152,6 +1172,7 @@
     "1652937235838d516a",
     "1652879765bdc66028",
     "16529372941c6c27e8",
+    "165761680614c40c34",
     "16529374677211fcb9",
     "1652937594571fccd2",
     "1652880051cdc43b41",
