@@ -35,15 +35,11 @@
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+      	  <ul>
+      	    {%- when 'button' -%}
+              <li class="rich-text__text rte li" {{ block.shopify_attributes }}>{{ block.settings.text }}</li>
+      	  </ul>
         {%- endcase -%}
-      {%- endfor -%}
-      {%- for block in section.blocks -%}
-      <ul>
-        {%- case block.type -%}
-          {%- when 'button' -%}
-          <li class="rich-text__text rte li" {{ block.shopify_attributes }}>{{ block.settings.text }}</li>
-        {%- endcase -%}
-      </ul>
       {%- endfor -%}
     </div>
   </div>
