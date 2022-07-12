@@ -382,28 +382,6 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>The Device collects the following personal data:<\/strong><\/p>"
-          }
-        },
-        "004ceae5-88d5-453c-aedc-e5b962f7f927": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Your geo location when you press one of the two buttons<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "3675e046-b4bc-4903-a4d1-0352569288df": {
-          "type": "button",
-          "settings": {
-            "text": "<p>Information on which button you pressed<\/p>",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
@@ -423,10 +401,7 @@
         "03b94288-86d8-4056-a78f-6a1d8c60c7f5",
         "98ea6e8d-2d31-4b79-baaf-a7eb400c2762",
         "64345c1f-26fb-413f-aad6-12ae535aedc8",
-        "88f4c7e6-f8da-4ce7-8180-813effc6e265",
-        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
-        "004ceae5-88d5-453c-aedc-e5b962f7f927",
-        "3675e046-b4bc-4903-a4d1-0352569288df"
+        "88f4c7e6-f8da-4ce7-8180-813effc6e265"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -443,10 +418,111 @@
           "settings": {
             "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
           }
+        },
+        "7ea20e4c-3268-478d-bc05-7aabddfddf0a": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Name<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "402b1369-d584-400a-94c6-e1c693068c48": {
+          "type": "button",
+          "settings": {
+            "text": "<p>E-mail<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "6c63e8dc-0e30-43c0-b4b6-6a29aa8c25e4": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Telephone number<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a7ceae37-ac09-490d-9e46-38e1a9f64190": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Credit card data<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "f10fe559-d531-4d61-bcbd-ce261531b13e": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Password<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8756550f-d603-4ba6-b3ea-b7cf2eb289c7": {
+          "type": "button",
+          "settings": {
+            "text": "<p>User Address<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "51841eab-e63b-4ce7-98c8-0a2038528847": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Operating System, browser version, user time zone and region<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "1657616806b6a48221-1"
+        "1657616806b6a48221-1",
+        "7ea20e4c-3268-478d-bc05-7aabddfddf0a",
+        "402b1369-d584-400a-94c6-e1c693068c48",
+        "6c63e8dc-0e30-43c0-b4b6-6a29aa8c25e4",
+        "a7ceae37-ac09-490d-9e46-38e1a9f64190",
+        "f10fe559-d531-4d61-bcbd-ce261531b13e",
+        "8756550f-d603-4ba6-b3ea-b7cf2eb289c7",
+        "51841eab-e63b-4ce7-98c8-0a2038528847"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657616902e7d60888": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1657616902c7ba1ad3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Device collects the following personal data:<\/strong><\/p>"
+          }
+        },
+        "1657616902c7ba1ad3-2": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Your geo location when you press one of the two buttons<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "e750e20a-923a-4380-85bc-e347f3baed2a": {
+          "type": "button",
+          "settings": {
+            "text": "<p>Information on which button you pressed<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657616902c7ba1ad3-1",
+        "1657616902c7ba1ad3-2",
+        "e750e20a-923a-4380-85bc-e347f3baed2a"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -1173,6 +1249,7 @@
     "1652879765bdc66028",
     "16529372941c6c27e8",
     "165761680614c40c34",
+    "1657616902e7d60888",
     "16529374677211fcb9",
     "1652937594571fccd2",
     "1652880051cdc43b41",
