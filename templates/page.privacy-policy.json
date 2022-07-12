@@ -265,12 +265,6 @@
             "text": "<p><strong>The App collects the following personal data:<\/strong><\/p>"
           }
         },
-        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
-          }
-        },
         "1652937294cdb99af0-2": {
           "type": "button",
           "settings": {
@@ -327,18 +321,18 @@
             "button_style_secondary": false
           }
         },
+        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Website collects the following personal data:<\/strong><\/p>"
+          }
+        },
         "ce1e703c-6dbb-4d8f-a983-a07a24485499": {
           "type": "button",
           "settings": {
             "text": "<p>Name<\/p>",
             "button_link": "",
             "button_style_secondary": false
-          }
-        },
-        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>The Device collects the following personal data:<\/strong><\/p>"
           }
         },
         "1f57e680-448d-4a2f-8c18-4a55ef745443": {
@@ -389,6 +383,12 @@
             "button_style_secondary": false
           }
         },
+        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Device collects the following personal data:<\/strong><\/p>"
+          }
+        },
         "004ceae5-88d5-453c-aedc-e5b962f7f927": {
           "type": "button",
           "settings": {
@@ -409,7 +409,6 @@
       "block_order": [
         "1652937294cdb99af0-0",
         "1652937294cdb99af0-1",
-        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
         "1652937294cdb99af0-2",
         "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87",
         "94265911-ff81-485f-bb6b-df948416b98a",
@@ -417,14 +416,15 @@
         "9216bfc3-94d9-4bde-bef4-987a21885264",
         "18947c4c-3cec-4765-9d6b-f0920ea60af9",
         "8aa0dcc8-906e-44a9-b780-e17ed981ea54",
+        "06cdd53f-42f5-4d04-9b22-0cbccd7ba72a",
         "ce1e703c-6dbb-4d8f-a983-a07a24485499",
-        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
         "1f57e680-448d-4a2f-8c18-4a55ef745443",
         "053afe02-76d9-4e7e-8c0e-0041aa27b4bb",
         "03b94288-86d8-4056-a78f-6a1d8c60c7f5",
         "98ea6e8d-2d31-4b79-baaf-a7eb400c2762",
         "64345c1f-26fb-413f-aad6-12ae535aedc8",
         "88f4c7e6-f8da-4ce7-8180-813effc6e265",
+        "8d76dcc0-8d15-4090-bbf8-9b5b0cd20730",
         "004ceae5-88d5-453c-aedc-e5b962f7f927",
         "3675e046-b4bc-4903-a4d1-0352569288df"
       ],
