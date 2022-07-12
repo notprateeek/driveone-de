@@ -1084,12 +1084,6 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -1101,8 +1095,27 @@
         "a245ffa6-0727-4068-bcce-c5eaa24e7e4f",
         "58c1e69b-9478-4659-b85c-ee543d927d47",
         "539f38d4-536c-47d6-9780-14da94e2e77e",
-        "ff4ac62a-3b57-4565-a515-f006b1d4cd29",
-        "8b3e26c4-a39d-4d34-b16b-4a876b7e5ff1"
+        "ff4ac62a-3b57-4565-a515-f006b1d4cd29"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "165761745727708c7c": {
+      "type": "unstyled-list",
+      "blocks": {
+        "1657617457b6e474c9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1657617457b6e474c9-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -1210,6 +1223,7 @@
     "16529377952e3facf1",
     "16529378503ca3f3f7",
     "1652937905b2bb366d",
+    "165761745727708c7c",
     "165290305244c0d831"
   ]
 }
