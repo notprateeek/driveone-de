@@ -83,8 +83,7 @@
         <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Support</h2>
             <div class="footer-block__details-content rte">
-              <a class="freshdesk-widget">Get help</a>
-<!--               FreshworksWidget('open'); -->
+              <div onClick={ functon openWidget() {FreshworksWidget('open');} }>Get help</div>
               <a href="" >Contact us</a>
             </div>
           </div>
