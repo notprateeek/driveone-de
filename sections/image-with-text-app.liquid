@@ -23,7 +23,7 @@
           {% if shop.locale == 'de' %}
             <img
             srcset="{%- if section.settings.image.width >= 165 -%}{{ section.settings.image | image_url: width: 165 }} 165w,{%- endif -%}
-              {%- if section.settings.image.width >= 360 -%}{{ section.settings.image | image_url: width: 360 }} 360w,{%- endif -%}
+              {%- if section.settings.image.width >= 360 -%}{{ "https://cdn.shopify.com/s/files/1/0637/0328/5977/files/eee.png?v=1657611536" | image_url: width: 360 }} 360w,{%- endif -%}
               {%- if section.settings.image.width >= 535 -%}{{ section.settings.image | image_url: width: 535 }} 535w,{%- endif -%}
               {%- if section.settings.image.width >= 750 -%}{{ section.settings.image | image_url: width: 750 }} 750w,{%- endif -%}
               {%- if section.settings.image.width >= 1070 -%}{{ section.settings.image | image_url: width: 1070 }} 1070w,{%- endif -%}
