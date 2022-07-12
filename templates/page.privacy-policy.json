@@ -532,12 +532,6 @@
             "button_link": "",
             "button_style_secondary": false
           }
-        },
-        "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our app collects data about your location to provide Real time traffic information. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
-          }
         }
       },
       "block_order": [
@@ -549,8 +543,7 @@
         "0985a3a0-66b1-417a-93e3-c63ec502b54f",
         "fc9d1d33-43a4-4261-aef8-1a82305687bc",
         "0fbbca88-8443-4ec7-a169-4dbf9d5355e6",
-        "9ab1d879-e979-42ec-8de9-288b3c12b3b7",
-        "77302ce4-c4cf-4c2f-b88c-67aa7fa2e920"
+        "9ab1d879-e979-42ec-8de9-288b3c12b3b7"
       ],
       "settings": {
         "color_scheme": "background-1",
