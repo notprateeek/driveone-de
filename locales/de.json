@@ -538,6 +538,256 @@
         "email_invalid": "Gib eine gültige E-Mail-Adresse ein",
         "email_or_phone_blank": "Gib eine E-Mail-Adresse oder Handynummer ein"
       }
+    },
+    "store_availability": {
+      "pick_up_time": {
+        "four_hours": "Gewöhnlich fertig in 4 Stunden",
+        "twenty_four_hours": "Gewöhnlich fertig in 24 Stunden",
+        "two_to_four_days": "Gewöhnlich fertig in 2 - 4 Tagen",
+        "five_or_more_days": "Gewöhnlich fertig in 5 oder mehr Tagen",
+        "zero_to_two_hours": "Gewöhnlich fertig in 2 Stunden",
+        "two_to_four_hours": "Gewöhnlich fertig in 4 Stunden",
+        "immediately": "Jetzt zur Abholung bereit",
+        "next_day": "Abholbereit am nächsten Tag"
+      }
+    }
+  },
+  "customer_accounts": {
+    "errors": {
+      "not_found": {
+        "title": "Beim Laden dieser Seite ist ein Problem aufgetreten"
+      },
+      "order_not_found": {
+        "description": "Diese Bestellung existiert nicht oder du hast keine Berechtigung, sie anzuzeigen.",
+        "title": "Bestellung nicht gefunden"
+      },
+      "profile_update_error": {
+        "description": "Beim Aktualisieren deines Profils ist ein Problem aufgetreten. Versuche, diese Seite zu aktualisieren oder überprüfe deine Internetverbindung."
+      },
+      "retry_action_label": "Erneut versuchen"
+    },
+    "shop_policies": {
+      "legal_notice": "Impressum",
+      "privacy_policy": "Datenschutzerklärung",
+      "refund_policy": "Widerrufsrecht",
+      "shipping_policy": "Versandbedingungen",
+      "subscription_policy": "Abonnement-Richtlinien",
+      "terms_of_sale": "Terms of sale",
+      "terms_of_service": "Allgemeine Geschäftsbedingungen"
+    },
+    "addresses": {
+      "cancel_deletion_button": "Abbrechen",
+      "cancel_deletion_button_accessibility_label": "Löschen der {{address}} abbrechen",
+      "default_address": {
+        "title": "Standardadresse",
+        "title_accessibility_label": "Standardadresse: {{address}}"
+      },
+      "delete_button": "Löschen",
+      "delete_button_accessibility_label": "{{address}} löschen",
+      "delete_confirmation_button": "Adresse löschen",
+      "delete_confirmation_button_accessibility_label": "{{address}} löschen",
+      "delete_confirmation_message": "Adresse löschen? Vorhandene Bestellungen sind nicht betroffen.",
+      "edit_button": "Bearbeiten",
+      "edit_button_accessibility_label": "{{address}} bearbeiten",
+      "edit_section_accessibility_label": "{{address}} bearbeiten",
+      "loading_accessibility_message": "Adresse wird geladen",
+      "loading_addresses_accessibility_message": "Adressen werden geladen",
+      "loading_billing_accessibility_message": "Rechnungsadresse wird geladen",
+      "loading_finished_accessibility_message": "Eine neue Seite an Adressen wurde geladen",
+      "loading_shipping_accessibility_message": "Lieferadresse wird geladen",
+      "pagination": {
+        "nav_accessibility_label": "Adressen-Seitennummerierung",
+        "next": "Zur nächsten Adressseite",
+        "previous": "Zur vorherigen Adressseite"
+      },
+      "save_new_address_accessibility_label": "Adresse speichern",
+      "title": "Adressen"
+    },
+    "address_form": {
+      "auto_complete_close_accessibility_label": "Vorschläge schließen",
+      "auto_complete_title": "Vorschläge",
+      "billing_address": "Als Rechnungsadresse verwenden",
+      "cancel": "Abbrechen",
+      "cancel_accessibility_label": "Bearbeitung der Adresse {{address}} abbrechen",
+      "creation_success_notification": "Adresse hinzugefügt",
+      "default_address": "Das ist meine Standardadresse",
+      "default_address_creation_success_notification": "Standardadresse hinzugefügt",
+      "default_address_update_success_notification": "Standardadresse aktualisiert",
+      "loading_add_form_accessibility_message": "Neues Adressformular wird geladen",
+      "loading_edit_form_accessibility_message": "Formular zur Bearbeitung der Adresse wird geladen",
+      "loading_finished_accessibility_message": "Formular wurde geladen",
+      "save": "Speichern",
+      "save_accessibility_label": "Adresse {{address}} speichern",
+      "section_title_accessibility_label": "Adresse hinzufügen",
+      "update_success_notification": "Adresse wurde aktualisiert"
+    },
+    "navigation_and_structure": {
+      "account_menu": {
+        "hide_accessibility_label": "Konto-Menü ausblenden",
+        "label": "Konto",
+        "show_accessibility_label": "Konto-Menü anzeigen"
+      },
+      "action_menu_accessibility_label": "Weitere Aktionen",
+      "close_menu_accessibility_label": "Hauptmenü schließen",
+      "contact_email_subject": "Vom Onlineshop {{shopName}} aus Kontakt aufnehmen",
+      "contact_link": "Kontaktiere uns",
+      "delete_confirmation": {
+        "cancel": "Abbrechen",
+        "delete": "Löschen"
+      },
+      "dismiss_toast": "Verwerfen",
+      "document_title": "{{sectionName}} – {{shopName}} – Konto",
+      "generic_accessibility_label": "{{label}}: {{value}}",
+      "go_to_store_link": "Zum Shop",
+      "loading_message": "Wird geladen",
+      "log_out_link": "Abmelden",
+      "login_prompt": {
+        "continue": "Fortfahren",
+        "privacy": "Datenschutz",
+        "title": "Weiter zum Login"
+      },
+      "logout_overlay_label": "Abmeldung läuft ...",
+      "nav_label_accessibility_label": "Hauptmenü",
+      "navigation_accessibility_message": "Du hast zu {{sectionName}} navigiert",
+      "open_menu_accessibility_label": "Hauptmenü öffnen",
+      "orders_link_label": "Bestellungen",
+      "shop_logo_accessibility_label": "{{shopName}}-Logo"
+    },
+    "account_information": {
+      "loading_accessibility_message": "Kontoinformationen werden geladen",
+      "loading_finished_accessibility_message": "Kontoinformationen wurden geladen",
+      "profile_card": {
+        "cancel": "Abbrechen",
+        "cancel_accessibility_label": "Bearbeitung des Profils abbrechen",
+        "edit": "Bearbeiten",
+        "edit_accessibility_label": "Profil bearbeiten",
+        "email_help_text": "Für den Login verwendete E-Mail kann nicht geändert werden",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "phone_number_help_text": "Für den Login verwendete Telefonnummer kann nicht geändert werden",
+        "save": "Speichern",
+        "save_accessibility_label": "Profil speichern",
+        "title": "Profil"
+      },
+      "profile_update_confirmation_message": "Profil wurde aktualisiert",
+      "title": "Kontoinformationen"
+    },
+    "orders": {
+      "list_layout_accessibility_label": "Layout-Optionen",
+      "list_title": "Bestellungen",
+      "order_list": {
+        "column_headers": {
+          "delivery_date": "Lieferdatum",
+          "order_date": "Bestelldatum",
+          "order_number": "Bestellnummer",
+          "status": "Status",
+          "total": "Gesamt"
+        },
+        "delivered": "Zugestellt am {{date}}",
+        "empty_state_order_source_description": "Hier werden nur Bestellungen angezeigt, die von {{email}} aufgegeben wurden.",
+        "empty_state_subtitle": "Gehe zum Shop, um eine Bestellung aufzugeben.",
+        "empty_state_title": "Noch keine Bestellungen",
+        "estimated": "Voraussichtlich {{date}}",
+        "estimated_delivery": "Voraussichtliche Zustellung: {{date}}",
+        "one_images_accessibility_label": "Die Bestellung enthält {{lineItemName1}}",
+        "two_images_accessibility_label": "Die Bestellung enthält {{lineItemName1}}, {{lineItemName2}}",
+        "three_images_accessibility_label": "Die Bestellung enthält {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}",
+        "four_images_accessibility_label": "Die Bestellung enthält {{lineItemName1}}, {{lineItemName2}}, {{lineItemName3}}, {{lineItemName4}}",
+        "items": {
+          "one": "{{count}} Artikel",
+          "other": "{{count}} Artikel"
+        },
+        "list_view": "Listenansicht anzeigen",
+        "multiple_shipments": "Mehrere Lieferungen",
+        "no_filtered_results_description": "Filter entfernen oder anpassen, um deine Bestellungen zu sehen",
+        "no_filtered_results_title": "Keine Filterergebnisse",
+        "order_link": "Bestellung {{name}} ansehen",
+        "order_number": "Bestellung {{name}}",
+        "orders_title": "Bestätigt",
+        "pagination": {
+          "nav_accessibility_label": "Schaltflächen zur Bestellnavigation",
+          "next": "Weiter",
+          "next_accessibility_label": "Nächste Bestellungen",
+          "previous": "Zurück",
+          "previous_accessibility_label": "Vorherige Bestellungen"
+        },
+        "sort_by": "Sortieren nach: {{option}}",
+        "sort_hide_options_accessibility_label": "Sortieroptionen für bestätigte Bestellungen ausblenden",
+        "sort_show_options_accessibility_label": "Sortieroptionen für bestätigte Bestellungen anzeigen",
+        "sort_title": "Sortieren",
+        "sort": {
+          "date": {
+            "newest": "Neueste–Älteste",
+            "oldest": "Älteste–Neueste"
+          },
+          "location": {
+            "ascending": "Standort (A–Z)",
+            "descending": "Standort (Z–A)"
+          },
+          "order_number": {
+            "ascending": "Bestellnummer (niedrig bis hoch)",
+            "descending": "Bestellnummer (hoch bis niedrig)"
+          },
+          "order_total": {
+            "ascending": "Gesamtbestellwert (niedrig bis hoch)",
+            "descending": "Gesamtbestellwert (hoch bis niedrig)"
+          }
+        },
+        "table_view": "Tabellenansicht anzeigen"
+      },
+      "order_status": {
+        "canceled_description": "Deine Bestellung wurde am {{date}} storniert.",
+        "canceled_label": "Storniert",
+        "canceled_title": "Deine Bestellung wurde storniert",
+        "come_back": "Besuche diese Seite, um dich über den aktuellen Lieferstatus deiner Sendung zu informieren.",
+        "company_tracking_number": "{{company}} Trackingnummer:",
+        "confirmed_label": "Bestätigt",
+        "confirmed_title": "Deine Bestellung wurde bestätigt",
+        "delivered_description": "Deine Lieferung wurde am {{date}} zugestellt.",
+        "delivered_label": "Zugestellt",
+        "delivered_title": "Deine Lieferung wurde zugestellt",
+        "estimated_delivery": "Voraussichtliche Zustellung: {{date}}",
+        "in_review_description": "Wir lassen es dich wissen, falls wir weitere Informationen benötigen oder wenn deine Bestellung bestätigt wurde.",
+        "in_review_label": "Ausstehend",
+        "in_review_title": "Deine Bestellung wird überprüft",
+        "no_tracking_number": "Für diese Lieferung gibt es keine Trackingnummer.",
+        "on_its_way_label": "Unterwegs",
+        "on_its_way_title": "Deine Lieferung befindet sich auf dem Weg",
+        "out_for_delivery_label": "Zustellung läuft",
+        "out_for_delivery_title": "Die Zustellung deiner Lieferung läuft",
+        "resume_tracking": "Tracking fortsetzen",
+        "submitted_label": "Gesendet",
+        "track_shipment": "Lieferung verfolgen"
+      },
+      "status_mark_as_delivered": "Als zugestellt markieren",
+      "status_title": "Bestellstatus"
+    },
+    "order_details": {
+      "addresses_section_title": "Rechnungsstellung und Versand",
+      "billing_address": "Rechnungsadresse",
+      "card_ending_with": "endet mit {{lastDigits}}",
+      "contact": "Kontakt",
+      "fully_refunded_label": "ZURÜCKERSTATTET",
+      "discount": "Rabatt",
+      "hide_items": "Artikel ausblenden",
+      "loading": "Bestelldetails werden geladen",
+      "loading_finished_accessibility_message": "Bestelldetails wurden geladen",
+      "location": "Standort",
+      "no_data": "Keine",
+      "not_applicable": "N. z.",
+      "partially_refunded_label": "TEILWEISE ZURÜCKERSTATTET",
+      "payment": {
+        "status_in_review": "Zahlung fällig nach der Überprüfung",
+        "status_unpaid": "Zahlung fällig am {{date}}",
+        "title": "Zahlung"
+      },
+      "refunded_amount": "Zurückerstattet",
+      "shipping": {
+        "address": "Lieferadresse",
+        "address_map_marker": "Lieferadresse",
+        "method": "Versandart",
+        "summary": "Versand"
+      }
     }
   }
 }
