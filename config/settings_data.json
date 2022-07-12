@@ -95,7 +95,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
-    "favicon": "{{ shop.brand.cover_image }}",
+    "favicon": "{{ shop.brand.logo }}",
     "currency_code_enabled": true,
     "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
