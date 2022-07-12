@@ -56,6 +56,17 @@
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Information</h2>
+          {% if shop.locale == 'de' %}
+            <div class="footer-block__details-content rte">
+              Tradora GmbH
+              <br />
+              Friedrichstr. 95
+              <br />
+              10117 Berlin
+              <br />
+              Deutschland
+            </div>
+          {% endif %}
             <div class="footer-block__details-content rte">
               Drive One / Needit ApS
               <br />
