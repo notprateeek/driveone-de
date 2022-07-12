@@ -527,7 +527,59 @@
         "login_title": "Logge dich ein, um alle Bestellungsdetails einzusehen",
         "login_description": "Du kannst die Bestellnummer in dem Beleg vorfinden, den du per E-Mail erhalten hast.",
         "login_description_phone": "Deine Bestellnummer finde im Beleg, den du per Textnachricht erhalten hast.",
-        "login_not_customer_html": "Nicht %{name}? Du kannst %{link}"
+        "login_not_customer_html": "Nicht %{name}? Du kannst %{link}",
+        "login": "Anmelden",
+        "unfulfilled_items_title": "Vorbereitung auf den Versand",
+        "unfulfilled_items_description": "Wir bereiten diese Artikel gerade für den Versand vor.",
+        "marker": {
+          "current": "Derzeitiger Standort der Sendung",
+          "shipping": "Lieferadresse"
+        },
+        "pick_up_in_store_marker": {
+          "current": "Derzeitiger Standort der Sendung",
+          "shipping": "Abholort"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Artikel in dieser Lieferung",
+          "unfulfilled_table_title": "Artikel in der Versandvorbereitung",
+          "product_image_label": "Produktbild",
+          "description_label": "Beschreibung",
+          "quantity_label": "Anzahl"
+        },
+        "opt_in_message_html": "Deine Informationen wurden mit %{shopify_pay} erfolgreich gespeichert.",
+        "order_updates_description_missing": "Du erhältst keine Versandaktualisierungen.",
+        "order_updates_subscribe_to_email_notifications": "Erhalte Versandaktualisierungen via E-Mail.",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Du erhältst Versandaktualisierungen per E-Mail oder SMS.",
+        "order_updates_subscribe_to_phone_notifications": "Erhalte per SMS Versandaktualisierungen.",
+        "order_updates_submit_subscription": "Eingabe",
+        "track_shipment": "Sendung verfolgen",
+        "shopify_pay": {
+          "order_completed_html": "Bestellung abgeschlossen mit %{shopify_pay}",
+          "learn_more_label": "Erfahre mehr über Shop Pay"
+        },
+        "other_options": "Weitere Optionen",
+        "delivery_information_label": "Informationen zur Zustellung:",
+        "gift_card_sent_confirmation": "Geschenkgutschein gesendet",
+        "qr_code": {
+          "send_link_to_phone": "Oder sende einen Link an dein Telefon",
+          "title": "Auf dem Telefon verfolgen",
+          "subtitle": "Scanne mit der Kamera deines Mobiltelefons den Code für \"Track with Shop\"."
+        },
+        "shop_qr_with_sms_upsell": {
+          "qr_code": {
+            "title": "Mit deinem Mobiltelefon scannen",
+            "description": "Der Shop sendet dir Zustellungsaktualisierungen in Echtzeit, sobald deine Bestellung versendet wurde."
+          },
+          "sms": {
+            "title": "Oder einen Link an dein Telefon senden"
+          }
+        },
+        "view_business_customer_account": "Konto ansehen",
+        "payment_information_title": "Zahlungsdaten",
+        "shipping_information_title": "Versandinformationen",
+        "page_title": "Vielen Dank %{display_name}!",
+        "page_title_no_name": "Vielen Dank!",
+        "cancelled_page_title": "Bestellung storniert"
       },
       "payment_summary": {
         "free_label": "Kostenlos"
@@ -596,6 +648,54 @@
           "generic_error": "Bei der Verarbeitung deiner Anfrage ist ein Problem aufgetreten.",
           "success_message": "Deine Zahlungsmethode wurde erfolgreich gelöscht"
         }
+      },
+      "review": {
+        "title": "Überprüfung",
+        "review_title": "Bestellung überprüfen",
+        "checkout_as_guest": "Als Gast auschecken",
+        "blocks": {
+          "contact_method_title": "Kontakt",
+          "billing_address_title": "Rechnung an",
+          "shipping_address_title": "Liefern an",
+          "shipping_method_title": "Art",
+          "payment_method_title": "Zahlung",
+          "change_link_label": "Ändern",
+          "change_contact_method_link_label": "Kontaktdaten ändern",
+          "change_billing_address_link_label": "Rechnungsadresse ändern",
+          "change_shipping_address_link_label": "Lieferadresse ändern",
+          "change_shipping_method_link_label": "Versandart ändern",
+          "change_payment_method_link_label": "Zahlungsmethode ändern",
+          "pick_up_in_store_shipping_method_html": "Abholung im Shop – %{location_name}"
+        }
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "Neuigkeiten und Angebote via E-Mail erhalten",
+        "post_accept_marketing_checkbox_label": "Du hast ein Abonnement für Neuigkeiten und Angebote per E-Mail abgeschlossen",
+        "pending_accept_marketing_checkbox_label": "Überprüfe deine E-Mails, um dein Abonnement für Neuigkeiten und Angebote zu bestätigen",
+        "accept_sms_checkbox_label": "Neuigkeiten und Angebote via Textnachricht erhalten",
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Datenschutzerklärung",
+            "terms_of_service": "Allgemeinen Geschäftsbedingungen",
+            "description_html": "Wenn du dich für den Erhalt von Textnachrichten registrierst, erhältst du über die angegebene Telefonnummer wiederkehrende automatisierte Marketing-Nachrichten, einschließlich Warenkorb-Erinnerungen. Die Einwilligung stellt keine Einkaufsbedingung dar. Antworte mit dem Wort STOPPEN, um das Abo abzubestellen. Antworte mit dem Wort HILFE, um Unterstützung anzufordern. Die Häufigkeit der Nachrichten variiert. Es fallen u. U. Gebühren für die Nachrichten und Datennutzung an. Schau dir unsere %{privacy_policy_link} und %{terms_of_service_link} an.",
+            "description_transactional_html": "Wir senden dir einen Bestellbeleg und wiederkehrende Versandaktualisierungen per Textnachricht. Antworte mit dem Wort STOP, um das Abo abzubestellen. Antworte mit dem Wort HELP, um Unterstützung anzufordern. Die Häufigkeit der Nachrichten variiert. Es fallen u. U. Gebühren für die Nachrichten und Datennutzung an. Schau dir unsere %{privacy_policy_modal_link} und %{terms_of_service_modal_link} an."
+          }
+        },
+        "unsubscribe": {
+          "title": "Du hast dich abgemeldet",
+          "description": "Du wirst keine Warenkorb-Erinnerungen mehr von uns erhalten."
+        }
+      },
+      "shop_policies": {
+        "refund_policy": "Widerrufsrecht",
+        "privacy_policy": "Datenschutzerklärung",
+        "terms_of_service": "AGB",
+        "legal_notice": "Impressum",
+        "shipping_policy": "Versand",
+        "terms_of_sale": "Terms of sale",
+        "subscription_policy": "Abonnement-Richtlinien",
+        "purchase_options_policy": "Richtlinie für Kaufoptionen",
+        "contact_information": "Kontaktinformationen"
       }
     },
     "store_availability": {
@@ -708,7 +808,41 @@
       "empty": "darf nicht leer sein",
       "invalid_email": "muss gültige E-Mail-Adresse sein",
       "discount_disabled": "Dieser Rabatt wurde deaktiviert",
-      "discount_expired": "Dieser Rabatt ist nicht mehr gültig"
+      "discount_expired": "Dieser Rabatt ist nicht mehr gültig",
+      "discount_limit_reached": "Dieser Rabatt hat seine Nutzungsgrenze erreicht",
+      "discount_not_found": "Konnte keinen gültigen Rabatt finden, der zu dem eingegebenen Code gehört",
+      "customer_already_used_once_per_customer_discount_notice": "Dieser Rabatt hat seine Nutzungsgrenze erreicht",
+      "gift_card_already_applied": "Der Code wurde bereits auf deine Bestellung angewendet",
+      "gift_card_code_invalid": "Ungültiger Code",
+      "gift_card_currency_mismatch": "%{gift_card_currency} Geschenkkarten können nicht für %{checkout_currency}-Bestellungen verwendet werden",
+      "gift_card_depleted": "Es befindet sich kein Guthaben mehr auf dieser Geschenkkarte",
+      "gift_card_disabled": "Geschenkkarte ist gesperrt",
+      "gift_card_expired": "Geschenkkarte ist abgelaufen",
+      "invalid": "ist ungültig",
+      "bad_domain": "enthält einen ungültigen Domain-Namen",
+      "taken": "wurde bereits in Anspruch genommen",
+      "contains_html_tags": "darf keine HTML-Tags enthalten",
+      "too_short": "ist zu kurz (Untergrenze sind %{count} Zeichen)",
+      "too_long": "ist zu lang (Obergrenze sind %{count} Zeichen)",
+      "password_mismatch": "muss mit dem angegebenen Passwort übereinstimmen",
+      "contains_spaces": "beginnt oder endet mit einem Leerzeichen.",
+      "email_domain_invalid": "Anbieter wird nicht unterstützt",
+      "invalid_for_country": "ist nicht gültig für %{country}",
+      "invalid_for_country_and_province": "ist nicht gültig für %{province} und %{country}",
+      "invalid_province_in_country": "ist keine gültige Provinz in %{country}",
+      "invalid_state_in_country": "ist kein gültiger Staat in %{country}",
+      "invalid_region_in_country": "ist keine gültige Region in %{country}",
+      "less_than_or_equal_to": "muss kleiner oder gleich %{count} sein",
+      "not_supported": "wird nicht unterstützt",
+      "full_name_required": "Gib Vor- und Nachnamen ein.",
+      "invalid_for_card_type": "ist für diesen Kartentyp nicht gültig",
+      "invalid_type": "Es tut uns leid, wir haben keine Karten dieser Art akzeptieren",
+      "invalid_format": "ist keine Kreditkartennummer",
+      "expired": "Kreditkarte ist abgelaufen",
+      "invalid_start_date_or_issue_number_for_debit": "Ein gültiges Anfangsdatum oder eine Ausgabenummer ist erforderlich",
+      "invalid_expiry_year": "ist kein gültiges Ablaufjahr",
+      "reset_password_html": "Diese E-Mail Adresse ist bereits vergeben. Wenn es sich um dein Benutzerkonto handelt kannst du <a href=\"\/account\/login#recover\">ein neues Passwort anfordern<\/a>",
+      "verify_email": "Wir haben eine E-Mail an %{customer_email} geschickt, bitte klicke auf den enthaltenen Link, um deine E-Mail-Adresse zu bestätigen."
     }
   },
   "customer_accounts": {
