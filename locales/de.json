@@ -582,7 +582,12 @@
         "cancelled_page_title": "Bestellung storniert"
       },
       "payment_summary": {
-        "free_label": "Kostenlos"
+        "free_label": "Kostenlos",
+        "gift_card_current_balance_notice": "Aktuelles Guthaben: %{amount}",
+        "credit_card_expires_on_notice": "Gültig bis %{month}\/%{year}",
+        "express_payment_gateway_label": "Express",
+        "manual_payment_gateway_label": "Manuell",
+        "billing_address_title": "Rechnungsadresse"
       },
       "field_errors": {
         "handle_phone_invalid": "Gib eine gültige Telefonnummer ein",
@@ -696,6 +701,120 @@
         "subscription_policy": "Abonnement-Richtlinien",
         "purchase_options_policy": "Richtlinie für Kaufoptionen",
         "contact_information": "Kontaktinformationen"
+      },
+      "payment": {
+        "offsite_gateway_redirect_hint": "Nachdem du “%{button_label}” geklickt hast, wirst du zu %{gateway_label} weitergeleitet, um deinen Einkauf sicher abzuschließen.",
+        "offsite_gateway_redirect_hint_multi_currency_html": "%{gateway_label} insgesamt %{total_shop_price}",
+        "billing_address_title": "Rechnungsadresse",
+        "billing_address_description": "Wähle die mit deiner Karte oder Zahlungsmethode verknüpfte Adresse aus.",
+        "billing_address_description_no_shipping_address": "Gib die mit deiner Karte oder Zahlungsmethode verknüpfte Adresse ein.",
+        "no_js_credit_card_fields_redirect_hint": "Du wirst weitergeleitet, um deine Zahlungsinformationen hinzuzufügen.",
+        "card_fields_container_prefix": "Rahmen für das Feld:",
+        "card_fields_unavailable_html": {
+          "one": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu<\/a> oder versuche es später noch einmal.",
+          "other": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu<\/a> oder probiere eine andere Zahlungsmethode."
+        },
+        "card_fields_processing_error": "Bei der Verarbeitung der Zahlung ist ein Problem aufgetreten. Versuche, diese Seite zu aktualisieren oder überprüfe deine Internetverbindung.",
+        "technical_error": "Zahlungen können derzeit aus technischen Gründen nicht bearbeitet werden. Versuche es in ein paar Minuten noch einmal.",
+        "no_method_error": "Dieser Shop kann zurzeit keine Zahlungen akzeptieren.",
+        "not_configured_error": "Dieser Shop kann zurzeit keine Zahlungen akzeptieren.",
+        "missing_credit_card_error": "Gib deine Kartendaten ein, um die Zahlung abzuschließen",
+        "billing_address_not_supported_for_payment_method_error": "Diese Zahlungsmethode steht für deine Rechnungsadresse und Währung nicht zur Verfügung. Bitte versuche es mit einer anderen Zahlungsmethode.",
+        "generic_incorrect_card_info": "Deine Zahlungsdetails konnten nicht verifiziert werden. Überprüfe deine Kartendaten und versuche es erneut.",
+        "sofort_label": "Sofortüberweisung",
+        "paypal_label": "PayPal",
+        "klarna_label": "Klarna",
+        "klarna_pay_later_label": "Rechnung mit Klarna",
+        "klarna_pay_now_label": "Sofort bezahlen mit Klarna",
+        "bancontact_label": "Bancontact",
+        "giropay_label": "Giropay",
+        "multibanco_label": "Multibanco",
+        "eps_label": "eps-Überweisung",
+        "klarna_slice_it_label": "Finanzierung mit Klarna",
+        "ideal_label": "Ideal",
+        "bank_picker_label": "Bank",
+        "purchase_options_card_update_agreement_label_html": "Indem du deine Zahlungsmethode aktualisierst, autorisierst du Zahlungen für wiederkehrende oder ausstehende Käufe gemäß der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">Stornierungsrichtlinie<\/a> dieses Shops.",
+        "subscription_card_update_agreement_label": "Durch das Ändern der Zahlungsmethode aktualisierst du dein Abonnement und zukünftige wiederkehrende Zahlungen.",
+        "subscription_agreement_label": "Ich verstehe, dass ich einem Abonnement zustimme. Es wird zum aufgeführten Preis und in der festgelegten Häufigkeit verlängert, bis es ausläuft oder %{cancelled} wird.",
+        "subscription_agreement_cancelled": "storniert",
+        "subscription_agreement_label_html": "Ich verstehe, dass ich einem Abonnement zustimme. Es wird zum aufgeführten Preis und in der festgelegten Häufigkeit verlängert, bis es ausläuft oder \n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">storniert<\/a> wird.\n",
+        "change_currency_section_description": "Währungsoption auswählen",
+        "no_real_orders_dev_store": "Dieser Shop kann weder echte Bestellungen noch echte Zahlungen akzeptieren.",
+        "waiting_on_payment_methods": "Abfrage der verfügbaren Zahlungsmethoden...",
+        "apple_pay_payment_error": "Deine Zahlung konnte nicht abgeschlossen werden. Versuche es erneut oder mit einer anderen Zahlungsmethode.",
+        "taxes_not_included": "Steuern nicht inbegriffen",
+        "no_taxes_banner_content": "Auf diese Bestellung werden keine Steuern erhoben. Nachdem du die Zahlung erhalten hast, können keine Steuern mehr hinzugefügt werden.",
+        "paypal": {
+          "connect": "Klicke hier, um dein PayPal-Konto zu verbinden"
+        },
+        "apple": {
+          "connect": "Klicke hier, um dein Apple Pay-Konto zu verbinden",
+          "not_available": "Apple Pay ist in diesem Browser nicht verfügbar. Wenn du dein Apple Pay-Konto verbinden möchtest, nutze bitte Safari auf einem Apple-Gerät."
+        },
+        "google": {
+          "connect": "Hier klicken, um dich mit deinem Google Pay-Konto zu verbinden",
+          "error_authorizing": "Fehler bei der Zahlungsautorisierung"
+        },
+        "account_connected": "Konto verbunden",
+        "email_connected": "Konto verbunden: ",
+        "mor_disclaimer_html": "Indem du unten klickst und deine Bestellung abschließt, stimmst du dem Kauf eines Artikels \/ mehrerer Artikel von Flow.io als Vertragspartner\nfür diese Transaktion entsprechend den <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">Geschäftsbedingungen<\/a>\nund der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">Datenschutzerklärung<\/a> von Flow.io zu. Flow.io ist ein internationaler\nFulfillmentdienstanbieter für %{shop_name}\n"
+      },
+      "order_summary": {
+        "free_total_label": "Kostenlos",
+        "paid_label": "Bezahlt",
+        "payment_due_label": "Zahlbar bis",
+        "vat_label_html": "inkl. %{amount} MwSt",
+        "discount_and_gift_card_savings_notice": "Nach %{discount_amount} Rabatt und %{gift_card_amount} in Form von Geschenkgutscheinen",
+        "discount_savings_notice": "Nach %{discount_amount} Rabatt",
+        "gift_card_savings_notice": "Nach %{gift_card_amount} in Form von Geschenkgutscheinen",
+        "cost_table_title": "Kostenüberblick",
+        "description_label": "Beschreibung",
+        "price_label": "Preis",
+        "quantity_label": "Anzahl",
+        "product_change_label": "Ändern",
+        "product_image_label": "Produktbild",
+        "scroll_order_summary": "Für weitere Artikel scrollen",
+        "expand_order_summary": "Bestellzusammenfassung anzeigen",
+        "collapse_order_summary": "Bestellzusammenfassung verbergen",
+        "original_price": "Ursprünglicher Preis",
+        "sale_price": "Verkaufspreis",
+        "total_updated_label": "Neuer Gesamtpreis:",
+        "order_total_updated_label": "Aktualisierte Gesamtsumme",
+        "total_already_paid_label": "Bereits bezahlt",
+        "unit_price": {
+          "accessible_separator": "pro",
+          "content_html": "%{price}%{accessible_separator}%{per_unit}"
+        },
+        "gift_card_ending": "Geschenkgutschein mit Endung %{last_characters}",
+        "estimated_tax_label": "Geschätzte Steuer",
+        "multiple_shipping_lines_label": "Gesamtversandkosten",
+        "recurring_total_label": "Wiederkehrende Gesamtsumme",
+        "recurring_total_tooltip": "Beinhaltet keine Versandkosten, Steuern, Zollgebühren oder anwendbaren Rabatte.",
+        "confirmation_number_label": "Bestätigungsnr. %{confirmation_number}",
+        "higher_value_discount_applied": "Einige Rabattcodes konnten nicht zusammen genutzt werden. Wir haben die beste Kombination angewendet.",
+        "percent_off_shipping": "%{percent} % auf Versand",
+        "amount_off_shipping": "%{amount} Rabatt auf Versand",
+        "deferred_payment_info": {
+          "title": "Zahlung von %{amount_due} ist am %{due_at} fällig",
+          "description_html": "Wende dich an %{contact_us}, wenn du Fragen zu deiner Bestellung hast.",
+          "paid_today": "Gesamtbetrag heute bezahlt"
+        },
+        "payment_terms_totals": {
+          "due_today": "Gesamtbetrag heute fällig",
+          "due_later": "Gesamtbetrag am %{due_at} fällig"
+        }
+      },
+      "shipping": {
+        "title": "Versand",
+        "shipping_method_title": "Versand",
+        "shipping_method_one_time_purchase_group_title": "Einmaliger Kauf",
+        "shipping_method_subscription_group_title": "Abonnement",
+        "subscription_shipping": "Abonnement-Versandkosten",
+        "waiting_on_rate_notice": "Verfügbare Versandtarife werden abgerufen …",
+        "waiting_on_pickup_location_notice": "Verfügbare Abholorte werden abgerufen…",
+        "no_rates_for_cart_or_destination_notice": "Es sind keine Versandarten für deinen Warenkorb oder deine Adresse verfügbar",
+        "no_pickup_location_notice": "Mindestens eines deiner Produkte ist nicht zur Abholung bereit",
+        "no_rates_for_country_notice": "Für diese Adresse wurden keine Versandtarife gefunden."
       }
     },
     "store_availability": {
