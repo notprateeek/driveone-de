@@ -83,7 +83,7 @@
         <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Support</h2>
             <div class="footer-block__details-content rte">
-              <div onClick="openWidget()">Get help</div>
+              <div class="freshWidget">Get help</div>
               <a href="" >Contact us</a>
             </div>
           </div>
@@ -394,6 +394,7 @@
         input: this.querySelector('input[name="locale_code"], input[name="country_code"]'),
         button: this.querySelector('button'),
         panel: this.querySelector('.disclosure__list-wrapper'),
+        widget: this.querySelector('.freshWidget'),
       };
       this.elements.button.addEventListener('click', this.openSelector.bind(this));
       this.elements.button.addEventListener('focusout', this.closeSelector.bind(this));
