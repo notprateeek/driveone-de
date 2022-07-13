@@ -379,8 +379,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "General questions",
-            "icon": "none",
-            "row_content": "<p>&lt;iframe src=\"https:\/\/support.driveone.eu\/da\/support\/home\"&gt;&lt;\/iframe&gt;<\/p>",
+            "icon": "question_mark",
+            "row_content": "",
             "page": ""
           }
         },
@@ -388,7 +388,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Questions about your Drive One",
-            "icon": "none",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
@@ -397,7 +397,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Important settings",
-            "icon": "none",
+            "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
