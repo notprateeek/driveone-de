@@ -322,6 +322,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_20220704-130905_DevDrive_1.png",
+        "image_2": "shopify:\/\/shop_images\/eee.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
