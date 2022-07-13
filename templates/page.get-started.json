@@ -380,7 +380,7 @@
           "settings": {
             "heading": "General questions",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>&lt;iframe src=\"https:\/\/support.driveone.eu\/da\/support\/home\"&gt;&lt;\/iframe&gt;<\/p>",
             "page": ""
           }
         },
