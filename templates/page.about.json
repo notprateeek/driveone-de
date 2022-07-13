@@ -91,6 +91,7 @@
         "1651783458cfa28d74-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/miljo-001_Large_9805c956-4a70-47be-84c8-41e330c75d0c.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -108,6 +109,7 @@
         "1651783458cfa28d74-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ParkLife_Black_600x600_color.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -129,7 +131,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
