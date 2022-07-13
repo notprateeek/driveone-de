@@ -8,126 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "1657756566960622da": {
-      "type": "heading",
-      "blocks": {
-        "1657756566d9d134ab-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Let's get you started",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1657756566d9d134ab-0"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "165775627093efd106": {
-      "type": "rich-text",
-      "blocks": {
-        "1657756270cd22b9dd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Let's get you started",
-            "heading_size": "h0"
-          }
-        },
-        "1657756270cd22b9dd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>with your new Drive One device and app.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1657756270cd22b9dd-0",
-        "1657756270cd22b9dd-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1657756331e7032604": {
-      "type": "richtext",
-      "blocks": {
-        "1657756331c6f59e5d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "O1 Download and install the Drive One app",
-            "heading_size": "h2"
-          }
-        },
-        "1657756331c6f59e5d-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1657756331c6f59e5d-0",
-        "1657756331c6f59e5d-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "16577563933812fcc0": {
-      "type": "rich-text",
-      "blocks": {
-        "165775639382b23d06-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "O2 Setup Drive One in the Drive One app",
-            "heading_size": "h2"
-          }
-        },
-        "165775639382b23d06-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>"
-          }
-        },
-        "d427aa62-d470-455a-a862-bc3c6fb1c345": {
-          "type": "heading",
-          "settings": {
-            "heading": "The setup process",
-            "heading_size": "h2"
-          }
-        },
-        "0bb7aeb2-8bec-4059-90ec-200da2a67e0d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Follow these steps to setup the Drive One device.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "165775639382b23d06-0",
-        "165775639382b23d06-1",
-        "d427aa62-d470-455a-a862-bc3c6fb1c345",
-        "0bb7aeb2-8bec-4059-90ec-200da2a67e0d"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
     "16577558297d23660b": {
       "type": "collapsible-content",
       "blocks": {
@@ -192,10 +72,6 @@
   },
   "order": [
     "main",
-    "1657756566960622da",
-    "165775627093efd106",
-    "1657756331e7032604",
-    "16577563933812fcc0",
     "16577558297d23660b"
   ]
 }
