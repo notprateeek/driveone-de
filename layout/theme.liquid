@@ -284,6 +284,13 @@
         FreshworksWidget('open');
       }
     </script>
+      <script type='text/javascript'>
+      document.querySelector('.iframe').addEventListener("click", openIframe);
+      function openIframe(e) {
+        e.preventDefault();
+        document.querySelector('.iframe').innerHTML = "<iframe src="https://support.driveone.eu/da/support/home">"
+      }
+    </script>
     
   </body>
 </html>
