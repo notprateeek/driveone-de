@@ -140,11 +140,26 @@
           "settings": {
             "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>"
           }
+        },
+        "d427aa62-d470-455a-a862-bc3c6fb1c345": {
+          "type": "heading",
+          "settings": {
+            "heading": "The setup process",
+            "heading_size": "h2"
+          }
+        },
+        "0bb7aeb2-8bec-4059-90ec-200da2a67e0d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Follow these steps to setup the Drive One device.<\/p>"
+          }
         }
       },
       "block_order": [
         "165775639382b23d06-0",
-        "165775639382b23d06-1"
+        "165775639382b23d06-1",
+        "d427aa62-d470-455a-a862-bc3c6fb1c345",
+        "0bb7aeb2-8bec-4059-90ec-200da2a67e0d"
       ],
       "settings": {
         "color_scheme": "background-1",
