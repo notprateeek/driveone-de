@@ -113,79 +113,6 @@
         "padding_bottom": 52
       }
     },
-    "1657753523330497b6": {
-      "type": "multicolumn",
-      "blocks": {
-        "16577535233361e77a-0": {
-          "type": "column",
-          "settings": {
-            "title": "O1 Buy a Drive One device",
-            "text": "<p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "16577535233361e77a-1": {
-          "type": "column",
-          "settings": {
-            "title": "O2 Download the Drive One app",
-            "text": "<p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "16577535233361e77a-2": {
-          "type": "column",
-          "settings": {
-            "title": "O3 Pull the plastic clip out of the unit",
-            "text": "<p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ffca2292-fc4c-4a35-a23b-5c34cda4883c": {
-          "type": "column",
-          "settings": {
-            "title": "O4 Follow the instructions on the app",
-            "text": "<p>lorem ipsum lorem ipsum lorem ipsum lorem ipsum<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ca47b0f5-3e59-4f90-8b3e-96d9087567e4": {
-          "type": "column",
-          "settings": {
-            "title": "O5 Drive",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16577535233361e77a-0",
-        "16577535233361e77a-1",
-        "16577535233361e77a-2",
-        "ffca2292-fc4c-4a35-a23b-5c34cda4883c",
-        "ca47b0f5-3e59-4f90-8b3e-96d9087567e4"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1651782814b7feef7d": {
       "type": "heading",
       "blocks": {
@@ -563,7 +490,6 @@
     "main",
     "1656563785f87aeede",
     "1652250126bb7cb381",
-    "1657753523330497b6",
     "1651782814b7feef7d",
     "1651782997726ce620",
     "16517830469b5197dd",
