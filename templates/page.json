@@ -16,7 +16,7 @@
           "settings": {
             "heading": "Collapsible row",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><br\/><\/p>",
             "page": ""
           }
         },
