@@ -23,20 +23,11 @@
           "settings": {
             "text": "<p>with your new Drive One device and app.<\/p>"
           }
-        },
-        "1657756270cd22b9dd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "1657756270cd22b9dd-0",
-        "1657756270cd22b9dd-1",
-        "1657756270cd22b9dd-2"
+        "1657756270cd22b9dd-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -105,11 +96,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1657756331e7032604": {
+      "type": "richtext",
+      "blocks": {
+        "1657756331c6f59e5d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "O1 Download and install the Drive One app",
+            "heading_size": "h2"
+          }
+        },
+        "1657756331c6f59e5d-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1657756331c6f59e5d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657756331c6f59e5d-0",
+        "1657756331c6f59e5d-1",
+        "1657756331c6f59e5d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "165775627093efd106",
-    "16577558297d23660b"
+    "16577558297d23660b",
+    "1657756331e7032604"
   ]
 }
