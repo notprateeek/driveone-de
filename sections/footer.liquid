@@ -56,28 +56,29 @@
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Information</h2>
-          {% if shop.locale == 'de' %}
-            <div class="footer-block__details-content rte">
-              Tradora GmbH
-              <br />
-              Friedrichstr. 95
-              <br />
-              10117 Berlin
-              <br />
-              Deutschland
-            </div>
-          {% endif %}
-            <div class="footer-block__details-content rte">
-              Drive One / Needit ApS
-              <br />
-              Hammerholmen 18
-              <br />
-              DK-2650 Hvidovre
-              <br />
-              Denmark
-              <br />
-              {{ 'sections.footer.information' | t }}
-            </div>
+            {% if shop.locale == 'de' %}
+              <div class="footer-block__details-content rte">
+                Tradora GmbH
+                <br />
+                Friedrichstr. 95
+                <br />
+                10117 Berlin
+                <br />
+                Deutschland
+              </div>
+            {% else %}
+              <div class="footer-block__details-content rte">
+                Drive One / Needit ApS
+                <br />
+                Hammerholmen 18
+                <br />
+                DK-2650 Hvidovre
+                <br />
+                Denmark
+                <br />
+                {{ 'sections.footer.information' | t }}
+              </div>
+            {% endif %}
           </div>
 
         <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
@@ -87,7 +88,7 @@
                 <a href="https://support.driveone.eu/da/support/home" class="link link--text list-menu__item list-menu__item--link">Get help</a>
               </li>
               <li>
-                <a  class="freshWidget link link--text list-menu__item list-menu__item--link">Contact us</a>
+                <a href="/" class="freshWidget link link--text list-menu__item list-menu__item--link">Contact us</a>
               </li>
             </ul>
           </div>
