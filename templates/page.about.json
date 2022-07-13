@@ -88,6 +88,24 @@
     "165178345837a04b6c": {
       "type": "slideshow",
       "blocks": {
+        "1651783458cfa28d74-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "1651783458cfa28d74-0": {
           "type": "slide",
           "settings": {
@@ -106,10 +124,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "1651783458cfa28d74-1": {
+        "69666ccd-674b-46d2-ab8d-a6d04f55066c": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ParkLife_Black_600x600_color.png",
+            "image": "shopify:\/\/shop_images\/1.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -127,25 +145,7 @@
         "a81d3993-ff0f-4903-abca-7f28c9dc5862": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/needit_POX_metal.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "69666ccd-674b-46d2-ab8d-a6d04f55066c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ParkOne_Solar_400x400_feature-kopi.png",
+            "image": "shopify:\/\/shop_images\/3.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -162,14 +162,14 @@
         }
       },
       "block_order": [
-        "1651783458cfa28d74-0",
         "1651783458cfa28d74-1",
-        "a81d3993-ff0f-4903-abca-7f28c9dc5862",
-        "69666ccd-674b-46d2-ab8d-a6d04f55066c"
+        "1651783458cfa28d74-0",
+        "69666ccd-674b-46d2-ab8d-a6d04f55066c",
+        "a81d3993-ff0f-4903-abca-7f28c9dc5862"
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "medium",
+        "slide_height": "large",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
