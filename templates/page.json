@@ -8,6 +8,43 @@
         "padding_bottom": 28
       }
     },
+    "165775627093efd106": {
+      "type": "rich-text",
+      "blocks": {
+        "1657756270cd22b9dd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's get you started",
+            "heading_size": "h0"
+          }
+        },
+        "1657756270cd22b9dd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>with your new Drive One device and app.<\/p>"
+          }
+        },
+        "1657756270cd22b9dd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657756270cd22b9dd-0",
+        "1657756270cd22b9dd-1",
+        "1657756270cd22b9dd-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16577558297d23660b": {
       "type": "collapsible-content",
       "blocks": {
@@ -68,48 +105,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "165775627093efd106": {
-      "type": "rich-text",
-      "blocks": {
-        "1657756270cd22b9dd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Let's get you started",
-            "heading_size": "h0"
-          }
-        },
-        "1657756270cd22b9dd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1657756270cd22b9dd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1657756270cd22b9dd-0",
-        "1657756270cd22b9dd-1",
-        "1657756270cd22b9dd-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "16577558297d23660b",
-    "165775627093efd106"
+    "165775627093efd106",
+    "16577558297d23660b"
   ]
 }
