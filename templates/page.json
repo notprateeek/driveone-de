@@ -112,8 +112,36 @@
           "settings": {
             "text": ""
           }
+        }
+      },
+      "block_order": [
+        "1657756331c6f59e5d-0",
+        "1657756331c6f59e5d-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16577563933812fcc0": {
+      "type": "rich-text",
+      "blocks": {
+        "165775639382b23d06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "O2 Setup Drive One in the Drive One app",
+            "heading_size": "h2"
+          }
         },
-        "1657756331c6f59e5d-2": {
+        "165775639382b23d06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "165775639382b23d06-2": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
@@ -123,9 +151,9 @@
         }
       },
       "block_order": [
-        "1657756331c6f59e5d-0",
-        "1657756331c6f59e5d-1",
-        "1657756331c6f59e5d-2"
+        "165775639382b23d06-0",
+        "165775639382b23d06-1",
+        "165775639382b23d06-2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -139,6 +167,7 @@
     "main",
     "165775627093efd106",
     "16577558297d23660b",
-    "1657756331e7032604"
+    "1657756331e7032604",
+    "16577563933812fcc0"
   ]
 }
