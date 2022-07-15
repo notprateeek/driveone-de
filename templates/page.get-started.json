@@ -465,10 +465,19 @@
             "heading_size": "h2",
             "heading_link": ""
           }
+        },
+        "4d41ea75-a770-48f4-a246-11faad94a198": {
+          "type": "heading",
+          "settings": {
+            "heading": "Google play store",
+            "heading_size": "h2",
+            "heading_link": ""
+          }
         }
       },
       "block_order": [
-        "16578754244db684f6-0"
+        "16578754244db684f6-0",
+        "4d41ea75-a770-48f4-a246-11faad94a198"
       ],
       "settings": {
         "color_scheme": "background-1",
