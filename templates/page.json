@@ -68,32 +68,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1657868355bc7a267d": {
-      "type": "rich-text",
-      "blocks": {
-        "1657868355a76b9357-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1657868355a76b9357-0"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "16577558297d23660b",
-    "1657868355bc7a267d"
+    "16577558297d23660b"
   ]
 }
