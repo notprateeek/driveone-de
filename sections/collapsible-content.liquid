@@ -70,8 +70,11 @@
                     {{ block.settings.page.content }}
                     {%- if block.settings.image_2 != blank -%}
                       <img
-                        src="{{ section.settings.image_2 | image_url }}"
+                        src="{{ section.settings.image_2 | image_url: width: 500 }}"
+                        alt="{{ section.settings.image_2.alt | escape }}"
                         loading="lazy"
+                        width="{{ section.settings.image_2.width }}"
+                        height="{{ section.settings.image_2.height }}"
                       >
                     {% else %}
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
