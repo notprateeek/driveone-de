@@ -69,10 +69,7 @@
                     {{ block.settings.row_content }}
                     {{ block.settings.page.content }}
                     {%- if block.settings.image_2 != blank -%}
-                      <img
-                        src="https://picsum.photos/350"
-                        loading="lazy"
-                      >
+                      <img src="https://picsum.photos/350" />
                     {% else %}
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
                     {%- endif -%}

@@ -4,6 +4,13 @@
 <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'section-rich-text.css' | asset_url | stylesheet_tag }}</noscript>
 
+<style>
+  .heading-block {
+    background-color: #4b5161;
+    padding: 1em 2em;
+  }
+</style>
+
 {%- style -%}
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
@@ -18,13 +25,13 @@
   }
 {%- endstyle -%}
 
-<div class="heading-bg isolate{% unless section.settings.full_width %} page-width{% endunless %}">
+<div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
   <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
     <div class="rich-text__blocks">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
-            <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+            <h2 class="heading-block {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
         {%- endcase -%}
       {%- endfor -%}
     </div>
