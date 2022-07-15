@@ -449,11 +449,20 @@
             "heading_size": "h1",
             "heading_link": ""
           }
+        },
+        "6674da58-498b-4122-ab10-d5b6058ee7d4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Important settings",
+            "heading_size": "h2",
+            "heading_link": ""
+          }
         }
       },
       "block_order": [
         "16578749190ff850d1-0",
-        "a3388cde-fd48-479a-90a0-0634f30c09d4"
+        "a3388cde-fd48-479a-90a0-0634f30c09d4",
+        "6674da58-498b-4122-ab10-d5b6058ee7d4"
       ],
       "settings": {
         "color_scheme": "background-1",
