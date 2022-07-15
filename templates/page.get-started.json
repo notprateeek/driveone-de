@@ -454,6 +454,28 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "16578754244d5e18b8": {
+      "type": "heading-link",
+      "blocks": {
+        "16578754244db684f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "App store",
+            "heading_size": "h2",
+            "heading_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16578754244db684f6-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -469,6 +491,7 @@
     "1651818032581093e4",
     "1651783170516caea2",
     "16578749199f1a0e87",
-    "1651783197046dfb44"
+    "1651783197046dfb44",
+    "16578754244d5e18b8"
   ]
 }
