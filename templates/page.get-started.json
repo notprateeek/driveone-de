@@ -451,35 +451,6 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
-    },
-    "1657873919ed1b6ca5": {
-      "type": "heading-block",
-      "blocks": {
-        "16578739197656f429-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "App store",
-            "heading_size": "h2"
-          }
-        },
-        "6da6b3b7-6393-4568-8c83-839892746b72": {
-          "type": "heading",
-          "settings": {
-            "heading": "Google play store",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "16578739197656f429-0",
-        "6da6b3b7-6393-4568-8c83-839892746b72"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -495,7 +466,6 @@
     "1651818032581093e4",
     "1651783170516caea2",
     "165787381974568a39",
-    "1651783197046dfb44",
-    "1657873919ed1b6ca5"
+    "1651783197046dfb44"
   ]
 }
