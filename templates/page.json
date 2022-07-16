@@ -691,8 +691,8 @@
         "165799859766ab5ae3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
+            "text_style": "subtitle"
           }
         }
       },
