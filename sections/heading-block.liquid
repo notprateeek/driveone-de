@@ -16,7 +16,7 @@
   }
 
   .rte {
-    text-align: center;
+    text-align: left;
   }
   
 </style>
@@ -45,8 +45,10 @@
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- if block.settings.icons -%}
-              {% render 'app-store' %}
-              {% render 'google-play' %}
+              <div class="store-icons">
+                {% render 'app-store' %}
+                {% render 'google-play' %}
+              </div>
             {%- endif -%}
           {%- when 'text' -%}
             <img
