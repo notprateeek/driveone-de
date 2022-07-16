@@ -410,7 +410,7 @@
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p>",
+            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of:<\/p><p> A blue light and sound indicate a warning for a possible speed camera.<\/p><p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p><p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
             "icons": false
           }
         }
