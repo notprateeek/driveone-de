@@ -433,14 +433,14 @@
           "type": "text",
           "settings": {
             "text": "<p>— Camera button for speed cameras<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
             "text": "<p>— Triangle button for other events<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         }
       },
