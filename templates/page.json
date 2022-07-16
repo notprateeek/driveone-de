@@ -8,6 +8,27 @@
         "padding_bottom": 28
       }
     },
+    "1657974830af5318dd": {
+      "type": "heading-block",
+      "blocks": {
+        "16579748303df751a5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16579748303df751a5-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16577558297d23660b": {
       "type": "collapsible-content",
       "blocks": {
@@ -73,6 +94,7 @@
   },
   "order": [
     "main",
+    "1657974830af5318dd",
     "16577558297d23660b"
   ]
 }
