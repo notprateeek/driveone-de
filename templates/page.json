@@ -334,12 +334,20 @@
             "text": "<p><strong>O1 <\/strong>You can mount it using the adhesive pads that Drive One comes with or<\/p>",
             "icons": false
           }
+        },
+        "82c63689-027b-455c-95d1-6158553f50ff": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>O2 <\/strong>You can mount it using the Drive One magnet which is sold separately.<\/p>",
+            "icons": false
+          }
         }
       },
       "block_order": [
         "16579983455b9ae1ca-0",
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7",
-        "eb692ee1-f694-4cae-a639-710de606a9b8"
+        "eb692ee1-f694-4cae-a639-710de606a9b8",
+        "82c63689-027b-455c-95d1-6158553f50ff"
       ],
       "settings": {
         "color_scheme": "background-1",
