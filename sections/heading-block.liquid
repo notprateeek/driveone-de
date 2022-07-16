@@ -50,7 +50,7 @@
                 {% render 'google-play' %}
               </div>
             {%- endif -%}
-          {%- when 'text' -%}
+          {%- when 'image' -%}
             <img src="{{ block.settings.image | image_url }}" loading="lazy" width="" height="" >
         {%- endcase -%}
       {%- endfor -%}
@@ -180,7 +180,7 @@
       "settings": [
         {
           "type": "image_picker",
-          "id": "image_1",
+          "id": "image",
           "label": "t:sections.hero.settings.image.label"
         }
       ]
