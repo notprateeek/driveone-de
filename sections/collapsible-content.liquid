@@ -71,38 +71,38 @@
                       <div>
                         {%- if block.settings.image_2 != blank -%}
                           <img
-                            srcset="{%- if section.settings.image_2.width >= 165 -%}{{ section.settings.image_2 | image_url: width: 165 }} 165w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 360 -%}{{ section.settings.image_2 | image_url: width: 360 }} 360w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 535 -%}{{ section.settings.image_2 | image_url: width: 535 }} 535w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 750 -%}{{ section.settings.image_2 | image_url: width: 750 }} 750w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 1070 -%}{{ section.settings.image_2 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 1250 -%}{{ section.settings.image_2 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                            {%- if section.settings.image_2.width >= 1500 -%}{{ section.settings.image_2 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                            {{ section.settings.image_2 | image_url }} {{ section.settings.image_2.width }}w"
-                            src="{{ section.settings.image_2 | image_url: width: 1500 }}"
+                            srcset="{%- if block.settings.image_2.width >= 165 -%}{{ block.settings.image_2 | image_url: width: 165 }} 165w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 360 -%}{{ block.settings.image_2 | image_url: width: 360 }} 360w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 535 -%}{{ block.settings.image_2 | image_url: width: 535 }} 535w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 750 -%}{{ block.settings.image_2 | image_url: width: 750 }} 750w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 1070 -%}{{ block.settings.image_2 | image_url: width: 1070 }} 1070w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 1250 -%}{{ block.settings.image_2 | image_url: width: 1250 }} 1250w,{%- endif -%}
+                            {%- if block.settings.image_2.width >= 1500 -%}{{ block.settings.image_2 | image_url: width: 1500 }} 1500w,{%- endif -%}
+                            {{ block.settings.image_2 | image_url }} {{ block.settings.image_2.width }}w"
+                            src="{{ block.settings.image_2 | image_url: width: 1500 }}"
                             sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                            alt="{{ section.settings.image_2.alt | escape }}"
+                            alt="{{ block.settings.image_2.alt | escape }}"
                             loading="lazy"
-                            width="{{ section.settings.image_2.width }}"
-                            height="{{ section.settings.image_2.height }}"
+                            width="{{ block.settings.image_2.width }}"
+                            height="{{ block.settings.image_2.height }}"
                           >
                         {%- endif -%}
                         {%- if block.settings.image_3 != blank -%}
                           <img
-                            srcset="{%- if section.settings.image_3.width >= 165 -%}{{ section.settings.image_3 | image_url: width: 165 }} 165w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 360 -%}{{ section.settings.image_3 | image_url: width: 360 }} 360w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 535 -%}{{ section.settings.image_3 | image_url: width: 535 }} 535w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 750 -%}{{ section.settings.image_3 | image_url: width: 750 }} 750w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 1070 -%}{{ section.settings.image_3 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 1250 -%}{{ section.settings.image_3 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                            {%- if section.settings.image_3.width >= 1500 -%}{{ section.settings.image_3 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                            {{ section.settings.image_3 | image_url }} {{ section.settings.image_3.width }}w"
-                            src="{{ section.settings.image_3 | image_url: width: 1500 }}"
+                            srcset="{%- if block.settings.image_3.width >= 165 -%}{{ block.settings.image_3 | image_url: width: 165 }} 165w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 360 -%}{{ block.settings.image_3 | image_url: width: 360 }} 360w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 535 -%}{{ block.settings.image_3 | image_url: width: 535 }} 535w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 750 -%}{{ block.settings.image_3 | image_url: width: 750 }} 750w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 1070 -%}{{ block.settings.image_3 | image_url: width: 1070 }} 1070w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 1250 -%}{{ block.settings.image_3 | image_url: width: 1250 }} 1250w,{%- endif -%}
+                            {%- if block.settings.image_3.width >= 1500 -%}{{ block.settings.image_3 | image_url: width: 1500 }} 1500w,{%- endif -%}
+                            {{ block.settings.image_3 | image_url }} {{ block.settings.image_3.width }}w"
+                            src="{{ block.settings.image_3 | image_url: width: 1500 }}"
                             sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                            alt="{{ section.settings.image_3.alt | escape }}"
+                            alt="{{ block.settings.image_3.alt | escape }}"
                             loading="lazy"
-                            width="{{ section.settings.image_3.width }}"
-                            height="{{ section.settings.image_3.height }}"
+                            width="{{ block.settings.image_3.width }}"
+                            height="{{ block.settings.image_3.height }}"
                           >
                         {%- endif -%}
                       </div>
