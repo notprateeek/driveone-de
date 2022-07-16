@@ -116,14 +116,6 @@
     "16577557735cb39c21": {
       "type": "rich-text",
       "blocks": {
-        "165775577324a8d255-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get started",
-            "button_link": "shopify:\/\/pages\/get-started-1",
-            "button_style_secondary": false
-          }
-        },
         "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0": {
           "type": "text",
           "settings": {
@@ -132,7 +124,6 @@
         }
       },
       "block_order": [
-        "165775577324a8d255-2",
         "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0"
       ],
       "settings": {
