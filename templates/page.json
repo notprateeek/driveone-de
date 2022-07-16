@@ -43,14 +43,14 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "O1 Download and install the Drive One app.",
+            "heading_size": "h2"
           }
         },
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>You can get it here<\/p>",
             "icons": true
           }
         }
@@ -72,8 +72,8 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "O2 Setup Drive One in the Drive One app.",
+            "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
