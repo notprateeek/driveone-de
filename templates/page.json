@@ -79,7 +79,7 @@
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
             "icons": false
           }
         }
@@ -101,14 +101,14 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "The setup process",
+            "heading_size": "h2"
           }
         },
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
             "icons": false
           }
         },
