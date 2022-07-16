@@ -33,7 +33,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/miljo-010_Large_d373e73c-9f46-4d03-ab8b-c121c44633ae.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
