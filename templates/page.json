@@ -488,14 +488,14 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "Replacing the battery",
+            "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
             "icons": false
           }
         }
@@ -507,8 +507,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1657998497167f8832": {
