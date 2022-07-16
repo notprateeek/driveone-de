@@ -435,10 +435,18 @@
             "text": "<p>— Camera button for speed cameras<\/p>",
             "text_style": "body"
           }
+        },
+        "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
+          "type": "text",
+          "settings": {
+            "text": "<p>— Triangle button for other events<\/p>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
-        "1657998406fa75ebf0-1"
+        "1657998406fa75ebf0-1",
+        "83d15a4b-f2f3-489c-b2da-b95e505d5982"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
