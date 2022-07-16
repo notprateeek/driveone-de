@@ -637,8 +637,8 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
+            "text_style": "subtitle"
           }
         }
       },
