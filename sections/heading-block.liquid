@@ -4,6 +4,9 @@
 <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'section-rich-text.css' | asset_url | stylesheet_tag }}</noscript>
 
+{{ 'custom.css' | asset_url | stylesheet_tag }}
+
+
 <style>
   .heading-block {
     background-color: #4b5161;
@@ -42,7 +45,7 @@
             {%- endif -%}
           {%- when 'text' -%}
             <img
-            src="{{ section.settings.image | image_url: width: 1500 }}"
+            src="{{ block.settings.image | image_url: width: 1500 }}"
             alt=""
             loading="lazy"
             width=""
