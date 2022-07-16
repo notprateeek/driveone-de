@@ -45,7 +45,7 @@
           {%- when 'text' -%}
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- if block.settings.icons -%}
-              <div class="store-icons">
+              <div class="store-icons rte">
                 {% render 'app-store' %}
                 {% render 'google-play' %}
               </div>
