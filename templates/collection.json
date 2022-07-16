@@ -1,7 +1,29 @@
 {
   "sections": {
+    "1657969332616681f3": {
+      "type": "heading",
+      "blocks": {
+        "165796933213feed61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Products",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165796933213feed61-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -28,6 +50,7 @@
     }
   },
   "order": [
+    "1657969332616681f3",
     "banner",
     "product-grid"
   ]
