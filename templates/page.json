@@ -403,14 +403,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "How does Drive One work?",
+            "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.When you then get close to this location, a warning will sound on the Drive One device.<\/p>",
             "icons": false
           }
         }
