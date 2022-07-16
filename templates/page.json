@@ -439,7 +439,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>— Triangle button for other events<\/p>",
+            "text": "<p><br\/><br\/>— Triangle button for other events<\/p>",
             "text_style": "subtitle"
           }
         }
