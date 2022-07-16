@@ -14,13 +14,21 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Let's get you started",
             "heading_size": "h2"
+          }
+        },
+        "c0274228-b7a7-4146-a71e-917edd280f34": {
+          "type": "text",
+          "settings": {
+            "text": "<p>with your new Drive One device and app<\/p>",
+            "icons": false
           }
         }
       },
       "block_order": [
-        "16579748303df751a5-0"
+        "16579748303df751a5-0",
+        "c0274228-b7a7-4146-a71e-917edd280f34"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -29,65 +37,607 @@
         "padding_bottom": 52
       }
     },
-    "16577558297d23660b": {
+    "1657998241381a0a98": {
+      "type": "heading-block",
+      "blocks": {
+        "16579982411201f6b7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": true
+          }
+        }
+      },
+      "block_order": [
+        "16579982411201f6b7-0",
+        "2f13827b-86d8-42f8-8ea0-b369cf34e81f"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998254cae9ee46": {
+      "type": "heading-block",
+      "blocks": {
+        "1657998254d134bcbc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "e741d12a-2a4d-4a06-93e6-fb0799653873": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": false
+          }
+        }
+      },
+      "block_order": [
+        "1657998254d134bcbc-0",
+        "e741d12a-2a4d-4a06-93e6-fb0799653873"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165799828085e2041e": {
+      "type": "heading-block",
+      "blocks": {
+        "165799828072329c36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": false
+          }
+        },
+        "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "165799828072329c36-0",
+        "90a10b7c-a609-4fa9-b6c2-3fb62fdef995",
+        "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998294360ae9ba": {
       "type": "collapsible-content",
       "blocks": {
-        "16577558281bff91bd-0": {
+        "1657998294d087edb6-0": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "image_2": "shopify:\/\/shop_images\/1024x1024_DriveOne_rings_app_icon_9224026a-bddd-4b9b-affa-36a52b8c6bae.png",
-            "image_3": "shopify:\/\/shop_images\/1024x1024_DriveOne_rings_app_icon_9224026a-bddd-4b9b-affa-36a52b8c6bae.png",
-            "icon": "none",
+            "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
         },
-        "16577558281bff91bd-1": {
+        "1657998294d087edb6-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "none",
+            "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
         },
-        "16577558281bff91bd-2": {
+        "1657998294d087edb6-2": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "none",
+            "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
         },
-        "16577558281bff91bd-3": {
+        "1657998294d087edb6-3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "none",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "c3b198d6-e40d-4b44-86eb-3812a6314b61": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "c415ba54-6653-45c4-b772-5daf552f8f38": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "6777f95f-2afe-4bd8-812c-e997f1cb6cb0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "2aebf756-4859-426f-91a6-3cd3341e8b3b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "6a15a8c9-c1c9-40bc-ab55-61fef5f66549": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "fa3078bd-c829-4d6e-b2e4-3b1d334360d7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "28220422-6461-46d1-8737-3acc772fa8a3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "bfd9a00c-da41-4908-aa7a-bc6e51a6b20b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "e6a33834-48f2-443a-b788-bb4abe22579d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "22fab2ab-4495-4ab5-a9e4-db6e99047146": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
             "row_content": "",
             "page": ""
           }
         }
       },
       "block_order": [
-        "16577558281bff91bd-0",
-        "16577558281bff91bd-1",
-        "16577558281bff91bd-2",
-        "16577558281bff91bd-3"
+        "1657998294d087edb6-0",
+        "1657998294d087edb6-1",
+        "1657998294d087edb6-2",
+        "1657998294d087edb6-3",
+        "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea",
+        "c3b198d6-e40d-4b44-86eb-3812a6314b61",
+        "c415ba54-6653-45c4-b772-5daf552f8f38",
+        "6777f95f-2afe-4bd8-812c-e997f1cb6cb0",
+        "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623",
+        "2aebf756-4859-426f-91a6-3cd3341e8b3b",
+        "6a15a8c9-c1c9-40bc-ab55-61fef5f66549",
+        "fa3078bd-c829-4d6e-b2e4-3b1d334360d7",
+        "28220422-6461-46d1-8737-3acc772fa8a3",
+        "bfd9a00c-da41-4908-aa7a-bc6e51a6b20b",
+        "e6a33834-48f2-443a-b788-bb4abe22579d",
+        "22fab2ab-4495-4ab5-a9e4-db6e99047146"
       ],
       "settings": {
         "caption": "",
-        "heading": "",
+        "heading": "Collapsible content",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "row",
+        "layout": "none",
         "color_scheme": "background-1",
-        "container_color_scheme": "accent-1",
+        "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657998345aef16eee": {
+      "type": "heading-block",
+      "blocks": {
+        "16579983455b9ae1ca-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": false
+          }
+        }
+      },
+      "block_order": [
+        "16579983455b9ae1ca-0",
+        "7c0d4df7-c839-469b-ac39-028aaf60fcc7"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16579983644a494b42": {
+      "type": "collapsible-content",
+      "blocks": {
+        "165799836471a04549-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "165799836471a04549-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "165799836471a04549-0",
+        "165799836471a04549-1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657998380284655b8": {
+      "type": "heading-block",
+      "blocks": {
+        "16579983805b38378a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "66d225c2-8f80-48fb-bc78-4448a485003c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": false
+          }
+        }
+      },
+      "block_order": [
+        "16579983805b38378a-0",
+        "66d225c2-8f80-48fb-bc78-4448a485003c"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998406de785d25": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657998406fa75ebf0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1657998406fa75ebf0-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165799845181853897": {
+      "type": "rich-text",
+      "blocks": {
+        "16579984511300d3a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16579984511300d3a0-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998482c44e5763": {
+      "type": "heading-block",
+      "blocks": {
+        "1657998482e462503f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "icons": false
+          }
+        }
+      },
+      "block_order": [
+        "1657998482e462503f-0",
+        "bb5f1d1c-117a-4328-b5eb-c202ecf9054a"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998497167f8832": {
+      "type": "heading-block",
+      "blocks": {
+        "165799849780946e36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165799849780946e36-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1657998507f5e848d5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657998506b09d9f77-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1657998506b09d9f77-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657998541dc4e4346": {
+      "type": "image-with-text",
+      "blocks": {
+        "16579985414a64ce38-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16579985414a64ce38-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165799856253675706": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657998562b1885cd4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1657998562b1885cd4-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657998588962bbf87": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657998588c5f30bfa-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1657998588c5f30bfa-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16579985979e7464ea": {
+      "type": "image-with-text",
+      "blocks": {
+        "165799859766ab5ae3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165799859766ab5ae3-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -96,6 +646,21 @@
   "order": [
     "main",
     "1657974830af5318dd",
-    "16577558297d23660b"
+    "1657998241381a0a98",
+    "1657998254cae9ee46",
+    "165799828085e2041e",
+    "1657998294360ae9ba",
+    "1657998345aef16eee",
+    "16579983644a494b42",
+    "1657998380284655b8",
+    "1657998406de785d25",
+    "165799845181853897",
+    "1657998482c44e5763",
+    "1657998497167f8832",
+    "1657998507f5e848d5",
+    "1657998541dc4e4346",
+    "165799856253675706",
+    "1657998588962bbf87",
+    "16579985979e7464ea"
   ]
 }
