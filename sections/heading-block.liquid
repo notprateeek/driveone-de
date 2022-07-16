@@ -51,7 +51,7 @@
               </div>
             {%- endif -%}
           {%- when 'text' -%}
-            <img src="{{ block.settings.image | image_url }}" loading="lazy" width="50" height="50" >
+            <img src="{{ block.settings.image | image_url }}" loading="lazy" width="" height="" >
         {%- endcase -%}
       {%- endfor -%}
     </div>
@@ -180,7 +180,7 @@
       "settings": [
         {
           "type": "image_picker",
-          "id": "image",
+          "id": "image_1",
           "label": "t:sections.hero.settings.image.label"
         }
       ]
