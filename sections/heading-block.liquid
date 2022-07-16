@@ -51,13 +51,7 @@
               </div>
             {%- endif -%}
           {%- when 'text' -%}
-            <img
-            src="{{ block.settings.image | image_url: width: 1500 }}"
-            alt=""
-            loading="lazy"
-            width=""
-            height=""
-          >
+            <img src="{{ block.settings.image | image_url }}" loading="lazy" width="" height="" >
         {%- endcase -%}
       {%- endfor -%}
     </div>
