@@ -68,7 +68,7 @@
                   <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
                     {{ block.settings.row_content }}
                     {{ block.settings.page.content }}
-                      <div>
+                      <div class="collapsible-images">
                         {%- if block.settings.image_2 != blank -%}
                           <img
                             srcset="{%- if block.settings.image_2.width >= 165 -%}{{ block.settings.image_2 | image_url: width: 165 }} 165w,{%- endif -%}
