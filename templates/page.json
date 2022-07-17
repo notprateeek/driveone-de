@@ -148,6 +148,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Confirm your email address",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-38-74_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -157,6 +158,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Accept terms and conditions",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-49-25_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -166,6 +168,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Grant location permission",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-57-51_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -175,6 +178,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Allow notifications",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2.png",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -184,6 +188,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Disable battery optimization",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-09-61_e937f6c3a077f818377f58d846890da0.jpg",
+            "image_3": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-16-13_fc704e6b13c4fb26bf5e411f75da84f2.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -193,6 +199,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Ready for connection",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -202,6 +209,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enable bluetooth",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-50-70_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -211,6 +219,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Remove plastic slip",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-57-05_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -220,6 +229,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Connected",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-09-33_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -229,6 +239,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quick app tour",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-22-95_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -238,6 +249,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Top report button",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-34-40_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -247,6 +259,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Bottom report button",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-38-87_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -256,6 +269,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test reports",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-47-98_e937f6c3a077f818377f58d846890da0.jpg",
+            "image_3": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-51-13-38_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -265,6 +280,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test warning sounds",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-51-22-29_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
             "page": ""
