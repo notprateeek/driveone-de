@@ -140,7 +140,7 @@
             "heading": "Enter your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-42-15-95_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>An email is then sent to your entered email account.<\/p>",
             "page": ""
           }
         },
@@ -150,7 +150,7 @@
             "heading": "Confirm your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-38-74_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
             "page": ""
           }
         },
@@ -160,7 +160,7 @@
             "heading": "Accept terms and conditions",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-49-25_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
             "page": ""
           }
         },
@@ -170,7 +170,7 @@
             "heading": "Grant location permission",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-48-57-51_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
             "page": ""
           }
         },
@@ -180,7 +180,7 @@
             "heading": "Allow notifications",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2.png",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Drive One would like to send you notifications when there are warnings.<\/p><p>To receive them, you need to accept them.<\/p>",
             "page": ""
           }
         },
@@ -191,7 +191,7 @@
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-09-61_e937f6c3a077f818377f58d846890da0.jpg",
             "image_3": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-16-13_fc704e6b13c4fb26bf5e411f75da84f2.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
           }
         },
