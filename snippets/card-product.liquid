@@ -92,7 +92,7 @@
             </h3>
           </div>
           <div class="card__badge {{ settings.badge_position }}">
-            {%- if variant.inventory_policy == 'continue' -%}
+            {%- if card_product.inventory_policy == 'continue' -%}
             <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">{{ 'products.product.on_sale' | t }}</span>
             {%- endif -%}
             {%- if card_product.available == false -%}
