@@ -282,7 +282,7 @@
             "heading": "Test warning sounds",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-51-22-29_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
             "page": ""
           }
         },
@@ -291,7 +291,7 @@
           "settings": {
             "heading": "Warnings customization",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>On this page, you can determine when you want to be warned by Drive One.<\/p><p><strong>Seconds<\/strong>: Use this if  you want to be warned between 15 to 60 seconds before you reach a warning.<\/p><p><strong>Meters<\/strong>: Use this if  you want to be warned between 250 or 1000 meters before you reach a warning.<\/p>",
             "page": ""
           }
         }
