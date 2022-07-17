@@ -201,7 +201,7 @@
             "heading": "Ready for connection",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -211,7 +211,7 @@
             "heading": "Enable bluetooth",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-50-70_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
             "page": ""
           }
         },
@@ -221,7 +221,7 @@
             "heading": "Remove plastic slip",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-57-05_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
             "page": ""
           }
         },
@@ -231,7 +231,7 @@
             "heading": "Connected",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-09-33_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -241,7 +241,7 @@
             "heading": "Quick app tour",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-22-95_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
             "page": ""
           }
         },
@@ -251,7 +251,7 @@
             "heading": "Top report button",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-34-40_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -261,7 +261,7 @@
             "heading": "Bottom report button",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-38-87_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>The top button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the top button with the triangle icon, and the coordinates will be sent to Drive One and will be shared with other Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -272,7 +272,7 @@
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-50-47-98_e937f6c3a077f818377f58d846890da0.jpg",
             "image_3": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-51-13-38_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
             "page": ""
           }
         },
