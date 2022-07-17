@@ -6,13 +6,6 @@ function getFocusableElements(container) {
   );
 }
 
-$(document).ready(function(){
-  $('.product__accordion details').on('click',function(){
-    $(this).attr('open');
-    $(this).parent('.product__accordion').siblings().find('details').removeAttr('open');
-  });
-});
-
 document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
   summary.setAttribute('role', 'button');
   summary.setAttribute('aria-expanded', summary.parentNode.hasAttribute('open'));
