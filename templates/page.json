@@ -364,7 +364,7 @@
         "165799836471a04549-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Mount using adhesive pads",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -373,7 +373,7 @@
         "165799836471a04549-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Mount using Drive One magnets",
             "icon": "none",
             "row_content": "",
             "page": ""
