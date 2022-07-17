@@ -137,7 +137,7 @@
         "1657998294d087edb6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Enter your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-42-15-95_e937f6c3a077f818377f58d846890da0.jpg",
             "icon": "none",
             "row_content": "",
@@ -147,7 +147,7 @@
         "1657998294d087edb6-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Confirm your email address",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -156,7 +156,7 @@
         "1657998294d087edb6-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Accept terms and conditions",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -165,7 +165,7 @@
         "1657998294d087edb6-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Grant location permission",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -174,7 +174,7 @@
         "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Allow notifications",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -183,7 +183,7 @@
         "c3b198d6-e40d-4b44-86eb-3812a6314b61": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Disable battery optimization",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -192,7 +192,7 @@
         "c415ba54-6653-45c4-b772-5daf552f8f38": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Ready for connection",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -201,7 +201,7 @@
         "6777f95f-2afe-4bd8-812c-e997f1cb6cb0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Enable bluetooth",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -210,7 +210,7 @@
         "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Remove plastic slip",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -219,7 +219,7 @@
         "2aebf756-4859-426f-91a6-3cd3341e8b3b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Connected",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -228,7 +228,7 @@
         "6a15a8c9-c1c9-40bc-ab55-61fef5f66549": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Quick app tour",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -237,7 +237,7 @@
         "fa3078bd-c829-4d6e-b2e4-3b1d334360d7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Top report button",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -246,7 +246,7 @@
         "28220422-6461-46d1-8737-3acc772fa8a3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Bottom report button",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -255,7 +255,7 @@
         "bfd9a00c-da41-4908-aa7a-bc6e51a6b20b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Test reports",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -264,7 +264,7 @@
         "e6a33834-48f2-443a-b788-bb4abe22579d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Test warning sounds",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -273,7 +273,7 @@
         "22fab2ab-4495-4ab5-a9e4-db6e99047146": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Warnings customization",
             "icon": "none",
             "row_content": "",
             "page": ""
