@@ -51,6 +51,7 @@
           "type": "heading",
           "settings": {
             "heading": "O1 Buy a Drive One device",
+            "heading-hr": false,
             "heading_size": "h2"
           }
         },
@@ -66,6 +67,7 @@
           "type": "heading",
           "settings": {
             "heading": "O2 Download the Drive One app",
+            "heading-hr": false,
             "heading_size": "h2"
           }
         },
@@ -79,6 +81,7 @@
           "type": "heading",
           "settings": {
             "heading": "O3 Pull the plastic clip out of the unit",
+            "heading-hr": true,
             "heading_size": "h2"
           }
         },
@@ -86,6 +89,7 @@
           "type": "heading",
           "settings": {
             "heading": "O4 Follow the instructions on the app",
+            "heading-hr": true,
             "heading_size": "h2"
           }
         },
@@ -93,6 +97,7 @@
           "type": "heading",
           "settings": {
             "heading": "O5 Drive",
+            "heading-hr": true,
             "heading_size": "h2"
           }
         }
