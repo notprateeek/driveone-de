@@ -168,6 +168,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         },
@@ -175,6 +176,7 @@
           "type": "text",
           "settings": {
             "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         },
@@ -182,6 +184,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Then it will not be much easier.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
@@ -194,6 +197,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/miljo-005_Large_24b6aa22-c08e-4f48-b4e2-44496b91157c.png",
         "image_2": "shopify:\/\/shop_images\/miljo-005_Large_24b6aa22-c08e-4f48-b4e2-44496b91157c.png",
+        "image_3": "shopify:\/\/shop_images\/miljo-009_Large_62d55bb3-1898-4cbc-b273-a20c84409908.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
