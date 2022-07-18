@@ -470,6 +470,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
+        "image_2": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
+        "image_3": "shopify:\/\/shop_images\/drive_one_front-BLUE-dot.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
