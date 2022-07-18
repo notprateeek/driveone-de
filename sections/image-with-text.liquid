@@ -90,12 +90,11 @@
               <p class="image-with-text__text image-with-text__text--caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }} {{ block.settings.text_style }}" {{ block.shopify_attributes }}>{{ block.settings.caption | escape }}</p>
             {%- when 'text' -%}
               <div class=" flex-hr-text image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
+               <span>
                 {% if block.settings.hr %}
-                  <span>
-                    <hr style="width: 3em;" />
-                  </span>
-                {% endif %}
-                <span>{{ block.settings.text }}</span>
+                  <hr style="width: 3em;" />
+                  {% endif %}
+                  {{ block.settings.text }}</span>
               </div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
