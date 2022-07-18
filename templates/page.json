@@ -450,14 +450,16 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯  Camera button for speed cameras<br\/><\/p>",
+            "text": "<p>Camera button for speed cameras<\/p>",
+            "hr": true,
             "text_style": "subtitle"
           }
         },
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/>⎯⎯   Triangle button for other events<\/p>",
+            "text": "<p>Triangle button for other events<\/p>",
+            "hr": false,
             "text_style": "subtitle"
           }
         }
@@ -602,6 +604,7 @@
           "type": "text",
           "settings": {
             "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the  map click <strong>Device<\/strong>.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
@@ -630,6 +633,7 @@
           "type": "text",
           "settings": {
             "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
@@ -658,6 +662,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
@@ -686,6 +691,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
@@ -714,6 +720,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
+            "hr": false,
             "text_style": "body"
           }
         }
