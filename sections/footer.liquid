@@ -85,10 +85,10 @@
             <h2 class="footer-block__heading">Support</h2>
             <ul class="footer-block__details-content list-unstyled">
               <li>
-                <a href="https://needitdriveone.myshopify.com/pages/get-help" class="link link--text list-menu__item list-menu__item--link">Get help</a>
+                <a href="https://needitdriveone.myshopify.com/pages/get-help" class="link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.get-help' | t }}</a>
               </li>
               <li>
-                <a href="/" class="freshWidget link link--text list-menu__item list-menu__item--link">Contact us</a>
+                <a href="/" class="freshWidget link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.contact-us' | t }}</a>
               </li>
             </ul>
           </div>
@@ -138,7 +138,7 @@
           {%- endfor -%}
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
-            <h2 class="footer-block__heading">Download</h2>
+            <h2 class="footer-block__heading">{{ 'sections.footer.download' | t }}</h2>
             <ul class="footer-block__details-content list-unstyled">
               <li style="display: flex; flex-direction: column">
                 <a class="link link--text list-menu__item list-menu__item--link">{% render 'google-play' %}</a>

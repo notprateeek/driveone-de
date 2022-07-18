@@ -258,7 +258,10 @@
       }
     },
     "footer": {
-      "payment": "Zahlungsmethoden"
+      "payment": "Zahlungsmethoden",
+      "get-help": "Hilfe bekommen",
+      "contact-us": "Kontaktiere uns",
+      "download": "Download"
     },
     "featured_blog": {
       "view_all": "Alle anzeigen",

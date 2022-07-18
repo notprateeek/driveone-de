@@ -267,7 +267,10 @@
     },
     "footer": {
       "payment": "Betalingsmetoder",
-      "information": "CVR: 31756820"
+      "information": "CVR: 31756820",
+      "get-help": "Få hjælp",
+      "contact-us": "Kontakt os",
+      "download": "Hent"
     },
     "featured_blog": {
       "view_all": "Se alle",
