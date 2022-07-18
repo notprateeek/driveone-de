@@ -97,7 +97,7 @@
             {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
               <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">{{ 'products.product.on_sale' | t }}</span>
             {%- elsif card_product.selected_or_first_available_variant.inventory_policy == 'continue' -%}
-              <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">pre-order</span>
+              <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">{{ 'products.product.pre-order' | t }}</span>
             {%- endif -%}
           </div>
         </div>
