@@ -85,7 +85,9 @@
               <p class="image-with-text__text image-with-text__text--caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }} {{ block.settings.text_style }}" {{ block.shopify_attributes }}>{{ block.settings.caption | escape }}</p>
             {%- when 'text' -%}
               <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
-                {% if block.settings.hr %}<hr style="width: 5em;" />{% endif %}
+                {% if block.settings.hr %}
+                  <span><hr style="width: 5em;" /></span>>
+                {% endif %}
                 {{ block.settings.text }}
               </div>
             {%- when 'button' -%}
