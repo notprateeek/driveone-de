@@ -36,7 +36,7 @@
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
           {%- when 'text' -%}
 			<div class="ring-flex">
-			  {% render 'ring' %}
+			  <div class="custom-ring">{% render 'ring' %}</div>
 			  <div class="rich-text__text crt rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
 			</div>
           {%- when 'button' -%}

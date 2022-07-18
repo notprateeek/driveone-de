@@ -36,7 +36,8 @@
             width="{{ section.settings.image_2.width }}"
             height="{{ section.settings.image_2.height }}"
           >
-        {% else %}
+        {% endif %}
+        {% if shop.locale == 'da' %}
           <img
             srcset="{%- if section.settings.image.width >= 165 -%}{{ section.settings.image | image_url: width: 165 }} 165w,{%- endif -%}
               {%- if section.settings.image.width >= 360 -%}{{ section.settings.image | image_url: width: 360 }} 360w,{%- endif -%}
@@ -51,6 +52,23 @@
             loading="lazy"
             width="{{ section.settings.image.width }}"
             height="{{ section.settings.image.height }}"
+          >
+        {% endif %}
+        {% if shop.locale == 'en' %}
+          <img
+            srcset="{%- if section.settings.image_3.width >= 165 -%}{{ section.settings.image_3 | image_url: width: 165 }} 165w,{%- endif -%}
+              {%- if section.settings.image_3.width >= 360 -%}{{ section.settings.image_3 | image_url: width: 360 }} 360w,{%- endif -%}
+              {%- if section.settings.image_3.width >= 535 -%}{{ section.settings.image_3 | image_url: width: 535 }} 535w,{%- endif -%}
+              {%- if section.settings.image_3.width >= 750 -%}{{ section.settings.image_3 | image_url: width: 750 }} 750w,{%- endif -%}
+              {%- if section.settings.image_3.width >= 1070 -%}{{ section.settings.image_3 | image_url: width: 1070 }} 1070w,{%- endif -%}
+              {%- if section.settings.image_3.width >= 1500 -%}{{ section.settings.image_3 | image_url: width: 1500 }} 1500w,{%- endif -%}
+              {{ section.settings.image_3 | image_url }} {{ section.settings.image_3.width }}w"
+            src="{{ section.settings.image_3 | image_url: width: 1500 }}"
+            sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
+            alt="{{ section.settings.image_3.alt | escape }}"
+            loading="lazy"
+            width="{{ section.settings.image_3.width }}"
+            height="{{ section.settings.image_3.height }}"
           >
         {% endif %}
       </div>
@@ -93,6 +111,11 @@
     {
       "type": "image_picker",
       "id": "image_2",
+      "label": "t:sections.image-with-text.settings.image.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_3",
       "label": "t:sections.image-with-text.settings.image.label"
     },
     {
