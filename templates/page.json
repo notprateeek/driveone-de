@@ -475,6 +475,27 @@
         "padding_bottom": 0
       }
     },
+    "165814745135b787cc": {
+      "type": "heading-block",
+      "blocks": {
+        "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
+            "icons": false
+          }
+        }
+      },
+      "block_order": [
+        "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
     "1657998406de785d25": {
       "type": "image-with-text",
       "blocks": {
@@ -787,6 +808,7 @@
     "16579983644a494b42",
     "1657998380284655b8",
     "1658147355d3bcaaef",
+    "165814745135b787cc",
     "1657998406de785d25",
     "165799845181853897",
     "1657998482c44e5763",
