@@ -89,8 +89,8 @@
             {%- when 'caption' -%}
               <p class="image-with-text__text image-with-text__text--caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }} {{ block.settings.text_style }}" {{ block.shopify_attributes }}>{{ block.settings.caption | escape }}</p>
             {%- when 'text' -%}
-              <div class=" flex-hr-text image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
-               <span>
+              <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
+               <span class="flex-hr-text">
                 {% if block.settings.hr %}
                   <hr style="width: 3em;" />
                   {% endif %}
