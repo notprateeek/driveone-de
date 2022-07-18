@@ -8,7 +8,10 @@
 
   .flex-hr-text {
     display: flex;
-    align-items: center;
+  }
+
+  hr {
+  
   }
 
   @media screen and (min-width: 750px) {
@@ -91,10 +94,7 @@
             {%- when 'text' -%}
               <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
                <span class="flex-hr-text">
-                {% if block.settings.hr %}
-                  <hr style="width: 3em; height: 1em;" />
-                  {% endif %}
-                  {{ block.settings.text }}</span>
+                {% if block.settings.hr %}<hr/>{% endif %}{{ block.settings.text }}</span>
               </div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
