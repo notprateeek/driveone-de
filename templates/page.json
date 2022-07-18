@@ -668,6 +668,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
+        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
+        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -697,6 +699,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -726,6 +730,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
+        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
+        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -755,6 +761,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS.png",
+        "image_2": "shopify:\/\/shop_images\/Image_from_iOS.png",
+        "image_3": "shopify:\/\/shop_images\/Image_from_iOS.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -784,6 +792,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
+        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
+        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
