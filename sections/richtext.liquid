@@ -25,6 +25,8 @@
         {%- case block.type -%}
           {%- when 'heading' -%}
             <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+            {%- if block.settings.heading-hr -%}}
+            {%- endif -%}}  
           {%- when 'text' -%}
             <div class="icons">
               {% render 'google-play' %}
@@ -117,6 +119,12 @@
           "id": "heading",
           "default": "Talk about your brand",
           "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+        },
+        {
+          "type": "checkbox",
+          "id": "heading-hr",
+          "default": false,
+          "label": "heading hr"
         },
         {
           "type": "select",
