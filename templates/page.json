@@ -610,6 +610,7 @@
         "1657998506b09d9f77-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -637,10 +638,11 @@
         "16579985414a64ce38-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -664,6 +666,7 @@
         "1657998562b1885cd4-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -691,6 +694,7 @@
         "1657998588c5f30bfa-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Image_from_iOS.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -718,10 +722,11 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
