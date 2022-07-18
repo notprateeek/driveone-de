@@ -126,10 +126,19 @@
           "settings": {
             "text": "<p><a href=\"\/pages\/get-started-1\" title=\"Get Started\">For more information on how to get started<\/a><\/p>"
           }
+        },
+        "fa728ebc-2285-4970-baf5-66d14dba4e35": {
+          "type": "button",
+          "settings": {
+            "button_label": "For more information on how to get started",
+            "button_link": "shopify:\/\/pages\/get-started-1",
+            "button_style_secondary": true
+          }
         }
       },
       "block_order": [
-        "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0"
+        "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0",
+        "fa728ebc-2285-4970-baf5-66d14dba4e35"
       ],
       "settings": {
         "color_scheme": "background-1",
