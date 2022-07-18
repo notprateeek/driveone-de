@@ -454,10 +454,19 @@
             "button_link": "",
             "button_style_secondary": false
           }
+        },
+        "38273811-ec30-437b-bc3f-af414cfa73c3": {
+          "type": "button",
+          "settings": {
+            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p>",
+            "button_link": "",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "1658147355984306ca-2"
+        "1658147355984306ca-2",
+        "38273811-ec30-437b-bc3f-af414cfa73c3"
       ],
       "settings": {
         "color_scheme": "background-1",
