@@ -86,9 +86,11 @@
             {%- when 'text' -%}
               <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
                 {% if block.settings.hr %}
-                  <span><hr style="width: 5em;" /></span>>
+                  <span>
+                    <hr style="width: 5em;" />
+                  </span>>
                 {% endif %}
-                {{ block.settings.text }}
+                <span>{{ block.settings.text }}</span>
               </div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
