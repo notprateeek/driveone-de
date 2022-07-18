@@ -121,12 +121,6 @@
     "16577557735cb39c21": {
       "type": "rich-text",
       "blocks": {
-        "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a href=\"\/pages\/get-started-1\" title=\"Get Started\">For more information on how to get started<\/a><\/p>"
-          }
-        },
         "fa728ebc-2285-4970-baf5-66d14dba4e35": {
           "type": "button",
           "settings": {
@@ -137,13 +131,12 @@
         }
       },
       "block_order": [
-        "e907293b-77eb-4ff5-9e1f-d68fc6da8bc0",
         "fa728ebc-2285-4970-baf5-66d14dba4e35"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
