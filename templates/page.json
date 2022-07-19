@@ -538,7 +538,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Kameraknap til fartkameraer<\/p>",
+            "text": "<p>Camera button for speed cameras<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -546,7 +546,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>Advarselstrekants-knap til andre begivenheder.<\/p>",
+            "text": "<p>Triangle button for other events<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -578,7 +578,7 @@
         "16579984511300d3a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Din rapport deles derefter med alle de andre Drive One-brugere, så de bliver advaret og undgår farlige situationer.<\/p>"
+            "text": "<p>Your report is then shared with all the other Drive One users so they get warned and avoid any dangerous situations.<\/p>"
           }
         }
       },
@@ -598,14 +598,14 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Udskiftning af batteri",
+            "heading": "Replacing the battery",
             "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One-enheden forventes at kunne køre på det medfølgende batteri i omkring 2 år.<\/p><p>Dette kan afhænge af, hvor meget du kører, og hvilke vejrforhold enheden udsættes for: varme, kulde, fugt osv.)<\/p><p>Skal du udskifte batteriet, gøres dette meget nemt.<\/p>",
+            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
             "icons": false
           }
         },
