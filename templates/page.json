@@ -327,7 +327,7 @@
           "settings": {
             "heading": "Warnings customization",
             "icon": "none",
-            "row_content": "<p>På denne side kan du bestemme, hvornår du vil advares af Drive One.<\/p><p>Sekunder: Brug denne mulighed, hvis du altid ønsker at blive advaret mellem 15 og 60 sekunder, før du når en advarsel.<\/p><p>Meter: Brug denne mulighed, hvis du ønsker at blive advaret mellem 250 eller 1000 meter, før du når en advarsel.<\/p>",
+            "row_content": "<p>On this page, you can determine when you want to be warned by Drive One.<\/p><p><strong>Seconds<\/strong>: Use this if  you want to be warned between 15 to 60 seconds before you reach a warning.<\/p><p><strong>Meters<\/strong>: Use this if  you want to be warned between 250 or 1000 meters before you reach a warning.<\/p>",
             "page": ""
           }
         }
