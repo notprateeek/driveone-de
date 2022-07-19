@@ -291,7 +291,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
-            "row_content": "<p>The top button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the top button with the triangle icon, and the coordinates will be sent to Drive One and will be shared with other Drive One users when the approach the same location.<\/p>",
+            "row_content": "<p>The bottom button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the bottom button with the warning triangle icon, the coordinates will be sent to Drive One and will be shared with other Drive One users when they approach the same location.<\/p>",
             "page": ""
           }
         },
