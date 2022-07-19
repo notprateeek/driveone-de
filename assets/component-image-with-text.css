@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 750px) {
-  .image-with-text__grid--reverse {
+  .image-with-text .grid {
     flex-direction: column-reverse;
   }
 }
