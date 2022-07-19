@@ -139,7 +139,7 @@
         "1657998294d087edb6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Indtast din e-mailadresse",
+            "heading": "Enter your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
@@ -151,7 +151,7 @@
         "1657998294d087edb6-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Bekræft din emailadresse",
+            "heading": "Confirm your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185626_Gallery.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190952_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183450_Gallery.png",
