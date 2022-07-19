@@ -207,7 +207,7 @@
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "image_7": "shopify:\/\/shop_images\/Group_6.png",
             "icon": "none",
-            "row_content": "<p>For at Drive One kan fungere, når du begynder at køre, skal du fjerne batterioptimering for Drive One.<\/p><p>Formålet med batterioptimering er at lukke appen, når den ikke er i brug. Som et resultat vil appen og Drive One-advarslerne ikke virke, når du begynder at køre.<\/p><p>Når du ikke kører, bruger Drive One så lidt strøm som muligt. Den vil bruge mere strøm, når du kører, så det er en god idé at have din telefon tilsluttet, så den kan lade op, mens du kører.<\/p><p>Når du bliver anmodet om det, skal du vælge \"Tillad\".<\/p>",
+            "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
           }
         },
@@ -219,7 +219,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
-            "row_content": "<p>Du er nu klar til at forbinde din Drive One-enhed til Drive One-appen.<\/p>",
+            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -231,7 +231,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
-            "row_content": "<p>Du skal sikre dig, at Bluetooth er aktiveret på din telefon.<\/p><p>Hvis Bluetooth ikke er aktiveret, vil Drive One-enheden og appen ikke være i stand til at kommunikere med hinanden, og Drive One vil ikke fungere som forventet.<\/p>",
+            "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
             "page": ""
           }
         },
@@ -243,7 +243,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
-            "row_content": "<p>Nu skal du fjerne plastikmærket fra enheden. Dette aktiverer batteriet, og enheden vil begynde at lede efter en Drive One-app at oprette forbindelse til.<\/p><p>Hvis du allerede har fjernet plastikmærket, skal du rykke på Drive One-enheden for at vække den. Enheden vil derefter begynde at lede efter en app at oprette forbindelse til.<\/p>",
+            "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
             "page": ""
           }
         },
@@ -255,7 +255,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
-            "row_content": "<p>Din Drive One-enhed er nu forbundet til Drive One-appen.<\/p>",
+            "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -267,7 +267,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
-            "row_content": "<p>Nu vil appen tage dig med på en hurtig rundtur og forklare, hvordan Drive One fungerer.<\/p>",
+            "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
             "page": ""
           }
         },
@@ -279,7 +279,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
-            "row_content": "<p>Den øverste knap anvendes, når du ser og vil rapportere et fartkamera.<\/p><p>Når du trykker på den øverste knap med kameraikonet vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig samme placering.<\/p>",
+            "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -291,7 +291,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
-            "row_content": "<p>Den nederste knap anvendes, når du ser og vil rapportere noget, der kan medføre fare for andre bilister, og som er noget, de skal være opmærksomme på.<\/p><p>Når du trykker på den nederste knap med advarselstrekant-ikonet, vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig det samme sted.<\/p>",
+            "row_content": "<p>The top button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the top button with the triangle icon, and the coordinates will be sent to Drive One and will be shared with other Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -306,7 +306,7 @@
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
-            "row_content": "<p>På denne side kan du teste, hvordan man rapporterer ved hjælp af Drive One-enheden.<\/p><p>Du kan trykke på begge knapper for at lave en testrapport. Ingen af disse rapporter vil blive sendt, da de kun er tests, og du kan derfor trykke på knapperne så mange gange du vil.<\/p>",
+            "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
             "page": ""
           }
         },
@@ -318,7 +318,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
-            "row_content": "<p>Du kan teste, hvordan advarsler lyder på din Drive One-enhed og på din telefon.<\/p>",
+            "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
             "page": ""
           }
         },
