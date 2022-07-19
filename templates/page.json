@@ -140,6 +140,7 @@
           "settings": {
             "heading": "Indtast din e-mailadresse",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
+            "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
             "row_content": "<p>En e-mail vil nu blive sendt til din indtastede e-mailadresse.<\/p>",
@@ -151,6 +152,7 @@
           "settings": {
             "heading": "Bekræft din emailadresse",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185626_Gallery.png",
+            "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190952_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183450_Gallery.png",
             "icon": "none",
             "row_content": "<p>E-mailen indeholder et tal, som du skal indtaste på denne skærm for at bekræfte, at din e-mailadresse er gyldig.<\/p>",
@@ -162,6 +164,7 @@
           "settings": {
             "heading": "Accepter vilkår og betingelser",
             "image_2": "shopify:\/\/shop_images\/Group_18.png",
+            "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
             "row_content": "<p>Du skal acceptere vilkårene og betingelserne for at anvende Drive One-appen og for at fortsætte.<\/p><p>Hvis du ikke accepterer dem, vil du ikke kunne bruge appen.<\/p>",
@@ -173,6 +176,7 @@
           "settings": {
             "heading": "Giv placeringstilladelse",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
+            "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
             "row_content": "<p>På denne side bliver du bedt om at tillade at Drive One-appen kan se din placering.<\/p><p>Du skal tillade dette, for at Drive One kan fungere som forventet.<\/p>",
@@ -184,6 +188,7 @@
           "settings": {
             "heading": "Tillad notifikationer",
             "image_2": "shopify:\/\/shop_images\/Group_17.png",
+            "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
             "row_content": "<p>Drive One vil gerne sende dig notifikationer, når der er advarsler.<\/p><p>For at modtage dem skal du acceptere at få notifikationer.<\/p>",
@@ -196,6 +201,8 @@
             "heading": "Deaktiver batterioptimering",
             "image_2": "shopify:\/\/shop_images\/Group_19.png",
             "image_3": "shopify:\/\/shop_images\/Group_20.png",
+            "image_4": "shopify:\/\/shop_images\/Group_33.png",
+            "image_5": "shopify:\/\/shop_images\/Screenshot_20220718-191044_Settings.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "image_7": "shopify:\/\/shop_images\/Group_6.png",
             "icon": "none",
@@ -208,6 +215,7 @@
           "settings": {
             "heading": "Klar til tilslutning",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
+            "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
             "row_content": "<p>Du er nu klar til at forbinde din Drive One-enhed til Drive One-appen.<\/p>",
@@ -219,6 +227,7 @@
           "settings": {
             "heading": "Aktiver bluetooth",
             "image_2": "shopify:\/\/shop_images\/Group_21.png",
+            "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
             "row_content": "<p>Du skal sikre dig, at Bluetooth er aktiveret på din telefon.<\/p><p>Hvis Bluetooth ikke er aktiveret, vil Drive One-enheden og appen ikke være i stand til at kommunikere med hinanden, og Drive One vil ikke fungere som forventet.<\/p>",
@@ -230,6 +239,7 @@
           "settings": {
             "heading": "Fjern plastikslip",
             "image_2": "shopify:\/\/shop_images\/Group_22.png",
+            "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
             "row_content": "<p>Nu skal du fjerne plastikmærket fra enheden. Dette aktiverer batteriet, og enheden vil begynde at lede efter en Drive One-app at oprette forbindelse til.<\/p><p>Hvis du allerede har fjernet plastikmærket, skal du rykke på Drive One-enheden for at vække den. Enheden vil derefter begynde at lede efter en app at oprette forbindelse til.<\/p>",
@@ -241,6 +251,7 @@
           "settings": {
             "heading": "Forbundet",
             "image_2": "shopify:\/\/shop_images\/Group_23.png",
+            "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
             "row_content": "<p>Din Drive One-enhed er nu forbundet til Drive One-appen.<\/p>",
@@ -252,6 +263,7 @@
           "settings": {
             "heading": "Hurtig app-rundvisning",
             "image_2": "shopify:\/\/shop_images\/Group_24.png",
+            "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
             "row_content": "<p>Nu vil appen tage dig med på en hurtig rundtur og forklare, hvordan Drive One fungerer.<\/p>",
@@ -263,6 +275,7 @@
           "settings": {
             "heading": "Øverste rapportknap",
             "image_2": "shopify:\/\/shop_images\/Group_25.png",
+            "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
             "row_content": "<p>Den øverste knap anvendes, når du ser og vil rapportere et fartkamera.<\/p><p>Når du trykker på den øverste knap med kameraikonet vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig samme placering.<\/p>",
@@ -274,6 +287,7 @@
           "settings": {
             "heading": "Nederste rapportknap",
             "image_2": "shopify:\/\/shop_images\/Group_26.png",
+            "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
             "row_content": "<p>Den nederste knap anvendes, når du ser og vil rapportere noget, der kan medføre fare for andre bilister, og som er noget, de skal være opmærksomme på.<\/p><p>Når du trykker på den nederste knap med advarselstrekant-ikonet, vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig det samme sted.<\/p>",
@@ -286,6 +300,8 @@
             "heading": "Test rapporter",
             "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_28.png",
+            "image_4": "shopify:\/\/shop_images\/Group_38.png",
+            "image_5": "shopify:\/\/shop_images\/Group_42.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
@@ -298,6 +314,7 @@
           "settings": {
             "heading": "Testadvarsel lyder",
             "image_2": "shopify:\/\/shop_images\/Group_29.png",
+            "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
             "row_content": "<p>Du kan teste, hvordan advarsler lyder på din Drive One-enhed og på din telefon.<\/p>",
@@ -686,6 +703,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_20220718-185343_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191253_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183215_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -716,6 +734,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_20220718-185348_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191257_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -746,6 +765,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_20220718-185426_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191306_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183142_DevDrive.png",
         "height": "small",
         "desktop_image_width": "small",
@@ -776,6 +796,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_20220718-185436_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -806,6 +827,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_30.png",
+        "image_2": "shopify:\/\/shop_images\/Group_39.png",
         "image_3": "shopify:\/\/shop_images\/Group_1_954085c2-02d3-4ac9-bb05-d5e3a95c902c.png",
         "height": "small",
         "desktop_image_width": "small",
