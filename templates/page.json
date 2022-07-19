@@ -791,9 +791,9 @@
         "1657998562b1885cd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185426_DevDrive.png",
-        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191306_DevDrive.png",
-        "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183142_DevDrive.png",
+        "image": "shopify:\/\/shop_images\/available-de.png",
+        "image_2": "shopify:\/\/shop_images\/available-da.png",
+        "image_3": "shopify:\/\/shop_images\/available-en.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
