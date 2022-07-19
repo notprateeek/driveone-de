@@ -523,7 +523,7 @@
         "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
           "type": "text",
           "settings": {
-            "text": "<p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
+            "text": "<p><strong>What happens when you press one of the buttons?<\/strong><\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
             "icons": false
           }
         }
