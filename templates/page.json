@@ -14,14 +14,14 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Let's get you started",
+            "heading": "Lad os komme i gang med",
             "heading_size": "h2"
           }
         },
         "c0274228-b7a7-4146-a71e-917edd280f34": {
           "type": "text",
           "settings": {
-            "text": "<p>With your new Drive One device and app<\/p>",
+            "text": "<p>din nye Drive One-enhed og -app.<\/p>",
             "icons": false
           }
         }
@@ -43,14 +43,14 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Download and install the Drive One app.",
+            "heading": "O1 Downloade og installere Drive One-appen",
             "heading_size": "h2"
           }
         },
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>You can get it here<\/p>",
+            "text": "<p>Du kan få den her<\/p>",
             "icons": true
           }
         }
@@ -72,14 +72,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Setup Drive One in the Drive One app.",
+            "heading": "O2 Konfigurér Drive One i Drive One-appen.",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
+            "text": "<p>Start Drive One-appen, og følg instruktionerne på skærmen.\nHvis du vil læse mere om, hvordan du konfigurerer Drive One, inden du gør det, så fortsæt venligst her.<\/p>",
             "icons": false
           }
         }
@@ -101,20 +101,21 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "The setup process",
+            "heading": "Konfigurationsprocessen",
             "heading_size": "h2"
           }
         },
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
+            "text": "<p>Følg disse trin for at konfigurere Drive One-enheden:<\/p>",
             "icons": false
           }
         },
         "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Group_16.png",
             "image_3": "shopify:\/\/shop_images\/Group_2.png"
           }
         }
@@ -137,161 +138,177 @@
         "1657998294d087edb6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Enter your email address",
+            "heading": "Indtast din e-mailadresse",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
-            "row_content": "<p>An email is then sent to your entered email account.<\/p>",
+            "row_content": "<p>En e-mail vil nu blive sendt til din indtastede e-mailadresse.<\/p>",
             "page": ""
           }
         },
         "1657998294d087edb6-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Confirm your email address",
+            "heading": "Bekræft din emailadresse",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185626_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183450_Gallery.png",
             "icon": "none",
-            "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
+            "row_content": "<p>E-mailen indeholder et tal, som du skal indtaste på denne skærm for at bekræfte, at din e-mailadresse er gyldig.<\/p>",
             "page": ""
           }
         },
         "1657998294d087edb6-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Accept terms and conditions",
+            "heading": "Accepter vilkår og betingelser",
+            "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
-            "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
+            "row_content": "<p>Du skal acceptere vilkårene og betingelserne for at anvende Drive One-appen og for at fortsætte.<\/p><p>Hvis du ikke accepterer dem, vil du ikke kunne bruge appen.<\/p>",
             "page": ""
           }
         },
         "1657998294d087edb6-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Grant location permission",
+            "heading": "Giv placeringstilladelse",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
-            "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
+            "row_content": "<p>På denne side bliver du bedt om at tillade at Drive One-appen kan se din placering.<\/p><p>Du skal tillade dette, for at Drive One kan fungere som forventet.<\/p>",
             "page": ""
           }
         },
         "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Allow notifications",
+            "heading": "Tillad notifikationer",
+            "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
-            "row_content": "<p>Drive One would like to send you notifications when there are warnings.<\/p><p>To receive them, you need to accept them.<\/p>",
+            "row_content": "<p>Drive One vil gerne sende dig notifikationer, når der er advarsler.<\/p><p>For at modtage dem skal du acceptere at få notifikationer.<\/p>",
             "page": ""
           }
         },
         "c3b198d6-e40d-4b44-86eb-3812a6314b61": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Disable battery optimization",
+            "heading": "Deaktiver batterioptimering",
+            "image_2": "shopify:\/\/shop_images\/Group_19.png",
+            "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "image_7": "shopify:\/\/shop_images\/Group_6.png",
             "icon": "none",
-            "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
+            "row_content": "<p>For at Drive One kan fungere, når du begynder at køre, skal du fjerne batterioptimering for Drive One.<\/p><p>Formålet med batterioptimering er at lukke appen, når den ikke er i brug. Som et resultat vil appen og Drive One-advarslerne ikke virke, når du begynder at køre.<\/p><p>Når du ikke kører, bruger Drive One så lidt strøm som muligt. Den vil bruge mere strøm, når du kører, så det er en god idé at have din telefon tilsluttet, så den kan lade op, mens du kører.<\/p><p>Når du bliver anmodet om det, skal du vælge \"Tillad\".<\/p>",
             "page": ""
           }
         },
         "c415ba54-6653-45c4-b772-5daf552f8f38": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Ready for connection",
+            "heading": "Klar til tilslutning",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
-            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
+            "row_content": "<p>Du er nu klar til at forbinde din Drive One-enhed til Drive One-appen.<\/p>",
             "page": ""
           }
         },
         "6777f95f-2afe-4bd8-812c-e997f1cb6cb0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Enable bluetooth",
+            "heading": "Aktiver bluetooth",
+            "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
-            "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
+            "row_content": "<p>Du skal sikre dig, at Bluetooth er aktiveret på din telefon.<\/p><p>Hvis Bluetooth ikke er aktiveret, vil Drive One-enheden og appen ikke være i stand til at kommunikere med hinanden, og Drive One vil ikke fungere som forventet.<\/p>",
             "page": ""
           }
         },
         "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Remove plastic slip",
+            "heading": "Fjern plastikslip",
+            "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
-            "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
+            "row_content": "<p>Nu skal du fjerne plastikmærket fra enheden. Dette aktiverer batteriet, og enheden vil begynde at lede efter en Drive One-app at oprette forbindelse til.<\/p><p>Hvis du allerede har fjernet plastikmærket, skal du rykke på Drive One-enheden for at vække den. Enheden vil derefter begynde at lede efter en app at oprette forbindelse til.<\/p>",
             "page": ""
           }
         },
         "2aebf756-4859-426f-91a6-3cd3341e8b3b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Connected",
+            "heading": "Forbundet",
+            "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
-            "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
+            "row_content": "<p>Din Drive One-enhed er nu forbundet til Drive One-appen.<\/p>",
             "page": ""
           }
         },
         "6a15a8c9-c1c9-40bc-ab55-61fef5f66549": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quick app tour",
+            "heading": "Hurtig app-rundvisning",
+            "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
-            "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
+            "row_content": "<p>Nu vil appen tage dig med på en hurtig rundtur og forklare, hvordan Drive One fungerer.<\/p>",
             "page": ""
           }
         },
         "fa3078bd-c829-4d6e-b2e4-3b1d334360d7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Top report button",
+            "heading": "Øverste rapportknap",
+            "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
-            "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
+            "row_content": "<p>Den øverste knap anvendes, når du ser og vil rapportere et fartkamera.<\/p><p>Når du trykker på den øverste knap med kameraikonet vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig samme placering.<\/p>",
             "page": ""
           }
         },
         "28220422-6461-46d1-8737-3acc772fa8a3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Bottom report button",
+            "heading": "Nederste rapportknap",
+            "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
-            "row_content": "<p>The bottom button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the bottom button with the warning triangle icon, the coordinates will be sent to Drive One and will be shared with other Drive One users when they approach the same location.<\/p>",
+            "row_content": "<p>Den nederste knap anvendes, når du ser og vil rapportere noget, der kan medføre fare for andre bilister, og som er noget, de skal være opmærksomme på.<\/p><p>Når du trykker på den nederste knap med advarselstrekant-ikonet, vil koordinaterne blive sendt til Drive One og delt med andre Drive One-brugere, når de nærmer sig det samme sted.<\/p>",
             "page": ""
           }
         },
         "bfd9a00c-da41-4908-aa7a-bc6e51a6b20b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Test reports",
+            "heading": "Test rapporter",
+            "image_2": "shopify:\/\/shop_images\/Group_27.png",
+            "image_3": "shopify:\/\/shop_images\/Group_28.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
-            "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
+            "row_content": "<p>På denne side kan du teste, hvordan man rapporterer ved hjælp af Drive One-enheden.<\/p><p>Du kan trykke på begge knapper for at lave en testrapport. Ingen af disse rapporter vil blive sendt, da de kun er tests, og du kan derfor trykke på knapperne så mange gange du vil.<\/p>",
             "page": ""
           }
         },
         "e6a33834-48f2-443a-b788-bb4abe22579d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Test warning sounds",
+            "heading": "Testadvarsel lyder",
+            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
-            "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
+            "row_content": "<p>Du kan teste, hvordan advarsler lyder på din Drive One-enhed og på din telefon.<\/p>",
             "page": ""
           }
         },
         "22fab2ab-4495-4ab5-a9e4-db6e99047146": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Warnings customization",
+            "heading": "Advarsler tilpasning",
             "icon": "none",
-            "row_content": "<p>On this page, you can determine when you want to be warned by Drive One.<\/p><p><strong>Seconds<\/strong>: Use this if  you want to be warned between 15 to 60 seconds before you reach a warning.<\/p><p><strong>Meters<\/strong>: Use this if  you want to be warned between 250 or 1000 meters before you reach a warning.<\/p>",
+            "row_content": "<p>På denne side kan du bestemme, hvornår du vil advares af Drive One.<\/p><p>Sekunder: Brug denne mulighed, hvis du altid ønsker at blive advaret mellem 15 og 60 sekunder, før du når en advarsel.<\/p><p>Meter: Brug denne mulighed, hvis du ønsker at blive advaret mellem 250 eller 1000 meter, før du når en advarsel.<\/p>",
             "page": ""
           }
         }
@@ -335,28 +352,28 @@
         "16579983455b9ae1ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "Mounting the Drive One unit in the car",
+            "heading": "Montering af Drive One-enheden i bilen",
             "heading_size": "h2"
           }
         },
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
           "type": "text",
           "settings": {
-            "text": "<p>You can mount the Drive One unit in the car in multiple ways<\/p>",
+            "text": "<p>Du kan montere Drive One-enheden i bilen på flere måder<\/p>",
             "icons": false
           }
         },
         "eb692ee1-f694-4cae-a639-710de606a9b8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O1 <\/strong>You can mount it using the adhesive pads that Drive One comes with or<\/p>",
+            "text": "<p><strong>O1<\/strong>Du kan montere den ved hjælp af de selvklæbende puder, som følger med Drive One-enheden eller<\/p>",
             "icons": false
           }
         },
         "82c63689-027b-455c-95d1-6158553f50ff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O2 <\/strong>You can mount it using the Drive One magnet which is sold separately.<\/p>",
+            "text": "<p><strong>O2<\/strong>Du kan montere den ved hjælp af Drive One-magneten , som sælges separat.<\/p>",
             "icons": false
           }
         }
@@ -380,18 +397,18 @@
         "165799836471a04549-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Mount using adhesive pads",
+            "heading": "Montering med klæbepuder",
             "icon": "none",
-            "row_content": "<p>If you want to mount your Drive One device in a more permanent way, you can use the adhesive pads found on the back of the device.<\/p><p><strong>O1.1 Preparing to mount Drive One on a dashboard<\/strong><\/p><p>Find the best spot for the device. It should be a place where you can see it, when looking out the front window, and where you can reach it to make a report without having to look away from the road.<\/p><p>Then, using a damp cloth, clean the part of the dashboard where you want the device to be placed.<\/p><p>Make sure the dashboard is dry where you are ready to mount it.<\/p><p><strong>O1.2 Mounting Drive One using adhesive<\/strong><\/p><p>From the back of Drive One, you need to remove the covers from the pads to reveal the adhesive.<\/p><p>Grab the small tail to easily remove the covers.<\/p>",
+            "row_content": "<p>Hvis du ønsker at montere din Drive One-enhed på en mere permanent måde, kan du bruge de klæbepuder, der findes på bagsiden af enheden<\/p><p><strong>O1.1 Forberedelse til montering af Drive One på et instrumentbræt<\/strong><\/p><p>Find det bedste sted til enheden. Det skal være et sted, hvor man kan se den, når man kigger ud af forruden, og hvor man kan nå den for at lave en rapport uden at skulle se væk fra vejen.<\/p><p>Brug derefter en fugtig klud til at rengøre den del af instrumentbrættet, hvor du ønsker, at enheden skal placeres.<\/p><p>Sørg for, at instrumentbrættet er tørt, hvor du er klar til at montere den.<\/p><p><strong>O1.2 Montering af Drive One ved hjælp af klæbemiddel <\/strong><\/p><p>På bagsiden af Drive One-enheden skal du fjerne beskyttelsen fra puderne for at frigøre klæbemidlet.<\/p><p> Tag fat i den lille hale for nemt at fjerne beskyttelsen.",
             "page": ""
           }
         },
         "165799836471a04549-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Mounting Drive One using the Drive One magnet",
+            "heading": "Montering af Drive One ved hjælp af Drive One-magneten",
             "icon": "none",
-            "row_content": "<p>Drive One magnets are sold seperately from the purchase of Drive One device.<\/p><p>You can get yours here<\/p><p>This video shows how much to mount the Drive One magnet and then use magents to mount the Drive One device to magnet.<\/p>",
+            "row_content": "<p>Drive One-magneter sælges separat og indgår ikke i købet af Drive One-enheden.<\/p><p>Du kan få din her<\/p><p>Denne video viser, hvordan du monterer Drive One-magneten og derefter bruger magneter til at montere Drive One-enheden på magneten.<\/p>",
             "page": ""
           }
         }
@@ -421,14 +438,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "How does Drive One work?",
+            "heading": "Hvordan fungerer Drive One?",
             "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of:<\/p><p>A blue light and sound indicate a warning for a possible speed camera.<\/p><p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p><p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
+            "text": "<p>Drive One fungerer ved at dele data fra mange kilder og endnu flere brugere over hele Europa.<\/p><p>En bruger kan rapportere en hændelse, f.eks. et fartkamera, ved at trykke på kameraknappen på Drive One-enheden. Dette vil så sende koordinaterne for, hvor rapporten er lavet, til vores servere, og dette sendes derefter til Drive One-appen på din telefon.<\/p><p>Når du så kommer tæt på denne placering, vil der lyde en advarsel på Drive One-enheden.<\/p><p>Lyden og farven på advarslen fortæller dig, hvad du skal være opmærksom på:<\/p>",
             "icons": false
           }
         }
@@ -450,7 +467,7 @@
         "1658147355984306ca-2": {
           "type": "button",
           "settings": {
-            "text": "<p>A blue light and sound indicate a warning for a possible speed camera.<\/p>",
+            "text": "<p>Et blåt lys og en lyd indikerer en advarsel om et muligt fartkamera.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -458,7 +475,7 @@
         "38273811-ec30-437b-bc3f-af414cfa73c3": {
           "type": "button",
           "settings": {
-            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p>",
+            "text": "<p>Et rødt lys og en lyd indikerer en mere generel advarsel om, at noget forude kræver din opmærksomhed og årvågenhed. Dette kan være en ulykke eller vejarbejde eller noget farligt.<p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -481,7 +498,7 @@
         "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
           "type": "text",
           "settings": {
-            "text": "<p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
+            "text": "<p>Hvad sker der, når du trykker på en af knapperne?<\/p><p>Hvis du ser noget, som du synes, andre brugere skal være opmærksomme på, så tryk på den knap på enheden, der matcher begivenheden<\/p>",
             "icons": false
           }
         }
@@ -502,7 +519,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Camera button for speed cameras<\/p>",
+            "text": "<p>Kameraknap til fartkameraer<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -510,7 +527,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>Triangle button for other events<\/p>",
+            "text": "<p>Advarselstrekants-knap til andre begivenheder.<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -542,7 +559,7 @@
         "16579984511300d3a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your report is then shared with all the other Drive One users so they get warned and avoid any dangerous situations.<\/p>"
+            "text": "<p>Din rapport deles derefter med alle de andre Drive One-brugere, så de bliver advaret og undgår farlige situationer.<\/p>"
           }
         }
       },
@@ -562,42 +579,42 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Replacing the battery",
+            "heading": "Udskiftning af batteri",
             "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
+            "text": "<p>Drive One-enheden forventes at kunne køre på det medfølgende batteri i omkring 2 år.<\/p><p>Dette kan afhænge af, hvor meget du kører, og hvilke vejrforhold enheden udsættes for: varme, kulde, fugt osv.)<\/p><p>Skal du udskifte batteriet, gøres dette meget nemt.<\/p>",
             "icons": false
           }
         },
         "68be2a2b-149a-4d5a-aee9-d1ef289acafe": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯   Twist the device, like a screw capsule, in either direction.<\/p>",
+            "text": "<p>⎯⎯ Drej enheden, som en skruekapsel, i en hvilken som helst retning.<\/p>",
             "icons": false
           }
         },
         "d72ed3c3-d04e-4f8c-8040-ebdc38dff2b3": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯   Then, remove the bottom of the device.<\/p>",
+            "text": "<p>⎯⎯ Fjern derefter enhedens bund.<\/p>",
             "icons": false
           }
         },
         "2e59cffc-4172-45c2-b0a1-4fd314d280c0": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯   Push the battery out of the battery compartment and then add the new battery.<\/p>",
+            "text": "<p>⎯⎯ Skub batteriet ud af batterirummet, og isæt derefter det nye batteri.<\/p>",
             "icons": false
           }
         },
         "ad18a8bc-7a55-4ac9-97d2-3136fc18c524": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯   You can then click the back on or twist it counter to the direction used when removing the lid.<\/p>",
+            "text": "<p>⎯⎯ Du kan derefter klikke bagsiden på igen eller dreje den modsat den retning, du brugte, da du fjernede låget.<\/p>",
             "icons": false
           }
         }
@@ -636,7 +653,7 @@
         "165799849780946e36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Adding an additional Drive One unit",
+            "heading": "Tilføjelse af en ekstra Drive One-enhed",
             "heading_size": "h2"
           }
         }
@@ -657,7 +674,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the  map click <strong>Device<\/strong>.<\/p>",
+            "text": "<p>Sådan tilføjes en ekstra Drive One-enhed trin for trin<br\/>Under kortvisningen skal du klikke på tandhjulet for at gå til menuen.<br\/>I menuen, klik på <strong> Enhed <\/strong>.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -667,11 +684,12 @@
         "1657998506b09d9f77-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185343_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183215_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -686,7 +704,7 @@
         "16579985414a64ce38-1": {
           "type": "text",
           "settings": {
-            "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
+            "text": "<p>I bunden af listen over Drive One-enheder skal du klikke på det blå (+) ikon for at tilføje en ny enhed.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -715,7 +733,7 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
+            "text": "<p>Drive One-appen vil nu søge efter den nye enhed.<br \/>Sørg for, at den nye enhed har fået fjernet plastikstrimlen fra batteriet, og at enheden er vågen.  Prøv at flytte rundt på den nye enhed for at sikre, at den er vågen og klar til at blive fundet.<br \/>Når Drive One finder den nye enhed, vil den blive vist på denne liste.<br \/>Klik på den nye enhed på listen.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -744,7 +762,7 @@
         "1657998588c5f30bfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
+            "text": "<p>Giv den nye enhed et navn, f.eks \"Drive One Rød Bil\" eller \"Firmabil\" eller lige, hvad du har lyst til.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -773,7 +791,7 @@
         "165799859766ab5ae3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
+            "text": "<p>Din nye Drive One-enhed er nu føjet til din Drive One-app, og næste gang nogen af enhederne på din liste er i nærheden og vågne, vil de oprette forbindelse til din app.<\/p>",
             "hr": false,
             "text_style": "body"
           }
