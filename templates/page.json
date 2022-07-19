@@ -667,9 +667,7 @@
         "1657998506b09d9f77-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
-        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
-        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_3.png",
+        "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183215_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -700,7 +698,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
         "image_2": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
-        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
+        "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -731,8 +729,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
         "image_2": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
-        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
-        "height": "adapt",
+        "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183142_DevDrive.png",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -762,7 +760,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Image_from_iOS.png",
         "image_2": "shopify:\/\/shop_images\/Image_from_iOS.png",
-        "image_3": "shopify:\/\/shop_images\/Image_from_iOS.png",
+        "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -791,10 +789,8 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
-        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
-        "image_3": "shopify:\/\/shop_images\/Image_from_iOS_4.png",
-        "height": "adapt",
+        "image_3": "shopify:\/\/shop_images\/Group_1_226ded9a-f323-4bdb-945c-2e8b325314ca.png",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
