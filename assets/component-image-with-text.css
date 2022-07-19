@@ -12,6 +12,12 @@
   }
 }
 
+@media screen and (max-width: 750px) {
+  .image-with-text__grid--reverse {
+    flex-direction: column-reverse;
+  }
+}
+
 .image-with-text__media {
   min-height: 100%;
   overflow: visible;
