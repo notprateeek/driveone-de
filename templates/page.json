@@ -612,28 +612,28 @@
         "68be2a2b-149a-4d5a-aee9-d1ef289acafe": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Drej enheden, som en skruekapsel, i en hvilken som helst retning.<\/p>",
+            "text": "<p>⎯⎯ Twist the device, like a screw capsule, in either direction.<\/p>",
             "icons": false
           }
         },
         "d72ed3c3-d04e-4f8c-8040-ebdc38dff2b3": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Fjern derefter enhedens bund.<\/p>",
+            "text": "<p>⎯⎯ Then, remove the bottom of the device.<\/p>",
             "icons": false
           }
         },
         "2e59cffc-4172-45c2-b0a1-4fd314d280c0": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Skub batteriet ud af batterirummet, og isæt derefter det nye batteri.<\/p>",
+            "text": "<p>⎯⎯ Push the battery out of the battery compartment and then add the new battery.<\/p>",
             "icons": false
           }
         },
         "ad18a8bc-7a55-4ac9-97d2-3136fc18c524": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Du kan derefter klikke bagsiden på igen eller dreje den modsat den retning, du brugte, da du fjernede låget.<\/p>",
+            "text": "<p>⎯⎯ You can then click the back on or twist it counter to the direction used when removing the lid.<\/p>",
             "icons": false
           }
         }
