@@ -371,28 +371,28 @@
         "16579983455b9ae1ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "Montering af Drive One-enheden i bilen",
+            "heading": "Mounting the Drive One unit in the car",
             "heading_size": "h2"
           }
         },
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
           "type": "text",
           "settings": {
-            "text": "<p>Du kan montere Drive One-enheden i bilen på flere måder<\/p>",
+            "text": "<p>You can mount the Drive One unit in the car in multiple ways<\/p>",
             "icons": false
           }
         },
         "eb692ee1-f694-4cae-a639-710de606a9b8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O1<\/strong>Du kan montere den ved hjælp af de selvklæbende puder, som følger med Drive One-enheden eller<\/p>",
+            "text": "<p><strong>O1 <\/strong>You can mount it using the <strong>adhesive pads<\/strong> that Drive One comes with or<\/p>",
             "icons": false
           }
         },
         "82c63689-027b-455c-95d1-6158553f50ff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O2<\/strong>Du kan montere den ved hjælp af Drive One-magneten , som sælges separat.<\/p>",
+            "text": "<p><strong>O2 <\/strong>You can mount it using the <strong>Drive One magnet<\/strong> which is sold separately.<\/p>",
             "icons": false
           }
         }
