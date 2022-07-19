@@ -724,7 +724,7 @@
         "16579985414a64ce38-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I bunden af listen over Drive One-enheder skal du klikke på det blå (+) ikon for at tilføje en ny enhed.<\/p>",
+            "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -755,7 +755,7 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One-appen vil nu søge efter den nye enhed.<br \/>Sørg for, at den nye enhed har fået fjernet plastikstrimlen fra batteriet, og at enheden er vågen.  Prøv at flytte rundt på den nye enhed for at sikre, at den er vågen og klar til at blive fundet.<br \/>Når Drive One finder den nye enhed, vil den blive vist på denne liste.<br \/>Klik på den nye enhed på listen.<\/p>",
+            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -786,7 +786,7 @@
         "1657998588c5f30bfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Giv den nye enhed et navn, f.eks \"Drive One Rød Bil\" eller \"Firmabil\" eller lige, hvad du har lyst til.<\/p>",
+            "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
             "hr": false,
             "text_style": "body"
           }
