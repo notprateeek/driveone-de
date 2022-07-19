@@ -72,14 +72,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Konfigurér Drive One i Drive One-appen.",
+            "heading": "O2 Setup Drive One in the Drive One app.",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Start Drive One-appen, og følg instruktionerne på skærmen.\nHvis du vil læse mere om, hvordan du konfigurerer Drive One, inden du gør det, så fortsæt venligst her.<\/p>",
+            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here.<\/p>",
             "icons": false
           }
         }
