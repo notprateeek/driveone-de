@@ -416,16 +416,16 @@
         "165799836471a04549-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Montering med klæbepuder",
+            "heading": "Mount using adhesive pads",
             "icon": "none",
-            "row_content": "<p>Hvis du ønsker at montere din Drive One-enhed på en mere permanent måde, kan du bruge de klæbepuder, der findes på bagsiden af enheden<\/p><p><strong>O1.1 Forberedelse til montering af Drive One på et instrumentbræt<\/strong><\/p><p>Find det bedste sted til enheden. Det skal være et sted, hvor man kan se den, når man kigger ud af forruden, og hvor man kan nå den for at lave en rapport uden at skulle se væk fra vejen.<\/p><p>Brug derefter en fugtig klud til at rengøre den del af instrumentbrættet, hvor du ønsker, at enheden skal placeres.<\/p><p>Sørg for, at instrumentbrættet er tørt, hvor du er klar til at montere den.<\/p><p><strong>O1.2 Montering af Drive One ved hjælp af klæbemiddel <\/strong><\/p><p>På bagsiden af Drive One-enheden skal du fjerne beskyttelsen fra puderne for at frigøre klæbemidlet.<\/p><p> Tag fat i den lille hale for nemt at fjerne beskyttelsen.",
+            "row_content": "<p>Hvis du ønsker at montere din Drive One-enhed på en mere permanent måde, kan du bruge de klæbepuder, der findes på bagsiden af enheden<\/p><p><strong>O1.1 Forberedelse til montering af Drive One på et instrumentbræt<\/strong><\/p><p>Find det bedste sted til enheden. Det skal være et sted, hvor man kan se den, når man kigger ud af forruden, og hvor man kan nå den for at lave en rapport uden at skulle se væk fra vejen.<\/p><p>Brug derefter en fugtig klud til at rengøre den del af instrumentbrættet, hvor du ønsker, at enheden skal placeres.<\/p><p>Sørg for, at instrumentbrættet er tørt, hvor du er klar til at montere den.<\/p><p><strong>O1.2 Montering af Drive One ved hjælp af klæbemiddel <\/strong><\/p><p>På bagsiden af Drive One-enheden skal du fjerne beskyttelsen fra puderne for at frigøre klæbemidlet.<\/p><p> Tag fat i den lille hale for nemt at fjerne beskyttelsen.<\/p>",
             "page": ""
           }
         },
         "165799836471a04549-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Montering af Drive One ved hjælp af Drive One-magneten",
+            "heading": "Mount using Drive One magnets",
             "icon": "none",
             "row_content": "<p>Drive One-magneter sælges separat og indgår ikke i købet af Drive One-enheden.<\/p><p>Du kan få din her<\/p><p>Denne video viser, hvordan du monterer Drive One-magneten og derefter bruger magneter til at montere Drive One-enheden på magneten.<\/p>",
             "page": ""
@@ -457,14 +457,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hvordan fungerer Drive One?",
+            "heading": "How does Drive One work?",
             "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One fungerer ved at dele data fra mange kilder og endnu flere brugere over hele Europa.<\/p><p>En bruger kan rapportere en hændelse, f.eks. et fartkamera, ved at trykke på kameraknappen på Drive One-enheden. Dette vil så sende koordinaterne for, hvor rapporten er lavet, til vores servere, og dette sendes derefter til Drive One-appen på din telefon.<\/p><p>Når du så kommer tæt på denne placering, vil der lyde en advarsel på Drive One-enheden.<\/p><p>Lyden og farven på advarslen fortæller dig, hvad du skal være opmærksom på:<\/p>",
+            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of:<\/p>",
             "icons": false
           }
         }
@@ -486,7 +486,7 @@
         "1658147355984306ca-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Et blåt lys og en lyd indikerer en advarsel om et muligt fartkamera.<\/p>",
+            "text": "<p>A blue light and sound indicate a warning for a possible speed camera.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -494,7 +494,7 @@
         "38273811-ec30-437b-bc3f-af414cfa73c3": {
           "type": "button",
           "settings": {
-            "text": "<p>Et rødt lys og en lyd indikerer en mere generel advarsel om, at noget forude kræver din opmærksomhed og årvågenhed. Dette kan være en ulykke eller vejarbejde eller noget farligt.<p>",
+            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p><p><\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -517,7 +517,7 @@
         "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
           "type": "text",
           "settings": {
-            "text": "<p>Hvad sker der, når du trykker på en af knapperne?<\/p><p>Hvis du ser noget, som du synes, andre brugere skal være opmærksomme på, så tryk på den knap på enheden, der matcher begivenheden<\/p>",
+            "text": "<p>What happens when you press one of the buttons?<\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
             "icons": false
           }
         }
