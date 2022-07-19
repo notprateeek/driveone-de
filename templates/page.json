@@ -50,7 +50,7 @@
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>Du kan få den her<\/p>",
+            "text": "<p>You can get it here<\/p>",
             "icons": true
           }
         }
@@ -72,14 +72,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Konfigurér Drive One i Drive One-appen.",
+            "heading": "O2 Setup Drive One in the Drive One app.",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Start Drive One-appen, og følg instruktionerne på skærmen.\nHvis du vil læse mere om, hvordan du konfigurerer Drive One, inden du gør det, så fortsæt venligst her.<\/p>",
+            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
             "icons": false
           }
         }
@@ -101,14 +101,14 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Konfigurationsprocessen",
+            "heading": "The setup process",
             "heading_size": "h2"
           }
         },
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Følg disse trin for at konfigurere Drive One-enheden:<\/p>",
+            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
             "icons": false
           }
         },
