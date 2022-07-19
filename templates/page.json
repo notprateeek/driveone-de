@@ -144,7 +144,7 @@
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
-            "row_content": "<p>En e-mail vil nu blive sendt til din indtastede e-mailadresse.<\/p>",
+            "row_content": "<p>An email is then sent to your entered email account.<\/p>",
             "page": ""
           }
         },
@@ -156,7 +156,7 @@
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190952_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183450_Gallery.png",
             "icon": "none",
-            "row_content": "<p>E-mailen indeholder et tal, som du skal indtaste på denne skærm for at bekræfte, at din e-mailadresse er gyldig.<\/p>",
+            "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
             "page": ""
           }
         },
@@ -168,7 +168,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
-            "row_content": "<p>Du skal acceptere vilkårene og betingelserne for at anvende Drive One-appen og for at fortsætte.<\/p><p>Hvis du ikke accepterer dem, vil du ikke kunne bruge appen.<\/p>",
+            "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
             "page": ""
           }
         },
@@ -180,7 +180,7 @@
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
-            "row_content": "<p>På denne side bliver du bedt om at tillade at Drive One-appen kan se din placering.<\/p><p>Du skal tillade dette, for at Drive One kan fungere som forventet.<\/p>",
+            "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
             "page": ""
           }
         },
