@@ -115,6 +115,7 @@
         "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f": {
           "type": "image",
           "settings": {
+            "image_3": "shopify:\/\/shop_images\/Group_2.png"
           }
         }
       },
@@ -137,6 +138,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enter your email address",
+            "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
             "row_content": "<p>An email is then sent to your entered email account.<\/p>",
             "page": ""
@@ -678,8 +680,6 @@
         "16579985414a64ce38-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
-        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_1.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -709,8 +709,6 @@
         "1657998562b1885cd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
-        "image_2": "shopify:\/\/shop_images\/Image_from_iOS_2.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183142_DevDrive.png",
         "height": "small",
         "desktop_image_width": "small",
@@ -740,8 +738,6 @@
         "1657998588c5f30bfa-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_from_iOS.png",
-        "image_2": "shopify:\/\/shop_images\/Image_from_iOS.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -771,7 +767,6 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
-        "image_3": "shopify:\/\/shop_images\/Group_1_226ded9a-f323-4bdb-945c-2e8b325314ca.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
