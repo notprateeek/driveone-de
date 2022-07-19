@@ -43,14 +43,14 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Download and install the Drive One app.",
+            "heading": "O1 Downloade og installere Drive One-appen",
             "heading_size": "h2"
           }
         },
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>You can get it here<\/p>",
+            "text": "<p>Du kan få den her<\/p>",
             "icons": true
           }
         }
@@ -72,14 +72,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Setup Drive One in the Drive One app.",
+            "heading": "O2 Konfigurér Drive One i Drive One-appen.",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here.<\/p>",
+            "text": "<p>Start Drive One-appen, og følg instruktionerne på skærmen.\nHvis du vil læse mere om, hvordan du konfigurerer Drive One, inden du gør det, så fortsæt venligst her.<\/p>",
             "icons": false
           }
         }
