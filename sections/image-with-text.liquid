@@ -11,7 +11,7 @@
     align-items: center;
   }
 
-  .hr-image-with-text {
+  .hr-iwt {
     width: 3em;
     height: .2em;
     margin: 1em;
@@ -97,7 +97,7 @@
             {%- when 'text' -%}
               <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
                <span class="flex-hr-text">
-                {% if block.settings.hr %}<hr class="hr-image-with-text">{{ block.settings.hr}}/>{% endif %}{{ block.settings.text }}</span>
+                {% if block.settings.hr %}<hr class="hr-iwt" />{% endif %}{{ block.settings.text }}</span>
               </div>
             {%- when 'button' -%}
               {%- if block.settings.button_label != blank -%}
