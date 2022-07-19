@@ -672,7 +672,7 @@
         "165799849780946e36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Tilføjelse af en ekstra Drive One-enhed",
+            "heading": "Adding an additional Drive One unit",
             "heading_size": "h2"
           }
         }
@@ -693,7 +693,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sådan tilføjes en ekstra Drive One-enhed trin for trin<br\/>Under kortvisningen skal du klikke på tandhjulet for at gå til menuen.<br\/>I menuen, klik på <strong> Enhed <\/strong>.<\/p>",
+            "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the  map click <strong>Device<\/strong>.<\/p>",
             "hr": false,
             "text_style": "body"
           }
