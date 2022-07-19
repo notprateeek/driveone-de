@@ -148,6 +148,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Confirm your email address",
+            "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183450_Gallery.png",
             "icon": "none",
             "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
             "page": ""
@@ -157,6 +158,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Accept terms and conditions",
+            "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
             "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
             "page": ""
@@ -166,6 +168,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Grant location permission",
+            "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
             "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
             "page": ""
@@ -175,6 +178,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Allow notifications",
+            "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
             "row_content": "<p>Drive One would like to send you notifications when there are warnings.<\/p><p>To receive them, you need to accept them.<\/p>",
             "page": ""
@@ -184,6 +188,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Disable battery optimization",
+            "image_6": "shopify:\/\/shop_images\/Group_5.png",
+            "image_7": "shopify:\/\/shop_images\/Group_6.png",
             "icon": "none",
             "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
@@ -193,6 +199,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Ready for connection",
+            "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
             "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
             "page": ""
@@ -202,6 +209,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enable bluetooth",
+            "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
             "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
             "page": ""
@@ -211,6 +219,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Remove plastic slip",
+            "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
             "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
             "page": ""
@@ -220,6 +229,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Connected",
+            "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
             "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
             "page": ""
@@ -229,6 +239,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quick app tour",
+            "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
             "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
             "page": ""
@@ -238,6 +249,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Top report button",
+            "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
             "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
             "page": ""
@@ -247,6 +259,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Bottom report button",
+            "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
             "row_content": "<p>The bottom button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the bottom button with the warning triangle icon, the coordinates will be sent to Drive One and will be shared with other Drive One users when they approach the same location.<\/p>",
             "page": ""
@@ -256,6 +269,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test reports",
+            "image_6": "shopify:\/\/shop_images\/Group_14.png",
+            "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
             "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
             "page": ""
@@ -265,6 +280,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test warning sounds",
+            "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
             "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
             "page": ""
@@ -767,6 +783,7 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
+        "image_3": "shopify:\/\/shop_images\/Group_1_954085c2-02d3-4ac9-bb05-d5e3a95c902c.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
