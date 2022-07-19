@@ -659,6 +659,26 @@
         "padding_bottom": 0
       }
     },
+    "16582297026e4a0b4b": {
+      "type": "rich-text",
+      "blocks": {
+        "1658229702330bda0f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This video will show you how to disassemble the device and replace the battery.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1658229702330bda0f-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16579998405c35df41": {
       "type": "video",
       "settings": {
@@ -864,6 +884,7 @@
     "1657998406de785d25",
     "165799845181853897",
     "1657998482c44e5763",
+    "16582297026e4a0b4b",
     "16579998405c35df41",
     "1657998497167f8832",
     "1657998507f5e848d5",
