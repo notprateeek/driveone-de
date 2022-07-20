@@ -228,7 +228,8 @@
       "cart_count": {
         "one": "{{ count }} item",
         "other": "{{ count }} items"
-      }
+      },
+      "update": "Update"
     },
     "feature-list": {
       "always_up_to_date": "Always up to date",

@@ -228,7 +228,8 @@
       "cart_count": {
         "one": "{{ count }} Artikel",
         "other": "{{ count }} Artikel"
-      }
+      },
+      "update": "Aktualisieren"
     },
     "cart": {
       "title": "Dein Warenkorb",
