@@ -83,14 +83,14 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
-    "social_twitter_link": "https:\/\/twitter.com",
-    "social_facebook_link": "https:\/\/facebook.com",
+    "social_twitter_link": "https://twitter.com",
+    "social_facebook_link": "https://facebook.com",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/",
+    "social_instagram_link": "http://instagram.com/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com",
+    "social_youtube_link": "https://www.youtube.com",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": true,
@@ -106,15 +106,14 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
           "button_label": "Buy",
-          "button_link": "shopify:\/\/collections\/all",
+          "button_link": "shopify://collections/all",
           "button_style_secondary": false,
           "logo_width": 90,
           "logo_position": "middle-left",
@@ -136,9 +135,7 @@
             }
           }
         },
-        "block_order": [
-          "5ea8aee4-22ee-4a41-ad8c-8e748000c77a"
-        ],
+        "block_order": ["5ea8aee4-22ee-4a41-ad8c-8e748000c77a"],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
@@ -166,17 +163,8 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "6744518860797519131": {
-        "type": "shopify:\/\/apps\/et-language-translate-currency\/blocks\/floating-selector\/35c05b0e-4f05-4fc9-adc7-77b6ccb6b2ca",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    "content_for_index": [],
+    "blocks": {}
   },
   "presets": {
     "Default": {
@@ -289,11 +277,8 @@
               }
             }
           },
-          "block_order": [
-            "announcement-bar-0"
-          ],
-          "settings": {
-          }
+          "block_order": ["announcement-bar-0"],
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -328,15 +313,11 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
-          "block_order": [
-            "footer-0",
-            "footer-1",
-            "footer-2"
-          ],
+          "block_order": ["footer-0", "footer-1", "footer-2"],
           "settings": {
             "color_scheme": "background-1",
             "newsletter_enable": true,
