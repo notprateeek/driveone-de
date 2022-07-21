@@ -78,7 +78,7 @@
         "1652937235a1cb533f-2": {
           "type": "button",
           "settings": {
-            "text": "<p>How you agree to the Privacy Policy<\/p>",
+            "text": "<p>How you agree to the Privacy Policy?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -158,7 +158,7 @@
         "c41d54ed-c0aa-4727-a63d-1f16196030da": {
           "type": "button",
           "settings": {
-            "text": "<p>How to manage your cookies<\/p>",
+            "text": "<p>How to manage your cookies?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -182,7 +182,7 @@
         "588a9aae-b62d-44ad-8e9f-fa13391a4743": {
           "type": "button",
           "settings": {
-            "text": "<p>How to contact us<\/p>",
+            "text": "<p>How to contact us?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -190,7 +190,7 @@
         "7a8898d1-8326-4e47-a12f-e80092a37108": {
           "type": "button",
           "settings": {
-            "text": "<p>How to contact the appropriate authorities<\/p>",
+            "text": "<p>How to contact the appropriate authorities?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
