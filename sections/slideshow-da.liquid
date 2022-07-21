@@ -6,6 +6,17 @@
 {%- if section.settings.slide_height == 'adapt_image' and section.blocks.first.settings.image != blank -%}
   {%- style -%}
 
+  @media screen and (max-width: 475px) {
+    .banner__media {
+      background-color: inherit;
+    }
+
+    .banner__media img{
+      height: auto;
+      margin-top: 10%;
+    }
+  }
+
   @media screen and (max-width: 749px) {
     #Slider-{{ section.id }}::before,
     #Slider-{{ section.id }} .media::before,
