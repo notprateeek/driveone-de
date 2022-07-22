@@ -1,3 +1,8 @@
 .iframe-wrapper {
-  max-width: 90vw;
+  display: grid;
+  place-items: center;
+}
+
+iframe {
+  width: 50vw;
 }
