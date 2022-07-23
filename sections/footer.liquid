@@ -110,7 +110,7 @@
             </ul>
           </div>
 
-          {%- for block in section.blocks -%}
+<!--           {%- for block in section.blocks -%}
             <div class="footer-block grid__item{% if block.type == 'link_list' and block.settings.heading != blank %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}
                 <h2 class="footer-block__heading">{{- block.settings.heading | escape -}}</h2>
@@ -152,7 +152,7 @@
                   </div>
                 {%- endcase -%}
             </div>
-          {%- endfor -%}
+          {%- endfor -%} -->
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">{{ 'sections.footer.download' | t }}</h2>
