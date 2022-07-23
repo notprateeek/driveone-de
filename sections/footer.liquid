@@ -93,6 +93,23 @@
             </ul>
           </div>
 
+          <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
+            <h2 class="footer-block__heading">{{ 'sections.footer.terms' | t }}</h2>
+            <ul class="footer-block__details-content list-unstyled">
+              {% if shop.locale == 'de' %}
+              <li>
+                <a href="https://needitdriveone.myshopify.com/pages/impressum" class="link link--text list-menu__item list-menu__item--link">Impressum</a>
+              </li>
+              {% endif %}
+              <li>
+                <a href="https://needitdriveone.myshopify.com/pages/terms-of-trade" class="link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.terms-of-trade' | t }}</a>
+              </li>
+              <li>
+                <a href="https://needitdriveone.myshopify.com/pages/privacy-policy" class="link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.privacy-policy' | t }}</a>
+              </li>
+            </ul>
+          </div>
+
           {%- for block in section.blocks -%}
             <div class="footer-block grid__item{% if block.type == 'link_list' and block.settings.heading != blank %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}

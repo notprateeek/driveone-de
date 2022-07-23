@@ -271,7 +271,10 @@
       "information": "CVR: 31756820",
       "get-help": "Få hjælp",
       "contact-us": "Kontakt os",
-      "download": "Hent"
+      "download": "Hent",
+      "terms": "Betingelser",
+      "terms-of-trade": "Handelsbetingelser",
+      "privacy-policy": "Privatlivspolitik"
     },
     "featured_blog": {
       "view_all": "Se alle",

@@ -271,7 +271,10 @@
       "information": "VAT: DK 31756820",
       "get-help": "Get help",
       "contact-us": "Contact us",
-      "download": "Download"
+      "download": "Download",
+      "terms": "Terms",
+      "terms-of-trade": "Terms of trade",
+      "privacy-policy": "Privacy Policy"
     },
     "featured_blog": {
       "view_all": "View all",
