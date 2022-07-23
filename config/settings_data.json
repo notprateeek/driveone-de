@@ -128,16 +128,32 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "5ea8aee4-22ee-4a41-ad8c-8e748000c77a": {
+          "08753ae6-9004-4ca2-a272-5319c3c3d0a0": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": ""
+            }
+          },
+          "7a92f32a-9555-4dda-84bf-0f0ee06faa8e": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": ""
+            }
+          },
+          "15bdfe1c-b763-41f7-a525-cbec404799ff": {
             "type": "link_list",
             "settings": {
-              "heading": "Terms",
-              "menu": "terms"
+              "heading": "",
+              "menu": ""
             }
           }
         },
         "block_order": [
-          "5ea8aee4-22ee-4a41-ad8c-8e748000c77a"
+          "08753ae6-9004-4ca2-a272-5319c3c3d0a0",
+          "7a92f32a-9555-4dda-84bf-0f0ee06faa8e",
+          "15bdfe1c-b763-41f7-a525-cbec404799ff"
         ],
         "settings": {
           "color_scheme": "background-1",

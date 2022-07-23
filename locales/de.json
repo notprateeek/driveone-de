@@ -7,7 +7,7 @@
       "login_form_password_placeholder": "Dein Passwort",
       "login_form_error": "Falsches Passwort!",
       "login_form_submit": "Eingeben",
-      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"/admin\" class=\"link underlined-link\">Hier einloggen</a>",
+      "admin_link_html": "Bist du der Shop-Inhaber? <a href=\"\/admin\" class=\"link underlined-link\">Hier einloggen<\/a>",
       "powered_by_shopify_html": "Dieser Shop wird unterstützt von {{ shopify }}"
     },
     "social": {
@@ -129,8 +129,8 @@
         "view_store_info": "Shop-Informationen anzeigen",
         "check_other_stores": "Verfügbarkeit in anderen Shops überprüfen",
         "pick_up_available": "Abholung verfügbar",
-        "pick_up_available_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}</span> verfügbar",
-        "pick_up_unavailable_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}</span> derzeit nicht verfügbar",
+        "pick_up_available_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> verfügbar",
+        "pick_up_unavailable_at_html": "Abholung bei <span class=\"color-foreground\">{{ location_name }}<\/span> derzeit nicht verfügbar",
         "unavailable": "Verfügbarkeit für Abholungen konnte nicht geladen werden",
         "refresh": "Aktualisieren"
       },
@@ -146,7 +146,7 @@
       },
       "view_full_details": "Vollständige Details anzeigen",
       "include_taxes": "inkl. MwSt.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Versand</a> wird beim Checkout berechnet",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Versand<\/a> wird beim Checkout berechnet",
       "choose_options": "Optionen auswählen",
       "choose_product_options": "Optionen für {{ product_name }} auswählen",
       "pre-order": "Vorbestellung"
@@ -242,9 +242,9 @@
       "empty": "Dein Warenkorb ist leer",
       "cart_error": "Beim Aktualisieren deines Warenkorbs ist ein Fehler aufgetreten. Bitte versuche es erneut.",
       "cart_quantity_error_html": "Du kannst deinem Warenkorb nur {{ quantity }} Stück dieses Artikels hinzufügen.",
-      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand</a> werden beim Checkout berechnet",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"{{ link }}\">Versand<\/a> werden beim Checkout berechnet",
       "taxes_included_but_shipping_at_checkout": "Inklusive Steuern, Versand wird beim Checkout berechnet",
-      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand </a> wird beim Checkout berechnet",
+      "taxes_included_and_shipping_policy_html": "Inklusive Steuern. <a href=\"{{ link }}\">Versand <\/a> wird beim Checkout berechnet",
       "taxes_and_shipping_at_checkout": "Steuern und Versand werden beim Checkout berechnet",
       "headings": {
         "product": "Produkt",
@@ -255,7 +255,7 @@
       "update": "Aktualisieren",
       "login": {
         "title": "Hast du ein Konto?",
-        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logge dich ein</a>, damit es beim Checkout schneller geht."
+        "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logge dich ein<\/a>, damit es beim Checkout schneller geht."
       }
     },
     "footer": {
@@ -283,7 +283,7 @@
     "collection_template": {
       "title": "Kategorie",
       "empty": "Keine Produkte gefunden",
-      "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">entferne alle</a>"
+      "use_fewer_filters_html": "Verwende weniger Filter oder <a class=\"{{ class }}\" href=\"{{ link }}\">entferne alle<\/a>"
     },
     "video": {
       "load_video": "Video laden: {{ description }}"
@@ -310,10 +310,10 @@
     }
   },
   "localization": {
-    "country_label": "Land/Region",
+    "country_label": "Land\/Region",
     "language_label": "Sprache",
     "update_language": "Sprache aktualisieren",
-    "update_country": "Land/Region aktualisieren"
+    "update_country": "Land\/Region aktualisieren"
   },
   "customer": {
     "account": {
@@ -342,8 +342,8 @@
       "address1": "Adresse 1",
       "address2": "Adresse 2",
       "city": "Ort",
-      "country": "Land/Region",
-      "province": "Bundesland/Provinz",
+      "country": "Land\/Region",
+      "province": "Bundesland\/Provinz",
       "zip": "PLZ",
       "phone": "Telefonnummer",
       "set_default": "Als Standard-Adresse festlegen",
@@ -592,7 +592,7 @@
       "payment_summary": {
         "free_label": "Kostenlos",
         "gift_card_current_balance_notice": "Aktuelles Guthaben: %{amount}",
-        "credit_card_expires_on_notice": "Gültig bis %{month}/%{year}",
+        "credit_card_expires_on_notice": "Gültig bis %{month}\/%{year}",
         "express_payment_gateway_label": "Express",
         "manual_payment_gateway_label": "Manuell",
         "billing_address_title": "Rechnungsadresse"
@@ -637,14 +637,14 @@
             "other": "%{count} Jahre"
           }
         },
-        "recurring_totals": "%{total_price} jede/n/s %{interval}",
+        "recurring_totals": "%{total_price} jede\/n\/s %{interval}",
         "recurring_totals_with_initial_order_shipping_discount": "Erste Zahlung %{total_price_with_discount}, anschließend %{recurring_total}",
         "recurring_totals_with_policies": {
           "first_cycles": {
             "one": "Erste Zahlung %{total_price}",
             "other": "Erste %{count} Zahlungen von je %{total_price}"
           },
-          "following_cycles": ", anschließend %{total_price} alle bzw. jede/n %{interval}"
+          "following_cycles": ", anschließend %{total_price} alle bzw. jede\/n %{interval}"
         },
         "recurring_totals_with_initial_order_shipping_discount_with_policies": {
           "first_cycles": {
@@ -719,8 +719,8 @@
         "no_js_credit_card_fields_redirect_hint": "Du wirst weitergeleitet, um deine Zahlungsinformationen hinzuzufügen.",
         "card_fields_container_prefix": "Rahmen für das Feld:",
         "card_fields_unavailable_html": {
-          "one": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu</a> oder versuche es später noch einmal.",
-          "other": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu</a> oder probiere eine andere Zahlungsmethode."
+          "one": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu<\/a> oder versuche es später noch einmal.",
+          "other": "Kredit- und Debitkartenzahlungen sind momentan nicht verfügbar.<br>Bitte <a href=\"%{current_url}\">lade diese Seite neu<\/a> oder probiere eine andere Zahlungsmethode."
         },
         "card_fields_processing_error": "Bei der Verarbeitung der Zahlung ist ein Problem aufgetreten. Versuche, diese Seite zu aktualisieren oder überprüfe deine Internetverbindung.",
         "technical_error": "Zahlungen können derzeit aus technischen Gründen nicht bearbeitet werden. Versuche es in ein paar Minuten noch einmal.",
@@ -741,11 +741,11 @@
         "klarna_slice_it_label": "Finanzierung mit Klarna",
         "ideal_label": "Ideal",
         "bank_picker_label": "Bank",
-        "purchase_options_card_update_agreement_label_html": "Indem du deine Zahlungsmethode aktualisierst, autorisierst du Zahlungen für wiederkehrende oder ausstehende Käufe gemäß der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">Stornierungsrichtlinie</a> dieses Shops.",
+        "purchase_options_card_update_agreement_label_html": "Indem du deine Zahlungsmethode aktualisierst, autorisierst du Zahlungen für wiederkehrende oder ausstehende Käufe gemäß der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{cancellation_policy}\" href=\"%{policy_href}\">Stornierungsrichtlinie<\/a> dieses Shops.",
         "subscription_card_update_agreement_label": "Durch das Ändern der Zahlungsmethode aktualisierst du dein Abonnement und zukünftige wiederkehrende Zahlungen.",
         "subscription_agreement_label": "Ich verstehe, dass ich einem Abonnement zustimme. Es wird zum aufgeführten Preis und in der festgelegten Häufigkeit verlängert, bis es ausläuft oder %{cancelled} wird.",
         "subscription_agreement_cancelled": "storniert",
-        "subscription_agreement_label_html": "Ich verstehe, dass ich einem Abonnement zustimme. Es wird zum aufgeführten Preis und in der festgelegten Häufigkeit verlängert, bis es ausläuft oder \n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">storniert</a> wird.\n",
+        "subscription_agreement_label_html": "Ich verstehe, dass ich einem Abonnement zustimme. Es wird zum aufgeführten Preis und in der festgelegten Häufigkeit verlängert, bis es ausläuft oder \n<a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{subscription_policy}\" href=\"%{policy_href}\">storniert<\/a> wird.\n",
         "change_currency_section_description": "Währungsoption auswählen",
         "no_real_orders_dev_store": "Dieser Shop kann weder echte Bestellungen noch echte Zahlungen akzeptieren.",
         "waiting_on_payment_methods": "Abfrage der verfügbaren Zahlungsmethoden...",
@@ -765,7 +765,7 @@
         },
         "account_connected": "Konto verbunden",
         "email_connected": "Konto verbunden: ",
-        "mor_disclaimer_html": "Indem du unten klickst und deine Bestellung abschließt, stimmst du dem Kauf eines Artikels / mehrerer Artikel von Flow.io als Vertragspartner\nfür diese Transaktion entsprechend den <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">Geschäftsbedingungen</a>\nund der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">Datenschutzerklärung</a> von Flow.io zu. Flow.io ist ein internationaler\nFulfillmentdienstanbieter für %{shop_name}\n"
+        "mor_disclaimer_html": "Indem du unten klickst und deine Bestellung abschließt, stimmst du dem Kauf eines Artikels \/ mehrerer Artikel von Flow.io als Vertragspartner\nfür diese Transaktion entsprechend den <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{mor_terms}\" href=\"%{terms_href}\">Geschäftsbedingungen<\/a>\nund der <a class=\"link--small\" data-modal=\"true\" data-title-text=\"%{privacy_policy}\" href=\"%{policy_href}\">Datenschutzerklärung<\/a> von Flow.io zu. Flow.io ist ein internationaler\nFulfillmentdienstanbieter für %{shop_name}\n"
       },
       "order_summary": {
         "free_total_label": "Kostenlos",
@@ -838,8 +838,8 @@
         "address2_label": "Wohnung, Zimmer, usw.",
         "optional_address2_label": "Wohnung, Zimmer, usw. (optional)",
         "city_label": "Stadt",
-        "country_label": "Land / Region",
-        "country_code": "Länder-/Regionscode",
+        "country_label": "Land \/ Region",
+        "country_code": "Länder-\/Regionscode",
         "province_label": "Bundesland",
         "province_placeholder": "Bundesland",
         "county_label": "Provinz",
@@ -855,8 +855,8 @@
         "governorate_placeholder": "Governorate",
         "emirate_label": "Emirate",
         "emirate_placeholder": "Emirate",
-        "state_and_territory_label": "Staat/Territorium",
-        "state_and_territory_placeholder": "Staat/Territorium",
+        "state_and_territory_label": "Staat\/Territorium",
+        "state_and_territory_placeholder": "Staat\/Territorium",
         "phone_label": "Telefon",
         "optional_phone_label": "Telefon (optional)",
         "phone_placeholder": "Telefon",
@@ -961,7 +961,7 @@
           "declined": "Bezahlung abgelehnt",
           "inventory": "Artikel nicht verfügbar",
           "fraud": "Falsche Bestellung",
-          "customer": "Bestellung vom Kunden geändert/storniert",
+          "customer": "Bestellung vom Kunden geändert\/storniert",
           "other": "Sonstiges"
         },
         "cash_on_delivery": "Nachnahme (COD)"
@@ -1006,7 +1006,7 @@
       "prefecture": "Präfektur",
       "province": "Provinz",
       "state": "Bundesland",
-      "state_and_territory": "Staat/Territorium",
+      "state_and_territory": "Staat\/Territorium",
       "county": "Provinz",
       "emirate": "Emirate",
       "governorate": "Governorate",
@@ -1064,7 +1064,7 @@
       "expired": "Kreditkarte ist abgelaufen",
       "invalid_start_date_or_issue_number_for_debit": "Ein gültiges Anfangsdatum oder eine Ausgabenummer ist erforderlich",
       "invalid_expiry_year": "ist kein gültiges Ablaufjahr",
-      "reset_password_html": "Diese E-Mail Adresse ist bereits vergeben. Wenn es sich um dein Benutzerkonto handelt kannst du <a href=\"/account/login#recover\">ein neues Passwort anfordern</a>",
+      "reset_password_html": "Diese E-Mail Adresse ist bereits vergeben. Wenn es sich um dein Benutzerkonto handelt kannst du <a href=\"\/account\/login#recover\">ein neues Passwort anfordern<\/a>",
       "verify_email": "Wir haben eine E-Mail an %{customer_email} geschickt, bitte klicke auf den enthaltenen Link, um deine E-Mail-Adresse zu bestätigen."
     },
     "sentence": {
