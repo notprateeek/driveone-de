@@ -274,7 +274,10 @@
       "download": "Download",
       "terms": "Terms",
       "terms-of-trade": "Terms of trade",
-      "privacy-policy": "Privacy Policy"
+      "privacy-policy": "Privacy Policy",
+      "get-help-link": "/pages/get-help",
+      "terms-of-trade-link": "/pages/terms-of-trade",
+      "privacy-policy-link": "/pages/privacy-policy"
     },
     "featured_blog": {
       "view_all": "View all",

@@ -265,7 +265,10 @@
       "download": "Download",
       "terms": "Bedingungen",
       "terms-of-trade": "Geschäftsbedingungen",
-      "privacy-policy": "Datenschutz-Bestimmungen"
+      "privacy-policy": "Datenschutz-Bestimmungen",
+      "get-help-link": "de/pages/get-help",
+      "terms-of-trade-link": "de/pages/terms-of-trade",
+      "privacy-policy-link": "de/pages/privacy-policy"
     },
     "featured_blog": {
       "view_all": "Alle anzeigen",
