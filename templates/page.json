@@ -260,6 +260,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Bottom report button",
+            "image_2": "shopify:\/\/shop_images\/Group_26.png",
+            "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
             "row_content": "<p>The bottom button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the bottom button with the warning triangle icon, the coordinates will be sent to Drive One and will be shared with other Drive One users when they approach the same location.<\/p>",
@@ -271,6 +273,8 @@
           "settings": {
             "heading": "Test reports",
             "image_3": "shopify:\/\/shop_images\/Group_28.png",
+            "image_4": "shopify:\/\/shop_images\/Group_38.png",
+            "image_5": "shopify:\/\/shop_images\/Group_42.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
@@ -282,6 +286,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test warning sounds",
+            "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
             "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
