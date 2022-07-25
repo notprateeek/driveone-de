@@ -240,6 +240,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quick app tour",
+            "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
             "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
@@ -250,6 +251,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Top report button",
+            "image_2": "shopify:\/\/shop_images\/Group_25.png",
+            "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
             "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
