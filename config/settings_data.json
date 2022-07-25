@@ -131,8 +131,8 @@
           "a131266d-a645-4251-9229-d4ff55668a33": {
             "type": "link_list",
             "settings": {
-              "heading": "",
-              "menu": ""
+              "heading": "Quick links",
+              "menu": "footer"
             }
           }
         },
