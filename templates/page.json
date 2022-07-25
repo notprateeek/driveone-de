@@ -138,6 +138,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enter your email address",
+            "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
             "row_content": "<p>An email is then sent to your entered email account.<\/p>",
             "page": ""
@@ -147,6 +148,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Confirm your email address",
+            "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
             "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
             "page": ""
@@ -166,6 +168,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Grant location permission",
+            "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
             "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
             "page": ""
