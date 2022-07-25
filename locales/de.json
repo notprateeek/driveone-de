@@ -268,7 +268,8 @@
       "privacy-policy": "Datenschutz-Bestimmungen",
       "get-help-link": "de/pages/get-help",
       "terms-of-trade-link": "de/pages/terms-of-trade",
-      "privacy-policy-link": "de/pages/privacy-policy"
+      "privacy-policy-link": "de/pages/privacy-policy",
+      "impressum-link": "de/pages/impressum"
     },
     "featured_blog": {
       "view_all": "Alle anzeigen",
