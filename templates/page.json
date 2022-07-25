@@ -194,6 +194,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Batterieoptimierung deaktivieren",
+            "image_2": "shopify:\/\/shop_images\/Group_19.png",
+            "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
             "image_5": "shopify:\/\/shop_images\/Screenshot_20220718-191044_Settings.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
@@ -219,6 +221,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Bluetooth aktivieren",
+            "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
