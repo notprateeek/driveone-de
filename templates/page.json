@@ -138,6 +138,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Sie müssen Ihre E-Mail-Adresse eingeben.",
+            "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
             "row_content": "<p>Anschließend wird eine E-Mail an Ihr E-Mail-Konto gesendet.<\/p>",
@@ -159,6 +160,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Nutzungsbedingungen akzeptieren",
+            "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
             "row_content": "<p>Sie müssen die Nutzungsbedingungen akzeptieren, um die Drive One-App zu nutzen und fortzufahren.<\/p><p>Wenn Sie diese nicht akzeptieren, können Sie die App nicht nutzen.<\/p>",
@@ -169,6 +171,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Standortberechtigung erteilen",
+            "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
             "row_content": "<p>Auf dieser Seite werden Sie aufgefordert, der Drive One-App zu erlauben, Ihren Standort zu sehen.<\/p><p>Sie müssen diese Einstellung vornehmen, damit Drive One erwartungsgemäß funktioniert.<\/p>",
@@ -179,6 +182,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Benachrichtigungen zulassen",
+            "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
             "row_content": "<p>Drive One möchte Ihnen Benachrichtigungen schicken, wenn es Warnungen gibt.<\/p><p>Um diese zu erhalten, müssen Sie Benachrichtigungen akzeptieren.<\/p>",
