@@ -301,6 +301,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Warntöne testen",
+            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
@@ -746,6 +747,8 @@
         "16579985414a64ce38-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185348_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191257_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -806,6 +809,8 @@
         "1657998588c5f30bfa-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185436_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
