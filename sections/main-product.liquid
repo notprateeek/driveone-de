@@ -432,7 +432,7 @@
                       {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                     >
                       <span>
-                        {%- if product.variants.first.inventory_policy == "continue" and product.variants.first.inventory_quantity == 0 -%}
+                        {%- if product.variants.first.inventory_policy == "continue" and product.variants.first.inventory_quantity <= 0 -%}
                           {{ 'products.product.pre-order' | t }}
                           {%- elsif product.selected_or_first_available_variant.available -%}
                           {{ 'products.product.add_to_cart' | t }}
