@@ -220,6 +220,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Remove plastic slip",
+            "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
             "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
@@ -230,6 +231,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Connected",
+            "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
             "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
