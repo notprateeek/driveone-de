@@ -292,6 +292,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Warnings customization",
+            "image_2": "shopify:\/\/shop_images\/da.png",
+            "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
             "row_content": "<p>On this page, you can determine when you want to be warned by Drive One.<\/p><p><strong>Seconds<\/strong>: Use this if  you want to be warned between 15 to 60 seconds before you reach a warning.<\/p><p><strong>Meters<\/strong>: Use this if  you want to be warned between 250 or 1000 meters before you reach a warning.<\/p>",
