@@ -241,6 +241,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "In Verbindung gebracht",
+            "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
@@ -252,6 +253,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Schnelle App-Tour",
+            "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
@@ -287,6 +289,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Testberichte",
+            "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_28.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
             "image_5": "shopify:\/\/shop_images\/Group_42.png",
