@@ -161,6 +161,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Nutzungsbedingungen akzeptieren",
+            "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
@@ -172,6 +173,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Standortberechtigung erteilen",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
@@ -183,6 +185,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Benachrichtigungen zulassen",
+            "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
