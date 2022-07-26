@@ -14,14 +14,14 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hier zeigen wir Ihnen die ersten Schritte",
+            "heading": "Let’s get you started",
             "heading_size": "h2"
           }
         },
         "c0274228-b7a7-4146-a71e-917edd280f34": {
           "type": "text",
           "settings": {
-            "text": "<p>mit Ihrem neuen Drive One-Gerät und der App<\/p>",
+            "text": "<p>with your new Drive One device and app<\/p>",
             "icons": false
           }
         }
@@ -43,7 +43,7 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Laden Sie zunächst die Drive One-App herunter und installieren Sie sie.",
+            "heading": "O1 Download and install the Drive One app.",
             "heading_size": "h2"
           }
         },
