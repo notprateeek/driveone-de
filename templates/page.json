@@ -374,28 +374,28 @@
         "16579983455b9ae1ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "Einbau des Drive One-Geräts in das Fahrzeug",
+            "heading": "Mounting the Drive One unit in the car",
             "heading_size": "h2"
           }
         },
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
           "type": "text",
           "settings": {
-            "text": "<p>Sie können das Drive One-Gerät auf verschiedene Arten im Auto befestigen<\/p>",
+            "text": "<p>You can mount the Drive One unit in the car in multiple ways<\/p>",
             "icons": false
           }
         },
         "eb692ee1-f694-4cae-a639-710de606a9b8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O1 <\/strong>Sie können es mit den mitgelieferten Klebepads befestigen oder<\/p>",
+            "text": "<p><strong>O1 <\/strong>You can mount it using the <strong>adhesive pads<\/strong> that Drive One comes with or<\/p>",
             "icons": false
           }
         },
         "82c63689-027b-455c-95d1-6158553f50ff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O2 <\/strong>Sie können es mit dem separat erhältlichen Drive One-Magneten befestigen.<\/p>",
+            "text": "<p><strong>O2 <\/strong>You can mount it using the <strong>Drive One magnet<\/strong> which is sold separately.<\/p>",
             "icons": false
           }
         }
