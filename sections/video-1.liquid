@@ -16,13 +16,13 @@
 <div>
   <video controls>
     {% if shop_locale == "de" %}
-      <source src="{{ block.settings.video_url-de }}">
+      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
     {% endif %}
     {% if shop_locale == "da" %}
-      <source src="{{ block.settings.video_url-da }}">
+      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
     {% endif %}
     {% if shop_locale == "en" %}
-      <source src="{{ block.settings.video_url-en }}">
+      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
     {% endif %}
   </video>
 </div>
@@ -33,27 +33,6 @@
   "tag": "section",
   "class": "section",
   "settings": [
-    {
-      "type": "video_url",
-      "id": "video_url-de",
-      "label": "t:sections.video.settings.video_url.label",
-      "placeholder": "t:sections.video.settings.video_url.placeholder",
-      "info": "t:sections.video.settings.video_url.info"
-    },
-    {
-      "type": "video_url",
-      "id": "video_url-da",
-      "label": "t:sections.video.settings.video_url.label",
-      "placeholder": "t:sections.video.settings.video_url.placeholder",
-      "info": "t:sections.video.settings.video_url.info"
-    },
-    {
-      "type": "video_url",
-      "id": "video_url-en",
-      "label": "t:sections.video.settings.video_url.label",
-      "placeholder": "t:sections.video.settings.video_url.placeholder",
-      "info": "t:sections.video.settings.video_url.info"
-    },
     {
       "type": "range",
       "id": "padding_top",
