@@ -750,7 +750,7 @@
         "16579985414a64ce38-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Klicken Sie in der Drive One-Geräteliste unten auf das blaue (+)-Symbol, um ein neues Gerät hinzuzufügen.<\/p>",
+            "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -781,7 +781,7 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Drive One-App wird nun nach dem neuen Gerät suchen. <br \/>Vergewissern Sie sich, dass bei dem neuen Gerät der Plastikstreifen vom Akku entfernt wurde und dass das Gerät eingeschaltet ist. Versuchen Sie, das neue Gerät zu bewegen, um sicherzustellen, dass es aktiviert ist und gefunden werden kann.<br \/>Wenn Drive One das neue Gerät findet, wird es in dieser Liste angezeigt.<br \/>Klicken Sie auf das neue Gerät in der Liste.<\/p>",
+            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
             "hr": false,
             "text_style": "body"
           }
