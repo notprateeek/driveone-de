@@ -695,7 +695,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the  map click <strong>Device<\/strong>.<\/p>",
+            "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the menu click <strong>Device<\/strong>.<\/p>",
             "hr": false,
             "text_style": "body"
           }
