@@ -698,7 +698,7 @@
         "165799849780946e36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hinzufügen einer zusätzlichen Drive One-Einheit",
+            "heading": "Adding an additional Drive One unit",
             "heading_size": "h2"
           }
         }
@@ -719,7 +719,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>So fügen Sie ein zusätzliches Drive One-Gerät hinzu - Schritt für Schritt<br \/>Klicken Sie in der Kartenansicht auf das Zahnrad, um das Menü aufzurufen<br \/>Klicken Sie im Menü auf <strong>Gerät<\/strong><\/p>",
+            "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the  map click <strong>Device<\/strong>.<\/p>",
             "hr": false,
             "text_style": "body"
           }
