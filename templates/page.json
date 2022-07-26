@@ -79,7 +79,7 @@
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Starten Sie die Drive One-App und folgen Sie den Anweisungen auf dem Bildschirm.\nWenn Sie erst lesen möchten, wie Sie Drive One einrichten, bevor Sie die eigentliche Einrichtung vornehmen, lesen Sie bitte hier weiter.<\/p>",
+            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
             "icons": false
           }
         }
@@ -101,14 +101,14 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Der Einrichtungsprozess",
+            "heading": "The setup process",
             "heading_size": "h2"
           }
         },
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Folgen Sie diesen Schritten, um das Drive One-Gerät einzurichten<\/p>",
+            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
             "icons": false
           }
         },
@@ -139,7 +139,7 @@
         "1657998294d087edb6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Sie müssen Ihre E-Mail-Adresse eingeben.",
+            "heading": "Enter your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
@@ -151,7 +151,7 @@
         "1657998294d087edb6-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Bestätigen Sie Ihre E-Mail-Adresse",
+            "heading": "Confirm your email address",
             "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
@@ -163,7 +163,7 @@
         "1657998294d087edb6-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Nutzungsbedingungen akzeptieren",
+            "heading": "Accept terms and conditions",
             "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
@@ -175,7 +175,7 @@
         "1657998294d087edb6-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Standortberechtigung erteilen",
+            "heading": "Grant location permission",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
@@ -187,7 +187,7 @@
         "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Benachrichtigungen zulassen",
+            "heading": "Allow notifications",
             "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
@@ -199,7 +199,7 @@
         "c3b198d6-e40d-4b44-86eb-3812a6314b61": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Batterieoptimierung deaktivieren",
+            "heading": "Disable battery optimization",
             "image_2": "shopify:\/\/shop_images\/Group_19.png",
             "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
@@ -214,7 +214,7 @@
         "c415ba54-6653-45c4-b772-5daf552f8f38": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Anschlussfertig",
+            "heading": "Ready for connection",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
@@ -226,7 +226,7 @@
         "6777f95f-2afe-4bd8-812c-e997f1cb6cb0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Bluetooth aktivieren",
+            "heading": "Enable bluetooth",
             "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
@@ -238,7 +238,7 @@
         "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Plastikstreifen entfernen",
+            "heading": "Remove plastic slip",
             "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
@@ -250,7 +250,7 @@
         "2aebf756-4859-426f-91a6-3cd3341e8b3b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "In Verbindung gebracht",
+            "heading": "Connected",
             "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
@@ -262,7 +262,7 @@
         "6a15a8c9-c1c9-40bc-ab55-61fef5f66549": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Schnelle App-Tour",
+            "heading": "Quick app tour",
             "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
@@ -274,7 +274,7 @@
         "fa3078bd-c829-4d6e-b2e4-3b1d334360d7": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Top-Bericht-Schaltfläche",
+            "heading": "Top report button",
             "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
@@ -298,7 +298,7 @@
         "bfd9a00c-da41-4908-aa7a-bc6e51a6b20b": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Testberichte",
+            "heading": "Test reports",
             "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_28.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
@@ -313,7 +313,7 @@
         "e6a33834-48f2-443a-b788-bb4abe22579d": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Warntöne testen",
+            "heading": "Test warning sounds",
             "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
@@ -325,7 +325,7 @@
         "22fab2ab-4495-4ab5-a9e4-db6e99047146": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Anpassung von Warnungen",
+            "heading": "Warnings customization",
             "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
