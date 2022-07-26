@@ -544,7 +544,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Kamerataste für Radarkameras<\/p>",
+            "text": "<p>Camera button for speed cameras<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -552,7 +552,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>Warndreieckstaste für andere Ereignisse<\/p>",
+            "text": "<p>Triangle button for other events<\/p>",
             "hr": true,
             "text_style": "subtitle"
           }
@@ -584,7 +584,7 @@
         "16579984511300d3a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ihre Meldung wird dann an alle anderen Drive One-Benutzer weitergegeben, damit diese gewarnt werden und gefährliche Situationen vermeiden können.<\/p>"
+            "text": "<p>Your report is then shared with all the other Drive One users so they get warned and avoid any dangerous situations.<\/p>"
           }
         }
       },
@@ -604,42 +604,42 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Auswechseln des Akkus",
+            "heading": "Replacing the battery",
             "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One sollte mit dem mitgelieferten Akku etwa 2 Jahre lang betrieben werden können.<\/p><p>Dies kann jedoch davon abhängen, wie viel Sie fahren und welchen Bedingungen das Gerät ausgesetzt ist (Hitze, Kälte, Feuchtigkeit usw.).<\/p><p>Der Austausch des Akkus ist ganz einfach.<\/p>",
+            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
             "icons": false
           }
         },
         "68be2a2b-149a-4d5a-aee9-d1ef289acafe": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Sie drehen das Gerät wie eine Schraubkapsel in eine beliebige Richtung.<\/p>",
+            "text": "<p>⎯⎯ Twist the device, like a screw capsule, in either direction.<\/p>",
             "icons": false
           }
         },
         "d72ed3c3-d04e-4f8c-8040-ebdc38dff2b3": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Anschließend entfernen Sie die Unterseite des Geräts<\/p>",
+            "text": "<p>⎯⎯ Then, remove the bottom of the device.<\/p>",
             "icons": false
           }
         },
         "2e59cffc-4172-45c2-b0a1-4fd314d280c0": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Schieben Sie den Akku aus dem Akkufach und legen Sie den neuen Akku ein.<\/p>",
+            "text": "<p>⎯⎯ Push the battery out of the battery compartment and then add the new battery.<\/p>",
             "icons": false
           }
         },
         "ad18a8bc-7a55-4ac9-97d2-3136fc18c524": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Sie können dann die Rückseite einklicken oder entgegen der Richtung drehen, in der Sie den Deckel abgenommen haben.<\/p>",
+            "text": "<p>⎯⎯ You can then click the back on or twist it counter to the direction used when removing the lid.<\/p>",
             "icons": false
           }
         }
@@ -665,7 +665,7 @@
         "1658229702330bda0f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dieses Video zeigt Ihnen, wie Sie das Gerät auseinander nehmen und den Akku austauschen können.<\/p>"
+            "text": "<p>This video will show you how to disassemble the device and replace the battery.<\/p>"
           }
         }
       },
