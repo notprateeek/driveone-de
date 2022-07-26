@@ -812,7 +812,7 @@
         "1657998588c5f30bfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Geben Sie dem neuen Gerät einen Namen, z. B. „Drive One rotes Auto“ oder „Dienstwagen“ oder einen beliebigen anderen Namen.<\/p>",
+            "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
             "hr": false,
             "text_style": "body"
           }
@@ -843,7 +843,7 @@
         "165799859766ab5ae3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ihr neues Drive One-Gerät wird nun zu Ihrer Drive One-App hinzugefügt, und wenn eines der Geräte auf Ihrer Liste das nächste Mal in der Nähe und aktiv ist, wird es mit Ihrer App verbunden.<\/p>",
+            "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
             "hr": false,
             "text_style": "body"
           }
