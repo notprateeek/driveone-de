@@ -419,7 +419,7 @@
         "165799836471a04549-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Befestigung mit Klebepads",
+            "heading": "Mount using adhesive pads",
             "image_2": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_4": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_6": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
@@ -431,7 +431,7 @@
         "165799836471a04549-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Befestigung mit dem Drive One-Magneten",
+            "heading": "Mount using Drive One magnets",
             "icon": "none",
             "row_content": "<p>Drive One-Magnete sind separat vom Drive One-Gerät erhältlich.<\/p><p><a href=\"\/de\/products\/smart-air-vent-mount\" target=\"_blank\" title=\"Smart Air Vent Mount\">Hier erhalten Sie Ihren Magneten<\/a><\/p><p>Dieses Video zeigt, wie der Drive One-Magnet angebracht und das Drive One-Gerät anschließend mit Hilfe von Magneten an dem Magneten befestigt wird.<\/p>",
             "page": ""
@@ -463,14 +463,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Wie funktioniert Drive One?",
+            "heading": "How does Drive One work?",
             "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One funktioniert durch das Teilen von Daten aus vielen Quellen und von sehr vielen Nutzern in ganz Europa.<\/p><p>Ein Benutzer kann ein Ereignis, wie z. B. eine Radarkamera, melden, indem er die Kamerataste auf dem Drive One-Gerät drückt. Anschließend werden die Koordinaten des Standortes, an dem die Meldung gemacht wurde, an unsere Server gesendet, und dies wird dann an die Drive One-App auf Ihrem Telefon gesendet.<\/p><p>Wenn Sie sich dann diesem Standort nähern, ertönt eine Warnung auf dem Drive One-Gerät.<\/p><p>Der Ton und die Farbe der Warnung zeigen Ihnen, worauf Sie achten müssen:<\/p>",
+            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of: <\/p>",
             "icons": false
           }
         }
