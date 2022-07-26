@@ -115,7 +115,6 @@
         "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_16.png",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-190835_DevDrive.png",
             "image_3": "shopify:\/\/shop_images\/Group_2.png"
           }
@@ -140,7 +139,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enter your email address",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
@@ -152,7 +150,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Confirm your email address",
-            "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
@@ -164,7 +161,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Accept terms and conditions",
-            "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
@@ -176,7 +172,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Grant location permission",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
@@ -188,7 +183,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Allow notifications",
-            "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
@@ -200,8 +194,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Disable battery optimization",
-            "image_2": "shopify:\/\/shop_images\/Group_19.png",
-            "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
             "image_5": "shopify:\/\/shop_images\/Screenshot_20220718-191044_Settings.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
@@ -215,7 +207,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Ready for connection",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
@@ -227,7 +218,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Enable bluetooth",
-            "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
@@ -239,7 +229,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Remove plastic slip",
-            "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
@@ -251,7 +240,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Connected",
-            "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
@@ -263,7 +251,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quick app tour",
-            "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
@@ -275,7 +262,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Top report button",
-            "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
@@ -287,7 +273,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Bottom report button",
-            "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
@@ -299,7 +284,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test reports",
-            "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_28.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
             "image_5": "shopify:\/\/shop_images\/Group_42.png",
@@ -314,7 +298,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Test warning sounds",
-            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
@@ -326,7 +309,6 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Warnings customization",
-            "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
@@ -729,7 +711,6 @@
         "1657998506b09d9f77-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185343_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191253_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183215_DevDrive.png",
         "height": "adapt",
@@ -760,7 +741,6 @@
         "16579985414a64ce38-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185348_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191257_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
@@ -791,8 +771,8 @@
         "1657998562b1885cd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/available-de.png",
-        "image_2": "shopify:\/\/shop_images\/available-da.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191306_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191306_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/available-en.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -822,7 +802,7 @@
         "1657998588c5f30bfa-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185436_DevDrive.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
@@ -853,8 +833,8 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Group_2-de.png",
-        "image_2": "shopify:\/\/shop_images\/Group_3-da.png",
+        "image": "shopify:\/\/shop_images\/Group_39.png",
+        "image_2": "shopify:\/\/shop_images\/Group_39.png",
         "image_3": "shopify:\/\/shop_images\/Group_1-en.png",
         "height": "adapt",
         "desktop_image_width": "small",
