@@ -1,4 +1,10 @@
 {%- style -%}
+
+.video-1 {
+  display: grid;
+  place-items: center;
+}
+
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
@@ -13,17 +19,9 @@
 {%- endstyle -%}
 
 
-<div>
-  <video controls>
-    {% if shop_locale == "de" %}
-      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
-    {% endif %}
-    {% if shop_locale == "da" %}
-      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
-    {% endif %}
-    {% if shop_locale == "en" %}
-      <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4">
-    {% endif %}
+<div class=" video-1 page-width section-{{ section.id }}-padding">
+  <video controls width="80%" height="auto">
+    <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4" type="video/mp4" />
   </video>
 </div>
 
