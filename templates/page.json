@@ -492,7 +492,7 @@
         "1658147355984306ca-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Blaues Licht und Ton weisen auf eine Warnung vor einer möglichen Radarkamera hin.<\/p>",
+            "text": "<p>A blue light and sound indicate a warning for a possible speed camera.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -500,7 +500,7 @@
         "38273811-ec30-437b-bc3f-af414cfa73c3": {
           "type": "button",
           "settings": {
-            "text": "<p>Rotes Licht und Ton weisen auf eine allgemeine Warnung hin, dass etwas vor Ihnen liegt, das Ihre Aufmerksamkeit und Wachsamkeit erfordert. Das kann ein Unfall, eine Baustelle oder etwas Gefährliches sein.<\/p>",
+            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
