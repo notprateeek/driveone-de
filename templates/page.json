@@ -336,6 +336,7 @@
         "22fab2ab-4495-4ab5-a9e4-db6e99047146"
       ],
       "settings": {
+        "video_url": "",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
@@ -425,6 +426,7 @@
         "165799836471a04549-1"
       ],
       "settings": {
+        "video_url": "",
         "caption": "",
         "heading": "",
         "heading_size": "h1",
@@ -664,6 +666,7 @@
     "1658827732934f26f0": {
       "type": "video-1",
       "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ef6e74c541e7472e85248c3a8c9ebb7d.mp4",
         "padding_top": 36,
         "padding_bottom": 36
       }
