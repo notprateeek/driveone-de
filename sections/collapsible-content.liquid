@@ -93,10 +93,10 @@
                     {{ block.settings.row_content }}
                     {{ block.settings.page.content }}
 
-                    {% if section.settings.video_url %}
+                    {% if block.settings.video_url %}
                       <div class=" video-1 page-width section-{{ section.id }}-padding">
                         <video controls width="60%" height="auto">
-                          <source src="{{ section.settings.video_url }}" type="video/mp4" />
+                          <source src="{{ block.settings.video_url }}" type="video/mp4" />
                         </video>
                       </div>
                     {% endif %}
@@ -238,11 +238,6 @@
   "tag": "section",
   "class": "section",
   "settings": [
-    {
-      "type": "url",
-      "id": "video_url",
-      "label": "Video url"
-    },
     {
       "type": "text",
       "id": "caption",
@@ -453,6 +448,11 @@
       "type": "collapsible_row",
       "name": "t:sections.collapsible_content.blocks.collapsible_row.name",
       "settings": [
+        {
+          "type": "url",
+          "id": "video_url",
+          "label": "Video url"
+        },
         {
           "type": "text",
           "id": "heading",
