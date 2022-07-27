@@ -27,16 +27,12 @@
   }
 {%- endstyle -%}
 
-<div class="news-mobile isolate{% unless section.settings.full_width %} page-width{% endunless %}">
-  <div class="rich-text content-container {% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
+<div class="news-mobile isolate">
+  <div class="rich-text content-container section-{{ section.id }}-padding">
     <div class="rich-text__blocks align-left">
       {%- for block in section.blocks -%}
-        {%- case block.type -%}
-          {%- when 'heading' -%}
-            <h2 class="{{ block.settings.heading_size }}" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
-          {%- when 'text' -%}
-            <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
-        {%- endcase -%}
+        <h2 class="" {{ block.shopify_attributes }}>{{ block.settings.heading | escape }}</h2>
+        <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
       {%- endfor -%}
     </div>
   </div>
@@ -46,18 +42,8 @@
 {
   "name": "news",
   "tag": "section",
-  "class": "section",
+  "id": "section",
   "settings": [
-    {
-      "type": "checkbox",
-      "id": "full_width",
-      "default": true,
-      "label": "t:sections.rich-text.settings.full_width.label"
-    },
-    {
-      "type": "header",
-      "content": "t:sections.all.padding.section_padding_heading"
-    },
     {
       "type": "range",
       "id": "padding_top",
@@ -81,8 +67,8 @@
   ],
   "blocks": [
     {
-      "type": "heading",
-      "name": "t:sections.rich-text.blocks.heading.name",
+      "type": "custom",
+      "name": "news item",
       "settings": [
         {
           "type": "text",
@@ -90,32 +76,6 @@
           "default": "Talk about your brand",
           "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
         },
-        {
-          "type": "select",
-          "id": "heading_size",
-          "options": [
-            {
-              "value": "h2",
-              "label": "t:sections.all.heading_size.options__1.label"
-            },
-            {
-              "value": "h1",
-              "label": "t:sections.all.heading_size.options__2.label"
-            },
-            {
-              "value": "h0",
-              "label": "t:sections.all.heading_size.options__3.label"
-            }
-          ],
-          "default": "h1",
-          "label": "t:sections.all.heading_size.label"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "name": "t:sections.rich-text.blocks.text.name",
-      "settings": [
         {
           "type": "richtext",
           "id": "text",
