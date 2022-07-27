@@ -21,7 +21,7 @@
 
 <div class=" video-1 page-width section-{{ section.id }}-padding">
   <video controls width="80%" height="auto">
-    <source src="https://cdn.shopify.com/videos/c/o/v/ef6e74c541e7472e85248c3a8c9ebb7d.mp4" type="video/mp4" />
+    <source src="{{ section.settings.video_url }}" type="video/mp4" />
   </video>
 </div>
 
@@ -31,6 +31,11 @@
   "tag": "section",
   "class": "section",
   "settings": [
+    {
+      "type": "url",
+      "id": "video_url",
+      "label": "Video url"
+    },
     {
       "type": "range",
       "id": "padding_top",

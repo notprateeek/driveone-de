@@ -92,6 +92,15 @@
                   <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
                     {{ block.settings.row_content }}
                     {{ block.settings.page.content }}
+
+                    {% if section.settings.video_url %}
+                      <div class=" video-1 page-width section-{{ section.id }}-padding">
+                        <video controls width="60%" height="auto">
+                          <source src="{{ section.settings.video_url }}" type="video/mp4" />
+                        </video>
+                      </div>
+                    {% endif %}
+
                     {% if shop.locale == 'da' %}
                       <div class="collapsible-images">
                       {%- if block.settings.image_2 != blank -%}
@@ -229,6 +238,11 @@
   "tag": "section",
   "class": "section",
   "settings": [
+    {
+      "type": "url",
+      "id": "video_url",
+      "label": "Video url"
+    },
     {
       "type": "text",
       "id": "caption",
