@@ -554,7 +554,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Camera button for speed cameras<\/p>",
+            "text": "<p>• Camera button for speed cameras<\/p>",
             "hr": false,
             "text_style": "subtitle"
           }
@@ -562,7 +562,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>Triangle button for other events<\/p>",
+            "text": "<p>• Triangle button for other events<\/p>",
             "hr": false,
             "text_style": "subtitle"
           }
