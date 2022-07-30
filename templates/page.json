@@ -14,7 +14,7 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Beginnen Sie mit dem Drive One-Gerät und der App",
+            "heading": "Get started with Drive One device and app",
             "heading_size": "h2"
           }
         }
@@ -35,14 +35,14 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Laden Sie zunächst die Drive One-App herunter und installieren Sie sie.",
+            "heading": "O1 Download and install the Drive One app.",
             "heading_size": "h2"
           }
         },
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>Hier holen Sie sich die App<\/p>",
+            "text": "<p>You can get it here<\/p>",
             "icons": true
           }
         }
@@ -64,14 +64,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Einrichten von Drive One in der Drive One-App",
+            "heading": "O2 Setup Drive One in the Drive One app.",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Starten Sie die Drive One-App und folgen Sie den Anweisungen auf dem Bildschirm.\nWenn Sie erst lesen möchten, wie Sie Drive One einrichten, bevor Sie die eigentliche Einrichtung vornehmen, lesen Sie bitte hier weiter.<\/p>",
+            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
             "icons": false
           }
         }
@@ -93,14 +93,14 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Der Einrichtungsprozess",
+            "heading": "The setup process",
             "heading_size": "h2"
           }
         },
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Folgen Sie diesen Schritten, um das Drive One-Gerät einzurichten<\/p>",
+            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
             "icons": false
           }
         },
@@ -132,7 +132,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Sie müssen Ihre E-Mail-Adresse eingeben.",
+            "heading": "Enter your email address",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
@@ -145,7 +145,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Bestätigen Sie Ihre E-Mail-Adresse",
+            "heading": "Confirm your email address",
             "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
@@ -158,7 +158,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Nutzungsbedingungen akzeptieren",
+            "heading": "Accept terms and conditions",
             "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
@@ -171,7 +171,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Standortberechtigung erteilen",
+            "heading": "Grant location permission",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
@@ -184,7 +184,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Benachrichtigungen zulassen",
+            "heading": "Allow notifications",
             "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
@@ -197,7 +197,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Batterieoptimierung deaktivieren",
+            "heading": "Disable battery optimization",
             "image_2": "shopify:\/\/shop_images\/Group_19.png",
             "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
@@ -213,7 +213,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Anschlussfertig",
+            "heading": "Ready for connection",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
@@ -226,7 +226,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Bluetooth aktivieren",
+            "heading": "Enable bluetooth",
             "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
@@ -239,7 +239,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Plastikstreifen entfernen",
+            "heading": "Remove plastic slip",
             "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
@@ -252,7 +252,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "In Verbindung gebracht",
+            "heading": "Connected",
             "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
@@ -265,7 +265,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Schnelle App-Tour",
+            "heading": "Quick app tour",
             "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
@@ -278,7 +278,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Top-Bericht-Schaltfläche",
+            "heading": "Top report button",
             "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
@@ -291,7 +291,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Berichtsschaltfläche unten",
+            "heading": "Bottom report button",
             "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
@@ -304,7 +304,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Testberichte",
+            "heading": "Test reports",
             "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_45.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
@@ -320,7 +320,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Warntöne testen",
+            "heading": "Test warning sounds",
             "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
@@ -333,7 +333,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Anpassung von Warnungen",
+            "heading": "Warnings customization",
             "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
@@ -382,28 +382,28 @@
         "16579983455b9ae1ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "Einbau des Drive One-Geräts in das Fahrzeug",
+            "heading": "Mounting the Drive One unit in the car",
             "heading_size": "h2"
           }
         },
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
           "type": "text",
           "settings": {
-            "text": "<p>Sie können das Drive One-Gerät auf verschiedene Arten im Auto befestigen<\/p>",
+            "text": "<p>You can mount the Drive One unit in the car in multiple ways<\/p>",
             "icons": false
           }
         },
         "eb692ee1-f694-4cae-a639-710de606a9b8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O1 <\/strong>Sie können es mit den mitgelieferten Klebepads befestigen oder<\/p>",
+            "text": "<p><strong>O1 <\/strong>You can mount it using the <strong>adhesive pads<\/strong> that Drive One comes with or<\/p>",
             "icons": false
           }
         },
         "82c63689-027b-455c-95d1-6158553f50ff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O2 <\/strong>Sie können es mit dem separat erhältlichen Drive One-Magneten befestigen.<\/p>",
+            "text": "<p><strong>O2 <\/strong>You can mount it using the <strong>Drive One magnet<\/strong> which is sold separately.<\/p>",
             "icons": false
           }
         }
@@ -428,7 +428,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "",
-            "heading": "Befestigung mit Klebepads",
+            "heading": "Mount using adhesive pads",
             "image_2": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_4": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_6": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
@@ -441,7 +441,7 @@
           "type": "collapsible_row",
           "settings": {
             "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e42b4a79a86d48698ae8444962d56083.mp4",
-            "heading": "Befestigung mit dem Drive One-Magneten",
+            "heading": "Mount using Drive One magnets",
             "icon": "none",
             "row_content": "<p>Drive One-Magnete sind separat vom Drive One-Gerät erhältlich.<\/p><p><a href=\"\/de\/products\/smart-air-vent-mount\" target=\"_blank\" title=\"Smart Air Vent Mount\">Hier erhalten Sie Ihren Magneten<\/a><\/p><p>Dieses Video zeigt, wie der Drive One-Magnet angebracht und das Drive One-Gerät anschließend mit Hilfe von Magneten an dem Magneten befestigt wird.<\/p>",
             "page": ""
@@ -473,14 +473,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Wie funktioniert Drive One?",
+            "heading": "How does Drive One work?",
             "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One funktioniert durch das Teilen von Daten aus vielen Quellen und von sehr vielen Nutzern in ganz Europa.<\/p><p>Ein Benutzer kann ein Ereignis, wie z. B. eine Radarkamera, melden, indem er die Kamerataste auf dem Drive One-Gerät drückt. Anschließend werden die Koordinaten des Standortes, an dem die Meldung gemacht wurde, an unsere Server gesendet, und dies wird dann an die Drive One-App auf Ihrem Telefon gesendet.<\/p><p>Wenn Sie sich dann diesem Standort nähern, ertönt eine Warnung auf dem Drive One-Gerät.<\/p><p>Der Ton und die Farbe der Warnung zeigen Ihnen, worauf Sie achten müssen:<\/p>",
+            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of:<\/p>",
             "icons": false
           }
         }
@@ -502,7 +502,7 @@
         "1658147355984306ca-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Blaues Licht und Ton weisen auf eine Warnung vor einer möglichen Radarkamera hin.<\/p>",
+            "text": "<p>A blue light and sound indicate a warning for a possible speed camera.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -510,7 +510,7 @@
         "38273811-ec30-437b-bc3f-af414cfa73c3": {
           "type": "button",
           "settings": {
-            "text": "<p>Rotes Licht und Ton weisen auf eine allgemeine Warnung hin, dass etwas vor Ihnen liegt, das Ihre Aufmerksamkeit und Wachsamkeit erfordert. Das kann ein Unfall, eine Baustelle oder etwas Gefährliches sein.<\/p>",
+            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -533,7 +533,7 @@
         "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Was passiert, wenn Sie eine der Tasten drücken?<\/strong><\/p><p>Wenn Sie etwas sehen, von dem Sie denken, dass andere Benutzer es wissen sollten, dann drücken Sie die Taste auf dem Gerät, die dem Ereignis entspricht:<\/p>",
+            "text": "<p><strong>What happens when you press one of the buttons?<\/strong><\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
             "icons": false
           }
         }
@@ -554,7 +554,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>• Kamerataste für Radarkameras<\/p>",
+            "text": "<p>• Camera button for speed cameras<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "subtitle"
@@ -563,7 +563,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>• Warndreieckstaste für andere Ereignisse<\/p>",
+            "text": "<p>• Triangle button for other events<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "subtitle"
@@ -596,7 +596,7 @@
         "16579984511300d3a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ihre Meldung wird dann an alle anderen Drive One-Benutzer weitergegeben, damit diese gewarnt werden und gefährliche Situationen vermeiden können.<\/p>"
+            "text": "<p>Your report is then shared with all the other Drive One users so they get warned and avoid any dangerous situations.<\/p>"
           }
         }
       },
@@ -616,42 +616,42 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Auswechseln des Akkus",
+            "heading": "Replacing the battery",
             "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One sollte mit dem mitgelieferten Akku etwa 2 Jahre lang betrieben werden können.<\/p><p>Dies kann jedoch davon abhängen, wie viel Sie fahren und welchen Bedingungen das Gerät ausgesetzt ist (Hitze, Kälte, Feuchtigkeit usw.).<\/p><p>Der Austausch des Akkus ist ganz einfach.<\/p>",
+            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
             "icons": false
           }
         },
         "68be2a2b-149a-4d5a-aee9-d1ef289acafe": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Sie drehen das Gerät wie eine Schraubkapsel in eine beliebige Richtung.<\/p>",
+            "text": "<p>⎯⎯ Twist the device, like a screw capsule, in either direction.<\/p>",
             "icons": false
           }
         },
         "d72ed3c3-d04e-4f8c-8040-ebdc38dff2b3": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Anschließend entfernen Sie die Unterseite des Geräts<\/p>",
+            "text": "<p>⎯⎯ Then, remove the bottom of the device.<\/p>",
             "icons": false
           }
         },
         "2e59cffc-4172-45c2-b0a1-4fd314d280c0": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Schieben Sie den Akku aus dem Akkufach und legen Sie den neuen Akku ein.<\/p>",
+            "text": "<p>⎯⎯ Push the battery out of the battery compartment and then add the new battery.<\/p>",
             "icons": false
           }
         },
         "ad18a8bc-7a55-4ac9-97d2-3136fc18c524": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Sie können dann die Rückseite einklicken oder entgegen der Richtung drehen, in der Sie den Deckel abgenommen haben.<\/p>",
+            "text": "<p>⎯⎯ You can then click the back on or twist it counter to the direction used when removing the lid.<\/p>",
             "icons": false
           }
         }
@@ -677,7 +677,7 @@
         "1658229702330bda0f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dieses Video zeigt Ihnen, wie Sie das Gerät auseinander nehmen und den Akku austauschen können.<\/p>"
+            "text": "<p>This video will show you how to disassemble the device and replace the battery.<\/p>"
           }
         }
       },
@@ -705,7 +705,7 @@
         "165799849780946e36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hinzufügen einer zusätzlichen Drive One-Einheit",
+            "heading": "Adding an additional Drive One unit",
             "heading_size": "h2"
           }
         }
@@ -726,7 +726,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>So fügen Sie ein zusätzliches Drive One-Gerät hinzu - Schritt für Schritt<br \/>Klicken Sie in der Kartenansicht auf das Zahnrad, um das Menü aufzurufen<br \/>Klicken Sie im Menü auf <strong>Gerät<\/strong><\/p>",
+            "text": "<p>How to add an additional unit step by step.<br\/>From the  map view, click the cog to go to the menu.From the  map click <strong>Device<\/strong>.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -758,7 +758,7 @@
         "16579985414a64ce38-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Klicken Sie in der Drive One-Geräteliste unten auf das blaue (+)-Symbol, um ein neues Gerät hinzuzufügen.<\/p>",
+            "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -790,7 +790,7 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Drive One-App wird nun nach dem neuen Gerät suchen. <br \/>Vergewissern Sie sich, dass bei dem neuen Gerät der Plastikstreifen vom Akku entfernt wurde und dass das Gerät eingeschaltet ist. Versuchen Sie, das neue Gerät zu bewegen, um sicherzustellen, dass es aktiviert ist und gefunden werden kann.<br \/>Wenn Drive One das neue Gerät findet, wird es in dieser Liste angezeigt.<br \/>Klicken Sie auf das neue Gerät in der Liste.<\/p>",
+            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -822,7 +822,7 @@
         "1657998588c5f30bfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Geben Sie dem neuen Gerät einen Namen, z. B. „Drive One rotes Auto“ oder „Dienstwagen“ oder einen beliebigen anderen Namen.<\/p>",
+            "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -854,7 +854,7 @@
         "165799859766ab5ae3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Ihr neues Drive One-Gerät wird nun zu Ihrer Drive One-App hinzugefügt, und wenn eines der Geräte auf Ihrer Liste das nächste Mal in der Nähe und aktiv ist, wird es mit Ihrer App verbunden.<\/p>",
+            "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
