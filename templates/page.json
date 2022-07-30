@@ -137,7 +137,7 @@
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
-            "row_content": "<p>Anschließend wird eine E-Mail an Ihr E-Mail-Konto gesendet.<\/p>",
+            "row_content": "<p>An email is then sent to your entered email account.<\/p>",
             "page": ""
           }
         },
@@ -150,7 +150,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
-            "row_content": "<p>Die E-Mail enthält eine Nummer, die Sie auf diesem Bildschirm eingeben müssen, um zu bestätigen, dass Ihre E-Mail gültig ist.<\/p>",
+            "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
             "page": ""
           }
         },
@@ -163,7 +163,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
-            "row_content": "<p>Sie müssen die Nutzungsbedingungen akzeptieren, um die Drive One-App zu nutzen und fortzufahren.<\/p><p>Wenn Sie diese nicht akzeptieren, können Sie die App nicht nutzen.<\/p>",
+            "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
             "page": ""
           }
         },
@@ -176,7 +176,7 @@
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
-            "row_content": "<p>Auf dieser Seite werden Sie aufgefordert, der Drive One-App zu erlauben, Ihren Standort zu sehen.<\/p><p>Sie müssen diese Einstellung vornehmen, damit Drive One erwartungsgemäß funktioniert.<\/p>",
+            "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
             "page": ""
           }
         },
@@ -189,7 +189,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
-            "row_content": "<p>Drive One möchte Ihnen Benachrichtigungen schicken, wenn es Warnungen gibt.<\/p><p>Um diese zu erhalten, müssen Sie Benachrichtigungen akzeptieren.<\/p>",
+            "row_content": "<p>Drive One would like to send you notifications when there are warnings.<\/p><p>To receive them, you need to accept them.<\/p>",
             "page": ""
           }
         },
@@ -205,7 +205,7 @@
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "image_7": "shopify:\/\/shop_images\/Group_6.png",
             "icon": "none",
-            "row_content": "<p>Damit Drive One funktioniert, wenn Sie losfahren, müssen Sie die Batterieoptimierung für Drive One entfernen.<\/p><p>Der Zweck der Batterieoptimierung besteht darin, die App zu schließen, wenn sie nicht verwendet wird. Dies führt dazu, dass die App und die Drive One-Warnungen nicht funktionieren, sobald Sie losfahren.<\/p><p>Wenn Sie nicht fahren, verbraucht Drive One so wenig Akku wie möglich. Während der Fahrt wird der Akku stärker beansprucht; daher kann es sinnvoll sein, das Telefon während der Fahrt aufzuladen.<\/p><p>Wenn Sie dazu aufgefordert werden, müssen Sie „Erlauben“ auswählen.<\/p>",
+            "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
           }
         },
@@ -218,7 +218,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
-            "row_content": "<p>Jetzt können Sie Ihr Drive One-Gerät mit der Drive One-App verbinden.<\/p>",
+            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -231,7 +231,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
-            "row_content": "<p>Sie müssen sicherstellen, dass Bluetooth auf Ihrem Telefon aktiviert ist.<\/p><p>Wenn Bluetooth nicht aktiviert ist, können das Drive One-Gerät und die App nicht miteinander kommunizieren und Drive One funktioniert nicht erwartungsgemäß.<\/p>",
+            "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
             "page": ""
           }
         },
@@ -244,7 +244,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
-            "row_content": "<p>Nun müssen Sie den Plastikstreifen vom Gerät entfernen. Dadurch wird der Akku aktiviert und das Gerät beginnt, nach einer Drive One-App zu suchen, mit der es sich verbinden kann.<\/p><p>Wenn Sie den Plastikstreifen bereits entfernt haben, bewegen Sie bitte das Drive One-Gerät, um es „aufzuwecken“. Das Gerät sucht dann nach einer App, mit der es sich verbinden kann.<\/p>",
+            "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
             "page": ""
           }
         },
@@ -257,7 +257,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
-            "row_content": "<p>Ihr Drive One-Gerät ist jetzt mit der Drive One-App verbunden.<\/p>",
+            "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -270,7 +270,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
-            "row_content": "<p>Die App führt Sie nun kurz durch die Funktionsweise von Drive One.<\/p>",
+            "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
             "page": ""
           }
         },
@@ -283,7 +283,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
-            "row_content": "<p>Die obere Taste wird verwendet, wenn Sie eine Radarkamera sehen und melden möchten.<\/p><p>Wenn Sie die obere Taste mit dem Kamerasymbol drücken, werden die Koordinaten an Drive One gesendet und mit anderen Drive One-Benutzern geteilt, wenn diese sich demselben Standort nähern.<\/p>",
+            "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -296,7 +296,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
-            "row_content": "<p>Die untere Taste wird verwendet, wenn Sie etwas sehen und melden möchten, das eine Gefahr für andere Fahrer darstellen könnte und auf das diese aufmerksam gemacht werden müssen.<\/p><p>Wenn Sie die untere Taste mit dem Warndreieckssymbol drücken, werden die Koordinaten an Drive One gesendet und mit anderen Drive One-Benutzern geteilt, wenn diese sich demselben Standort nähern.<\/p>",
+            "row_content": "<p>The top button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the top button with the triangle icon, and the coordinates will be sent to Drive One and will be shared with other Drive One users when the approach the same location.<\/p>",
             "page": ""
           }
         },
@@ -312,7 +312,7 @@
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
-            "row_content": "<p>Auf dieser Seite können Sie testen, wie Sie eine Meldung mit dem Drive One-Gerät vornehmen können.<\/p><p>Sie können beide Tasten drücken, um eine Testmeldung zu erstellen. Diese Meldungen werden nicht versendet, da es sich nur um Tests handelt. Sie können die Tasten also so oft drücken, wie Sie möchten.<\/p>",
+            "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
             "page": ""
           }
         },
@@ -325,7 +325,7 @@
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
-            "row_content": "<p>Sie können testen, wie Warnungen auf Ihrem Drive One-Gerät und auf Ihrem Handy klingen.<\/p>",
+            "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
             "page": ""
           }
         },
