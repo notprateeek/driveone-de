@@ -198,6 +198,9 @@
           "settings": {
             "video_url": "",
             "heading": "Disable battery optimization",
+            "image_2": "shopify:\/\/shop_images\/Group_19.png",
+            "image_4": "shopify:\/\/shop_images\/Group_33.png",
+            "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "icon": "none",
             "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
