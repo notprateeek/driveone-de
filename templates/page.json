@@ -556,6 +556,7 @@
           "settings": {
             "text": "<p>• Camera button for speed cameras<\/p>",
             "hr": false,
+            "padding-left": true,
             "text_style": "subtitle"
           }
         },
@@ -564,6 +565,7 @@
           "settings": {
             "text": "<p>• Triangle button for other events<\/p>",
             "hr": false,
+            "padding-left": true,
             "text_style": "subtitle"
           }
         }
@@ -726,6 +728,7 @@
           "settings": {
             "text": "<p>How to add an additional unit step by step<br\/>From the  map view, click the cog to go to the menu.<br\/>From the menu click <strong>Device<\/strong>.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
@@ -757,6 +760,7 @@
           "settings": {
             "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
@@ -788,6 +792,7 @@
           "settings": {
             "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
@@ -819,6 +824,7 @@
           "settings": {
             "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
@@ -850,6 +856,7 @@
           "settings": {
             "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
