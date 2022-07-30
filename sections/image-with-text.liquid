@@ -17,6 +17,10 @@
     margin: 1em;
   }
 
+  .padding-left {
+    padding-left: 5em;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -95,7 +99,7 @@
             {%- when 'caption' -%}
               <p class="image-with-text__text image-with-text__text--caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }} {{ block.settings.text_style }}" {{ block.shopify_attributes }}>{{ block.settings.caption | escape }}</p>
             {%- when 'text' -%}
-              <div class="image-with-text__text rte {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
+              <div class="image-with-text__text rte {% if block.settings.padding-left %} padding-left {% endif%} {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
                <span class="flex-hr-text">
                 {% if block.settings.hr %}<hr class="hr-iwt" />{% endif %}{{ block.settings.text }}</span>
               </div>
@@ -419,6 +423,12 @@
           "id": "hr",
           "default": false,
           "label": "hr before text"
+        },
+        {
+          "type": "checkbox",
+          "id": "padding-left",
+          "default": false,
+          "label": "padding left"
         },
         {
           "type": "select",
