@@ -14,21 +14,13 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Let’s get you started",
+            "heading": "Get started with Drive One device and app",
             "heading_size": "h2"
-          }
-        },
-        "c0274228-b7a7-4146-a71e-917edd280f34": {
-          "type": "text",
-          "settings": {
-            "text": "<p>with your new Drive One device and app<\/p>",
-            "icons": false
           }
         }
       },
       "block_order": [
-        "16579748303df751a5-0",
-        "c0274228-b7a7-4146-a71e-917edd280f34"
+        "16579748303df751a5-0"
       ],
       "settings": {
         "color_scheme": "background-1",
