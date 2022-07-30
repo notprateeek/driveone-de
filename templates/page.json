@@ -300,6 +300,7 @@
           "settings": {
             "video_url": "",
             "heading": "Bottom report button",
+            "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
@@ -312,7 +313,8 @@
           "settings": {
             "video_url": "",
             "heading": "Test reports",
-            "image_3": "shopify:\/\/shop_images\/Group_28.png",
+            "image_2": "shopify:\/\/shop_images\/Group_27.png",
+            "image_3": "shopify:\/\/shop_images\/Group_45.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
             "image_5": "shopify:\/\/shop_images\/Group_42.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
