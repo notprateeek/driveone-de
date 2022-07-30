@@ -329,6 +329,7 @@
           "settings": {
             "video_url": "",
             "heading": "Test warning sounds",
+            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
@@ -341,6 +342,7 @@
           "settings": {
             "video_url": "",
             "heading": "Warnings customization",
+            "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
