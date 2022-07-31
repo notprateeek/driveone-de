@@ -107,7 +107,6 @@
         "e6ff2e0d-4ca9-4f85-879e-3c00cdb7ec6f": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_16.png",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-190835_DevDrive.png",
             "image_3": "shopify:\/\/shop_images\/Group_2.png"
           }
@@ -133,7 +132,6 @@
           "settings": {
             "video_url": "",
             "heading": "Enter your email address",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
@@ -146,7 +144,6 @@
           "settings": {
             "video_url": "",
             "heading": "Confirm your email address",
-            "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
@@ -159,7 +156,6 @@
           "settings": {
             "video_url": "",
             "heading": "Accept terms and conditions",
-            "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
@@ -172,7 +168,6 @@
           "settings": {
             "video_url": "",
             "heading": "Grant location permission",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
@@ -185,7 +180,6 @@
           "settings": {
             "video_url": "",
             "heading": "Allow notifications",
-            "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
@@ -198,12 +192,8 @@
           "settings": {
             "video_url": "",
             "heading": "Disable battery optimization",
-            "image_2": "shopify:\/\/shop_images\/Group_19.png",
-            "image_3": "shopify:\/\/shop_images\/Group_20_1-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
-            "image_5": "shopify:\/\/shop_images\/de_50e4670d-38ee-4bfc-9a5c-14467415ec78.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
-            "image_7": "shopify:\/\/shop_images\/Group_6_1-en.png",
             "icon": "none",
             "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
             "page": ""
@@ -214,7 +204,6 @@
           "settings": {
             "video_url": "",
             "heading": "Ready for connection",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
@@ -227,7 +216,6 @@
           "settings": {
             "video_url": "",
             "heading": "Enable bluetooth",
-            "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
@@ -240,7 +228,6 @@
           "settings": {
             "video_url": "",
             "heading": "Remove plastic slip",
-            "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
@@ -253,7 +240,6 @@
           "settings": {
             "video_url": "",
             "heading": "Connected",
-            "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
@@ -266,7 +252,6 @@
           "settings": {
             "video_url": "",
             "heading": "Quick app tour",
-            "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
@@ -279,7 +264,6 @@
           "settings": {
             "video_url": "",
             "heading": "Top report button",
-            "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
@@ -292,7 +276,6 @@
           "settings": {
             "video_url": "",
             "heading": "Bottom report button",
-            "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
@@ -305,8 +288,6 @@
           "settings": {
             "video_url": "",
             "heading": "Test reports",
-            "image_2": "shopify:\/\/shop_images\/Group_27.png",
-            "image_3": "shopify:\/\/shop_images\/Group_45.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
             "image_5": "shopify:\/\/shop_images\/Group_42.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
@@ -321,7 +302,6 @@
           "settings": {
             "video_url": "",
             "heading": "Test warning sounds",
-            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
@@ -334,7 +314,6 @@
           "settings": {
             "video_url": "",
             "heading": "Warnings customization",
-            "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
@@ -737,8 +716,8 @@
         "1657998506b09d9f77-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220729-100322_Drive_One.png",
-        "image_2": "shopify:\/\/shop_images\/Screenshot_20220729-100354_Drive_One.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191253_DevDrive.png",
+        "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191253_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183215_DevDrive.png",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -769,7 +748,7 @@
         "16579985414a64ce38-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185348_DevDrive.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191257_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191257_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183129_DevDrive.png",
         "height": "adapt",
@@ -801,7 +780,7 @@
         "1657998562b1885cd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/available-da.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191306_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/available-de.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183142_DevDrive.png",
         "height": "adapt",
@@ -833,7 +812,7 @@
         "1657998588c5f30bfa-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_20220718-185436_DevDrive.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-191532_DevDrive.png",
         "image_3": "shopify:\/\/shop_images\/Screenshot_20220718-183158_DevDrive.png",
         "height": "adapt",
@@ -865,7 +844,7 @@
         "165799859766ab5ae3-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Group_3-da.png",
+        "image": "shopify:\/\/shop_images\/Group_39.png",
         "image_2": "shopify:\/\/shop_images\/Group_39.png",
         "image_3": "shopify:\/\/shop_images\/Group_1-en.png",
         "height": "adapt",
