@@ -67,7 +67,7 @@
         "165505532836c1cfed-1": {
           "type": "text",
           "settings": {
-            "text": "Traffic without dangers and speeding fines",
+            "text": "Traffic without dangers and speeding tickets",
             "text_style": "body"
           }
         },
@@ -141,21 +141,21 @@
         "1655457030819d2f98-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One warns you when there are speed controls in the water - whether it is mobile, fixed or the new route controls. You set yourself how much time you want to be notified so that you can become aware of your speed.<\/p>",
+            "text": "<p>Drive One warns you when there are speed controls ahead whether mobile, fixed or new route controls. You decide how far in advance you want to be notified so you're aware of your speed.<\/p>",
             "text_style": "body"
           }
         },
         "ae4d4f77-77d3-48ee-b8d8-29c774da15a5": {
           "type": "heading",
           "settings": {
-            "heading": "Accidents, queues and other incidents",
+            "heading": "Accidents, traffic jams and other incidents",
             "heading_size": "h2"
           }
         },
         "982eecad-4959-4f60-bebe-23e8d2d17972": {
           "type": "text",
           "settings": {
-            "text": "<p>Get an alert when there is danger in traffic and incidents in traffic that require your attention. Then any hard braking will not come behind you.<\/p>",
+            "text": "<p>Get an alert when there are traffic-related dangers and incidents that require your attention. No more being caught off-guard by hard braking will not come behind you.<\/p>",
             "text_style": "body"
           }
         }
