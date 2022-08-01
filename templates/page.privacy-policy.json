@@ -657,13 +657,13 @@
         "22bb5ccd-b10c-4b14-b573-d3081b4d5f8d": {
           "type": "text",
           "settings": {
-            "text": "<p>When you provide Traffic Warnings and Speed Warnings, we store and process your device ID and your geolocation paired with a certain time. Your device ID, however, will not be shared with other drivers.<\/p>"
+            "text": "<p>When you provide Traffic Warnings and Speed Warnings, we store and process your device ID and geolocation paired with a certain time. Your device ID, however, will not be shared with other drivers.<\/p>"
           }
         },
         "0a1d5fcd-b7f3-43b9-bd4e-50392f68052a": {
           "type": "text",
           "settings": {
-            "text": "<p>We also share your device ID and your geolocation paired with a certain time with Trafik Alarm, a database run by Geo24 ApS, a company with the same ultimate main shareholder as Needit. Like us, Trafik Alarm will then share the information of geolocation and time with other drivers, so that they receive the Speed Warning or Traffic Warning. Your device ID, however, will not be shared with other drivers.<\/p>"
+            "text": "<p>We also share your device ID and your geolocation paired with a certain time with Trafik Alarm, a database run by Geo24 ApS, a company with the same ultimate main shareholder as Needit. Like us, Trafik Alarm will then share the information of geolocation and time with other drivers, so that they receive the Speed Warnings or Traffic Warnings. Your device ID, however, will not be shared with other drivers.<\/p>"
           }
         },
         "8dbab592-fc57-4fe1-9f9d-1836f7b579a9": {
@@ -681,7 +681,7 @@
         "973dfa1c-b89f-4a27-86d9-2dfe3018f24a": {
           "type": "text",
           "settings": {
-            "text": "<p>When Needit processes your order, we may send your personal data to, and also use the resulting information from, the app store and\/or payment pro<\/p>"
+            "text": "<p>When Needit processes your order, we may send your personal data to, and also use the resulting information from, the app store and\/or payment provider.<\/p>"
           }
         },
         "eb85a58b-e5dd-4e94-95ea-95c90fedc861": {
@@ -694,7 +694,7 @@
         "e7f12375-2ad0-431d-8734-d19c409511f4": {
           "type": "text",
           "settings": {
-            "text": "<p>Needit securely stores your data at EU-central-1 Europe (Frankfurt).Needit will only keep your old pins data without your personal data associated with it. Once we receive a request from you  to delete your personal data we will delete it.<\/p>"
+            "text": "<p>Needit stores your data securely at EU-central-1 Europe (Frankfurt).Needit will only keep your old data without your personal data associated. Once we receive a request from you  to delete your personal data, we will delete it.<\/p>"
           }
         }
       },
@@ -734,7 +734,7 @@
         "165293767040b33b0e-2": {
           "type": "button",
           "settings": {
-            "text": "<p>your consent;<\/p>",
+            "text": "<p>with your consent;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -742,7 +742,7 @@
         "53ff520f-465d-403b-8cb3-f50141246730": {
           "type": "button",
           "settings": {
-            "text": "<p>it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;<\/p>",
+            "text": "<p>if it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -750,7 +750,7 @@
         "21b5ef2a-5a56-49d4-98a1-b77ea362d717": {
           "type": "button",
           "settings": {
-            "text": "<p>it is necessary for compliance with a legal obligation to which we are subject.<\/p>",
+            "text": "<p>if it is necessary for compliance with a legal obligation to which we are subject.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -776,7 +776,7 @@
         "1657617541eb795d1b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may at any time withdraw your consent by contacting Needit using the above contact information.<\/p>"
+            "text": "<p>If your information is collected, stored and processed based solely on your consent, you may withdraw your consent at any time by contacting Needit using the contact information above.<\/p>"
           }
         }
       },
@@ -809,7 +809,7 @@
         "1c9353a5-675a-4d58-a188-6d4d7622b122": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The right to access<\/strong> – You have the right to request Needit for copies of your personal data.<\/p>"
+            "text": "<p><strong>The right to access<\/strong> – You have the right to request copies of your personal data from Needit.<\/p>"
           }
         },
         "aaf5870a-3a45-45c3-96e9-21c326e5593f": {
@@ -821,19 +821,19 @@
         "3e0a16e3-f268-44af-8ec1-51cae75fcf56": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The right to erasure<\/strong> – You have the right to request that Needit erases your personal data, under certain conditions, such as the case that your personal data has been processed unlawfully or you have withdrawn your consent (if the processing of personal data is based on consent).<\/p>"
+            "text": "<p><strong>The right to erasure<\/strong> – You have the right to request that Needit erases your personal data, under certain conditions, such as in the event that your personal data has been processed unlawfully or you have withdrawn your consent (if the processing of personal data is based on consent).<\/p>"
           }
         },
         "47781179-d7a8-4538-bfbd-75d15a560407": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The right to restrict processing<\/strong> – You have the right to request that Needit restricts the processing of your personal data, under certain conditions, such as if you have doubts about the accuracy of your personal data or have objected to Needit’s legitimate purpose for processing your personal data,<\/p>"
+            "text": "<p><strong>The right to restrict processing<\/strong> – You have the right to request that Needit restricts the processing of your personal data under certain conditions, such as if you have doubts about the accuracy of your personal data or have objected to Needit’s legitimate purpose for processing your personal data.<\/p>"
           }
         },
         "9ae9e0bb-c213-4610-b10a-5226a43d996b": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>The right to object to processing<\/strong> – You have the right to object to Needit’s processing of your personal data, under certain conditions such as if you have doubts about Needit’s legitimate interest in processing of your personal data,<\/p>"
+            "text": "<p><strong>The right to object to processing<\/strong> – You have the right to object to Needit’s processing of your personal data under certain conditions such as if you have doubts about Needit’s legitimate interest in the processing of your personal data<\/p>"
           }
         },
         "7e8d80b4-3c36-487b-91ab-5a3ea125335e": {
@@ -845,13 +845,13 @@
         "c90d832a-8057-49fe-bd2c-e28c969a4fef": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Right to complain<\/strong> – You are entitled to file a complaint regarding Needit’s processing of your personal data at the relevant supervisory authority, cf. below.<\/p>"
+            "text": "<p><strong>Right to complain<\/strong> – You are entitled to file a complaint regarding Needit’s processing of your personal data to the relevant supervisory authority, cf. below.<\/p>"
           }
         },
         "5acd9fb6-faeb-48ec-85d1-9ea4fab84530": {
           "type": "text",
           "settings": {
-            "text": "<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us using the above contact information.<\/p>"
+            "text": "<p>If you make a request, we have one month to respond. If you would like to exercise any of these rights, please contact us using the contact information above.<\/p>"
           }
         }
       },
@@ -887,7 +887,7 @@
         "32dd7eec-1ae6-4772-b6d3-b45dc70f6994": {
           "type": "text",
           "settings": {
-            "text": "<p>Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our Websites, we may collect information from you automatically through cookies or similar technology.<\/p>"
+            "text": "<p>Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. When you visit our Website, we may collect information from you automatically through cookies or similar technology.<\/p>"
           }
         },
         "15b8c4f3-1c0f-48a9-b987-daa6dce1005f": {
@@ -928,7 +928,7 @@
         "165293779580778360-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Keeping you signed in<\/p>",
+            "text": "<p>keeping you signed in;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -936,7 +936,7 @@
         "f8654435-7730-4986-b65b-41425be758a7": {
           "type": "button",
           "settings": {
-            "text": "<p>Understanding how you use our Website<\/p>",
+            "text": "<p>understanding how you use our Website;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -944,7 +944,7 @@
         "45fde22b-20e1-4f77-8688-3fc23160012d": {
           "type": "button",
           "settings": {
-            "text": "<p>Analytics<\/p>",
+            "text": "<p>analytics;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -952,7 +952,7 @@
         "4b55d999-8c8d-42d4-88ab-ddc37b98aaf6": {
           "type": "button",
           "settings": {
-            "text": "<p>Crash reporting<\/p>",
+            "text": "<p>crash reporting.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
