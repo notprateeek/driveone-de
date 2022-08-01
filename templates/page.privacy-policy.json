@@ -21,7 +21,7 @@
         "16528792997ef0cb68-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Drive One app (“App”) and the website <a href=\"https:\/\/www.driveone.eu\" target=\"_blank\" title=\"Drive one\">www.driveone.eu<\/a> (\"Website\") are owned and operated by Needit ApS (“Needit”). The Drive One electronic device (the “Device”) is also developed and marketed by Needit.<\/p>"
+            "text": "<p>The Drive One app (the “App”) and the website <a href=\"https:\/\/www.driveone.eu\" target=\"_blank\" title=\"Drive one\">www.driveone.eu<\/a> (the “Website“) are owned and operated by Needit ApS (“Needit”). The Drive One electronic device (the “Device”) is also developed and marketed by Needit.<\/p>"
           }
         },
         "aaf3b451-4ad2-4845-9b72-f478b2de8bb7": {
@@ -46,7 +46,7 @@
         "5780950c-b180-468f-8073-6150c2ccfaa9": {
           "type": "text",
           "settings": {
-            "text": "<p>This privacy policy will explain how our organisation uses the personal data we collect from you when you use the App, Website and Device.<\/p>"
+            "text": "<p>This privacy policy explains how our organization uses the personal data we collect from you when you use the App, Website and Device.<\/p>"
           }
         }
       },
@@ -78,7 +78,7 @@
         "1652937235a1cb533f-2": {
           "type": "button",
           "settings": {
-            "text": "<p>How you agree to the Privacy Policy?<\/p>",
+            "text": "<p>How do you agree to the Privacy Policy?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -102,7 +102,7 @@
         "5aa8ad4a-4693-47a9-a432-627a5d34cd3e": {
           "type": "button",
           "settings": {
-            "text": "<p>How will we use your personal data?<\/p>",
+            "text": "<p>How do we use your personal data?<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -118,7 +118,7 @@
         "6977eb32-c4bb-43af-af54-98980f476d96": {
           "type": "button",
           "settings": {
-            "text": "<p>Legal grounds for collection, storage and processing of the information<\/p>",
+            "text": "<p>Legal grounds for collection, storage and processing of information<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -174,7 +174,7 @@
         "c25b5e5a-d519-4fd1-8564-bdf5e519a1d1": {
           "type": "button",
           "settings": {
-            "text": "<p>Changes to our privacy policy<\/p>",
+            "text": "<p>Changes to the Privacy Policy<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -227,14 +227,14 @@
         "1652879765f1f1a31b-0": {
           "type": "heading",
           "settings": {
-            "heading": "How you agree to the Privacy Policy",
+            "heading": "How do you agree to the Privacy Policy?",
             "heading_size": "h2"
           }
         },
         "1652879765f1f1a31b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>By accessing and using the Website you consent to this Privacy Policy. If you do not agree with this Privacy Policy, you must immediately leave the Website and cease using it and delete your account if you have registered such. When downloading and installing the App, or at any point later when the Privacy Policy has been updated, you have checked a box agreeing to the Privacy Policy. For further information on the terms on which you may use the Website, the App and the Device, please also see Needit’s Terms of Use.<\/p>"
+            "text": "<p>By accessing and using the Website you consent to this Privacy Policy. If you do not agree with this Privacy Policy, you must immediately leave the Website, cease to use it and delete your account if you have one. When downloading and installing the App, or at a later point when the Privacy Policy has been updated, you have checked a box agreeing to the Privacy Policy. For further information on the terms on which you may use the Website, the App and the Device, please also see Needit’s Terms of Service.<\/p>"
           }
         }
       },
@@ -268,7 +268,7 @@
         "1652937294cdb99af0-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Name<\/p>",
+            "text": "<p>name<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -276,7 +276,7 @@
         "faa8d08c-0ab5-4e9e-8373-4d4a1330eb87": {
           "type": "button",
           "settings": {
-            "text": "<p>Location<\/p>",
+            "text": "<p>location<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -284,7 +284,7 @@
         "94265911-ff81-485f-bb6b-df948416b98a": {
           "type": "button",
           "settings": {
-            "text": "<p>Phone model, make and OS version<\/p>",
+            "text": "<p>phone model, make and OS<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -292,7 +292,7 @@
         "11d37e4b-3cf5-4a6a-b5e4-527334805769": {
           "type": "button",
           "settings": {
-            "text": "<p>Battery consumption Statistics<\/p>",
+            "text": "<p>battery consumption Statistics<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -300,7 +300,7 @@
         "9216bfc3-94d9-4bde-bef4-987a21885264": {
           "type": "button",
           "settings": {
-            "text": "<p>Device ID number<\/p>",
+            "text": "<p>device ID<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -308,7 +308,7 @@
         "18947c4c-3cec-4765-9d6b-f0920ea60af9": {
           "type": "button",
           "settings": {
-            "text": "<p>E-mail<\/p>",
+            "text": "<p>e-mail<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -316,7 +316,7 @@
         "8aa0dcc8-906e-44a9-b780-e17ed981ea54": {
           "type": "button",
           "settings": {
-            "text": "<p>Password<\/p>",
+            "text": "<p>password<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -352,7 +352,7 @@
         "7ea20e4c-3268-478d-bc05-7aabddfddf0a": {
           "type": "button",
           "settings": {
-            "text": "<p>Name<\/p>",
+            "text": "<p>name<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -360,7 +360,7 @@
         "402b1369-d584-400a-94c6-e1c693068c48": {
           "type": "button",
           "settings": {
-            "text": "<p>E-mail<\/p>",
+            "text": "<p>e-mail<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -368,7 +368,7 @@
         "6c63e8dc-0e30-43c0-b4b6-6a29aa8c25e4": {
           "type": "button",
           "settings": {
-            "text": "<p>Telephone number<\/p>",
+            "text": "<p>telephone number<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -376,7 +376,7 @@
         "a7ceae37-ac09-490d-9e46-38e1a9f64190": {
           "type": "button",
           "settings": {
-            "text": "<p>Credit card data<\/p>",
+            "text": "<p>credit card data<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -384,7 +384,7 @@
         "f10fe559-d531-4d61-bcbd-ce261531b13e": {
           "type": "button",
           "settings": {
-            "text": "<p>Password<\/p>",
+            "text": "<p>password<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -392,7 +392,7 @@
         "8756550f-d603-4ba6-b3ea-b7cf2eb289c7": {
           "type": "button",
           "settings": {
-            "text": "<p>User Address<\/p>",
+            "text": "<p>user Address<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -400,7 +400,7 @@
         "51841eab-e63b-4ce7-98c8-0a2038528847": {
           "type": "button",
           "settings": {
-            "text": "<p>Operating System, browser version, user time zone and region<\/p>",
+            "text": "<p>OS, browser version, user time zone and region<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -435,7 +435,7 @@
         "1657616902c7ba1ad3-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Your geo location when you press one of the two buttons<\/p>",
+            "text": "<p>geo location when you press one of the two buttons<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -443,7 +443,7 @@
         "e750e20a-923a-4380-85bc-e347f3baed2a": {
           "type": "button",
           "settings": {
-            "text": "<p>Information on which button you pressed<\/p>",
+            "text": "<p>information on which button you pressed<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -480,7 +480,7 @@
         "165293746700f955f6-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Register online through the Website or App<\/p>",
+            "text": "<p>register online through the Website or App<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -488,7 +488,7 @@
         "a442e20b-0658-498f-90ae-a2cc5da08bdf": {
           "type": "button",
           "settings": {
-            "text": "<p>Purchase items on the Website or through another distributor<\/p>",
+            "text": "<p>purchase items on the Website or through another distributor<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -496,7 +496,7 @@
         "a2dc45ca-231f-471e-aca6-029ad1ec6413": {
           "type": "button",
           "settings": {
-            "text": "<p>Download and install the App through an app store and sign up through the App<\/p>",
+            "text": "<p>download and install the App through an app store and sign up through the App<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -504,7 +504,7 @@
         "0985a3a0-66b1-417a-93e3-c63ec502b54f": {
           "type": "button",
           "settings": {
-            "text": "<p>Use the Device by pressing a button<\/p>",
+            "text": "<p>use the Device by pressing a button<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -512,7 +512,7 @@
         "fc9d1d33-43a4-4261-aef8-1a82305687bc": {
           "type": "button",
           "settings": {
-            "text": "<p>Voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email<\/p>",
+            "text": "<p>voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -520,7 +520,7 @@
         "0fbbca88-8443-4ec7-a169-4dbf9d5355e6": {
           "type": "button",
           "settings": {
-            "text": "<p>Use our Website via your browser’s cookies<\/p>",
+            "text": "<p>use our Website via your browser’s cookies<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -528,7 +528,7 @@
         "9ab1d879-e979-42ec-8de9-288b3c12b3b7": {
           "type": "button",
           "settings": {
-            "text": "<p>Use the app<\/p>",
+            "text": "<p>use the app<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -558,7 +558,7 @@
         "1657617181b958efb7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our app collects data about your location to provide Real time traffic information. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
+            "text": "<p>Our app collects data about your location to provide traffic information in real time. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
           }
         }
       },
@@ -578,7 +578,7 @@
         "165293759480091f67-0": {
           "type": "heading",
           "settings": {
-            "heading": "How will we use your personal data?",
+            "heading": "How do we use your personal data?",
             "heading_size": "h2"
           }
         },
@@ -591,7 +591,7 @@
         "165293759480091f67-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Warn other users of speed control (“Speed Warning”)<\/p>",
+            "text": "<p>warn other users of speed control (“Speed Warning”)<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -599,7 +599,7 @@
         "44581c1d-c76f-4741-a0ee-7150aceb9eee": {
           "type": "button",
           "settings": {
-            "text": "<p>Warn other users of traffic incidents (“Traffic Warning”)<\/p>",
+            "text": "<p>warn other users of traffic incidents (“Traffic Warning”)<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -607,7 +607,7 @@
         "42177416-c39c-4434-8650-9c0d8d242870": {
           "type": "button",
           "settings": {
-            "text": "<p>Process your order and manage your account<\/p>",
+            "text": "<p>process your order and manage your account<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -615,7 +615,7 @@
         "c3e53279-ffdc-42e1-a5f1-04df7f1a7109": {
           "type": "button",
           "settings": {
-            "text": "<p>E-mail you with special offers on other products and services we think you might like<\/p>",
+            "text": "<p>e-mail you with special offers on other products and services we think you might like<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -623,7 +623,7 @@
         "57455448-4a87-40df-8068-0ed743d6b2b8": {
           "type": "button",
           "settings": {
-            "text": "<p>E-mail you to verify your account.<\/p>",
+            "text": "<p>e-mail you to verify your account.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
