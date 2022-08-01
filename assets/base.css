@@ -2908,3 +2908,9 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+@media screen and (max-width: 600px) {
+  .video-background {
+    display: none;
+  }
+}
