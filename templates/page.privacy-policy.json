@@ -558,7 +558,7 @@
         "1657617181b958efb7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our app collects data about your location to provide traffic information in real time. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
+            "text": "<p>Our app collects data about your location to provide traffic information in real-time. We need data about your location to warn you about speed cameras and other hazards.<\/p>"
           }
         }
       },
