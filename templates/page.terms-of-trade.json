@@ -14,7 +14,7 @@
         "165466314328ac6843-0": {
           "type": "heading",
           "settings": {
-            "heading": "Terms of trade",
+            "heading": "Terms of Service",
             "heading_size": "h1"
           }
         }
@@ -41,7 +41,7 @@
         "df81ae12-638d-4101-9d3d-783d76e7f441": {
           "type": "text",
           "settings": {
-            "text": "<p>The Drive One app (“App”) and the website <a href=\"https:\/\/www.driveone.eu\" target=\"_blank\" title=\"https:\/\/www.driveone.eu\">www.driveone.eu<\/a> (“Website”) are owned and operated by Needit ApS (“Needit”). The Drive One electronic device (the “Device”) is also developed and marketed by Needit.<\/p>"
+            "text": "<p>The Drive One app (the “App”) and the website <a href=\"https:\/\/www.driveone.eu\" target=\"_blank\" title=\"https:\/\/www.driveone.eu\">www.driveone.eu<\/a> (the “Website”) are owned and operated by Needit ApS (the “Needit”). The Drive One electronic device (the “Device”) is also developed and marketed by Needit.<\/p>"
           }
         },
         "a6c06d80-10ae-4727-8c43-d54e43b61a2a": {
@@ -59,7 +59,7 @@
         "c625fbb6-4219-4169-93ac-69922245849a": {
           "type": "text",
           "settings": {
-            "text": "<p>These Terms of Use will regulate your use of the App, Website and Device.<\/p>"
+            "text": "<p>These Terms of Service governs your use of the App, Website and Device.<\/p>"
           }
         }
       },
@@ -90,7 +90,7 @@
         "165466310122e618a7-2": {
           "type": "button",
           "settings": {
-            "text": "<p>How you agree to the Terms of Use<\/p>",
+            "text": "<p>Agreeing to the Terms of Service<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -130,7 +130,7 @@
         "3eb6ca09-5af1-4a92-85b0-3644e90207d6": {
           "type": "button",
           "settings": {
-            "text": "<p>Use of Website, App and Device<\/p>",
+            "text": "<p>Use of the Website, App and Device<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -194,7 +194,7 @@
         "914c3c64-c546-463b-97ad-70ce7b53fc5b": {
           "type": "button",
           "settings": {
-            "text": "<p>Changes to the Terms of Use<\/p>",
+            "text": "<p>Changes to the Terms of Service<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -230,7 +230,7 @@
         "1654663428d54fad76-0": {
           "type": "heading",
           "settings": {
-            "heading": "How you agree to the Terms of Use",
+            "heading": "Agreeing to the Terms of Service",
             "heading_size": "h2"
           }
         },
