@@ -146,6 +146,7 @@
           "settings": {
             "video_url": "",
             "heading": "Confirm your email address",
+            "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
@@ -158,6 +159,7 @@
           "settings": {
             "video_url": "",
             "heading": "Accept terms and conditions",
+            "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
@@ -170,6 +172,7 @@
           "settings": {
             "video_url": "",
             "heading": "Grant location permission",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
@@ -182,6 +185,7 @@
           "settings": {
             "video_url": "",
             "heading": "Allow notifications",
+            "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
@@ -194,6 +198,8 @@
           "settings": {
             "video_url": "",
             "heading": "Disable battery optimization",
+            "image_2": "shopify:\/\/shop_images\/Group_19.png",
+            "image_3": "shopify:\/\/shop_images\/Group_20.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
             "image_5": "shopify:\/\/shop_images\/de_50e4670d-38ee-4bfc-9a5c-14467415ec78.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
@@ -208,6 +214,7 @@
           "settings": {
             "video_url": "",
             "heading": "Ready for connection",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
@@ -220,6 +227,7 @@
           "settings": {
             "video_url": "",
             "heading": "Enable bluetooth",
+            "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
@@ -232,6 +240,7 @@
           "settings": {
             "video_url": "",
             "heading": "Remove plastic slip",
+            "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
