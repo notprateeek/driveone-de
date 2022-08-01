@@ -146,7 +146,7 @@
         "1651782814d438de73-0": {
           "type": "heading",
           "settings": {
-            "heading": "Finds the connection yourself",
+            "heading": "Finds the connection itself",
             "heading_size": "h1"
           }
         }
@@ -167,7 +167,7 @@
         "165178299690ec3908-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.<\/p>",
+            "text": "<p>Once your Drive One is installed, you don’t need to think about it again until it sends you a notification.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -176,7 +176,7 @@
         "bc753a4d-4ef6-4265-86c0-1b9f6b3b9c9f": {
           "type": "text",
           "settings": {
-            "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
+            "text": "<p>The phone and the device connect automatically when you get behind the wheel.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -185,7 +185,7 @@
         "04d4faa7-ff76-4487-adde-b086510df02c": {
           "type": "text",
           "settings": {
-            "text": "<p>Then it will not be much easier.<\/p>",
+            "text": "<p>It doesn’t get easier than that.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
