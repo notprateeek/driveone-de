@@ -250,7 +250,7 @@
         "d638d3c6-915a-479f-bbbb-cd6e181be068": {
           "type": "text",
           "settings": {
-            "text": "<p>The Website, App and Device may only be used by individuals who can form legally binding contracts under applicable law. They are not intended for minors. By using our Website, App or Device, you indicate to us that you have the right, authority, and capacity to enter into and abide by these Terms of Use.<\/p>"
+            "text": "<p>The Website, App and Device may only be used by individuals who can form legally binding contracts under applicable law. They are not intended for minors. By using our Website, App or Device, you indicate that you have the right, authority, and capacity to enter into and abide by these Terms of Service.<\/p>"
           }
         },
         "c233f155-9b87-4202-a8b8-712a12a5cbb4": {
@@ -276,7 +276,7 @@
         "bf87473f-08e2-4bd9-a2c9-ff9a25756e74": {
           "type": "text",
           "settings": {
-            "text": "<p>Any content on our Website and our App, and any data or source code used for the Website or Add belong to Needit or one or more of our suppliers. We grant you a non-exclusive, revocable, and non-transferable right to access the Website and App. Your use of the Website or App or your purchase of the Device does not grant you any intellection property right to any content.<\/p><p>You automatically grant us all copyrights and database rights to the data registered by you through the App and\/or Device when using the App and\/or Device.<\/p>"
+            "text": "<p>Any content on our Website and our App, and any data or source code used for the Website or App, belong to Needit or one or more of our suppliers. We grant you a non-exclusive, revocable, and non-transferable right to access the Website and App. Your use of the Website or App or your purchase of the Device does not grant you any intellectual property rights to any content.<\/p><p>You automatically grant us all copyrights and database rights to the data registered by you through the App and\/or Device when using the App and\/or Device.<\/p>"
           }
         },
         "be487db0-9783-4358-82a1-917baf6fd7c8": {
@@ -289,20 +289,20 @@
         "6130b07d-6c23-4501-8356-778166fe4229": {
           "type": "text",
           "settings": {
-            "text": "<p>To use the Website, App or Device, you will be required to register as a user. You may terminate your registration at any time if you do not wish to use Website, App or Device.<\/p>"
+            "text": "<p>To use the Website, App or Device, you will be required to register as a user. You may terminate your registration at any time if you do not wish to use the Website, App or Device.<\/p>"
           }
         },
         "93193c45-a897-43ae-9f86-aba330891fc8": {
           "type": "heading",
           "settings": {
-            "heading": "Use of Website, App and Device",
+            "heading": "Use of the Website, App and Device",
             "heading_size": "h2"
           }
         },
         "14ec0d7a-9fed-4403-b4a4-35551d55fe36": {
           "type": "text",
           "settings": {
-            "text": "<p>The Website, App and Device is intended to improve traffic safety and to reduce your exposure to fines. You may not use the Website, App or Device outside of the intended purpose.<\/p><p>You may only use the Website, App, and Device as a consumer – not commercially. This entails that you may not offer any third party a separate service that uses the Website, App or Device. Further, you may not integrate the Website, App, or Device into a service offered by you or a third party and you may not resell the services offered to you through the Website, App and Device.<\/p><p>You may not copy or store the data that you access through the Website or App.<\/p>"
+            "text": "<p>The Website, App and Device are intended to improve traffic safety and to reduce your exposure to tickets. You may not use the Website, App or Device outside of the intended purpose.<\/p><p>You may only use the Website, App, and Device as a consumer – not commercially. This entails that you may not offer any third party a separate service that uses the Website, App or Device. Furthermore, you may not integrate the Website, App, or Device into a service offered by you or a third party, and you may not resell the services offered to you through the Website, App and Device.<\/p><p>You may not copy or store the data that you access through the Website or App.<\/p>"
           }
         },
         "addbf98a-24a2-47dc-a4f4-2604a9707168": {
