@@ -316,7 +316,7 @@
         "8aa0dcc8-906e-44a9-b780-e17ed981ea54": {
           "type": "button",
           "settings": {
-            "text": "<p>password<\/p>",
+            "text": "<p>password.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -400,7 +400,7 @@
         "51841eab-e63b-4ce7-98c8-0a2038528847": {
           "type": "button",
           "settings": {
-            "text": "<p>OS, browser version, user time zone and region<\/p>",
+            "text": "<p>OS, browser version, user time zone and region.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -443,7 +443,7 @@
         "e750e20a-923a-4380-85bc-e347f3baed2a": {
           "type": "button",
           "settings": {
-            "text": "<p>information on which button you pressed<\/p>",
+            "text": "<p>information on which button you pressed.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
