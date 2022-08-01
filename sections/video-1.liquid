@@ -20,7 +20,7 @@
 
 
 {% if shop.locale == 'da' %}
-  {% if block.settings.da_video_url %}
+  {% if section.settings.da_video_url %}
     <div class=" video-1 page-width section-{{ section.id }}-padding">
       <video controls width="80%" height="auto">
         <source src="{{ section.settings.da_video_url }}" type="video/mp4" />
@@ -30,7 +30,7 @@
 {% endif %}
 
 {% if shop.locale == 'de' %}
-  {% if block.settings.de_video_url %}
+  {% if section.settings.de_video_url %}
     <div class=" video-1 page-width section-{{ section.id }}-padding">
       <video controls width="80%" height="auto">
         <source src="{{ section.settings.de_video_url }}" type="video/mp4" />
@@ -40,7 +40,7 @@
 {% endif %}
 
 {% if shop.locale == 'en' %}
-  {% if block.settings.en_video_url %}
+  {% if section.settings.en_video_url %}
     <div class=" video-1 page-width section-{{ section.id }}-padding">
       <video controls width="80%" height="auto">
         <source src="{{ section.settings.en_video_url }}" type="video/mp4" />
