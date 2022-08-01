@@ -241,7 +241,7 @@
           "type": "column",
           "settings": {
             "title": "Always up to date",
-            "text": "<p>Be notified of incidents, queues and checks - and always in real time.<\/p>",
+            "text": "<p>Be notified of incidents, queues and checks. Always in real time.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -250,7 +250,7 @@
           "type": "column",
           "settings": {
             "title": "Free subscription",
-            "text": "<p>The price of Drive One is the price of the device - and nothing else.<\/p>",
+            "text": "<p>The price of Drive One is the price of the device — and nothing else.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -259,7 +259,7 @@
           "type": "column",
           "settings": {
             "title": "User-friendly",
-            "text": "<p>Easy to install, easy to use - and easy to care for.<\/p>",
+            "text": "<p>Easy to install, easy to use, and easy to care for.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -268,7 +268,7 @@
           "type": "column",
           "settings": {
             "title": "Checked and double-checked",
-            "text": "<p>Our data is confirmed by algorithms, employees - and you on the road.<\/p>",
+            "text": "<p>Our data is confirmed by algorithms, employees, and you on the road.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -277,7 +277,7 @@
           "type": "column",
           "settings": {
             "title": "Part of a community",
-            "text": "<p>The service is powered by Drive One, the strongest data partners - and you.<\/p>",
+            "text": "<p>The service is powered by Drive One, the strongest data partners, and you.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -285,8 +285,8 @@
         "2eeca9ad-4a97-4e38-820e-7778c6478ccd": {
           "type": "column",
           "settings": {
-            "title": "Uncompromising in design",
-            "text": "<p>The Danish designer John Sebastian has created a beautiful device that is easy to operate on the go - and does not spoil the cabin.<\/p>",
+            "title": "Uncompromising design",
+            "text": "<p>The Danish designer John Sebastian has created a beautiful device that’s easy to operate on the go and doesn’t ruin your car’s aesthetic.<\/p>",
             "link_label": "",
             "link": ""
           }
