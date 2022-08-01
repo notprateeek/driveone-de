@@ -4,13 +4,9 @@
   padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
 }
 
-.only-video {
-  display: none;
-}
-
-@media screen and (max-width: 649px){
+@media screen and (min-width: 600px) {
   .only-video {
-    display: block;
+    display: none;
   }
 }
 
