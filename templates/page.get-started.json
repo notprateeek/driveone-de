@@ -21,7 +21,7 @@
         "1656563785fe9bb16c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Installing your Drive One is almost as simple as daily use. Follow these few steps - and look forward to traffic without dangers and speeding tickets.<\/p>",
+            "text": "<p>Installing your Drive One is almost as simple as using it. Follow these few step, and look forward to traffic free from dangers and speeding tickets.<\/p>",
             "text_style": "body"
           }
         }
@@ -31,7 +31,7 @@
         "1656563785fe9bb16c-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/miljo-002_Large_3feaa575-1b02-4a9c-b83f-18f0bdfcf46a.png",
+        "image": "shopify:\/\/shop_images\/miljo-lys-003_Large_193d99cc-39ea-4d1a-b6f1-4c138865e3d7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -169,6 +169,7 @@
           "settings": {
             "text": "<p>Once your Drive One is installed, do not give it a second thought - until it notifies you.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         },
@@ -177,6 +178,7 @@
           "settings": {
             "text": "<p>The phone and the device are connected completely automatically when you get behind the wheel.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         },
@@ -185,6 +187,7 @@
           "settings": {
             "text": "<p>Then it will not be much easier.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
