@@ -986,13 +986,13 @@
         "1652937850a8dca6e5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>There are a number of different types of cookies, however, our Website uses:<\/p>"
+            "text": "<p>There are a various types of cookies, of which, our Website uses:<\/p>"
           }
         },
         "1652937850a8dca6e5-2": {
           "type": "button",
           "settings": {
-            "text": "<p>Functionality – These cookies are used so that we recognize you on our Website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.<\/p>",
+            "text": "<p>Functionality – These cookies are used to recognize you on our Website and remember your previously selected preferences. These could include your preferred language and your location. A mix of first-party and third-party cookies are used.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1000,7 +1000,7 @@
         "4be2f2b2-0f27-4a29-9964-3c892005ca64": {
           "type": "button",
           "settings": {
-            "text": "<p>Advertising – These cookies are used to collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device, and your IP address. We sometimes share some limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.<\/p>",
+            "text": "<p>Advertising – These cookies are used to collect information about your visit to our Website, the content you viewed, the links you followed and information about your browser, device, and your IP address. We sometimes share limited aspects of this data with third parties for advertising purposes. We may also share online data collected through cookies with our advertising partners. This means that when you visit another website, you may be shown advertising based on your browsing patterns on our website.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -1032,7 +1032,7 @@
         "16529379050a02754e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. If you do not want cookies to be stored on your device, please check the settings of your browser. Each browser might have different kind of settings:<\/p>"
+            "text": "<p>You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. If you do not want cookies to be stored on your device, please check your browser settings. Each browser might have different settings:<\/p>"
           }
         },
         "16529379050a02754e-2": {
@@ -1116,7 +1116,7 @@
         "1657617457b6e474c9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Remember that if you do that, you might not be able to use some or all features of the Website.<\/p>"
+            "text": "<p>Remember that if you remove cookies, you might not be able to use some or all features on the Website.<\/p>"
           }
         }
       },
