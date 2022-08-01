@@ -480,7 +480,7 @@
         "165293746700f955f6-2": {
           "type": "button",
           "settings": {
-            "text": "<p>register online through the Website or App<\/p>",
+            "text": "<p>register online through the Website or App;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -488,7 +488,7 @@
         "a442e20b-0658-498f-90ae-a2cc5da08bdf": {
           "type": "button",
           "settings": {
-            "text": "<p>purchase items on the Website or through another distributor<\/p>",
+            "text": "<p>purchase items on the Website or through another distributor;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -496,7 +496,7 @@
         "a2dc45ca-231f-471e-aca6-029ad1ec6413": {
           "type": "button",
           "settings": {
-            "text": "<p>download and install the App through an app store and sign up through the App<\/p>",
+            "text": "<p>download and install the App through an app store and sign up through the App;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -504,7 +504,7 @@
         "0985a3a0-66b1-417a-93e3-c63ec502b54f": {
           "type": "button",
           "settings": {
-            "text": "<p>use the Device by pressing a button<\/p>",
+            "text": "<p>use the Device by pressing a button;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -512,7 +512,7 @@
         "fc9d1d33-43a4-4261-aef8-1a82305687bc": {
           "type": "button",
           "settings": {
-            "text": "<p>voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email<\/p>",
+            "text": "<p>voluntarily complete a customer survey or provide feedback on any of our message boards on the Website or in the App or via email;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -520,7 +520,7 @@
         "0fbbca88-8443-4ec7-a169-4dbf9d5355e6": {
           "type": "button",
           "settings": {
-            "text": "<p>use our Website via your browser’s cookies<\/p>",
+            "text": "<p>use our Website via your browser’s cookies;<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -528,7 +528,7 @@
         "9ab1d879-e979-42ec-8de9-288b3c12b3b7": {
           "type": "button",
           "settings": {
-            "text": "<p>use the app<\/p>",
+            "text": "<p>use the app.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
