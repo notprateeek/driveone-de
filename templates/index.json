@@ -206,21 +206,21 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because we base the service on the real-time data of our many users, which we monitor and process. That's why you can count on our alerts.<\/p>",
+            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because the service is based on the real-time data supplied by our many users, which we monitor and process. That’s why you can count on our alerts.<\/p>",
             "text_style": "body"
           }
         },
         "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
           "type": "text",
           "settings": {
-            "text": "<p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and pretty quickly we turn a user's push of a button into a credible alert on Drive One.<\/p>",
+            "text": "<p>We have a system of members, employees and algorithms that deliver and sort our traffic data, and we quickly turn a user’s push of a button into a credible alert on Drive One.<\/p>",
             "text_style": "body"
           }
         },
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
           "type": "text",
           "settings": {
-            "text": "<p>This means that we can deliver relevant alerts with very high precision. Drive One can also be set to ignore starch boxes lying on your fixed route - and deep in your consciousness. Then you get rid of daily beeps.<\/p>",
+            "text": "<p>This means that we can deliver relevant alerts with impeccable precision. Drive One can also be set to ignore speed traps on your regular route that are embedded in your consciousness. Cut out the unncecessary daily beeps.<\/p>",
             "text_style": "body"
           }
         }
@@ -276,7 +276,7 @@
         "165661530340caea40-0": {
           "type": "heading",
           "settings": {
-            "heading": "Make Drive One your very own",
+            "heading": "Personalize your Drive One",
             "heading_size": "h1"
           }
         }
@@ -297,7 +297,7 @@
         "165661535926379d6e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The options are many when it comes to setting up your Drive One. Via the app, you can set which types of warnings you want. This means that you can opt out of, for example, road work or animals on the road - if you so wish.<\/p>",
+            "text": "<p>The options are endless when it comes to setting up your Drive One. Via the app, you can set the types of warnings you want. This means that you can opt out of, for example, road work or animals on the road if that’s what you want.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -306,7 +306,7 @@
         "17f0e00b-dcff-4172-94df-ed699a0626cd": {
           "type": "text",
           "settings": {
-            "text": "<p>You can also choose how you want to be notified. Whether the sound should come from Drive One, the app or over your car's system via Bluetooth. You can also set the amount of time you want your notification. Drive One is your friend in traffic - so be sure to tailor it to your needs.<\/p>",
+            "text": "<p>You can also choose how you want to be notified-whether the sound comes from Drive One, the app or through the car’s system via Bluetooth. You can also set how early you want to be notified. Drive One is your friend in traffic, so be sure to tailor it to your needs.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -315,7 +315,7 @@
         "8a389f5d-3066-4c7a-b99e-73015be93423": {
           "type": "text",
           "settings": {
-            "text": "<p>Via the app, you can also see alerts and speed controls in the area before turning the key. Maybe another route is obvious that day. The app also makes sure to tell you when the battery needs to be replaced.<\/p>",
+            "text": "<p>Using the app, you can also see alerts and speed controls in the area before turning the ignition. Maybe there’s a better route on that specific day. The app also lets you know when the battery needs to be replaced.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
