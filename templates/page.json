@@ -694,7 +694,9 @@
     "1658827732934f26f0": {
       "type": "video-1",
       "settings": {
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ef6e74c541e7472e85248c3a8c9ebb7d.mp4",
+        "da_video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/72316b47f09a4ea9bfe324430e77651c.mp4",
+        "de_video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f26840b449b740ee9e8f8e9c92c9f3e5.mp4",
+        "en_video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f9e9b8656825430a97344356b4c07fdd.mp4",
         "padding_top": 36,
         "padding_bottom": 36
       }
