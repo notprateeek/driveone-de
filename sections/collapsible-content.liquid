@@ -97,15 +97,17 @@
                     {{ block.settings.row_content }}
                     {{ block.settings.page.content }}
 
-                    {% if block.settings.video_url %}
-                      <div class="video-1 page-width section-{{ section.id }}-padding">
-                        <video controls width="80%" height="auto">
-                          <source src="{{ block.settings.video_url }}" type="video/mp4" />
-                        </video>
-                      </div>
-                    {% endif %}
+                    
 
                     {% if shop.locale == 'da' %}
+                      {% if block.settings.da_video_url %}
+                        <div class="video-1 page-width section-{{ section.id }}-padding">
+                          <video controls width="80%" height="auto">
+                            <source src="{{ block.settings.da_video_url }}" type="video/mp4" />
+                          </video>
+                        </div>
+                      {% endif %}
+
                       <div class="collapsible-images">
                       {%- if block.settings.image_2 != blank -%}
                         <img
@@ -145,7 +147,16 @@
                       {%- endif -%}
                     </div>
                     {% endif %}
+
                     {% if shop.locale == 'de' %}
+                      {% if block.settings.de_video_url %}
+                        <div class="video-1 page-width section-{{ section.id }}-padding">
+                          <video controls width="80%" height="auto">
+                            <source src="{{ block.settings.de_video_url }}" type="video/mp4" />
+                          </video>
+                        </div>
+                      {% endif %}
+
                       <div class="collapsible-images">
                       {%- if block.settings.image_4 != blank -%}
                         <img
@@ -185,7 +196,16 @@
                       {%- endif -%}
                     </div>
                     {% endif %}
+
                     {% if shop.locale == 'en' %}
+                      {% if block.settings.en_video_url %}
+                      <div class="video-1 page-width section-{{ section.id }}-padding">
+                        <video controls width="80%" height="auto">
+                          <source src="{{ block.settings.en_video_url }}" type="video/mp4" />
+                        </video>
+                      </div>
+                    {% endif %}
+
                       <div class="collapsible-images">
                         {%- if block.settings.image_6 != blank -%}
                           <img
@@ -454,8 +474,18 @@
       "settings": [
         {
           "type": "url",
-          "id": "video_url",
-          "label": "Video url"
+          "id": "da_video_url",
+          "label": "da video url"
+        },
+        {
+          "type": "url",
+          "id": "de_video_url",
+          "label": "de video url"
+        },
+        {
+          "type": "url",
+          "id": "en_video_url",
+          "label": "en video url"
         },
         {
           "type": "text",
