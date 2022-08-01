@@ -253,6 +253,7 @@
           "settings": {
             "video_url": "",
             "heading": "Connected",
+            "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
@@ -265,6 +266,7 @@
           "settings": {
             "video_url": "",
             "heading": "Quick app tour",
+            "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
@@ -277,6 +279,7 @@
           "settings": {
             "video_url": "",
             "heading": "Top report button",
+            "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
@@ -289,6 +292,7 @@
           "settings": {
             "video_url": "",
             "heading": "Bottom report button",
+            "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
@@ -301,6 +305,8 @@
           "settings": {
             "video_url": "",
             "heading": "Test reports",
+            "image_2": "shopify:\/\/shop_images\/Group_27.png",
+            "image_3": "shopify:\/\/shop_images\/Group_45.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
             "image_5": "shopify:\/\/shop_images\/Group_42.png",
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
@@ -315,6 +321,7 @@
           "settings": {
             "video_url": "",
             "heading": "Test warning sounds",
+            "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
