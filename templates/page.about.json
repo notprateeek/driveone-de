@@ -21,7 +21,7 @@
         "165656365147db5edd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re the car owner’s best friend. We’re a Danish company, and we specialize in shielding drivers from fines. In addition to Drive One, we are behind Park One, which covers both electronic parking discs and a popular Danish parking app. We also own the Traffic Alarm app, which alerts users to speed checks and incidents.<\/p>",
+            "text": "<p>We’re the car owner’s best friend. We’re a Danish company, and we specialize in saving drivers from tickets. In addition to Drive One, we’ve created Park One, which includes both electronic parking discs and a popular Danish parking app. We also own the Traffic Alarm app, which alerts users to speed checks and incidents.<\/p>",
             "text_style": "body"
           }
         }
@@ -50,7 +50,7 @@
         "1651783410e49c9a3d-0": {
           "type": "heading",
           "settings": {
-            "heading": "We have car accessories in our blood",
+            "heading": "Car accessories run in our blood",
             "heading_size": "h1"
           }
         }
@@ -71,7 +71,7 @@
         "16517834345a052ad1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One is the latest shot in the arm in a range of products and services that help motorists.<\/p>"
+            "text": "<p>Drive One is the latest addition to  a range of products and services that help drivers.<\/p>"
           }
         }
       },
@@ -368,7 +368,7 @@
           "type": "column",
           "settings": {
             "title": "ParkOne P-disc",
-            "text": "<p>Our electronic parking disc is known and loved by many. In fact, we have sold more than three million P-discs, and today we are the world's leading developer and manufacturer of electronic P-discs.<\/p>",
+            "text": "<p>Our electronic parking disc is widely known and loved. In fact, we’ve sold more than three million P-discs, and we’re currently the world's leading developer and manufacturer of electronic P-discs.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -377,7 +377,7 @@
           "type": "column",
           "settings": {
             "title": "ParkOne Parking app",
-            "text": "<p>In 2018, we launched our parking app, which has made it easier, cheaper and safer to park. With low prices, a high coverage area and good, technical solutions, we have won a large part of the Danish market for parking apps.<\/p>",
+            "text": "<p>In 2018, we launched our parking app, which has made it easier, cheaper and safer to park. With low prices, extensive coverage and good, technical solutions, we have secured a large part of the Danish market for parking apps.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -385,8 +385,8 @@
         "1651783552a8193fa7-2": {
           "type": "column",
           "settings": {
-            "title": "Traffik Alarm",
-            "text": "<p>Our warning app offers navigation, warnings about speed control and traffic accidents and an overview of traffic conditions - right now and here. With accurate data and good features, we have built up a large network of daily users who help each other safely through traffic.<\/p>",
+            "title": "Trafik Alarm",
+            "text": "<p>Our warning app offers navigation, warnings about speed controls and traffic accidents and an overview of traffic conditions right then and there. With accurate data and good features, we have built up a large network of daily users who help each other safely through traffic.<\/p>",
             "link_label": "",
             "link": ""
           }
