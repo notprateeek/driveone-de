@@ -13,7 +13,7 @@
         "1655151519a91f966b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Traffic without dangers and speeding fines<\/p>",
+            "text": "<p>Traffic without dangers and speeding tickets<\/p>",
             "text_style": "body"
           }
         },
@@ -299,6 +299,7 @@
           "settings": {
             "text": "<p>The options are many when it comes to setting up your Drive One. Via the app, you can set which types of warnings you want. This means that you can opt out of, for example, road work or animals on the road - if you so wish.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         },
@@ -307,6 +308,7 @@
           "settings": {
             "text": "<p>You can also choose how you want to be notified. Whether the sound should come from Drive One, the app or over your car's system via Bluetooth. You can also set the amount of time you want your notification. Drive One is your friend in traffic - so be sure to tailor it to your needs.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         },
@@ -315,6 +317,7 @@
           "settings": {
             "text": "<p>Via the app, you can also see alerts and speed controls in the area before turning the key. Maybe another route is obvious that day. The app also makes sure to tell you when the battery needs to be replaced.<\/p>",
             "hr": false,
+            "padding-left": false,
             "text_style": "body"
           }
         }
