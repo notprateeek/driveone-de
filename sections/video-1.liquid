@@ -19,11 +19,29 @@
 {%- endstyle -%}
 
 
-<div class=" video-1 page-width section-{{ section.id }}-padding">
-  <video controls width="80%" height="auto">
-    <source src="{{ section.settings.video_url }}" type="video/mp4" />
-  </video>
-</div>
+{% if shop.locale == 'da' %}
+  <div class=" video-1 page-width section-{{ section.id }}-padding">
+    <video controls width="80%" height="auto">
+      <source src="{{ section.settings.da_video_url }}" type="video/mp4" />
+    </video>
+  </div>
+{% endif %}
+
+{% if shop.locale == 'de' %}
+  <div class=" video-1 page-width section-{{ section.id }}-padding">
+    <video controls width="80%" height="auto">
+      <source src="{{ section.settings.de_video_url }}" type="video/mp4" />
+    </video>
+  </div>
+{% endif %}
+
+{% if shop.locale == 'en' %}
+  <div class=" video-1 page-width section-{{ section.id }}-padding">
+    <video controls width="80%" height="auto">
+      <source src="{{ section.settings.en_video_url }}" type="video/mp4" />
+    </video>
+  </div>
+{% endif %}
 
 {% schema %}
 {
@@ -33,8 +51,18 @@
   "settings": [
     {
       "type": "url",
-      "id": "video_url",
-      "label": "Video url"
+      "id": "da_video_url",
+      "label": "da video url"
+    },
+    {
+      "type": "url",
+      "id": "de_video_url",
+      "label": "de video url"
+    },
+    {
+      "type": "url",
+      "id": "en_video_url",
+      "label": "en video url"
     },
     {
       "type": "range",
