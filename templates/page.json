@@ -537,7 +537,7 @@
           "settings": {
             "text": "<p>• Camera button for speed cameras<\/p>",
             "hr": false,
-            "padding-left": false,
+            "padding-left": true,
             "text_style": "subtitle"
           }
         },
@@ -546,7 +546,7 @@
           "settings": {
             "text": "<p>• Triangle button for other events<\/p>",
             "hr": false,
-            "padding-left": false,
+            "padding-left": true,
             "text_style": "subtitle"
           }
         }
