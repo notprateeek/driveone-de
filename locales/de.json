@@ -925,6 +925,9 @@
       },
       "order_payment_collection": {
         "pay_now": "Kostenpflichtig bestellen"
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Express-Kasse"
       }
     },
     "store_availability": {
