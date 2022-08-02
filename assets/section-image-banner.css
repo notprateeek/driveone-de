@@ -468,7 +468,7 @@
 
 @media screen and (max-width: 749px) {
   .banner--large.video-background:not(.banner--adapt) {
-    max-height: 27em;
+    max-height: 23em;
   }
 }
 
