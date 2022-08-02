@@ -921,7 +921,7 @@
         "pay_now_button_label": "Kostenpflichtig bestellen",
         "all_rights_reserved": "Alle Recht sind %{shop_name} vorbehalten",
         "continue_to_shipping_method": "Weiter zum Versand",
-        "continue_to_payment_method": "Kostenpflichtig bestellen"
+        "continue_to_payment_method": "Weiter zur Zahlung"
       }
     },
     "store_availability": {
