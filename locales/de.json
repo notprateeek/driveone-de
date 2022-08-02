@@ -260,8 +260,8 @@
     },
     "footer": {
       "payment": "Zahlungsmethoden",
-      "get-help": "Hilfe bekommen",
-      "contact-us": "Kontaktiere uns",
+      "get-help": "Hilfe",
+      "contact-us": "Kontakt",
       "download": "Download",
       "terms": "Bedingungen",
       "terms-of-service": "Geschäftsbedingungen",
@@ -304,7 +304,7 @@
       "always_up_to_date": "Immer auf dem Laufenden",
       "free_subscription": "Kostenloses Abonnement",
       "user-friendly": "Benutzerfreundlich",
-      "checked_and_double-checked": "Geprüft und doppelt geprüft",
+      "checked_and_double-checked": "Geprüft und Bestätigt",
       "part_of_a_community": "Teil einer Community",
       "uncompromising_in_design": "Kompromisslos im Design"
     }
