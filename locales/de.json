@@ -918,7 +918,8 @@
         "breadcrumb": "Breadcrumb",
         "continue_button_label": "Weiter",
         "complete_purchase_button_label": "Kaufen",
-        "pay_now_button_label": "Jetzt bezahlen"
+        "pay_now_button_label": "Kostenpflichtig bestellen",
+        "all_rights_reserved": "Alle Recht sind %{shop_name} vorbehalten"
       }
     },
     "store_availability": {
