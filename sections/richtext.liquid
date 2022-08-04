@@ -28,8 +28,8 @@
             {%- if block.settings.heading-hr -%}<hr />{%- endif -%} 
           {%- when 'text' -%}
             <div class="icons">
-              {% render 'google-play' %}
-              {% render 'app-store' %}
+              <a href="{{ 'general.app-links.google-play' | t }}">{% render 'google-play' %}</a>
+              <a href="{{ 'general.app-links.app-store' | t }}">{% render 'app-store' %}</a>
             </div>
             <hr />
           {%- when 'button' -%}

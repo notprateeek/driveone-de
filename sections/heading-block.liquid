@@ -51,8 +51,8 @@
             <div class="rich-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- if block.settings.icons -%}
               <div class="store-icons rte">
-                {% render 'app-store' %}
-                {% render 'google-play' %}
+                <a href="{{ 'general.app-links.google-play' | t }}">{% render 'google-play' %}</a>
+              <a href="{{ 'general.app-links.app-store' | t }}">{% render 'app-store' %}</a>
               </div>
             {%- endif -%}
           {%- when 'image' -%}
