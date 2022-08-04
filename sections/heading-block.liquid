@@ -32,6 +32,10 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
+  .store-icons a {
+    text-decoration: none;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -52,7 +56,7 @@
             {%- if block.settings.icons -%}
               <div class="store-icons rte">
                 <a href="{{ 'general.app-links.google-play' | t }}">{% render 'google-play' %}</a>
-              <a href="{{ 'general.app-links.app-store' | t }}">{% render 'app-store' %}</a>
+                <a href="{{ 'general.app-links.app-store' | t }}">{% render 'app-store' %}</a>
               </div>
             {%- endif -%}
           {%- when 'image' -%}
