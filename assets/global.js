@@ -7,8 +7,7 @@ function getFocusableElements(container) {
 }
 
 var userLanguage = window.navigator.userLanguage || window.navigator.language;
-var language1 = '{{ shop.locale | json }}'
-console.log('hee', language1)
+console.log('hee', userLanguage)
 
 
 document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
