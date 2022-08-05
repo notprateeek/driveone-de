@@ -22,8 +22,8 @@
 
 <script>
   var userLang = navigator.userLanguage || navigator.language;
-  var loc = '{{ localization.language }}'
-  console.log('hello', loc);
+  var loc = '{{ localization.language.locale }}'
+  console.log('hello',userLang, loc);
 </script>
 
 <style>
