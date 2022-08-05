@@ -6,10 +6,6 @@ function getFocusableElements(container) {
   )
 }
 
-var userLanguage = window.navigator.userLanguage || window.navigator.language;
-console.log('hee', userLanguage)
-
-
 document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
   summary.setAttribute('role', 'button')
   summary.setAttribute('aria-expanded', summary.parentNode.hasAttribute('open'))
