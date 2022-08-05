@@ -20,6 +20,10 @@
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'disclosure.css' | asset_url | stylesheet_tag }}</noscript>
 
+<script>
+  var userLanguage = window.navigator.userLanguage || window.navigator.language;
+</script>
+
 <style>
   .ls-menu {
     margin: 1em 2em;
