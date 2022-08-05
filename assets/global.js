@@ -7,7 +7,7 @@ function getFocusableElements(container) {
 }
 
 var userLanguage = window.navigator.userLanguage || window.navigator.language;
-var language1 = "{{ shop.locale | json }}"
+var language1 = '{{ shop.locale | json }}'
 console.log('hee', language1)
 
 
