@@ -8,7 +8,6 @@ function getFocusableElements(container) {
 
 var userLanguage = window.navigator.userLanguage || window.navigator.language;
 console.log('here', userLanguage)
-console.log('here', shop.locale)
 
 document.querySelectorAll('[id^="Details-"] summary').forEach((summary) => {
   summary.setAttribute('role', 'button')
