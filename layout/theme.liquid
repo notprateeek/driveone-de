@@ -241,7 +241,8 @@
   <script>
     var userLanguage = window.navigator.userLanguage || window.navigator.language;
     console.log('hee', userLanguage)
-    console.log('eeh', {{ shop.locale }})
+    var shop = "{{ shop.locale }}"
+    console.log('eeh', shop)
   </script>
 
   <body class="gradient">
