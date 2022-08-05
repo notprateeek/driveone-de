@@ -20,10 +20,6 @@
 <noscript>{{ 'component-cart-items.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'disclosure.css' | asset_url | stylesheet_tag }}</noscript>
 
-<script>
-  var userLang = navigator.userLanguage || navigator.language;
-</script>
-
 <style>
   .ls-menu {
     margin: 1em 2em;
@@ -227,7 +223,7 @@
                         <select name="language_code">
                           {% for language in localization.available_languages %}
                             <option value="{{ language.iso_code }}"
-                              {%- if language == userLang %} selected="selected"{% endif %}
+                              {%- if language == localization.language %} selected="selected"{% endif %}
                             >
                               {{ language.endonym_name }}
                             </option>
