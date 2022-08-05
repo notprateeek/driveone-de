@@ -22,6 +22,7 @@
 
 <script>
   var userLang = navigator.userLanguage || navigator.language;
+  console.log('hello', localization.language);
 </script>
 
 <style>
@@ -227,7 +228,7 @@
                         <select name="language_code">
                           {% for language in localization.available_languages %}
                             <option value="{{ language.iso_code }}"
-                              {%- if language == userLang %} selected="selected"{% endif %}
+                              {%- if language == localization.language %} selected="selected"{% endif %}
                             >
                               {{ language.endonym_name }}
                             </option>
