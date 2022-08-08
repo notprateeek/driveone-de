@@ -224,6 +224,13 @@
 
     {% section 'announcement-bar' %}
     {% section 'header' %}
+
+    <script>
+      window.addEventListener('load', () => {
+        console.log('works')
+      })
+    <script>
+
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
