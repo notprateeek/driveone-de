@@ -222,10 +222,10 @@
                       {%- endif -%}
                     </div>
                     <div class="ls-menu">
-                      {% form 'localization', id: 'onload-form' %}
+                      {% form 'localization' %}
                         <select name="language_code">
                           {% for language in localization.available_languages %}
-                            <option id="onload-option" value="{{ language.iso_code }}"
+                            <option value="{{ language.iso_code }}"
                               {%- if language == localization.language %} selected="selected"{% endif %}
                             >
                               {{ language.endonym_name }}
