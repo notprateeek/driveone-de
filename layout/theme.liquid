@@ -218,12 +218,14 @@
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="774da3ff-4430-44c1-84bd-31ca2bcda617" data-blockingmode="auto" type="text/javascript"></script>
 
   <script>
-    window.addEventListener('load', (e) => {
-      console.log('test', e);
-    })
     
-    document.getElementByClass('localization-selector').children[0].value = navigator.language || navigator.userLanguage;
+    
+    const option = document.getElementByClass('localization-selector').children[0].value = navigator.language || navigator.userLanguage;
     document.getElementById('FooterLanguageFormNoScript').submit();
+
+    window.addEventListener('load', () => {
+      console.log('test', option);
+    })
   </script>
 
   <body class="gradient">
