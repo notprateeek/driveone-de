@@ -220,10 +220,11 @@
   <script>
     
     
-    const option = document.getElementByClass('localization-selector').children[0].value = navigator.language || navigator.userLanguage;
+    
     document.getElementById('FooterLanguageFormNoScript').submit();
 
     window.addEventListener('load', () => {
+      const option = document.getElementByClass('localization-selector').children[0].value = navigator.language || navigator.userLanguage;
       console.log('test', option);
     })
   </script>
