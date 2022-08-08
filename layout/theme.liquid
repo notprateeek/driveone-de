@@ -236,8 +236,7 @@
     </ul>
 
     <script>
-      var shop = '{{ shop.locale }}'
-      shop = 'de'
+      var shop = '{{ shop.locale == de }}'
       console.log('here', shop);
 
       window.shopUrl = '{{ request.origin }}';
