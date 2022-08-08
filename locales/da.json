@@ -55,7 +55,7 @@
     },
     "app-links": {
       "google-play": "https://play.google.com/store/apps/details?id=eu.driveone&ah=am9T9ovRWYjDuFgUtRta1aBsiwY",
-      "app-store": "https://apps.apple.com/{{ shop.locale }}/app/drive-one/id1611145694"
+      "app-store": "da"
     }
   },
   "newsletter": {
