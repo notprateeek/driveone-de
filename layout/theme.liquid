@@ -219,11 +219,12 @@
 
   <script>
     
-     const option = document.querySelector('.localization-selector')
+    
     document.querySelector('.localization-selector').children[0].value = navigator.language || navigator.userLanguage;
 
-    window.addEventListener('load', (event) => {
-      console.log('test', event);
+    window.addEventListener('load', () => {
+      const option = document.querySelector('.localization-selector')
+      console.log('test', option);
     })
   </script>
 
