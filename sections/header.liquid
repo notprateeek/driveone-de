@@ -798,6 +798,8 @@
       this.querySelectorAll('a').forEach(item => item.addEventListener('click', this.onItemClick.bind(this)));
     }
 
+    console.log('please');
+
     hidePanel() {
       this.elements.button.setAttribute('aria-expanded', 'false');
       this.elements.panel.setAttribute('hidden', true);
