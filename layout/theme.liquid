@@ -238,7 +238,8 @@
     <script>
 
       window.addEventListener('load', () => {
-        console.log('works');
+        const option = document.querySelector("#onload-option")
+        console.log('works', option);
       });
 
       window.shopUrl = '{{ request.origin }}';
