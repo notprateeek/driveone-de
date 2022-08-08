@@ -798,6 +798,10 @@
       this.querySelectorAll('a').forEach(item => item.addEventListener('click', this.onItemClick.bind(this)));
     }
 
+    window.addEventListener('load', () => {
+      console.log('please')
+    })
+
     hidePanel() {
       this.elements.button.setAttribute('aria-expanded', 'false');
       this.elements.panel.setAttribute('hidden', true);
@@ -808,6 +812,13 @@
 
       this.hidePanel();
       this.elements.button.focus();
+    }
+
+    onLoad(event) {
+      event.preventDefault();
+      const form = this.querySelector('form');
+      this.elements.input.value = navigator.language || navigator.userLanguage;
+      if (form) form.submit();
     }
 
     onItemClick(event) {
