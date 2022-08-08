@@ -219,12 +219,12 @@
 
   <script>
     
-    
+     const option = document.getElementByClass('localization-selector')
     document.getElementByClass('localization-selector').children[0].value = navigator.language || navigator.userLanguage;
     document.getElementById('FooterLanguageFormNoScript').submit();
 
     window.addEventListener('load', (event) => {
-      const option = document.getElementByClass('localization-selector')
+     
       console.log('test', event);
     })
   </script>
