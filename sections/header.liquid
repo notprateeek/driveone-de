@@ -810,13 +810,6 @@
       this.elements.button.focus();
     }
 
-    onLoad(event) {
-      event.preventDefault();
-      const form = this.querySelector('form');
-      this.elements.input.value = navigator.language || navigator.userLanguage;
-      if (form) form.submit();
-    }
-
     onItemClick(event) {
       event.preventDefault();
       const form = this.querySelector('form');
