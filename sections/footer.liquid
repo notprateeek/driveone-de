@@ -56,29 +56,13 @@
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Information</h2>
-            {% if shop.locale == 'de' %}
               <div class="footer-block__details-content rte">
-                Tradora GmbH
-                <br />
-                Friedrichstr. 95
-                <br />
-                10117 Berlin
-                <br />
-                Deutschland
-              </div>
-            {% else %}
-              <div class="footer-block__details-content rte">
-                Drive One / Needit ApS
-                <br />
-                Hammerholmen 18
-                <br />
-                DK-2650 Hvidovre
-                <br />
-                Denmark
-                <br />
+                {% if shop.locale != "de" %}
+                Drive One / Needit Denmark ApS
+                {% endif %}
+                {{ shop.address | format_address }}
                 {{ 'sections.footer.information' | t }}
               </div>
-            {% endif %}
           </div>
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
