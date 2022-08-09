@@ -180,7 +180,7 @@
         "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_switcher\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
         "disabled": false,
         "settings": {
-          "enable_language_switcher": true,
+          "enable_language_switcher": false,
           "enable_country_region_switcher": false,
           "use_modal_dialog": false,
           "use_currency_for_region": false,
