@@ -230,7 +230,20 @@
       <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
 
-   
+    <script>
+      fetch('https://api.ipregistry.co/?key=tryout')
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (payload) {
+        if (
+          payload.location.country.code == 'de' ||
+          payload.location.country.code == 'DE'
+        ) {
+          window.location.replace('https://driveone.de{{ page.url }}');
+        }
+      });
+    </script>
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
     if (Shopify.designMode) {
