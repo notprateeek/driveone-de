@@ -2,7 +2,7 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
 
-    {% if request.host == 'driveone.eu' %}
+    {% comment %}{% if request.host == 'driveone.eu' %}
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-N25R5ENKKM"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
@@ -24,7 +24,7 @@
         gtag('config', 'G-PYBD2T18QV');
         console.log("driveone.de");
       </script>
-    {% endif %}
+    {% endif %}{% endcomment %}
 
     
     <meta charset="utf-8">
