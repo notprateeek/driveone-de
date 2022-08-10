@@ -9,14 +9,14 @@
       })
       .then(function (payload) {
         if (
-          payload.location.country.code === 'de' ||
-          payload.location.country.code === 'DE'
+          payload.location.country.code == 'de' ||
+          payload.location.country.code == 'DE'
         ) {
           console.log("de");
         }
         if (
-          payload.location.country.code !== 'de' ||
-          payload.location.country.code !== 'DE'
+          payload.location.country.code != 'de' ||
+          payload.location.country.code != 'DE'
         ) {
           console.log("not de");
         }
