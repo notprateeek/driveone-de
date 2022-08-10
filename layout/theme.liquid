@@ -2,10 +2,6 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
 
-    
-
-    <script>console.log('hehe', {{ page.url }})</script>
-
     fetch('https://api.ipregistry.co/?key=tryout')
       .then(function (response) {
         return response.json();
