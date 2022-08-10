@@ -12,7 +12,7 @@
       gtag('config', 'UA-236597817-1');
     </script>
 
-    {% if shop.domain == 'driveone.de' %}
+    {% if shop.domain === 'driveone.de' %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-236597817-2"></script>
       <script>
@@ -242,8 +242,8 @@
       })
       .then(function (payload) {
         if (
-          payload.location.country.code == 'de' ||
-          payload.location.country.code == 'DE'
+          payload.location.country.code === 'de' ||
+          payload.location.country.code === 'DE'
         ) {
           window.location.replace('https://driveone.de{{ page.url }}');
         }
