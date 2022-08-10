@@ -12,7 +12,15 @@
           payload.location.country.code === 'de' ||
           payload.location.country.code === 'DE'
         ) {
-          console.log("germany");
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-236597817-2"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+          
+            gtag('config', 'UA-236597817-2');
+          </script>
         }
       });
     </script>
