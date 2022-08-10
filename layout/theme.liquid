@@ -12,7 +12,17 @@
       gtag('config', 'UA-236597817-1');
     </script>
 
-   
+    {% if shop.domain == 'driveone.de' %}
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-236597817-2"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        console.log("two");
+        gtag('config', 'UA-236597817-2');
+      </script>
+    {% endif %}
 
     
     <meta charset="utf-8">
@@ -220,25 +230,12 @@
       <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
 
+   
+
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
     if (Shopify.designMode) {
       document.documentElement.classList.add('shopify-design-mode');
     }
-    </script>
-
-    <script>
-      fetch('https://api.ipregistry.co/?key=tryout')
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (payload) {
-        if (
-          payload.location.country.code == 'de' ||
-          payload.location.country.code == 'DE'
-        ) {
-          window.location.replace('https://driveone.de{{ page.url }}');
-        }
-      });
     </script>
   </head>
   
