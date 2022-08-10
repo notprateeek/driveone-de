@@ -145,18 +145,17 @@ function compareDate(d,b){var a=false;if(!d){return true}var c=d.split("-");if(c
               if(lan_code == defaultLocale.toLowerCase()){
                   new_pathname = pathname.replace('/' + url_lan_code, '')
             } else {
-                var find_lan_code=false;
+                  var find_lan_code=false;
                   languageList.map((v,k)=>{
-                      if(v.iso_code.toLowerCase()===url_lan_code.toLowerCase()){
+                      if(v.iso_code.toLowerCase().includes(url_lan_code.toLowerCase())){
                           find_lan_code=true
                       }
                   })
-                  // if(find_lan_code){
-                  //     new_pathname = pathname.replace(url_lan_code, lan_code)
-                  // } else {
-                  //     new_pathname = '/' + lan_code + pathname
-                  // }
-                  new_pathname = pathname.replace(url_lan_code, lan_code)
+                  if(find_lan_code){
+                      new_pathname = pathname.replace(url_lan_code, lan_code)
+                  } else {
+                      new_pathname = '/' + lan_code + pathname
+                  }
                   if(new_pathname[0] !== '/'){
                       new_pathname = '/' + new_pathname
                   }
@@ -1115,9 +1114,9 @@ function etranslateCurrency(originCurrency, currentCurrency) {
                     }else{
                         var price
                         if (specialCurrency.includes(originCurrency.code) && money_format.includes('amount_with_comma_separator')) {
-                            price = parseFloat(amountDom[i].innerHTML.replace('.', '').replace(",", ".").match(/\d+(\.\d+)?/g));
+                            price = parseFloat(amountDom[i].innerHTML.replace(/\./g, '').replace(/,/g, ".").match(/\d+(\.\d+)?/g));
                         } else {
-                            price = parseFloat(amountDom[i].innerHTML.replace(",", "").match(/\d+(\.\d+)?/g));
+                            price = parseFloat(amountDom[i].innerHTML.replace(/,/g,'').match(/\d+(\.\d+)?/g));
                         }
                     }
                     price = Currency.convert(price, originCurrency.code, currentCurrency.code).toFixed(2);
