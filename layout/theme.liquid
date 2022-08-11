@@ -253,13 +253,6 @@
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="774da3ff-4430-44c1-84bd-31ca2bcda617" data-blockingmode="auto" type="text/javascript"></script>
 
   <body class="gradient">
-
-    <script>
-    var yourl = '{{ page.url }}';
-    console.log("normal",'{{ page.url }}');
-    console.log("var", yourl);
-  </script>
-    
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -276,6 +269,12 @@
     <ul hidden>
       <li id="a11y-refresh-page-message">{{ 'accessibility.refresh_page' | t }}</li>
     </ul>
+
+    <script>
+    var yourl = '{{ page.url }}';
+    console.log("normal",'{{ page.url }}');
+    console.log("var", yourl);
+  </script>
 
     <script>
       window.shopUrl = '{{ request.origin }}';
