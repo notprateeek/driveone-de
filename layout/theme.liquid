@@ -31,16 +31,12 @@
         if(data.country == "DE" || data.country == "de"){
           if(location.hostname == "driveone.eu"){
             const path = '{{ request.path }}';
-            path.slice(2);
+            path.slice(3);
             window.location.replace(`https://driveone.de${path}`) || window.location.replace('https://driveone.de');
           }
         }
       })
     </script>
-
-    <script>
-    const path1 = '{{ request.path }}'.slice(3);
-    console.log(`host ${path1}`)</script>
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
