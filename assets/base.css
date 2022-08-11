@@ -2908,7 +2908,3 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
-
-.tl-select {
-padding: 1em 2em;
-}
