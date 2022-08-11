@@ -27,7 +27,7 @@
     {% endif %}{% endcomment %}
 
     <script>
-      async function get() {
+      (async function () {
         let url = "https://ipinfo.io/json?token=5b0ed6611ddba2";
         let res = await fetch(url);
         let data = await res.json();
@@ -37,8 +37,7 @@
           location.replace('https://driveone.de') || location.href('https://driveone.de');
           // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
         }
-      }
-      get();
+      })();
       
     </script>
     
