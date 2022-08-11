@@ -271,7 +271,7 @@
     </ul>
 
     <script>
-    var yourl = '{{ request }}';
+    var yourl = '{{ request.path }}';
     console.log("normal",'{{ page.url }}');
     console.log("var", yourl);
   </script>
