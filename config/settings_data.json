@@ -189,7 +189,7 @@
           "language_label": "language-name",
           "language_country_mapping": "",
           "countries_filter": "",
-          "custom_css": "#languageSwitcherDesktop {\nborder: 1px solid #000;\npadding: .3em .5em;\nmargin-left: 1em;\n}\n#languageSwitcherMobile {\nwidth: fit-content;\nborder: 1px solid #000;\nmargin: 1em 2em;\n}",
+          "custom_css": "#languageSwitcherDesktop {\nmargin-left: 1em;\n}\n#languageSwitcherMobile {\nwidth: fit-content;\nborder: 1px solid #000;\nmargin: 1em 2em;\n}",
           "header_switcher_reference_element": "#languageSwitcherDesktop",
           "header_switcher_relative_position": "in-element",
           "mobile_menu_switcher_reference_element": "#languageSwitcherMobile",
