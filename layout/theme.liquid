@@ -27,19 +27,14 @@
     {% endif %}{% endcomment %}
 
     <script>
-      (async function () {
-        let url = "https://ipinfo.io/json?token=5b0ed6611ddba2";
-        let res = await fetch(url);
-        let data = await res.json();
-        console.log("hehehe",data.country)
-
+      fetch("https://ipinfo.io/json?token=5b0ed6611ddba2").then(res => res.json()).then(data => {
         if(data.country == "DE" || data.country == "de"){
           if(request.host == "driveone.eu"){
-            location.replace('https://driveone.de');
+            window.location.replace('https://driveone.de');
             // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
           }
         }
-      })();
+      })
     </script>
     
     <meta charset="utf-8">
