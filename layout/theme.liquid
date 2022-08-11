@@ -234,7 +234,7 @@
   
 
     <script>
-      {% comment %} fetch('https://api.ipregistry.co/?key=tryout')
+      fetch('https://api.ipregistry.co/?key=tryout')
       .then(function (response) {
         return response.json();
       })
@@ -245,7 +245,7 @@
         ) {
           window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
         }
-      }); {% endcomment %}
+      });
     </script>
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
