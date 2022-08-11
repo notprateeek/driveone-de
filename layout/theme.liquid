@@ -33,7 +33,7 @@
         let data = await res.json();
         console.log("hehehe",data.country)
 
-        if(request.host != "driveone.de"){
+        if(request.host !== "driveone.de"){
           if(data.country == "DE" || data.country == "de"){
             location.replace('https://driveone.de') || location.href('https://driveone.de');
             // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
