@@ -35,6 +35,12 @@
         }
       })
     </script>
+
+    <script>
+      var yourl = '{{ request.path }}';
+      console.log("normal",'{{ page.url }}');
+      console.log("var", yourl);
+    </script>
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -269,12 +275,6 @@
     <ul hidden>
       <li id="a11y-refresh-page-message">{{ 'accessibility.refresh_page' | t }}</li>
     </ul>
-
-    <script>
-    var yourl = '{{ request.path }}';
-    console.log("normal",'{{ page.url }}');
-    console.log("var", yourl);
-  </script>
 
     <script>
       window.shopUrl = '{{ request.origin }}';
