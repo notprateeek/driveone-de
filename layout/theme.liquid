@@ -25,6 +25,22 @@
         console.log("driveone.de");
       </script>
     {% endif %}{% endcomment %}
+
+    <script>
+      (async function () {
+        let url = "https://ipinfo.io/json?token=5b0ed6611ddba2";
+        let res = await fetch(url);
+        let data = await res.json();
+        console.log("hehehe",data.country)
+
+        if(data.country == "DE" || data.country == "de"){
+          if(request.host == "driveone.eu"){
+            location.replace('https://driveone.de');
+            // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
+          }
+        }
+      })();
+    </script>
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -236,23 +252,6 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
-
-  <script>
-      (async function () {
-        let url = "https://ipinfo.io/json?token=5b0ed6611ddba2";
-        let res = await fetch(url);
-        let data = await res.json();
-        console.log("hehehe",data.country)
-
-        if(data.country == "DE" || data.country == "de"){
-          if(request.host == "driveone.eu"){
-            location.replace('https://driveone.de');
-            // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
-          }
-        }
-      })();
-    </script>
-  
   </head>
   
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="774da3ff-4430-44c1-84bd-31ca2bcda617" data-blockingmode="auto" type="text/javascript"></script>
