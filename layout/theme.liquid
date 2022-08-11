@@ -30,7 +30,8 @@
       fetch("https://ipinfo.io/json?token=5b0ed6611ddba2").then(res => res.json()).then(data => {
         if(data.country == "DE" || data.country == "de"){
           if(request.host == "driveone.eu"){
-            window.location.replace('https://driveone.de');
+            console.log("here");
+            // window.location.replace('https://driveone.de');
             // window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
           }
         }
