@@ -239,14 +239,9 @@
 
     <script>
 
-      fetch('https://extreme-ip-lookup.com/json/')
-      .then( res => res.json())
-      .then(response => {
-          console.log("Country: ", response.country);
-       })
-       .catch((data, status) => {
-          console.log('Request failed');
-       })
+      $.get("https://ipinfo.io", function(response) {
+      console.log("attic", response.city, response.country);
+      }, "jsonp");
       
       {% comment %} fetch('https://api.ipregistry.co/?key=tryout')
       .then(function (response) {
