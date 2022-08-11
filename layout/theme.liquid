@@ -26,28 +26,6 @@
       </script>
     {% endif %}{% endcomment %}
 
-    <script>
-      fetch('https://api.ipregistry.co/?key=tryout')
-      .then(function (response) {
-        return response.json();
-      })
-      .then(function (payload) {
-        if (
-          payload.location.country.code == 'de' ||
-          payload.location.country.code == 'DE'
-        ) {
-          window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
-          console.log("germany");
-        }
-      });
-    </script>
-
-    <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-    if (Shopify.designMode) {
-      document.documentElement.classList.add('shopify-design-mode');
-    }
-    </script>
-
     
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -253,6 +231,27 @@
     {%- if settings.predictive_search_enabled -%}
       <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
+
+    <script>
+      fetch('https://api.ipregistry.co/?key=tryout')
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (payload) {
+        if (
+          payload.location.country.code == 'de' ||
+          payload.location.country.code == 'DE'
+        ) {
+          window.location.replace('https://driveone.de{{ page.url }}') || window.location.replace('https://driveone.de');
+        }
+      });
+    </script>
+
+    <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    if (Shopify.designMode) {
+      document.documentElement.classList.add('shopify-design-mode');
+    }
+    </script>
   </head>
   
   <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="774da3ff-4430-44c1-84bd-31ca2bcda617" data-blockingmode="auto" type="text/javascript"></script>
