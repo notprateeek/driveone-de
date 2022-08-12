@@ -125,7 +125,7 @@
           "type": "button",
           "settings": {
             "button_label": "For more information on how to get started",
-            "button_link": "shopify:\/\/pages\/get-started-1",
+            "button_link": "shopify:\/\/pages\/manual",
             "button_style_secondary": true
           }
         }
