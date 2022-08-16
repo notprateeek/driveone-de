@@ -7,6 +7,10 @@
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
 
+  . cookieconsent-optin-preferences {
+    display: none;
+  }
+  
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -16,7 +20,7 @@
 {%- endstyle -%}
 
 <div class="iframe-wrapper">
-  <iframe data-cookieblock-src="" src="https://support.driveone.eu/da/support/home"></iframe>
+  <iframe data-cookieblock-src="" data-cookieconsent="ignore" src="https://support.driveone.eu/da/support/home"></iframe>
 </div>
 
 {% schema %}
