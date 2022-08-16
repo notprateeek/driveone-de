@@ -917,7 +917,7 @@
       },
       "general": {
         "page_title": "Bezahlung",
-        "error_page_title": "error",
+        "error_page_title": "Fehler",
         "skip_to_content": "Direkt zum Inhalt",
         "breadcrumb": "Breadcrumb",
         "continue_button_label": "Weiter",
