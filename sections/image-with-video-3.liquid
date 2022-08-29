@@ -24,7 +24,7 @@
       <div class="image-with-text__media image-with-text__media--{{ section.settings.height }} gradient color-{{ section.settings.color_scheme }} global-media-settings {% if section.settings.image != blank %}media custom-media{% else %}image-with-text__media--placeholder placeholder{% endif %}"
         {% if section.settings.height == 'adapt' and section.settings.image != blank %} style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"{% endif %}
       >
-        <video autoplay loop playsinline muted>
+        <video id="smooth-loop" autoplay loop playsinline muted>
           <source src="https://cdn.shopify.com/videos/c/o/v/25b03bb6272a4ef9b464cef565988d07.mp4">
         </video>
       </div>
