@@ -1117,3 +1117,11 @@ details.forEach((targetDetail) => {
     })
   })
 })
+
+
+const vid = document.querySelector("smooth-loop");
+vid.addEventListener("timeupdate", (e) => {
+  if (e.target.currentTime >= 13) {
+    e.target.currentTime = 0.0;
+  }
+});
