@@ -133,7 +133,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
-              "menu": "footer"
+              "menu": "terms"
             }
           }
         },
@@ -201,7 +201,6 @@
           "custom_position_spacing_bottom": "20",
           "custom_position_spacing_left": "20",
           "custom_switcher_font_size": "14px",
-          "custom_switcher_font_weight": "normal",
           "custom_switcher_border_width": 1,
           "custom_switcher_text_color": "#5c5c5c",
           "custom_switcher_background_color": "#ffffff",
