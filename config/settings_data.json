@@ -131,14 +131,23 @@
         "blocks": {
           "a131266d-a645-4251-9229-d4ff55668a33": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "Quick links",
               "menu": "terms"
             }
+          },
+          "d706ac0c-fb36-4f61-9961-c97b5c6733f9": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": ""
+            }
           }
         },
         "block_order": [
-          "a131266d-a645-4251-9229-d4ff55668a33"
+          "a131266d-a645-4251-9229-d4ff55668a33",
+          "d706ac0c-fb36-4f61-9961-c97b5c6733f9"
         ],
         "settings": {
           "color_scheme": "background-1",
