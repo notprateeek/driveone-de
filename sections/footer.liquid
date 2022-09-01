@@ -97,8 +97,9 @@
             </ul>
           </div>
         {% endif %}
-        
 
+        
+        {% if request.host == 'driveone.de' %}
           {%- for block in section.blocks -%}
             <div class="footer-block grid__item{% if block.type == 'link_list' and block.settings.heading != blank %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}
@@ -142,6 +143,7 @@
                 {%- endcase -%}
             </div>
           {%- endfor -%}
+        {% endif %}
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">{{ 'sections.footer.download' | t }}</h2>
