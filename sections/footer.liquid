@@ -61,7 +61,9 @@
                 Drive One / Needit Denmark ApS
                 {% endif %}
                 {{ shop.address | format_address }}
-<!--                 {{ 'sections.footer.information' | t }} -->
+                {% if request.host == 'driveone.eu' %}        
+                  {{ 'sections.footer.information' | t }}
+                {% endif %}
               </div>
           </div>
 
