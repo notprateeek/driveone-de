@@ -386,7 +386,7 @@
           "type": "column",
           "settings": {
             "title": "Trafik Alarm",
-            "text": "<p>Our warning app offers navigation, warnings about speed controls and traffic accidents and an overview of traffic conditions right then and there. With accurate data and good features, we have built up a large network of daily users who help each other safely through traffic.<\/p>",
+            "text": "<p>Our warning app offers navigation, warnings about speed controls and traffic accidents, and an overview of traffic conditions right then and there. With accurate data and good features, we have built up a large network of daily users who help each other safely through traffic.<\/p>",
             "link_label": "",
             "link": ""
           }
