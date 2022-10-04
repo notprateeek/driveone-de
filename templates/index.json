@@ -316,7 +316,7 @@
         "8a389f5d-3066-4c7a-b99e-73015be93423": {
           "type": "text",
           "settings": {
-            "text": "<p>Using the app, you can also see alerts and speed controls in the area before turning the ignition. Maybe there’s a better route on that specific day. The app also lets you know when the battery needs to be replaced.<\/p>",
+            "text": "<p>You can also see alerts and speed controls in the area before turning the ignition on. Maybe there’s a better route on that specific day. The app also lets you know when the battery needs to be replaced.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
