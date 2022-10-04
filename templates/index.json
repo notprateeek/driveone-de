@@ -307,7 +307,7 @@
         "17f0e00b-dcff-4172-94df-ed699a0626cd": {
           "type": "text",
           "settings": {
-            "text": "<p>You can also choose how you want to be notified-whether the sound comes from Drive One, the app or through the car’s system via Bluetooth. You can also set how early you want to be notified. Drive One is your friend in traffic, so be sure to tailor it to your needs.<\/p>",
+            "text": "<p>You can also choose how you want to be notified. In the app, you can select if the sound should come from Drive One, the app, or the car’s sound system via Bluetooth. You can also set how early you want to be notified. Drive One is your friend in traffic, so be sure to tailor it to your needs.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
