@@ -222,6 +222,13 @@
                       {%- endif -%}
                     </div>
                     <div id="languageSwitcherMobile"></div>
+      <div>
+      <select>
+      {%- for language in localization.available_languages -%}
+      <option>{{ language.endonym_name }}</option>
+      {%- endfor -%}
+      </select>
+      </div>
                   </ul>
                 </nav>
                 <div class="menu-drawer__utility-links">
