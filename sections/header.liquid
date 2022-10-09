@@ -225,7 +225,7 @@
       <div>
       <select>
       {%- for language in localization.available_languages -%}
-      <option onClick="handleLang">{{ language.endonym_name }}</option>
+      <option onClick="handleLang()">{{ language.endonym_name }}</option>
       {%- endfor -%}
       </select>
       </div>
