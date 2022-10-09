@@ -1118,6 +1118,10 @@ details.forEach((targetDetail) => {
   })
 })
 
+function handleLang() {
+  console.log("bitch");
+}
+
 
 const vid = document.querySelector("smooth-loop");
 vid.addEventListener("timeupdate", (e) => {
