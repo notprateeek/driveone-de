@@ -1120,11 +1120,11 @@ details.forEach((targetDetail) => {
 
 function handleLang(e) {
   if(event.target.value == "Dansk"){
-    // if(location.hostname == "driveone.eu"){
-    //   if(!location.pathname.includes("/da/")){
-    //     window.location.replace(`https://driveone.eu/da${location.pathname}`)
-    //   }
-    // }
+    if(location.hostname == "driveone.eu"){
+      if(!location.pathname.includes("/da/")){
+        window.location.replace(`https://driveone.eu/da${location.pathname}`)
+      }
+    }
     if(location.hostname == "driveone.de"){
       window.location.replace(`https://driveone.eu${location.pathname}`)
     }
@@ -1134,11 +1134,11 @@ function handleLang(e) {
     if(location.hostname == "driveone.eu"){
       window.location.replace(`https://driveone.de${location.pathname}`)
     }
-    // if(location.hostname == "driveone.de"){
-    //   if (!location.pathname.includes("/de/")) {
-    //    window.location.replace(`https://driveone.de/de${location.pathname}`)
-    //   }
-    // }
+    if(location.hostname == "driveone.de"){
+      if (!location.pathname.includes("/de/")) {
+       window.location.replace(`https://driveone.de/de${location.pathname}`)
+      }
+    }
   }
 }
 
