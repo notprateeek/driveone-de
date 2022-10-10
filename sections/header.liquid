@@ -227,12 +227,12 @@
       {%- for language in localization.available_languages -%}
       <option onClick="handleLang()">{{ language.endonym_name }}</option>
       {%- endfor -%}
-      if(location.hostname == "driveone.eu"){
+      {% if request.host == 'driveone.eu' %}
       <option onClick="handleLang()">Deutsch</option>
-      }
-      if(location.hostname == "driveone.de"){
+      {% endif %}
+      {% if request.host == 'driveone.de' %}
       <option onClick="handleLang()">Dansk</option>
-      }
+      {% endif %}
       </select>
       </div>
                   </ul>
