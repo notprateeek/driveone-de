@@ -1119,7 +1119,6 @@ details.forEach((targetDetail) => {
 })
 
 function handleLang(e) {
-  console.log("bitch", location);
   if(event.target.value == "Dansk"){
     if(location.hostname == "driveone.eu"){
       window.location.replace(`https://driveone.de`)
