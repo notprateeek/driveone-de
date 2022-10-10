@@ -1120,8 +1120,7 @@ details.forEach((targetDetail) => {
 
 function redirect() {
   const path = location.pathname.slice(3);
-  console.log('bitch')
-  location.href = "https://google.com";
+  console.log('bitch', event)
   // if(event.target.innerText == "Dansk"){
   //   if(location.pathname.includes("/de/")){
   //     window.location.href = `https://driveone.eu${path}`
