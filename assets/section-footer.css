@@ -223,7 +223,7 @@
   display: flex;
   flex-direction: column;
   flex: auto 1 0;
-  padding: 0;
+  padding: 1rem;
   margin: 0 auto;
 }
 
@@ -307,7 +307,7 @@
 }
 
 .disclosure__button.localization-form__select {
-/*   padding: calc(2rem + var(--inputs-border-width)); */
+  padding: calc(2rem + var(--inputs-border-width));
   background: rgb(var(--color-background));
 }
 
