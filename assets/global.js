@@ -1118,22 +1118,22 @@ details.forEach((targetDetail) => {
   })
 })
 
-function redirect() {
-  const path = location.pathname.slice(3);
-  if(event.target.innerText == "Dansk"){
-    if(location.pathname.includes("/de/")){
-      window.location.href = `https://driveone.eu${path}`
-    }else {
-      window.location.href = `https://driveone.eu${location.pathname}`;
-    }
-  }
-   if(event.target.innerText == "Deutsch"){
-     if(location.pathname.includes("/da/")){
-      window.location.href = `https://driveone.de${path}`
-    }else {
-     window.location.href = `https://driveone.de${location.pathname}`;
-   }
-}
+// function redirect() {
+//   const path = location.pathname.slice(3);
+//   if(event.target.innerText == "Dansk"){
+//     if(location.pathname.includes("/de/")){
+//       window.location.href = `https://driveone.eu${path}`
+//     }else {
+//       window.location.href = `https://driveone.eu${location.pathname}`;
+//     }
+//   }
+//    if(event.target.innerText == "Deutsch"){
+//      if(location.pathname.includes("/da/")){
+//       window.location.href = `https://driveone.de${path}`
+//     }else {
+//      window.location.href = `https://driveone.de${location.pathname}`;
+//    }
+// }
 
 const vid = document.querySelector("smooth-loop");
 vid.addEventListener("timeupdate", (e) => {
