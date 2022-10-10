@@ -1143,9 +1143,13 @@ function handleLang(e) {
 }
 
 function redirect() {
-  console.log('here', event.target.innerText);
-  // location.href="https://driveone.de";
-  // location.replace('https://driveone.de');
+  console.log('here', );
+  if(event.target.innerText == "Dansk"){
+    location.href="https://driveone.eu";
+  }
+   if(event.target.innerText == "Deutsch"){
+     location.replace('https://driveone.de');
+   }
 }
 
 const vid = document.querySelector("smooth-loop");
