@@ -1119,7 +1119,7 @@ details.forEach((targetDetail) => {
 })
 
 function handleLang() {
-  console.log("bitch");
+  console.log(e);
 }
 
 
