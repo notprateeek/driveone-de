@@ -1121,14 +1121,17 @@ details.forEach((targetDetail) => {
 function handleLang(e) {
   if(event.target.value == "Dansk"){
     if(location.hostname == "driveone.eu"){
-      window.location.replace(`https://driveone.de`)
+      if(!location.pathname.includes("/da/")){
+        window.location.replace(`https://driveone.de/da${location.pathname}`)
+      }
     }
     if(location.hostname == "driveone.de"){
-      window.location.replace(`https://driveone.eu`)
+      if (location.pathname.charAt(1) === "d" && location.pathname.charAt(1) === "e") {
+        const path = location.pathname.slice(3)
+        window.location.replace(`https://driveone.eu${path}`)
+      }
+      window.location.replace(`https://driveone.eu${location.pathname}`)
     }
-  }
-  if(event.target.value == "Deutsch"){
-    if(location.hostname == "driveone.eu"){}
   }
 }
 
