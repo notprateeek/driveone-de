@@ -1120,7 +1120,7 @@ details.forEach((targetDetail) => {
 
 function redirect() {
   // const path = location.pathname.slice(3);
-  console.log('bitch', event)
+  console.log('bitch')
   // location.href = "https://google.com";
   // if(event.target.innerText == "Dansk"){
   //   if(location.pathname.includes("/de/")){
