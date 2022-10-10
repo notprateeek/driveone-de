@@ -2344,7 +2344,7 @@ input[type='checkbox'] {
 }
 
 .languageSwitcher {
-  margin-right: 1em !important;
+  margin-right: .5em !important;
 }
 
 .header__icon:not(.header__icon--summary),
