@@ -365,9 +365,17 @@
                         <li class="disclosure__item" tabindex="-1">
                           <a class="link link--text disclosure__link caption-large{% if language.iso_code == localization.language.iso_code %} disclosure__link--active{% endif %} focus-inset" href="#" hreflang="{{ language.iso_code }}" lang="{{ language.iso_code }}"{% if language.iso_code == localization.language.iso_code %} aria-current="true"{% endif %} data-value="{{ language.iso_code }}">
                             {{ language.endonym_name | capitalize }}
+                            {{ language.iso_code }}
                           </a>
                         </li>
                       {%- endfor -%}
+              {% if request.host == "driveone.eu" %}
+                 <li class="disclosure__item" tabindex="-1">
+                          <a class="link link--text disclosure__link caption-large disclosure__link--active focus-inset" href="#"  aria-current="true" >
+                            German
+                          </a>
+                        </li>
+                {% endif %}
                     </ul>
                   </div>
                 </div>
