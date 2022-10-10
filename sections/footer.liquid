@@ -369,16 +369,16 @@
                         </li>
                       {%- endfor -%}
              {% if request.host == 'driveone.eu' %}
-                 <li class="disclosure__item" tabindex="-1">
-                   <a class='link link--text disclosure__link caption-large' onClick=redirect()>
+                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
+                   <a class='link link--text disclosure__link caption-large'>
                      Deutsch
                    </a>
                  </li>
                {% endif %}
 
               {% if request.host == 'driveone.de' %}
-                 <li class="disclosure__item" tabindex="-1" >
-                   <a class='link link--text disclosure__link caption-large' onClick=redirect()>
+                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
+                   <a class='link link--text disclosure__link caption-large'>
                      Dansk
                    </a>
                  </li>
