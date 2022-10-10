@@ -1122,16 +1122,16 @@ function redirect() {
   const path = location.pathname.slice(3);
   if(event.target.innerText == "Dansk"){
     if(location.pathname.includes("/de/")){
-      location.href = `https://driveone.eu${path}`
+      location.replace = `https://driveone.eu${path}`
     }else {
-      location.href = `https://driveone.eu${location.pathname}`;
+      location.replace = `https://driveone.eu${location.pathname}`;
     }
   }
    if(event.target.innerText == "Deutsch"){
      if(location.pathname.includes("/da/")){
-      location.href = `https://driveone.de${path}`
+      location.replace = `https://driveone.de${path}`
     }else {
-     location.href = `https://driveone.de${location.pathname}`;
+     location.replace = `https://driveone.de${location.pathname}`;
    }
 }
 
