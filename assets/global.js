@@ -1122,7 +1122,7 @@ function redirect() {
   const path = location.pathname.slice(3);
   if(event.target.innerText == "Dansk"){
     if(location.pathname.includes("/de/")){
-      window.location.href = `https://driveone.eu`
+      window.location.href = `https://driveone.eu${path}`
     }else {
       window.location.href = `https://driveone.eu${location.pathname}`;
     }
