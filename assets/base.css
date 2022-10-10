@@ -2343,6 +2343,10 @@ input[type='checkbox'] {
   align-items: center;
 }
 
+.languageSwitcher {
+  margin-right: 1em;
+}
+
 .header__icon:not(.header__icon--summary),
 .header__icon span {
   display: flex;
