@@ -1122,7 +1122,7 @@ function handleLang(e) {
   if(event.target.value == "Dansk"){
     if(location.hostname == "driveone.eu"){
       if(!location.pathname.includes("/da/")){
-        window.location.replace(`https://driveone.de/da${location.pathname}`)
+        window.location.replace(`https://driveone.eu/da${location.pathname}`)
       }
     }
     if(location.hostname == "driveone.de"){
