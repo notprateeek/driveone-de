@@ -1122,7 +1122,7 @@ function handleLang(e) {
   if(event.target.value == "Dansk"){
     if(location.hostname == "driveone.eu"){
       if(!location.pathname.includes("/da/")){
-        window.location.replace(`https://driveone.eu/da${location.pathname}`)
+        window.location.href(`${location.origin}/da${location.pathname}`)
       }
     }
     if(location.hostname == "driveone.de"){
@@ -1136,7 +1136,7 @@ function handleLang(e) {
     }
     if(location.hostname == "driveone.de"){
       if (!location.pathname.includes("/de/")) {
-       window.location.replace(`https://driveone.de/de${location.pathname}`)
+       window.location.href(`${location.origin}/de${location.pathname}`)
       }
     }
   }
