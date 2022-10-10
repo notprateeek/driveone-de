@@ -564,19 +564,15 @@
                         </li>
                       {%- endfor -%}
              {% if request.host == 'driveone.eu' %}
-                 <li class="disclosure__item" tabindex="-1" onClick=redirect(e)>
-                   <a class='link link--text disclosure__link caption-large' style="cursor: pointer">
+                 <div class="disclosure__item" tabindex="-1" onClick=redirect()>
                      Deutsch
-                   </a>
-                 </li>
+                 </div>
                {% endif %}
 
               {% if request.host == 'driveone.de' %}
-                 <li class="disclosure__item" tabindex="-1" onClick=redirect(e)>
-                   <a class='link link--text disclosure__link caption-large' style="cursor: pointer">
+                 <div class="disclosure__item" tabindex="-1" onClick=redirect()>
                      Dansk
-                   </a>
-                 </li>
+                 </div>
                {% endif %}
                 
                     </ul>
