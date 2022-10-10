@@ -1118,8 +1118,8 @@ details.forEach((targetDetail) => {
   })
 })
 
-function handleLang() {
-  console.log(e);
+function handleLang(e) {
+  console.log(e, event);
 }
 
 
