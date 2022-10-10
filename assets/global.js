@@ -1126,11 +1126,9 @@ function handleLang(e) {
       }
     }
     if(location.hostname == "driveone.de"){
-      if (location.pathname.charAt(1) === "d" && location.pathname.charAt(1) === "e") {
-        const path = location.pathname.slice(3)
-        window.location.replace(`https://driveone.eu${path}`)
+      if (!location.pathname.includes("/de/")) {
+       window.location.replace(`https://driveone.eu${location.pathname}`)
       }
-      window.location.replace(`https://driveone.eu${location.pathname}`)
     }
   }
 }
