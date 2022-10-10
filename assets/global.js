@@ -1120,23 +1120,24 @@ details.forEach((targetDetail) => {
 
 function redirect() {
   const path = location.pathname.slice(3);
-  if(event.target.innerText == "Dansk"){
-    if(location.pathname.includes("/de/")){
-      console.log("dansk clicked has de")
-      location.href = `https://driveone.eu${path}`
-    }else {
-       console.log("dansk clicked no de")
-      location.href = `https://driveone.eu${location.pathname}`;
-    }
-  }
-   if(event.target.innerText == "Deutsch"){
-     if(location.pathname.includes("/da/")){
-        console.log("deutsch clicked has da")
-      location.href = `https://driveone.de${path}`
-    }else {
-       console.log("deutsch clicked no da")
-     location.href = `https://driveone.de${location.pathname}`;
-   }
+  console.log("works?")
+  // if(event.target.innerText == "Dansk"){
+  //   if(location.pathname.includes("/de/")){
+  //     console.log("dansk clicked has de")
+  //     location.href = `https://driveone.eu${path}`
+  //   }else {
+  //      console.log("dansk clicked no de")
+  //     location.href = `https://driveone.eu${location.pathname}`;
+  //   }
+  // }
+   // if(event.target.innerText == "Deutsch"){
+   //   if(location.pathname.includes("/da/")){
+   //      console.log("deutsch clicked has da")
+   //    location.href = `https://driveone.de${path}`
+   //  }else {
+   //     console.log("deutsch clicked no da")
+   //   location.href = `https://driveone.de${location.pathname}`;
+   // }
 }
 
 const vid = document.querySelector("smooth-loop");
