@@ -1143,7 +1143,6 @@ function handleLang(e) {
 }
 
 function redirect() {
-  console.log('here', );
   if(event.target.innerText == "Dansk"){
     location.href = `https://driveone.eu${location.pathname}`;
   }
