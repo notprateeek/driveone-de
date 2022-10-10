@@ -2,6 +2,12 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
 
+    {% if request.host == 'driveone.eu' %}
+    <meta name="google-site-verification" content="wk-mZf4sSt4k5Tx6cFlrbm0MIrqn7kYtqITZHfkRF6A" />
+    {% endif %}
+    {% if request.host == 'driveone.de' %}
+    <meta name="google-site-verification" content="zJJrGTkRsACScmKswtMaYYp2LjMw-Q2g5LLuxBy--zc" />
+    {% endif %}
     {% comment %} {% if request.host == 'driveone.eu' %} {% endif %} {% endcomment %}
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-236597817-2"></script>
