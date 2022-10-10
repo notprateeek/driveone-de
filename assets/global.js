@@ -1122,10 +1122,10 @@ function handleLang(e) {
   console.log("bitch", location);
   if(event.target.value == "Dansk"){
     if(location.hostname == "driveone.eu"){
-      window.location.replace(`https://driveone.de${path}`)
+      window.location.replace(`https://driveone.de`)
     }
     if(location.hostname == "driveone.de"){
-      window.location.replace(`https://driveone.eu${path}`)
+      window.location.replace(`https://driveone.eu`)
     }
   }
   if(event.target.value == "Deutsch"){
