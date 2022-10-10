@@ -195,7 +195,7 @@
           "show_flags": false,
           "language_label": "language-name",
           "language_country_mapping": "",
-          "countries_filter": "",
+          "countries_filter": "DE",
           "custom_css": "#languageSwitcherDesktop {\nmargin-left: 1em;\n}\n\n#languageSwitcherDesktop div form .tl-select {\npadding: 1em 2em;\n}\n\n#languageSwitcherMobile {\nwidth: fit-content;\nborder: 1px solid #000;\nmargin: 1em 2em;\n}",
           "header_switcher_reference_element": "#languageSwitcherDesktop",
           "header_switcher_relative_position": "in-element",
