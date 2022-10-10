@@ -1118,30 +1118,6 @@ details.forEach((targetDetail) => {
   })
 })
 
-function handleLang(e) {
-  if(event.target.value == "Dansk"){
-    if(location.hostname == "driveone.eu"){
-      if(!location.pathname.includes("/da/")){
-        window.location.href = `${location.origin}/da${location.pathname}`
-      }
-    }
-    if(location.hostname == "driveone.de"){
-      window.location.replace(`https://driveone.eu${location.pathname}`)
-    }
-  }
-
-  if(event.target.value == "Deutsch"){
-    if(location.hostname == "driveone.eu"){
-      window.location.replace(`https://driveone.de${location.pathname}`)
-    }
-    if(location.hostname == "driveone.de"){
-      if (!location.pathname.includes("/de/")) {
-       window.location.href = `${location.origin}/de${location.pathname}`
-      }
-    }
-  }
-}
-
 function redirect() {
   if(event.target.innerText == "Dansk"){
     location.href = `https://driveone.eu${location.pathname}`;
