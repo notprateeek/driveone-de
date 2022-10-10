@@ -1142,9 +1142,10 @@ function handleLang(e) {
   }
 }
 
-function blah() {
-  location.href="https://driveone.de";
-  location.replace('https://driveone.de');
+function redirect() {
+  console.log('here', event);
+  // location.href="https://driveone.de";
+  // location.replace('https://driveone.de');
 }
 
 const vid = document.querySelector("smooth-loop");
