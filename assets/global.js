@@ -1118,26 +1118,19 @@ details.forEach((targetDetail) => {
   })
 })
 
-function redirect() {
+function redirectToDe() {
   const path = location.pathname.slice(3);
-  console.log("works?")
-  // if(event.target.innerText == "Dansk"){
-  //   if(location.pathname.includes("/de/")){
-  //     console.log("dansk clicked has de")
-  //     location.href = `https://driveone.eu${path}`
-  //   }else {
-  //      console.log("dansk clicked no de")
-  //     location.href = `https://driveone.eu${location.pathname}`;
-  //   }
-  // }
-   // if(event.target.innerText == "Deutsch"){
-   //   if(location.pathname.includes("/da/")){
-   //      console.log("deutsch clicked has da")
-   //    location.href = `https://driveone.de${path}`
-   //  }else {
-   //     console.log("deutsch clicked no da")
-   //   location.href = `https://driveone.de${location.pathname}`;
-   // }
+  if(location.pathname.includes("/de/")){
+    location.href = `https://driveone.eu${path}`
+  }
+  else location.href = `https://driveone.eu${location.pathname}`
+}
+function redirectToEu() {
+  const path = location.pathname.slice(3);
+  if(location.pathname.includes("/da/")){
+    location.href = `https://driveone.de${path}`
+  }
+  else location.href = `https://driveone.de${location.pathname}`
 }
 
 const vid = document.querySelector("smooth-loop");
