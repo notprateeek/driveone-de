@@ -1119,6 +1119,7 @@ details.forEach((targetDetail) => {
 })
 
 function redirect() {
+  event.preventDefault();
   const path = location.pathname.slice(3);
   console.log('bitch', event)
   // if(event.target.innerText == "Dansk"){
