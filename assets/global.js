@@ -1143,7 +1143,7 @@ function handleLang(e) {
 }
 
 function redirect() {
-  console.log('here', event.target);
+  console.log('here', event.target.value);
   // location.href="https://driveone.de";
   // location.replace('https://driveone.de');
 }
