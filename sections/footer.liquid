@@ -368,10 +368,21 @@
                           </a>
                         </li>
                       {%- endfor -%}
-             
-                 <li class="disclosure__item" tabindex="-1" onClick=blah()>
-                   German
+             {% if request.host == 'driveone.eu' %}
+                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
+                   <a class='link link--text disclosure__link caption-large focus-inset'>
+                     German
+                   </a>
                  </li>
+               {% endif %}
+
+              {% if request.host == 'driveone.de' %}
+                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
+                   <a class='link link--text disclosure__link caption-large focus-inset'>
+                     Danish
+                   </a>
+                 </li>
+               {% endif %}
                 
                     </ul>
                   </div>
