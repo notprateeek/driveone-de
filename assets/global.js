@@ -1119,8 +1119,13 @@ details.forEach((targetDetail) => {
 })
 
 function redirect() {
+  const path = location.pathname.slice(3);
   if(event.target.innerText == "Dansk"){
-    location.href = `https://driveone.eu${location.pathname}`;
+    if(location.pathname.includes("/de/")){
+      location.href = `https://driveone.eu${path}`
+    }else {
+      location.href = `https://driveone.eu${location.pathname}`;
+    }
   }
    if(event.target.innerText == "Deutsch"){
      location.href = `https://driveone.de${location.pathname}`;
