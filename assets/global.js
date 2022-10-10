@@ -1129,7 +1129,7 @@ function redirect() {
   }
    if(event.target.innerText == "Deutsch"){
      if(location.pathname.includes("/da/")){
-      location.href = `https://driveone.eu${path}`
+      location.href = `https://driveone.de${path}`
     }else {
      location.href = `https://driveone.de${location.pathname}`;
    }
