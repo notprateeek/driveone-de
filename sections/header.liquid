@@ -223,17 +223,7 @@
                     </div>
                     <div id="languageSwitcherMobile"></div>
       <div>
-      <select>
-      {%- for language in localization.available_languages -%}
-      <option onClick="handleLang()">{{ language.endonym_name }}</option>
-      {%- endfor -%}
-      {% if request.host == 'driveone.eu' %}
-      <option onClick="handleLang()">Deutsch</option>
-      {% endif %}
-      {% if request.host == 'driveone.de' %}
-      <option onClick="handleLang()">Dansk</option>
-      {% endif %}
-      </select>
+      
       </div>
                   </ul>
                 </nav>
