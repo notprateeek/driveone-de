@@ -1119,7 +1119,20 @@ details.forEach((targetDetail) => {
 })
 
 function handleLang(e) {
-  console.log(e, event);
+  const path = '{{ request.path }}';
+  path.slice(3);
+  console.log("bitch", path);
+  if(event.target.value == "Dansk"){
+    if(location.hostname == "driveone.eu"){
+      window.location.replace(`https://driveone.de${path}`)
+    }
+    if(location.hostname == "driveone.de"){
+      window.location.replace(`https://driveone.eu${path}`)
+    }
+  }
+  if(event.target.value == "Deutsch"){
+    if(location.hostname == "driveone.eu"){}
+  }
 }
 
 
