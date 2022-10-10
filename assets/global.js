@@ -1118,7 +1118,8 @@ details.forEach((targetDetail) => {
   })
 })
 
-function redirect() {
+function redirect(e) {
+  e.preventDefault();
   // const path = location.pathname.slice(3);
   console.log('bitch', event)
   // location.href = "https://google.com";
