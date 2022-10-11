@@ -221,21 +221,6 @@
             "page": ""
           }
         },
-        "c415ba54-6653-45c4-b772-5daf552f8f38": {
-          "type": "collapsible_row",
-          "settings": {
-            "da_video_url": "",
-            "de_video_url": "",
-            "en_video_url": "",
-            "heading": "Ready for connection",
-            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
-            "image_4": "shopify:\/\/shop_images\/Group_40.png",
-            "image_6": "shopify:\/\/shop_images\/Group_7.png",
-            "icon": "none",
-            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
-            "page": ""
-          }
-        },
         "6777f95f-2afe-4bd8-812c-e997f1cb6cb0": {
           "type": "collapsible_row",
           "settings": {
@@ -248,6 +233,21 @@
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
             "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
+            "page": ""
+          }
+        },
+        "c415ba54-6653-45c4-b772-5daf552f8f38": {
+          "type": "collapsible_row",
+          "settings": {
+            "da_video_url": "",
+            "de_video_url": "",
+            "en_video_url": "",
+            "heading": "Ready for connection",
+            "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
+            "image_4": "shopify:\/\/shop_images\/Group_40.png",
+            "image_6": "shopify:\/\/shop_images\/Group_7.png",
+            "icon": "none",
+            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
             "page": ""
           }
         },
@@ -382,8 +382,8 @@
         "1657998294d087edb6-3",
         "5275a8b9-dc28-4b1d-ba28-8e28c1a72aea",
         "c3b198d6-e40d-4b44-86eb-3812a6314b61",
-        "c415ba54-6653-45c4-b772-5daf552f8f38",
         "6777f95f-2afe-4bd8-812c-e997f1cb6cb0",
+        "c415ba54-6653-45c4-b772-5daf552f8f38",
         "03431d95-f6e7-4ee2-b7c5-a9bd1f05c623",
         "2aebf756-4859-426f-91a6-3cd3341e8b3b",
         "6a15a8c9-c1c9-40bc-ab55-61fef5f66549",
