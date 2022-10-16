@@ -1119,23 +1119,23 @@ details.forEach((targetDetail) => {
 })
 
 function redirectToDe() {
-  const path = location.pathname.slice(3);
-  if(location.pathname.includes("/da")){
+  const path = location.pathname.slice(3)
+  if (location.pathname.includes('/da')) {
     location.href = `https://driveone.de${path}`
-  }
-  else location.href = `https://driveone.de${location.pathname}`
+  } else location.href = `https://driveone.de${location.pathname}`
 }
-function redirectToEu() {
-  const path = location.pathname.slice(3);
-  if(location.pathname.includes("/de")){
-    location.href = `https://driveone.eu${path}`
-  }
-  else location.href = `https://driveone.eu${location.pathname}`
+function redirectToDa() {
+  const path = location.pathname.slice(3)
+  location.href = `https://driveone.eu/da${location.pathname}`
+}
+function redirectToEn() {
+  const path = location.pathname.slice(3)
+  location.href = `https://driveone.eu${location.pathname}`
 }
 
-const vid = document.querySelector("smooth-loop");
-vid.addEventListener("timeupdate", (e) => {
+const vid = document.querySelector('smooth-loop')
+vid.addEventListener('timeupdate', (e) => {
   if (e.target.currentTime >= 13) {
-    e.target.currentTime = 0.0;
+    e.target.currentTime = 0.0
   }
-});
+})

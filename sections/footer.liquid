@@ -7,8 +7,6 @@
 <link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'disclosure.css' | asset_url }}" media="print" onload="this.media='all'">
 
-{{ 'custom.css' | asset_url | stylesheet_tag }}
-
 <noscript>{{ 'component-newsletter.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-list-menu.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-list-payment.css' | asset_url | stylesheet_tag }}</noscript>
@@ -51,20 +49,19 @@
             assign footer_grid_class = 'grid--3-col-tablet'
           endif
         -%}
-
         <div class="footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet {{ footer_grid_class }}">
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">Information</h2>
-              <div class="footer-block__details-content rte">
-                {% if shop.locale != "de" %}
-                Drive One / Needit Denmark ApS
-                {% endif %}
-                {{ shop.address | format_address }}
-                {% if request.host == 'driveone.eu' %}        
-                  {{ 'sections.footer.information' | t }}
-                {% endif %}
-              </div>
+            <div class="footer-block__details-content rte">
+              {% if shop.locale != "de" %}
+              Drive One / Needit Denmark ApS
+              {% endif %}
+              {{ shop.address | format_address }}
+              {% if request.host == 'driveone.eu' %}        
+                {{ 'sections.footer.information' | t }}
+              {% endif %}
+            </div>
           </div>
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
@@ -79,29 +76,8 @@
             </ul>
           </div>
 
-        {% if request.host == 'driveone.eu' %}
-          <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
-            <h2 class="footer-block__heading">{{ 'sections.footer.terms' | t }}</h2>
-            <ul class="footer-block__details-content list-unstyled">
-              {% if shop.locale == 'de' %}
-              <li>
-                <a href="{{ pages.impressum.url }}" class="link link--text list-menu__item list-menu__item--link">Impressum</a>
-              </li>
-              {% endif %}
-              <li>
-                <a href="{{ pages.terms-of-trade.url }}" class="link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.terms-of-service' | t }}</a>
-              </li>
-              <li>
-                <a href="{{ pages.privacy-policy.url }}" class="link link--text list-menu__item list-menu__item--link">{{ 'sections.footer.privacy-policy' | t }}</a>
-              </li>
-            </ul>
-          </div>
-        {% endif %}
-
-        
-        {% if request.host == 'driveone.de' %}
           {%- for block in section.blocks -%}
-            <div class="footer-block grid__item{% if block.type == 'link_list' and block.settings.heading != blank %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
+            <div class="footer-block grid__item{% if block.type == 'link_list' %} footer-block--menu{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.heading != blank -%}
                 <h2 class="footer-block__heading">{{- block.settings.heading | escape -}}</h2>
               {%- endif -%}
@@ -112,7 +88,7 @@
                     {{ block.settings.subtext }}
                   </div>
                 {%- when 'link_list' -%}
-                  {%- if block.settings.menu != blank and block.settings.heading != blank -%}
+                  {%- if block.settings.menu != blank -%}
                     <ul class="footer-block__details-content list-unstyled">
                       {%- for link in block.settings.menu.links -%}
                         <li>
@@ -143,7 +119,6 @@
                 {%- endcase -%}
             </div>
           {%- endfor -%}
-        {% endif %}
 
           <div class="footer-block grid__item footer-block--menu" {{ block.shopify_attributes }}>
             <h2 class="footer-block__heading">{{ 'sections.footer.download' | t }}</h2>
@@ -155,6 +130,7 @@
             </ul>
           </div>
 
+        </div>
       {%- endif -%}
 
       <div class="footer-block--newsletter">
@@ -209,7 +185,7 @@
           <ul class="footer__list-social list-unstyled list-social" role="list">
             {%- if settings.social_twitter_link != blank -%}
               <li class="list-social__item">
-                <a href="{{ settings.social_twitter_link }}" target="_blank" class="link list-social__link" >
+                <a href="{{ settings.social_twitter_link }}" class="link list-social__link" >
                   {%- render 'icon-twitter' -%}
                   <span class="visually-hidden">{{ 'general.social.links.twitter' | t }}</span>
                 </a>
@@ -368,22 +344,6 @@
                           </a>
                         </li>
                       {%- endfor -%}
-             {% if request.host == 'driveone.eu' %}
-                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
-                   <a class='link link--text disclosure__link caption-large' style="cursor: pointer">
-                     Deutsch
-                   </a>
-                 </li>
-               {% endif %}
-
-              {% if request.host == 'driveone.de' %}
-                 <li class="disclosure__item" tabindex="-1" onClick=redirect()>
-                   <a class='link link--text disclosure__link caption-large' style="cursor: pointer">
-                     Dansk
-                   </a>
-                 </li>
-               {% endif %}
-                
                     </ul>
                   </div>
                 </div>
@@ -408,14 +368,14 @@
         {%- endif -%}
         <div class="footer__copyright caption">
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}</small>
-          <!-- <small class="copyright__content">{{ powered_by_link }}</small> -->
+          <small class="copyright__content">{{ powered_by_link }}</small>
         </div>
       </div>
     </div>
   </div>
 </footer>
 
-      {% javascript %}
+{% javascript %}
   class LocalizationForm extends HTMLElement {
     constructor() {
       super();
@@ -479,8 +439,7 @@
           "type": "text",
           "id": "heading",
           "default": "Quick links",
-          "label": "t:sections.footer.blocks.link_list.settings.heading.label",
-          "info": "t:sections.footer.blocks.link_list.settings.heading.info"
+          "label": "t:sections.footer.blocks.link_list.settings.heading.label"
         },
         {
           "type": "link_list",

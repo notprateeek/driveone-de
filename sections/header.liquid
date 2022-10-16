@@ -527,7 +527,7 @@
     <div class="header__icons">
 
       <div class="languageSwitcher">
-         {%- if localization.available_languages.size > 1 -%}
+         
           <noscript>
             {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
               <div class="localization-form__select">
@@ -570,8 +570,11 @@
                {% endif %}
 
               {% if request.host == 'driveone.de' %}
-                 <div class="disclosure__item link link--text disclosure__link caption-large" tabindex="-1" style="cursor: pointer" onClick=redirectToEu()>
+                 <div class="disclosure__item link link--text disclosure__link caption-large" tabindex="-1" style="cursor: pointer" onClick=redirectToDa()>
                      Dansk
+                 </div>
+                 <div class="disclosure__item link link--text disclosure__link caption-large" tabindex="-1" style="cursor: pointer" onClick=redirectToEn()>
+                     English
                  </div>
                {% endif %}
                 
@@ -582,7 +585,6 @@
               </div>
             {%- endform -%}
           </localization-form>
-        {%- endif -%}
         </div>
       
       <details-modal class="header__search">
