@@ -128,6 +128,18 @@
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "1803ec49-16ee-4096-8dc3-5191b3793ec8": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Terms",
+              "menu": "terms"
+            }
+          }
+        },
+        "block_order": [
+          "1803ec49-16ee-4096-8dc3-5191b3793ec8"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
