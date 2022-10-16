@@ -128,18 +128,6 @@
       },
       "footer": {
         "type": "footer",
-        "blocks": {
-          "a131266d-a645-4251-9229-d4ff55668a33": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Terms",
-              "menu": "terms"
-            }
-          }
-        },
-        "block_order": [
-          "a131266d-a645-4251-9229-d4ff55668a33"
-        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
