@@ -256,12 +256,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Remove plastic slip",
+            "heading": "Plastikstreifen entfernen",
             "image_2": "shopify:\/\/shop_images\/Group_22.png",
             "image_4": "shopify:\/\/shop_images\/Group_34.png",
             "image_6": "shopify:\/\/shop_images\/Group_9.png",
             "icon": "none",
-            "row_content": "<p>Now, you need to remove the plastic slip from the device. This activates the battery, and the device will start to look for a Drive One app to connect to.<\/p><p>If you already have removed the plastic slip, please move the Drive One device around to wake it up. The device will then start looking for an app to connect to.<\/p>",
+            "row_content": "<p>Nun müssen Sie den Plastikstreifen vom Gerät entfernen. Dadurch wird der Akku aktiviert und das Gerät beginnt, nach einer Drive One-App zu suchen, mit der es sich verbinden kann.<\/p><p>Wenn Sie den Plastikstreifen bereits entfernt haben, bewegen Sie bitte das Drive One-Gerät, um es „aufzuwecken“. Das Gerät sucht dann nach einer App, mit der es sich verbinden kann.<\/p>",
             "page": ""
           }
         },
@@ -271,12 +271,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Connected",
+            "heading": "In Verbindung gebracht",
             "image_2": "shopify:\/\/shop_images\/Group_23.png",
             "image_4": "shopify:\/\/shop_images\/Group_36.png",
             "image_6": "shopify:\/\/shop_images\/Group_10.png",
             "icon": "none",
-            "row_content": "<p>Your Drive One device is now connected to the Drive One app.<\/p>",
+            "row_content": "<p>Ihr Drive One-Gerät ist jetzt mit der Drive One-App verbunden.<\/p>",
             "page": ""
           }
         },
@@ -286,12 +286,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Quick app tour",
+            "heading": "Schnelle App-Tour",
             "image_2": "shopify:\/\/shop_images\/Group_24.png",
             "image_4": "shopify:\/\/shop_images\/Group_37.png",
             "image_6": "shopify:\/\/shop_images\/Group_11.png",
             "icon": "none",
-            "row_content": "<p>Now the app will take you for a quick tour of how Drive One works.<\/p>",
+            "row_content": "<p>Die App führt Sie nun kurz durch die Funktionsweise von Drive One.<\/p>",
             "page": ""
           }
         },
