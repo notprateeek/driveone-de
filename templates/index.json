@@ -13,14 +13,14 @@
         "1655151519a91f966b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Traffic without dangers and speeding tickets<\/p>",
+            "text": "<p>Unterwegs ohne Gefahren und Bußgelder<\/p>",
             "text_style": "body"
           }
         },
         "1655151519a91f966b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy in store",
+            "button_label": "Im Store kaufen",
             "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false
           }
@@ -67,14 +67,14 @@
         "165505532836c1cfed-1": {
           "type": "text",
           "settings": {
-            "text": "Traffic without dangers and speeding tickets",
+            "text": "Unterwegs ohne Gefahren und Bußgelder",
             "text_style": "body"
           }
         },
         "165505532836c1cfed-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Buy in store",
+            "button_label_1": "Im Store kaufen",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false
           }
@@ -113,7 +113,7 @@
         "1651703153561b2217-0": {
           "type": "heading",
           "settings": {
-            "heading": "World-class traffic alerts",
+            "heading": "Präzise Warnung",
             "heading_size": "h1"
           }
         }
@@ -134,14 +134,14 @@
         "1655457030819d2f98-0": {
           "type": "heading",
           "settings": {
-            "heading": "Speed check",
+            "heading": "Geschwindigkeitscheck",
             "heading_size": "h2"
           }
         },
         "1655457030819d2f98-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One warns you when there are speed controls ahead, whether they’re mobile, fixed, or new route controls. You decide how far in advance you want to be notified so you're aware of your speed.<\/p>",
+            "text": "<p>Drive One warnt Sie, wenn sich Geschwindigkeitskontrollen auf Ihrer Route befinden - egal ob es sich um mobile oder fest installierte Radarkontrollen handelt. Sie stellen ein, wie früh Sie gewarnt werden möchten, damit Sie genug Zeit haben, Ihre Geschwindigkeit anzupassen.<\/p>",
             "text_style": "body"
           }
         },
@@ -167,7 +167,6 @@
         "982eecad-4959-4f60-bebe-23e8d2d17972"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/placeholder-image.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
