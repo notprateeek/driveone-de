@@ -14,14 +14,14 @@
         "1656563785fe9bb16c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get started",
+            "heading": "Legen Sie los",
             "heading_size": "h1"
           }
         },
         "1656563785fe9bb16c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Installing your Drive One is almost as simple as using it. Follow these few step, and look forward to traffic free from dangers and speeding tickets.<\/p>",
+            "text": "<p>Die Installation Ihres Drive One ist genauso einfach wie der tägliche Gebrauch. Befolgen Sie diese wenigen Schritte und freuen Sie sich auf eine entspannte Fahrt ohne Bußgelder und Gefahren.<\/p>",
             "text_style": "body"
           }
         }
@@ -50,7 +50,7 @@
         "1652250126877297ea-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Buy a Drive One device",
+            "heading": "O1 Kaufen Sie ein Drive One-Gerät",
             "heading-hr": false,
             "heading_size": "h2"
           }
@@ -58,7 +58,7 @@
         "1652250126877297ea-2": {
           "type": "button",
           "settings": {
-            "button_label": "Buy in store",
+            "button_label": "Im Store kaufen",
             "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false
           }
@@ -66,7 +66,7 @@
         "68e3a47b-5aa6-432a-92be-93a4871415b4": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Download the Drive One app",
+            "heading": "O2 Laden Sie die Drive One-App herunter",
             "heading-hr": false,
             "heading_size": "h2"
           }
@@ -80,7 +80,7 @@
         "09fc122e-554b-45ea-8a48-a0eb570c90b2": {
           "type": "heading",
           "settings": {
-            "heading": "O3 Pull the plastic clip out of the unit",
+            "heading": "O3 Entfernen Sie den Plastikstreifen vom Gerät",
             "heading-hr": true,
             "heading_size": "h2"
           }
@@ -88,7 +88,7 @@
         "55217d1c-320d-47c1-9ec7-481a57d33984": {
           "type": "heading",
           "settings": {
-            "heading": "O4 Follow the instructions on the app",
+            "heading": "O4 Folgen Sie den Anweisungen der App",
             "heading-hr": true,
             "heading_size": "h2"
           }
@@ -96,7 +96,7 @@
         "19708779-484f-4000-bba2-e87f447a2ad8": {
           "type": "heading",
           "settings": {
-            "heading": "O5 Drive",
+            "heading": "O5 Fahren Sie los",
             "heading-hr": true,
             "heading_size": "h2"
           }
@@ -124,7 +124,7 @@
         "fa728ebc-2285-4970-baf5-66d14dba4e35": {
           "type": "button",
           "settings": {
-            "button_label": "For more information on how to get started",
+            "button_label": "Weitere Informationen zum Einstieg",
             "button_link": "shopify:\/\/pages\/manual",
             "button_style_secondary": true
           }
@@ -146,7 +146,7 @@
         "1651782814d438de73-0": {
           "type": "heading",
           "settings": {
-            "heading": "Finds the connection by itself",
+            "heading": "Verbindet sich automatisch",
             "heading_size": "h1"
           }
         }
@@ -167,7 +167,7 @@
         "165178299690ec3908-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Once your Drive One is installed, you don’t need to think about it again — until it sends you a notification.<\/p>",
+            "text": "<p>Sobald Ihr Drive One installiert ist, müssen Sie sich keine Gedanken mehr um ihn machen - bis er Sie alarmiert.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -176,7 +176,7 @@
         "bc753a4d-4ef6-4265-86c0-1b9f6b3b9c9f": {
           "type": "text",
           "settings": {
-            "text": "<p>The phone and the device connect automatically when you get behind the wheel.<\/p>",
+            "text": "<p>Das Telefon und das Gerät verbinden sich vollkommen automatisch, wenn Sie sich hinter das Steuer setzen.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -185,7 +185,7 @@
         "04d4faa7-ff76-4487-adde-b086510df02c": {
           "type": "text",
           "settings": {
-            "text": "<p>It doesn’t get easier than that.<\/p>",
+            "text": "<p>Einfacher geht es nicht.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
