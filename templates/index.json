@@ -185,7 +185,7 @@
         "1651703535bf736dff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get the relevant alerts",
+            "heading": "Reagiert nur auf relevante Warnungen",
             "heading_size": "h1"
           }
         }
@@ -206,21 +206,21 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One only warns you when there are controls and events that matter to you. This is because the service is based on the real-time data supplied by our many users, which we monitor and process. That’s why you can count on our alerts.<\/p>",
+            "text": "<p>Drive One warnt Sie nur, wenn es Kontrollen und Ereignisse gibt, die für Sie wichtig sind. Denn wir stützen den Dienst auf die Echtzeitdaten unserer vielen Nutzer, die wir überwachen und verarbeiten.<\/p>",
             "text_style": "body"
           }
         },
         "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
           "type": "text",
           "settings": {
-            "text": "<p>We have a system of members, employees, and algorithms that deliver and sort our traffic data, and we quickly turn a user’s push of a button into a credible alert on Drive One.<\/p>",
+            "text": "<p>Wir haben ein System von Mitgliedern, Mitarbeitern und Algorithmen, die unsere Verkehrsdaten liefern und sortieren, und ziemlich schnell verwandeln wir den Knopfdruck eines Benutzers in eine Vertrauenswürdige Warnung auf Drive One.<\/p>",
             "text_style": "body"
           }
         },
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
           "type": "text",
           "settings": {
-            "text": "<p>This means that we can deliver relevant alerts with impeccable precision. Drive One can also be set to ignore speed traps on your regular route that are embedded in your consciousness. Cut out the unnecessary daily beeps.<\/p>",
+            "text": "<p>Das bedeutet, dass wir Warnungen mit sehr hoher Präzision liefern können - und Sie erhalten daher keine Warnungen über Kontrollen und Unfälle in der entgegengesetzten Richtung.<\/p>",
             "text_style": "body"
           }
         }
@@ -246,7 +246,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Ausgewählte Produkte",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
