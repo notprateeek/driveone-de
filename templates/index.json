@@ -148,14 +148,14 @@
         "ae4d4f77-77d3-48ee-b8d8-29c774da15a5": {
           "type": "heading",
           "settings": {
-            "heading": "Accidents, traffic jams, and other incidents",
+            "heading": "Unfälle, Staus und andere Gefahren",
             "heading_size": "h2"
           }
         },
         "982eecad-4959-4f60-bebe-23e8d2d17972": {
           "type": "text",
           "settings": {
-            "text": "<p>Get an alert when there are traffic-related dangers and incidents that require your attention. No more being caught off-guard by hard braking.<\/p>",
+            "text": "<p>Lassen Sie sich warnen, wenn Gefahren oder Verkehrsstörungen Ihre Aufmerksamkeit erfordern. Eine Vollbremsung vor Ihnen ist dann keine Überraschung mehr.<\/p>",
             "text_style": "body"
           }
         }
