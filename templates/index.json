@@ -207,7 +207,7 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One warnt Sie nur, wenn<br\/>es Kontrollen und Ereignisse gibt, die wichtig sind. Wir stützen den Dienst auf<br\/>verarbeitete und überwachte Echtzeitdaten unserer vielen Nutzer.<\/p>",
+            "text": "<p>Drive One warnt Sie nur, wenn es Kontrollen und Ereignisse gibt, die wichtig sind. Wir stützen den Dienst auf verarbeitete und überwachte Echtzeitdaten unserer vielen Nutzer.<\/p>",
             "text_style": "body"
           }
         },
@@ -221,14 +221,14 @@
         "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
           "type": "text",
           "settings": {
-            "text": "<p>Wir haben ein System von Mitgliedern, Mitarbeitern und Algorithmen, die unsere Verkehrsdaten liefern und sortieren, und ziemlich schnell verwandeln wir den Knopfdruck eines Benutzers in eine Vertrauenswürdige Warnung auf Drive One.<\/p>",
+            "text": "<p>Mitgliedern, Mitarbeitern und Algorithmen liefern und sortieren die Verkehrsdaten. Schnell verwandeln wir ein Knopfdruck eines Benutzers in eine vertrauenswürdige Warnung auf Drive One.<\/p>",
             "text_style": "body"
           }
         },
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb": {
           "type": "text",
           "settings": {
-            "text": "<p>Das bedeutet, dass wir Warnungen mit sehr hoher Präzision liefern können - und Sie erhalten daher keine Warnungen über Kontrollen und Unfälle in der entgegengesetzten Richtung.<\/p>",
+            "text": "<p>Deshalb können wir Warnungen mit sehr hoher Präzision liefern - und Sie erhalten keine Warnungen über Kontrollen und Unfälle in der entgegengesetzten Richtung.<\/p>",
             "text_style": "body"
           }
         }
