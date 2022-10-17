@@ -686,7 +686,7 @@
         "ad18a8bc-7a55-4ac9-97d2-3136fc18c524": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ You can then click the back on or twist it counter to the direction used when removing the lid.<\/p>",
+            "text": "<p>⎯⎯ Sie können dann die Rückseite einklicken oder entgegen der Richtung drehen, in der Sie den Deckel abgenommen haben.<\/p>",
             "icons": false
           }
         }
@@ -712,7 +712,7 @@
         "1658229702330bda0f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This video will show you how to disassemble the device and replace the battery.<\/p>"
+            "text": "<p>Dieses Video zeigt Ihnen, wie Sie das Gerät auseinander nehmen und den Akku austauschen können.<\/p>"
           }
         }
       },
@@ -742,7 +742,7 @@
         "165799849780946e36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Adding an additional Drive One unit",
+            "heading": "Hinzufügen einer zusätzlichen Drive One-Einheit",
             "heading_size": "h2"
           }
         }
@@ -763,7 +763,7 @@
         "1657998506b09d9f77-1": {
           "type": "text",
           "settings": {
-            "text": "<p>How to add an additional unit step by step.<br\/>From the  map view, click the cog to go to the menu.From the  map click <strong>Device<\/strong>.<\/p>",
+            "text": "<p>So fügen Sie ein zusätzliches Drive One-Gerät hinzu - Schritt für Schritt<br\/>Klicken Sie in der Kartenansicht auf das Zahnrad, um das Menü aufzurufen<br\/>Klicken Sie im Menü auf <strong>Gerät<\/strong><\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -795,7 +795,7 @@
         "16579985414a64ce38-1": {
           "type": "text",
           "settings": {
-            "text": "<p>From the  bottom of the Drive One devices list, click the blue (+) icon to add a new device.<\/p>",
+            "text": "<p>Klicken Sie in der Drive One-Geräteliste unten auf das blaue (+)-Symbol, um ein neues Gerät hinzuzufügen.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -827,7 +827,7 @@
         "1657998562b1885cd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One app will now search for the new device.<br\/>Make sure the new device has had the plastic removed from the battery, and that the device is awake.Try to move the new device around to make sure it is awake ready to be found.<br\/>When Drive One finds the new device, it will appear in the list.<br\/>Click the new device from the list.<\/p>",
+            "text": "<p>Die Drive One-App wird nun nach dem neuen Gerät suchen.<br\/>Vergewissern Sie sich, dass bei dem neuen Gerät der Plastikstreifen vom Akku entfernt wurde und dass das Gerät eingeschaltet ist. Versuchen Sie, das neue Gerät zu bewegen, um sicherzustellen, dass es aktiviert ist und gefunden werden kann.<br\/>Wenn Drive One das neue Gerät findet, wird es in dieser Liste angezeigt.<br\/>Klicken Sie auf das neue Gerät in der Liste.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -859,7 +859,7 @@
         "1657998588c5f30bfa-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Give the new device a name, e.g. “Drive One Red Car” or “Company Car” or anything you like.<\/p>",
+            "text": "<p>Geben Sie dem neuen Gerät einen Namen, z. B. „Drive One rotes Auto“ oder „Dienstwagen“ oder einen beliebigen anderen Namen.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
@@ -891,7 +891,7 @@
         "165799859766ab5ae3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your new Drive One device is now added to your Drive One app, and the next time any of the devices on your list are nearby and awake, they will connect to your app.<\/p>",
+            "text": "<p>Ihr neues Drive One-Gerät wird nun zu Ihrer Drive One-App hinzugefügt, und wenn eines der Geräte auf Ihrer Liste das nächste Mal in der Nähe und aktiv ist, wird es mit Ihrer App verbunden.<\/p>",
             "hr": false,
             "padding-left": false,
             "text_style": "body"
