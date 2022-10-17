@@ -219,7 +219,7 @@
         "1651783046f182c6ee-0": {
           "type": "heading",
           "settings": {
-            "heading": "Feature list",
+            "heading": "Die Funktionen im Überblick",
             "heading_size": "h1"
           }
         }
@@ -240,8 +240,8 @@
         "165178307697fe2a89-0": {
           "type": "column",
           "settings": {
-            "title": "Always up to date",
-            "text": "<p>Be notified of incidents, queues and checks. Always in real time.<\/p>",
+            "title": "Immer auf dem Laufenden",
+            "text": "<p>Lassen Sie sich über Unfälle Staus und Kontrollen benachrichtigen – und das immer in Echtzeit.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -249,8 +249,8 @@
         "165178307697fe2a89-1": {
           "type": "column",
           "settings": {
-            "title": "Free subscription",
-            "text": "<p>The price of Drive One is the price of the device — and nothing else.<\/p>",
+            "title": "Kostenloses Abonnement",
+            "text": "<p>Der Preis des Drive One ist der Preis für das Gerät selbst - und sonst nichts.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -258,8 +258,8 @@
         "165178307697fe2a89-2": {
           "type": "column",
           "settings": {
-            "title": "User-friendly",
-            "text": "<p>Easy to install, easy to use, and easy to care for.<\/p>",
+            "title": "Benutzerfreundlich",
+            "text": "<p>Einfach zu installieren, einfach zu bedienen - einfach zu pflegen.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -267,8 +267,8 @@
         "b15fb31c-ad87-4256-bc5c-3311eb41f5c9": {
           "type": "column",
           "settings": {
-            "title": "Checked and double-checked",
-            "text": "<p>Our data is confirmed by algorithms, employees, and you on the road.<\/p>",
+            "title": "Mehrfach geprüft",
+            "text": "<p>Unsere Daten werden von Algorithmen, Mitarbeitern – und Ihnen unterwegs geprüft und bestätigt.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -276,8 +276,8 @@
         "5243d0d6-dcc2-4bbb-a4ce-8b7783e53bf2": {
           "type": "column",
           "settings": {
-            "title": "Part of a community",
-            "text": "<p>The service is powered by Drive One, the strongest data partners, and you.<\/p>",
+            "title": "Teil einer Community",
+            "text": "<p>Der Service wird von Drive One, den stärksten Datenpartnern – und Ihnen unterstützt.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -285,8 +285,8 @@
         "2eeca9ad-4a97-4e38-820e-7778c6478ccd": {
           "type": "column",
           "settings": {
-            "title": "Uncompromising design",
-            "text": "<p>The Danish designer John Sebastian has created a beautiful device that’s easy to operate on the go and doesn’t ruin your car’s aesthetic.<\/p>",
+            "title": "Kompromisslos im Design",
+            "text": "<p>Der dänische Designer John Sebastian hat ein wunderschönes Gerät geschaffen, das sich unterwegs einfach bedienen lässt - und sich harmonisch in den Innenraum Ihres Fahrzeugs einfügt.<\/p>",
             "link_label": "",
             "link": ""
           }
