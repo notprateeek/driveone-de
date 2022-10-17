@@ -232,12 +232,13 @@
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Drive-One-Logo-Text-only-Blackpng.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
