@@ -250,7 +250,7 @@
           "type": "column",
           "settings": {
             "title": "Kostenloses Abonnement",
-            "text": "<p>Der Preis des Drive One ist der Preis für das Gerät selbst - und sonst nichts.<\/p>",
+            "text": "<p>Der Preis des Drive Ones ist der Preis fåur das Gerät selbst – und sonst nichts.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -268,7 +268,7 @@
           "type": "column",
           "settings": {
             "title": "Mehrfach geprüft",
-            "text": "<p>Unsere Daten werden von Algorithmen, Mitarbeitern – und Ihnen unterwegs geprüft und bestätigt.<\/p>",
+            "text": "<p>Unsere Daten werden von Algorithmen, Mitarbeitern - und Ihnen – untervwegs geprüft und bestätigt.<\/p>",
             "link_label": "",
             "link": ""
           }
