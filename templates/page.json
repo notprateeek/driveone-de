@@ -301,12 +301,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Top report button",
+            "heading": "Top-Bericht-Schaltfläche",
             "image_2": "shopify:\/\/shop_images\/Group_25.png",
             "image_4": "shopify:\/\/shop_images\/Group_44.png",
             "image_6": "shopify:\/\/shop_images\/Group_12.png",
             "icon": "none",
-            "row_content": "<p>The top button is used for when you see and want to report a speed camera.<\/p><p>When you press the top button with the camera icon, and the coordinates are then sent to Drive One users when the approach the same location.<\/p>",
+            "row_content": "<p>Die obere Taste wird verwendet, wenn Sie eine Radarkamera sehen und melden möchten.<\/p><p>Wenn Sie die obere Taste mit dem Kamerasymbol drücken, werden die Koordinaten an Drive One gesendet und mit anderen Drive One-Benutzern geteilt, wenn diese sich demselben Standort nähern.<\/p>",
             "page": ""
           }
         },
@@ -316,12 +316,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Bottom report button",
+            "heading": "Berichtsschaltfläche unten",
             "image_2": "shopify:\/\/shop_images\/Group_26.png",
             "image_4": "shopify:\/\/shop_images\/Group_43.png",
             "image_6": "shopify:\/\/shop_images\/Group_13.png",
             "icon": "none",
-            "row_content": "<p>The top button is used for when you see and want to report something that could cause danger to other drivers and is something they need to be aware of.<\/p><p>When you press the top button with the triangle icon, and the coordinates will be sent to Drive One and will be shared with other Drive One users when the approach the same location.<\/p>",
+            "row_content": "<p>Die untere Taste wird verwendet, wenn Sie etwas sehen und melden möchten, das eine Gefahr für andere Fahrer darstellen könnte und auf das diese aufmerksam gemacht werden müssen.<\/p><p>Wenn Sie die untere Taste mit dem Warndreieckssymbol drücken, werden die Koordinaten an Drive One gesendet und mit anderen Drive One-Benutzern geteilt, wenn diese sich demselben Standort nähern.<\/p>",
             "page": ""
           }
         },
@@ -331,7 +331,7 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Test reports",
+            "heading": "Testberichte",
             "image_2": "shopify:\/\/shop_images\/Group_27.png",
             "image_3": "shopify:\/\/shop_images\/Group_45.png",
             "image_4": "shopify:\/\/shop_images\/Group_38.png",
@@ -339,7 +339,7 @@
             "image_6": "shopify:\/\/shop_images\/Group_14.png",
             "image_7": "shopify:\/\/shop_images\/Group_28.png",
             "icon": "none",
-            "row_content": "<p>On this page, you can test how to report using the Drive One device.<\/p><p>You can press both buttons to make a test report. None of these reports will be sent as they are just test, and so you can press the buttons as many times as you like.<\/p>",
+            "row_content": "<p>Auf dieser Seite können Sie testen, wie Sie eine Meldung mit dem Drive One-Gerät vornehmen können.<\/p><p>Sie können beide Tasten drücken, um eine Testmeldung zu erstellen. Diese Meldungen werden nicht versendet, da es sich nur um Tests handelt. Sie können die Tasten also so oft drücken, wie Sie möchten.<\/p>",
             "page": ""
           }
         },
@@ -349,12 +349,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Test warning sounds",
+            "heading": "Warntöne testen",
             "image_2": "shopify:\/\/shop_images\/Group_29.png",
             "image_4": "shopify:\/\/shop_images\/Group_41.png",
             "image_6": "shopify:\/\/shop_images\/Group_15.png",
             "icon": "none",
-            "row_content": "<p>You can test how warnings sound on your Drive One device and on your phone.<\/p>",
+            "row_content": "<p>Sie können testen, wie Warnungen auf Ihrem Drive One-Gerät und auf Ihrem Handy klingen.<\/p>",
             "page": ""
           }
         },
@@ -364,12 +364,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Warnings customization",
+            "heading": "Anpassung von Warnungen",
             "image_2": "shopify:\/\/shop_images\/da.png",
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
-            "row_content": "<p>On this page, you can determine when you want to be warned by Drive One.<\/p><p><strong>Seconds<\/strong>: Use this if  you want to be warned between 15 to 60 seconds before you reach a warning.<\/p><p><strong>Meters<\/strong>: Use this if  you want to be warned between 250 or 1000 meters before you reach a warning.<\/p>",
+            "row_content": "<p>Auf dieser Seite können Sie festlegen, wann Sie von Drive One gewarnt werden möchten.<\/p><p><strong>Sekunden<\/strong>: Verwenden Sie diese Option, wenn Sie immer zwischen 15 und 60 Sekunden vor Erreichen einer Warnung gewarnt werden möchten.<\/p><p><strong>Meter<\/strong>: Verwenden Sie diese Option, wenn Sie zwischen 250 und 1000 Metern vor Erreichen einer Warnung gewarnt werden möchten.<\/p>",
             "page": ""
           }
         }
