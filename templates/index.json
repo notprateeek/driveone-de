@@ -211,6 +211,13 @@
             "text_style": "body"
           }
         },
+        "6bd4b2e8-b0f7-43df-99f2-601fad049d10": {
+          "type": "heading",
+          "settings": {
+            "heading": "Präzise Warnung",
+            "heading_size": "h2"
+          }
+        },
         "2a4085da-4bbb-464e-b0a0-99eca6917e54": {
           "type": "text",
           "settings": {
@@ -228,6 +235,7 @@
       },
       "block_order": [
         "16550277964643fc83-1",
+        "6bd4b2e8-b0f7-43df-99f2-601fad049d10",
         "2a4085da-4bbb-464e-b0a0-99eca6917e54",
         "02d7e6fc-75e5-4747-bd8f-4203ee6e42cb"
       ],
