@@ -383,7 +383,7 @@
           "type": "column",
           "settings": {
             "title": "Trafik Alarm",
-            "text": "<p>Unsere Warn-App bietet Navigation, Warnungen vor Geschwindigkeitskontrollen und Verkehrsunfällen sowie einen Überblick über die Verkehrslage im hier und jetzt. Mit genauen Daten und einzigartigen Features haben wir ein großes Netzwerk von täglichen Nutzern aufgebaut, die sich gegenseitig sicher durch den Verkehr helfen.<\/p>",
+            "text": "<p>Unsere Warn-App bietet Navigation, Warnungen vor Geschwindigkeitskontrollen und Verkehrsunfällen sowie einen Überblick über die Verkehrslage hier und jetzt. Mit genauen Daten und einzigartigen Features haben wir ein großes Netzwerk von täglichen Nutzern aufgebaut, die sich gegenseitig sicher durch den Verkehr helfen.<\/p>",
             "link_label": "",
             "link": ""
           }
