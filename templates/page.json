@@ -508,14 +508,14 @@
         "16579983805b38378a-0": {
           "type": "heading",
           "settings": {
-            "heading": "How does Drive One work?",
+            "heading": "Wie funktioniert Drive One?",
             "heading_size": "h2"
           }
         },
         "66d225c2-8f80-48fb-bc78-4448a485003c": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One works by sharing data from many sources and even more users all over Europe.<\/p><p>A user can report an event, like a speed camera, by pressing the Camera button on the Drive One device. This will then send the coordinates of where the report was made to our servers, and this is then sent to the Drive One app on your phone.<\/p><p>When you then get close to this location, a warning will sound on the Drive One device.<\/p><p>The sound and colour of the warning lets you know what to be aware of:<\/p>",
+            "text": "<p>Drive One funktioniert durch das Teilen von Daten aus vielen Quellen und von sehr vielen Nutzern in ganz Europa.<\/p><p>Ein Benutzer kann ein Ereignis, wie z. B. eine Radarkamera, melden, indem er die Kamerataste auf dem Drive One-Gerät drückt. Anschließend werden die Koordinaten des Standortes, an dem die Meldung gemacht wurde, an unsere Server gesendet, und dies wird dann an die Drive One-App auf Ihrem Telefon gesendet.<\/p><p>Wenn Sie sich dann diesem Standort nähern, ertönt eine Warnung auf dem Drive One-Gerät.<\/p><p>Der Ton und die Farbe der Warnung zeigen Ihnen, worauf Sie achten müssen:<\/p>",
             "icons": false
           }
         }
@@ -537,7 +537,7 @@
         "1658147355984306ca-2": {
           "type": "button",
           "settings": {
-            "text": "<p>A blue light and sound indicate a warning for a possible speed camera.<\/p>",
+            "text": "<p>Blaues Licht und Ton weisen auf eine Warnung vor einer möglichen Radarkamera hin.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -545,7 +545,7 @@
         "38273811-ec30-437b-bc3f-af414cfa73c3": {
           "type": "button",
           "settings": {
-            "text": "<p>A red light and sound indicate a more general warning that something up ahead requires your attention and vigilance. This can be an accident or road works or something hazardous.<\/p>",
+            "text": "<p>Rotes Licht und Ton weisen auf eine allgemeine Warnung hin, dass etwas vor Ihnen liegt, das Ihre Aufmerksamkeit und Wachsamkeit erfordert. Das kann ein Unfall, eine Baustelle oder etwas Gefährliches sein.<\/p>",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -568,7 +568,7 @@
         "0b798611-e7fe-482b-b5fb-65d3a3c2c1ec": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>What happens when you press one of the buttons?<\/strong><\/p><p>If you see something that you think other users should be aware of, then press the button on the device that matches the event<\/p>",
+            "text": "<p><strong>Was passiert, wenn Sie eine der Tasten drücken?<\/strong><\/p><p>Wenn Sie etwas sehen, von dem Sie denken, dass andere Benutzer es wissen sollten, dann drücken Sie die Taste auf dem Gerät, die dem Ereignis entspricht:<\/p>",
             "icons": false
           }
         }
@@ -589,7 +589,7 @@
         "1657998406fa75ebf0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>• Camera button for speed cameras<\/p>",
+            "text": "<p>• Kamerataste für Radarkameras<\/p>",
             "hr": false,
             "padding-left": true,
             "text_style": "subtitle"
@@ -598,7 +598,7 @@
         "83d15a4b-f2f3-489c-b2da-b95e505d5982": {
           "type": "text",
           "settings": {
-            "text": "<p>• Triangle button for other events<\/p>",
+            "text": "<p>• Warndreieckstaste für andere Ereignisse<\/p>",
             "hr": false,
             "padding-left": true,
             "text_style": "subtitle"
@@ -631,7 +631,7 @@
         "16579984511300d3a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your report is then shared with all the other Drive One users so they get warned and avoid any dangerous situations.<\/p>"
+            "text": "<p>Ihre Meldung wird dann an alle anderen Drive One-Benutzer weitergegeben, damit diese gewarnt werden und gefährliche Situationen vermeiden können.<\/p>"
           }
         }
       },
@@ -651,14 +651,14 @@
         "1657998482e462503f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Replacing the battery",
+            "heading": "Auswechseln des Akkus",
             "heading_size": "h2"
           }
         },
         "bb5f1d1c-117a-4328-b5eb-c202ecf9054a": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One is expected to be able to run on the included battery for about 2 years.<\/p><p>This may depend on how much you drive and what conditions the device is exposed to: heat, cold, humidity etc.)<\/p><p>If you need to replace the battery, it is very easy.<\/p>",
+            "text": "<p>Drive One sollte mit dem mitgelieferten Akku etwa 2 Jahre lang betrieben werden können.<\/p><p>Dies kann jedoch davon abhängen, wie viel Sie fahren und welchen Bedingungen das Gerät ausgesetzt ist (Hitze, Kälte, Feuchtigkeit usw.).<\/p><p>Der Austausch des Akkus ist ganz einfach.<\/p>",
             "icons": false
           }
         },
