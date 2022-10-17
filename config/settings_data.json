@@ -113,7 +113,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "button_label": "Buy",
+          "button_label": "Kaufen",
           "button_link": "shopify:\/\/collections\/all",
           "button_style_secondary": false,
           "logo": "shopify:\/\/shop_images\/Drive-One-Logo-Text-only-Blackpng.png",
