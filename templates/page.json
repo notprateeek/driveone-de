@@ -369,7 +369,7 @@
             "image_4": "shopify:\/\/shop_images\/de.png",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
-            "row_content": "<p>Auf dieser Seite können Sie festlegen, wann Sie von Drive One gewarnt werden möchten.<\/p><p><strong>Sekunden<\/strong>: Verwenden Sie diese Option, wenn Sie immer zwischen 15 und 60 Sekunden vor Erreichen einer Warnung gewarnt werden möchten.<\/p><p><strong>Meter<\/strong>: Verwenden Sie diese Option, wenn Sie zwischen 250 und 1000 Metern vor Erreichen einer Warnung gewarnt werden möchten.<\/p>",
+            "row_content": "<p>Auf dieser Seite können Sie festlegen, wann Sie von Drive One gewarnt werden möchten.<strong>Sekunden<\/strong>: Verwenden Sie diese Option, wenn Sie immer zwischen 15 und 60 Sekunden vor Erreichen einer Warnung gewarnt werden möchten.<\/p><p><strong>Meter<\/strong>: Verwenden Sie diese Option, wenn Sie zwischen 250 und 1000 Metern vor Erreichen einer Warnung gewarnt werden möchten.<\/p>",
             "page": ""
           }
         }
@@ -413,28 +413,28 @@
         "16579983455b9ae1ca-0": {
           "type": "heading",
           "settings": {
-            "heading": "Mounting the Drive One unit in the car",
+            "heading": "Einbau des Drive One-Geräts in das Fahrzeug",
             "heading_size": "h2"
           }
         },
         "7c0d4df7-c839-469b-ac39-028aaf60fcc7": {
           "type": "text",
           "settings": {
-            "text": "<p>You can mount the Drive One unit in the car in multiple ways<\/p>",
+            "text": "<p>Sie können das Drive One-Gerät auf verschiedene Arten im Auto befestigen<\/p>",
             "icons": false
           }
         },
         "eb692ee1-f694-4cae-a639-710de606a9b8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O1 <\/strong>You can mount it using the <strong>adhesive pads<\/strong> that Drive One comes with or<\/p>",
+            "text": "<p><strong>O1 <\/strong>Sie können es mit den mitgelieferten Klebepads befestigen oder<\/p>",
             "icons": false
           }
         },
         "82c63689-027b-455c-95d1-6158553f50ff": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>O2 <\/strong>You can mount it using the <strong>Drive One magnet<\/strong> which is sold separately.<\/p>",
+            "text": "<p><strong>O2<\/strong> Sie können es mit dem separat erhältlichen Drive One-Magneten befestigen.<\/p>",
             "icons": false
           }
         }
@@ -461,12 +461,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Mount using adhesive pads",
+            "heading": "Befestigung mit Klebepads",
             "image_2": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_4": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "image_6": "shopify:\/\/shop_images\/uEE_LXOJ1qMqSAYZHjpkQNNThXg0OYW8pHT6rIbeeZxmLGFymT30SXxP02xJz27vdBBEvRoIPnqQCq8DeW0K1IsoJtGR0uNYtvCQlwj4ibE44JYL6TxfSBJXxbL-3greculLmZIf9ffEwaUifCARFdbb5sBr4Dt.png",
             "icon": "none",
-            "row_content": "<p>If you want to mount your Drive One device in a more permanent way, you can use the adhesive pads found on the back of the device.<\/p><p><strong>O1.1 Preparing to mount Drive One on a dashboard<\/strong><\/p><p>Find the best spot for the device. It should be a place where you can see it, when looking out the front window, and where you can reach it to make a report without having to look away from the road.<\/p><p>Then, using a damp cloth, clean the part of the dashboard where you want the device to be placed.<\/p><p>Make sure the dashboard is dry where you are ready to mount it.<\/p><p><strong>O1.2 Mounting Drive One using adhesive<\/strong> <\/p><p>From the back of Drive One, you need to remove the covers from the pads to reveal the adhesive.<br\/>Grab the small tail to easily remove the covers.<\/p>",
+            "row_content": "<p>Wenn Sie Ihr Drive One-Gerät dauerhaft befestigen möchten, können Sie die Klebepads auf der Rückseite des Geräts verwenden.<\/p><p><strong>O1.1 Vorbereiten der Befestigung von Drive One auf dem Armaturenbrett<\/strong><\/p><p>Finden Sie den besten Platz für das Gerät. Es sollte an einer Stelle angebracht sein, wo Sie es beim Blick aus der Frontscheibe sehen können, und wo Sie es erreichen können, um eine Meldung vorzunehmen, ohne sich von der Straße entfernen zu müssen.<\/p><p>Reinigen Sie dann mit einem leicht feuchten Tuch den Teil des Armaturenbretts, auf dem das Gerät angebracht werden soll.<\/p><p>Vergewissern Sie sich, dass das Armaturenbrett an der Stelle, an der Sie das Gerät befestigen wollen, trocken ist.<\/p><p><strong>O1.2 Befestigung des Drive One mit Kleber<\/strong><\/p><p>Auf der Rückseite des Drive One müssen Sie den Schutz von den Pads entfernen, um die Klebefläche freizulegen. Mit dem kleinen Schweif können Sie den Schutz leicht von den Klebepads entfernen.<\/p>",
             "page": ""
           }
         },
