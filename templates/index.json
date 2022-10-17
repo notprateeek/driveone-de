@@ -134,14 +134,14 @@
         "1655457030819d2f98-0": {
           "type": "heading",
           "settings": {
-            "heading": "Geschwindigkeitscheck",
+            "heading": "Immer richtiges Tempo",
             "heading_size": "h2"
           }
         },
         "1655457030819d2f98-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One warnt Sie, wenn sich Geschwindigkeitskontrollen auf Ihrer Route befinden - egal ob es sich um mobile oder fest installierte Radarkontrollen handelt. Sie stellen ein, wie früh Sie gewarnt werden möchten, damit Sie genug Zeit haben, Ihre Geschwindigkeit anzupassen.<\/p>",
+            "text": "<p>Drive One warnt Sie vor Geschwindigkeitskontrollen - mobile sowie fest installierte Radarkontrollen. <br\/>Damit sparen Sie mit dem Beep vom Drive One viel Ärger, Bußgelder und Flensburg-Punkte.  <br\/>Sie stellen ein, wie früh Sie vor Blitzer gewarnt werden möchten, damit Sie Zeit haben, Ihre Geschwindigkeit anzupassen. <\/p>",
             "text_style": "body"
           }
         },
