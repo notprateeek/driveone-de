@@ -14,7 +14,7 @@
         "16579748303df751a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Get started with Drive One device and app",
+            "heading": "Hier zeigen wir Ihnen die ersten Schritte",
             "heading_size": "h2"
           }
         }
@@ -35,14 +35,14 @@
         "16579982411201f6b7-0": {
           "type": "heading",
           "settings": {
-            "heading": "O1 Download and install the Drive One app.",
+            "heading": "O1 Laden Sie zunächst die Drive One-App herunter und installieren Sie sie.",
             "heading_size": "h2"
           }
         },
         "2f13827b-86d8-42f8-8ea0-b369cf34e81f": {
           "type": "text",
           "settings": {
-            "text": "<p>You can get it here<\/p>",
+            "text": "<p>Hier holen Sie sich die App<\/p>",
             "icons": true
           }
         }
@@ -64,14 +64,14 @@
         "1657998254d134bcbc-0": {
           "type": "heading",
           "settings": {
-            "heading": "O2 Setup Drive One in the Drive One app.",
+            "heading": "O2 Einrichten von Drive One in der Drive One-App",
             "heading_size": "h2"
           }
         },
         "e741d12a-2a4d-4a06-93e6-fb0799653873": {
           "type": "text",
           "settings": {
-            "text": "<p>Start the Drive One app and follow the instructions on the screen.If you want to read about how to setup Drive One before you do it, please continue here. <\/p>",
+            "text": "<p>Starten Sie die Drive One-App und folgen Sie den Anweisungen auf dem Bildschirm.<br\/>Wenn Sie erst lesen möchten, wie Sie Drive One einrichten, bevor Sie die eigentliche Einrichtung vornehmen, lesen Sie bitte hier weiter.<\/p>",
             "icons": false
           }
         }
@@ -93,7 +93,7 @@
         "165799828072329c36-0": {
           "type": "heading",
           "settings": {
-            "heading": "The setup process",
+            "heading": "Der Einrichtungsprozess",
             "heading_size": "h2"
           }
         },
@@ -211,7 +211,6 @@
             "en_video_url": "",
             "heading": "Disable battery optimization",
             "image_2": "shopify:\/\/shop_images\/Group_19.png",
-            "image_3": "shopify:\/\/shop_images\/Group_20_1-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
             "image_5": "shopify:\/\/shop_images\/de_50e4670d-38ee-4bfc-9a5c-14467415ec78.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
