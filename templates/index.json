@@ -207,7 +207,7 @@
         "16550277964643fc83-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One warnt Sie nur, wenn es Kontrollen und Ereignisse gibt, die für Sie wichtig sind. Denn wir stützen den Dienst auf die Echtzeitdaten unserer vielen Nutzer, die wir überwachen und verarbeiten.<\/p>",
+            "text": "<p>Drive One warnt Sie nur, wenn<br\/>es Kontrollen und Ereignisse gibt, die wichtig sind. Wir stützen den Dienst auf<br\/>verarbeitete und überwachte Echtzeitdaten unserer vielen Nutzer.<\/p>",
             "text_style": "body"
           }
         },
