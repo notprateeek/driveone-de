@@ -14,14 +14,14 @@
         "165656365147db5edd-0": {
           "type": "heading",
           "settings": {
-            "heading": "About us",
+            "heading": "Über uns",
             "heading_size": "h1"
           }
         },
         "165656365147db5edd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re the car owner’s best friend. We’re a Danish company, and we specialize in saving drivers from tickets. In addition to Drive One, we’ve created ParkOne, which includes both electronic parking discs and a popular Danish parking app. We also own the Trafik Alarm app, which alerts users to speed checks and incidents.<\/p>",
+            "text": "<p>Wir verstehen uns als Freund eines jeden Autofahrers. Drive One ist ein dänisches Unternehmen und darauf spezialisiert, Autofahrer vor Bußgeldern und Gefahren zu schützen. Neben Drive One stehen wir auch hinter dem dänischen Verkaufsschlager „Park One“, einer elektronischen Parkscheibe, samt zugehöriger Park-App, sowie hinter der „Traffic Alarm App“, die Benutzer auf Geschwindigkeitskontrollen und Zwischenfälle aufmerksam macht.<\/p>",
             "text_style": "body"
           }
         }
@@ -50,7 +50,7 @@
         "1651783410e49c9a3d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Car accessories run in our blood",
+            "heading": "Autozubehör liegt uns im Blut",
             "heading_size": "h1"
           }
         }
@@ -71,7 +71,7 @@
         "16517834345a052ad1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Drive One is the latest addition to  a range of products and services that help drivers.<\/p>"
+            "text": "<p>Drive One ist die jüngste Entwicklung einer Reihe von Produkten und Dienstleistungen, die Autofahrern helfen sollen.<\/p>"
           }
         }
       },
@@ -183,7 +183,6 @@
         "1658410015d2966f78-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Slide_16_9_-_6_95e48d9d-bbdb-4488-86c3-5d0bc506a670.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -201,7 +200,6 @@
         "1658410015d2966f78-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Slide_16_9_-_5_998973ac-1597-4e55-a6aa-87e194504bff.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -219,7 +217,6 @@
         "79097e68-f7c4-4b75-b5da-3560788c18d6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Slide_16_9_-_4_66e26e14-8dd3-4252-968d-dfae69533c5c.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -367,8 +364,8 @@
         "1651783552a8193fa7-0": {
           "type": "column",
           "settings": {
-            "title": "ParkOne P-disc",
-            "text": "<p>Our electronic parking disc is widely known and loved. In fact, we’ve sold more than three million P-discs, and we’re currently the world's leading developer and manufacturer of electronic P-discs.<\/p>",
+            "title": "ParkOne P-Scheibe",
+            "text": "<p>Unsere elektronische Parkscheibe ist bei vielen bekannt und beliebt. Tatsächlich haben wir mehr als drei Millionen Nutzer und sind heute der weltweit führende Entwickler und Hersteller von elektronischen Parkscheiben.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -377,7 +374,7 @@
           "type": "column",
           "settings": {
             "title": "ParkOne Parking app",
-            "text": "<p>In 2018, we launched our parking app, which has made it easier, cheaper, and safer to park. With low prices, extensive coverage, and good, technical solutions, we have secured a large part of the Danish market for parking apps.<\/p>",
+            "text": "<p>Im Jahr 2018 haben wir unsere Park-App eingeführt, die Parken einfacher, günstiger und sicherer macht. Mit niedrigen Preisen und ausgereifter Technik decken wir einen enormen Bereich ab und konnten somit einen großen Teil des dänischen Marktes für Park-Apps erobern.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -386,7 +383,7 @@
           "type": "column",
           "settings": {
             "title": "Trafik Alarm",
-            "text": "<p>Our warning app offers navigation, warnings about speed controls and traffic accidents, and an overview of traffic conditions right then and there. With accurate data and good features, we have built up a large network of daily users who help each other safely through traffic.<\/p>",
+            "text": "<p>Unsere Warn-App bietet Navigation, Warnungen vor Geschwindigkeitskontrollen und Verkehrsunfällen sowie einen Überblick über die Verkehrslage im hier und jetzt. Mit genauen Daten und einzigartigen Features haben wir ein großes Netzwerk von täglichen Nutzern aufgebaut, die sich gegenseitig sicher durch den Verkehr helfen.<\/p>",
             "link_label": "",
             "link": ""
           }
