@@ -665,21 +665,21 @@
         "68be2a2b-149a-4d5a-aee9-d1ef289acafe": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Twist the device, like a screw capsule, in either direction.<\/p>",
+            "text": "<p>⎯⎯ Sie drehen das Gerät wie eine Schraubkapsel in eine beliebige Richtung.<\/p>",
             "icons": false
           }
         },
         "d72ed3c3-d04e-4f8c-8040-ebdc38dff2b3": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Then, remove the bottom of the device.<\/p>",
+            "text": "<p>⎯⎯ Anschließend entfernen Sie die Unterseite des Geräts<\/p>",
             "icons": false
           }
         },
         "2e59cffc-4172-45c2-b0a1-4fd314d280c0": {
           "type": "text",
           "settings": {
-            "text": "<p>⎯⎯ Push the battery out of the battery compartment and then add the new battery.<\/p>",
+            "text": "<p>⎯⎯ Schieben Sie den Akku aus dem Akkufach und legen Sie den neuen Akku ein.<\/p>",
             "icons": false
           }
         },
