@@ -100,7 +100,7 @@
         "90a10b7c-a609-4fa9-b6c2-3fb62fdef995": {
           "type": "text",
           "settings": {
-            "text": "<p>Follow these steps to setup the Drive One device.<\/p>",
+            "text": "<p>Folgen Sie diesen Schritten, um das Drive One-Gerät einzurichten<\/p>",
             "icons": false
           }
         },
@@ -134,12 +134,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Enter your email address",
+            "heading": "Sie müssen Ihre E-Mail-Adresse eingeben.",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-184942_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-190941_Gallery.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183355_Gallery.png",
             "icon": "none",
-            "row_content": "<p>An email is then sent to your entered email account.<\/p>",
+            "row_content": "<p>Anschließend wird eine E-Mail an Ihr E-Mail-Konto gesendet.<\/p>",
             "page": ""
           }
         },
@@ -149,12 +149,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Confirm your email address",
+            "heading": "Bestätigen Sie Ihre E-Mail-Adresse",
             "image_2": "shopify:\/\/shop_images\/Group_2-da.png",
             "image_4": "shopify:\/\/shop_images\/Group_3-de.png",
             "image_6": "shopify:\/\/shop_images\/Group_1-en_8bcb34a0-946a-4dc4-af5c-30102ebcc6c3.png",
             "icon": "none",
-            "row_content": "<p>The email contains a number which you need to enter on this screen to confirm that your email is valid.<\/p>",
+            "row_content": "<p>Die E-Mail enthält eine Nummer, die Sie auf diesem Bildschirm eingeben müssen, um zu bestätigen, dass Ihre E-Mail gültig ist.<\/p>",
             "page": ""
           }
         },
@@ -164,12 +164,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Accept terms and conditions",
+            "heading": "Nutzungsbedingungen akzeptieren",
             "image_2": "shopify:\/\/shop_images\/Group_18.png",
             "image_4": "shopify:\/\/shop_images\/Group_32.png",
             "image_6": "shopify:\/\/shop_images\/Group_3.png",
             "icon": "none",
-            "row_content": "<p>You need to accept the terms and conditions to use the Drive One app and to proceed.<\/p><p>If you don’t accept them, then you will not be able to use the app.<\/p>",
+            "row_content": "<p>Sie müssen die Nutzungsbedingungen akzeptieren, um die Drive One-App zu nutzen und fortzufahren.<\/p><p>Wenn Sie diese nicht akzeptieren, können Sie die App nicht nutzen.<\/p>",
             "page": ""
           }
         },
