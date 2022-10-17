@@ -179,12 +179,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Grant location permission",
+            "heading": "Standortberechtigung erteilen",
             "image_2": "shopify:\/\/shop_images\/Screenshot_20220718-185043_DevDrive.png",
             "image_4": "shopify:\/\/shop_images\/Screenshot_20220718-191028_DevDrive.png",
             "image_6": "shopify:\/\/shop_images\/Screenshot_20220718-183519_DevDrive.png",
             "icon": "none",
-            "row_content": "<p>On this page, you will be prompted to allow the Drive One app to see your location.<\/p><p>You need to set this in order for Drive One to work as expected.<\/p>",
+            "row_content": "<p>Auf dieser Seite werden Sie aufgefordert, der Drive One-App zu erlauben, Ihren Standort zu sehen.<\/p><p>Sie müssen diese Einstellung vornehmen, damit Drive One erwartungsgemäß funktioniert.<\/p>",
             "page": ""
           }
         },
@@ -194,12 +194,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Allow notifications",
+            "heading": "Benachrichtigungen zulassen",
             "image_2": "shopify:\/\/shop_images\/Group_17.png",
             "image_4": "shopify:\/\/shop_images\/Group_31.png",
             "image_6": "shopify:\/\/shop_images\/Group_4.png",
             "icon": "none",
-            "row_content": "<p>Drive One would like to send you notifications when there are warnings.<\/p><p>To receive them, you need to accept them.<\/p>",
+            "row_content": "<p>Drive One möchte Ihnen Benachrichtigungen schicken, wenn es Warnungen gibt.<\/p><p>Um diese zu erhalten, müssen Sie Benachrichtigungen akzeptieren.<\/p>",
             "page": ""
           }
         },
@@ -209,14 +209,14 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Disable battery optimization",
+            "heading": "Batterieoptimierung deaktivieren",
             "image_2": "shopify:\/\/shop_images\/Group_19.png",
             "image_4": "shopify:\/\/shop_images\/Group_33.png",
             "image_5": "shopify:\/\/shop_images\/de_50e4670d-38ee-4bfc-9a5c-14467415ec78.png",
             "image_6": "shopify:\/\/shop_images\/Group_5.png",
             "image_7": "shopify:\/\/shop_images\/Group_6_1-en.png",
             "icon": "none",
-            "row_content": "<p>For Drive One to work when you start driving, you need to remove battery optimization for Drive One.<\/p><p>The purpose of battery optimization is to close the app when it is not being used. As a result, the app and Drive One warnings will not work when you start driving.<\/p><p>When you are not driving, Drive One uses as little power as possible. It will use more power when you are driving, so it is a good idea to have your phone plugged in so it can charge while you are driving.<\/p><p>When prompted, you need to select “Allow”.<\/p>",
+            "row_content": "<p>Damit Drive One funktioniert, wenn Sie losfahren, müssen Sie die Batterieoptimierung für Drive One entfernen.<\/p><p>Der Zweck der Batterieoptimierung besteht darin, die App zu schließen, wenn sie nicht verwendet wird. Dies führt dazu, dass die App und die Drive One-Warnungen nicht funktionieren, sobald Sie losfahren.<\/p><p>Wenn Sie nicht fahren, verbraucht Drive One so wenig Akku wie möglich. Während der Fahrt wird der Akku stärker beansprucht; daher kann es sinnvoll sein, das Telefon während der Fahrt aufzuladen.<\/p><p>Wenn Sie dazu aufgefordert werden, müssen Sie „Erlauben“ auswählen.<\/p>",
             "page": ""
           }
         },
@@ -226,12 +226,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Ready for connection",
+            "heading": "Anschlussfertig",
             "image_2": "shopify:\/\/shop_images\/Screenshot_2022-06-21-12-49-39-40_e937f6c3a077f818377f58d846890da0_1.png",
             "image_4": "shopify:\/\/shop_images\/Group_40.png",
             "image_6": "shopify:\/\/shop_images\/Group_7.png",
             "icon": "none",
-            "row_content": "<p>You are now ready to connect your Drive One unit to the Drive One app.<\/p>",
+            "row_content": "<p>Jetzt können Sie Ihr Drive One-Gerät mit der Drive One-App verbinden.<\/p>",
             "page": ""
           }
         },
@@ -241,12 +241,12 @@
             "da_video_url": "",
             "de_video_url": "",
             "en_video_url": "",
-            "heading": "Enable bluetooth",
+            "heading": "Bluetooth aktivieren",
             "image_2": "shopify:\/\/shop_images\/Group_21.png",
             "image_4": "shopify:\/\/shop_images\/Group_35.png",
             "image_6": "shopify:\/\/shop_images\/Group_8.png",
             "icon": "none",
-            "row_content": "<p>You need to make sure that Bluetooth is enabled on your phone.<\/p><p>If Bluetooth is not enabled, the Drive One device and app will not be able to communicate and Drive One will not work as expected.<\/p>",
+            "row_content": "<p>Sie müssen sicherstellen, dass Bluetooth auf Ihrem Telefon aktiviert ist.<\/p><p>Wenn Bluetooth nicht aktiviert ist, können das Drive One-Gerät und die App nicht miteinander kommunizieren und Drive One funktioniert nicht erwartungsgemäß.<\/p>",
             "page": ""
           }
         },
