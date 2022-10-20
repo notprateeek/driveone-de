@@ -5,7 +5,7 @@
 		};
 		!function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}() 
     
-	<script type='text/javascript' src='https://euc-widget.freshworks.com/widgets/101000005390.js' async defer="defer"></script>
+	
     // <script>FreshworksWidget('hide');</script>
 
       document.querySelector('.freshWidget').addEventListener("click", openWidget);
