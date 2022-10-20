@@ -1139,3 +1139,10 @@ vid.addEventListener('timeupdate', (e) => {
     e.target.currentTime = 0.0
   }
 })
+
+
+document.querySelector('.freshWidget').addEventListener("click", openWidget);
+      function openWidget(e) {
+        e.preventDefault();
+        FreshworksWidget('open');
+      }
