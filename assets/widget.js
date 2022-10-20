@@ -1,4 +1,5 @@
 
+console.log('xxx');
 		window.fwSettings={
 		'widget_id':101000005390,
 		};
