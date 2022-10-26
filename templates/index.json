@@ -1,5 +1,58 @@
 {
   "sections": {
+    "1655055328568e4bbc": {
+      "type": "image-banner",
+      "blocks": {
+        "165505532836c1cfed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drive One",
+            "heading_size": "h0"
+          }
+        },
+        "165505532836c1cfed-1": {
+          "type": "text",
+          "settings": {
+            "text": "Unterwegs ohne Gefahren, Flensburg-Punkte und Bußgelder",
+            "text_style": "body"
+          }
+        },
+        "165505532836c1cfed-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Im Store kaufen",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false
+          }
+        },
+        "2d2f4de8-4286-41eb-8d5c-38867f45c584": {
+          "type": "text",
+          "settings": {
+            "text": "One for all. All for one.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165505532836c1cfed-0",
+        "165505532836c1cfed-1",
+        "165505532836c1cfed-2",
+        "2d2f4de8-4286-41eb-8d5c-38867f45c584"
+      ],
+      "settings": {
+        "video_background": true,
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "16551515194e34cff8": {
       "type": "hero",
       "blocks": {
@@ -52,59 +105,6 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "1655055328568e4bbc": {
-      "type": "image-banner",
-      "blocks": {
-        "165505532836c1cfed-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Drive One",
-            "heading_size": "h0"
-          }
-        },
-        "165505532836c1cfed-1": {
-          "type": "text",
-          "settings": {
-            "text": "Unterwegs ohne Gefahren, Flensburg-Punkte und Bußgelder",
-            "text_style": "body"
-          }
-        },
-        "165505532836c1cfed-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Im Store kaufen",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false
-          }
-        },
-        "2d2f4de8-4286-41eb-8d5c-38867f45c584": {
-          "type": "text",
-          "settings": {
-            "text": "One for all. All for one.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "165505532836c1cfed-0",
-        "165505532836c1cfed-1",
-        "165505532836c1cfed-2",
-        "2d2f4de8-4286-41eb-8d5c-38867f45c584"
-      ],
-      "settings": {
-        "video_background": true,
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
       }
     },
     "165170315350084f93": {
@@ -469,9 +469,9 @@
     }
   },
   "order": [
+    "1655055328568e4bbc",
     "16551515194e34cff8",
     "16551830039454893a",
-    "1655055328568e4bbc",
     "165170315350084f93",
     "165545703025e8cb5d",
     "165170353504cb7d61",
