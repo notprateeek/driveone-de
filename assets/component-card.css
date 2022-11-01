@@ -64,7 +64,7 @@
 .card__media,
 .card .media {
   bottom: 0;
-  position: absolute;
+/*   position: absolute; */
   top: 0;
 }
 
