@@ -1180,7 +1180,7 @@ summary::-webkit-details-marker {
 .media {
   display: block;
   background-color: rgba(var(--color-foreground), 0.1);
-/*   position: relative; */
+/*   position: relative;com */
   overflow: hidden;
 }
 
