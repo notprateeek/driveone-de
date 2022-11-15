@@ -1120,7 +1120,7 @@ details.forEach((targetDetail) => {
 
 function redirectToEn() {
   const path = location.pathname.slice(3)
-  location.href = `https://driveone.eu${location.pathname}`
+  window.location = `https://driveone.eu${location.pathname}`
 }
 
 function redirectToDa() {
