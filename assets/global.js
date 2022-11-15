@@ -1124,7 +1124,7 @@ function redirectToEn() {
 }
 
 function redirectToDa() {
-  location.href = `https://driveone.eu/da${location.pathname}`
+  window.location = `https://driveone.eu/da${location.pathname}`
 }
 
 const vid = document.querySelector('smooth-loop')
