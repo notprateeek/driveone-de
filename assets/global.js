@@ -1125,8 +1125,7 @@ function redirectToDe() {
   } else location.href = `https://driveone.de${location.pathname}`
 }
 function redirectToDa() {
-  location.href = `https://driveone.eu/da${location.pathname}`
-  console.log(location.href);
+  location.href = `https://driveone.eu/da`
 }
 function redirectToEn() {
   const path = location.pathname.slice(3)
