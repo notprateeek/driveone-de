@@ -2,19 +2,6 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
     
-    <script>
-      fetch("https://ipinfo.io/json?token=5b0ed6611ddba2").then(res => res.json()).then(data => {
-        if(data.country == "DE" || data.country == "de"){
-          if(location.hostname == "driveone.de"){
-            let request = '{{ request.path }}';
-            let path = request.slice(3);
-            console.log('zzz');
-            window.location.replace(`https://driveone.de${path}`) || window.location.replace('https://driveone.de');
-          }
-        }
-      })
-    </script>
-    
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYBD2T18QV"></script>
     <script>
