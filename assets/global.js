@@ -1118,13 +1118,13 @@ details.forEach((targetDetail) => {
   })
 })
 
-
-function redirectToDa() {
-  location.href = `https://driveone.eu/da${location.pathname}`
-}
 function redirectToEn() {
   const path = location.pathname.slice(3)
   location.href = `https://driveone.eu${location.pathname}`
+}
+
+function redirectToDa() {
+  location.href = `https://driveone.eu/da${location.pathname}`
 }
 
 const vid = document.querySelector('smooth-loop')
