@@ -8,6 +8,7 @@
           if(location.hostname == "driveone.eu"){
             let request = '{{ request.path }}';
             let path = request.slice(3);
+            console.log('zzz', request,path);
             window.location.replace(`https://driveone.de${path}`) || window.location.replace('https://driveone.de');
           }
         }
