@@ -1118,12 +1118,7 @@ details.forEach((targetDetail) => {
   })
 })
 
-function redirectToDe() {
-  const path = location.pathname.slice(3)
-  if (location.pathname.includes('/da')) {
-    location.href = `https://driveone.de${path}`
-  } else location.href = `https://driveone.de${location.pathname}`
-}
+
 function redirectToDa() {
   location.href = `https://driveone.eu/da${location.pathname}`
 }
