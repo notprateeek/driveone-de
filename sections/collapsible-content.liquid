@@ -99,54 +99,7 @@
 
                     
 
-                    {% if shop.locale == 'da' %}
-                      {% if block.settings.da_video_url %}
-                        <div class="video-1 page-width section-{{ section.id }}-padding">
-                          <video controls width="80%" height="auto">
-                            <source src="{{ block.settings.da_video_url }}" type="video/mp4" />
-                          </video>
-                        </div>
-                      {% endif %}
-
-                      <div class="collapsible-images">
-                      {%- if block.settings.image_2 != blank -%}
-                        <img
-                          srcset="{%- if block.settings.image_2.width >= 165 -%}{{ block.settings.image_2 | image_url: width: 165 }} 165w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 360 -%}{{ block.settings.image_2 | image_url: width: 360 }} 360w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 535 -%}{{ block.settings.image_2 | image_url: width: 535 }} 535w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 750 -%}{{ block.settings.image_2 | image_url: width: 750 }} 750w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 1070 -%}{{ block.settings.image_2 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 1250 -%}{{ block.settings.image_2 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                          {%- if block.settings.image_2.width >= 1500 -%}{{ block.settings.image_2 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                          {{ block.settings.image_2 | image_url }} {{ block.settings.image_2.width }}w"
-                          src="{{ block.settings.image_2 | image_url: width: 1500 }}"
-                          sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                          alt="{{ block.settings.image_2.alt | escape }}"
-                          loading="lazy"
-                          width="{{ block.settings.image_2.width }}"
-                          height="{{ block.settings.image_2.height }}"
-                        >
-                      {%- endif -%}
-                      {%- if block.settings.image_3 != blank -%}
-                        <img
-                          srcset="{%- if block.settings.image_3.width >= 165 -%}{{ block.settings.image_3 | image_url: width: 165 }} 165w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 360 -%}{{ block.settings.image_3 | image_url: width: 360 }} 360w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 535 -%}{{ block.settings.image_3 | image_url: width: 535 }} 535w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 750 -%}{{ block.settings.image_3 | image_url: width: 750 }} 750w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 1070 -%}{{ block.settings.image_3 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 1250 -%}{{ block.settings.image_3 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                          {%- if block.settings.image_3.width >= 1500 -%}{{ block.settings.image_3 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                          {{ block.settings.image_3 | image_url }} {{ block.settings.image_3.width }}w"
-                          src="{{ block.settings.image_3 | image_url: width: 1500 }}"
-                          sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                          alt="{{ block.settings.image_3.alt | escape }}"
-                          loading="lazy"
-                          width="{{ block.settings.image_3.width }}"
-                          height="{{ block.settings.image_3.height }}"
-                        >
-                      {%- endif -%}
-                    </div>
-                    {% endif %}
+                    
 
                     {% if shop.locale == 'de' %}
                       {% if block.settings.de_video_url %}
@@ -197,54 +150,7 @@
                     </div>
                     {% endif %}
 
-                    {% if shop.locale == 'en' %}
-                      {% if block.settings.en_video_url %}
-                      <div class="video-1 page-width section-{{ section.id }}-padding">
-                        <video controls width="80%" height="auto">
-                          <source src="{{ block.settings.en_video_url }}" type="video/mp4" />
-                        </video>
-                      </div>
-                    {% endif %}
-
-                      <div class="collapsible-images">
-                        {%- if block.settings.image_6 != blank -%}
-                          <img
-                            srcset="{%- if block.settings.image_6.width >= 165 -%}{{ block.settings.image_6 | image_url: width: 165 }} 165w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 360 -%}{{ block.settings.image_6 | image_url: width: 360 }} 360w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 535 -%}{{ block.settings.image_6 | image_url: width: 535 }} 535w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 750 -%}{{ block.settings.image_6 | image_url: width: 750 }} 750w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 1070 -%}{{ block.settings.image_6 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 1250 -%}{{ block.settings.image_6 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                            {%- if block.settings.image_6.width >= 1500 -%}{{ block.settings.image_6 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                            {{ block.settings.image_6 | image_url }} {{ block.settings.image_6.width }}w"
-                            src="{{ block.settings.image_6 | image_url: width: 1500 }}"
-                            sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                            alt="{{ block.settings.image_6.alt | escape }}"
-                            loading="lazy"
-                            width="{{ block.settings.image_6.width }}"
-                            height="{{ block.settings.image_6.height }}"
-                          >
-                        {%- endif -%}
-                        {%- if block.settings.image_7 != blank -%}
-                          <img
-                            srcset="{%- if block.settings.image_7.width >= 165 -%}{{ block.settings.image_7 | image_url: width: 165 }} 165w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 360 -%}{{ block.settings.image_7 | image_url: width: 360 }} 360w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 535 -%}{{ block.settings.image_7 | image_url: width: 535 }} 535w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 750 -%}{{ block.settings.image_7 | image_url: width: 750 }} 750w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 1070 -%}{{ block.settings.image_7 | image_url: width: 1070 }} 1070w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 1250 -%}{{ block.settings.image_7 | image_url: width: 1250 }} 1250w,{%- endif -%}
-                            {%- if block.settings.image_7.width >= 1500 -%}{{ block.settings.image_7 | image_url: width: 1500 }} 1500w,{%- endif -%}
-                            {{ block.settings.image_7 | image_url }} {{ block.settings.image_7.width }}w"
-                            src="{{ block.settings.image_7 | image_url: width: 1500 }}"
-                            sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 | divided_by: 2 }}px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)"
-                            alt="{{ block.settings.image_7.alt | escape }}"
-                            loading="lazy"
-                            width="{{ block.settings.image_7.width }}"
-                            height="{{ block.settings.image_7.height }}"
-                          >
-                        {%- endif -%}
-                      </div>
-                    {% endif %}
+                    
                   </div>
                 </details>
               </div>
