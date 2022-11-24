@@ -365,11 +365,11 @@
             "de_video_url": "",
             "en_video_url": "",
             "heading": "Anpassung von Warnungen",
-            "image_2": "shopify:\/\/shop_images\/da.png",
-            "image_4": "shopify:\/\/shop_images\/de.png",
+            "image_2": "shopify:\/\/shop_images\/de.jpg",
+            "image_4": "shopify:\/\/shop_images\/de.jpg",
             "image_6": "shopify:\/\/shop_images\/en.png",
             "icon": "none",
-            "row_content": "<p>Auf dieser Seite können Sie festlegen, wann Sie von Drive One gewarnt werden möchten.<strong>Sekunden<\/strong>: Verwenden Sie diese Option, wenn Sie immer zwischen 15 und 60 Sekunden vor Erreichen einer Warnung gewarnt werden möchten.<\/p><p><strong>Meter<\/strong>: Verwenden Sie diese Option, wenn Sie zwischen 250 und 1000 Metern vor Erreichen einer Warnung gewarnt werden möchten.<\/p>",
+            "row_content": "<p>Auf dieser Seite legen Sie die Zeit oder Entfernung fest, bis zu der Sie Warnungen erhalten. Zunächst legen Sie fest, wann Sie vor mobilen Blitzern gewarnt werden. Als Nächstes stellen Sie die Zeit\/Dauer für andere Warnungen ein (feste Radarkameras, Baustellen usw.).<\/p><p><strong>Sekunden: <\/strong>Verwenden Sie diese Option, wenn Sie zwischen 20 und 90 Sekunden gewarnt werden möchten, bevor Sie eine mobile Radarkamera erreichen (20-60 Sekunden). für andere Warnungen).<\/p><p><strong>Meter: <\/strong>Verwenden Sie dies, wenn Sie zwischen 300 und 1500 Metern gewarnt werden möchten, bevor Sie eine mobile Radarkamera erreichen (300 bis 1000 für andere Warnungen).<\/p>",
             "page": ""
           }
         }
