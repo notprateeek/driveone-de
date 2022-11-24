@@ -333,6 +333,7 @@
             "en_video_url": "",
             "heading": "Anpassung von Warnungen",
             "image_4": "shopify:\/\/shop_images\/de.jpg",
+            "image_5": "shopify:\/\/shop_images\/de2.jpg",
             "icon": "none",
             "row_content": "<p>Auf dieser Seite legen Sie die Zeit oder Entfernung fest, bis zu der Sie Warnungen erhalten. Zunächst legen Sie fest, wann Sie vor mobilen Blitzern gewarnt werden. Als Nächstes stellen Sie die Zeit\/Dauer für andere Warnungen ein (feste Radarkameras, Baustellen usw.).<\/p><p><strong>Sekunden: <\/strong>Verwenden Sie diese Option, wenn Sie zwischen 20 und 90 Sekunden gewarnt werden möchten, bevor Sie eine mobile Radarkamera erreichen (20-60 Sekunden). für andere Warnungen).<\/p><p><strong>Meter: <\/strong>Verwenden Sie dies, wenn Sie zwischen 300 und 1500 Metern gewarnt werden möchten, bevor Sie eine mobile Radarkamera erreichen (300 bis 1000 für andere Warnungen).<\/p>",
             "page": ""
