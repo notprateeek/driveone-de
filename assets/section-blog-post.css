@@ -41,7 +41,7 @@
 
 @media screen and (min-width: 990px) {
   .article-template__hero-small {
-    height: 27.5rem;
+    height: auto;
   }
 
   .article-template__hero-medium {
