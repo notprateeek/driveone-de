@@ -9,12 +9,12 @@
 }
 
 .article-template__hero-container {
-  max-width: 130rem;
+  max-width: 80rem;
   margin: 0 auto;
 }
 
 .article-template__hero-small {
-  height: 11rem;
+  height: auto;
 }
 
 .article-template__hero-medium {
@@ -27,7 +27,7 @@
 
 @media screen and (min-width: 750px) and (max-width: 989px) {
   .article-template__hero-small {
-    height: 22rem;
+    height: auto;
   }
 
   .article-template__hero-medium {
