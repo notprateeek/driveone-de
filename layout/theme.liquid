@@ -333,6 +333,12 @@
           }
         }
       });
+
+      document.querySelector('.freshWidget').addEventListener("click", openWidget);
+      function openWidget(e) {
+        e.preventDefault();
+        FreshworksWidget('open');
+      }
     </script>
     
   </body>
